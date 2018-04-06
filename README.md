@@ -8,7 +8,7 @@ Btw, censorship is removed.
 This branch includes all the custom stories I found on the Eek! Games forum. I do not own them nor make them.
 
 ## Official Stories Included
-1. Original Story (0.8.8) Note:this is modified by the Exhbitionism Mod, to remove, simply delete the phone call file in [this folder](https://github.com/animelucifer/House-Party/tree/master/House%20Party/Mods/Stories/Original%20Story).
+1. Original Story (0.8.8) Note:this is modified by the Exhbitionism Mod, to remove, simply delete the phone call file in [this folder](https://github.com/animelucifer/House-Party/tree/Custom-Stories/House%20Party/Mods/Stories/Original%20Story).
 2. Date Night With Brittney (0.8.8)
 3. A Vickie Vixen Valentine (0.8.8)
 
