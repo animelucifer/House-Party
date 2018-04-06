@@ -9,9 +9,9 @@ I started to play this game on version 0.8.8, so that will be the first version 
 
 ## Version 0.8.8
 ### Stories included
-⋅⋅⋅ 1. Original Story
-⋅⋅⋅ 2. Date Night With Brittney
-⋅⋅⋅ 3. A Vickie Vixen Valentine
+1. Original Story
+2. Date Night With Brittney
+3. A Vickie Vixen Valentine
 
 ### Trivia
   Madison Blackmail quest seems to be removed. Even though you did send her nude photos to yourself, you can't talk to her about the photos.
