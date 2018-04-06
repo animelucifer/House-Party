@@ -1,0 +1,17 @@
+[General]
+Name|Madison
+
+[Dialogues]
+0|"Ne me dit même pas où tu les as planqués. Je veux aucune responsabilité quand les flics viendront t'embarquer."
+1|"Oh mon dieu ! Ferme-la, Ashley. Ne reparlons jamais de ça. Et surtout, ne rentre pas dans ma chambre sans frapper."
+
+[Responses]
+ee92f279-0ad8-4ca7-9a16-6430f256e5a8|*Fermer la discussion.*
+
+[Quests]
+
+[Events]
+a46365a5-44d1-4faa-8198-26709f31a8f0|Quelque part au frais... Hum...
+ebf58fc9-c712-4b1d-802c-89e88c75e99f|Cachette
+745b46e4-afc8-48b9-90f4-98031011474b|Bon, ok. J'ai fini. Merde alors ! Que pouvait donc bien regarder Madison ?
+04d9315f-bf3a-42f8-b1d5-4b3ead238c30|Elles ont finalement réussi à éteindre la musique après que tout le monde soit parti... Mais elles n'ont pas éteint le feu... Je devrais probablement le dire à Madison. 

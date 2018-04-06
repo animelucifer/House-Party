@@ -1,0 +1,230 @@
+[General]
+Name|Katherine
+
+[Dialogues]
+0|As-tu besoin de quelque chose ?
+1|Pfff. Tu agis comme si tu me rendais une faveur et tu vas me donner quelques verres pour me rendre ivre, en espérant que je perde mes facultés mentales et que je fasse un choix que je regretterais plus tard. En plus, ça te donne une chance de conclure ce soir. J'ai bien résumé l'idée générale ? Bref, essaye avec quelqu'un d'autre.
+2|Erf. Comme si.
+3|Oui, mon copain est censé me retrouver ici, mais à tous les coups, il m'a posé un lapin.
+4|Et si nous cessions de parler ?
+5|En fait, c'est assez gentil de ta part. J'aimerais tellement qu'il se comporte mieux.
+6|Oh, c'est un peu philosophique comme réponse. Y a peut-être deux ou trois neurones d'interconnectés dans ton ciboulot.
+7|Tu sais quoi ? Je pourrais bien te prendre au mot après tout, et même contre toute attente. Mon copain ne me répond toujours pas.
+8|Ah, oui, sa petite campagne de bienséance. En fait, je suis exempt de ses règles parce qu'il ne frappe pas les femmes. Dis-lui simplement que l'alcool est pour moi. J'irais bien me chercher moi-même un verre, mais je capte que dans cette pièce.
+9|Erf. Je ne peux pas la supporter. Elle est tellement stupide. Mais bon, d'un autre côté, elle est plus proche de ton niveau d'intelligence... Tu auras plus de chances de conclure avec elle qu'avec moi ce soir.
+10|Désolé mais j'attends des messages et un appel très important que je ne veux absolument pas manquer, et c'est la seule pièce dans laquelle j'arrive à capter le moindre signal. Tu vas devoir trouver une autre solution.
+11|Bien dit ! Bon, je suis prête. Vas-y, prends-la cette photo !
+12|Quel emmerdeur ce Frank. Quel connard. Arf, tant pis. Je ne pense pas que mon copain viendra et ça risque d'être le seul moyen de boire un verre ce soir... Je suppose qu'une petite exhibe rapide ne peut pas faire de mal. Dépêche-toi de la prendre cette photo !
+13|Tu es sérieux ? Une exhibe rapide est une chose, mais je ne vais pas me déshabiller devant tous ces gens. Si tu arrives à tous les faire partir, alors dans ce cas, tu pourras la prendre cette photo.
+14|Hum. Je suppose qu'être ivre et inconscient au sol ne permet pas d'être compté comme présent dans la pièce. Alors ok. Si c'est la seule façon pour moi de boire un verre ce soir, qu'il en soit ainsi. Dépêche-toi de la prendre cette photo.
+15|Quel pervers ! Alors tant pis. Je vais lui dire ce que j'en pense !
+16|Je ne pense pas que ça te concerne, n'est-ce pas ?
+17|Donc si je ne portais pas de lunettes, je serais juste une nana stupide ? Tu n'arranges pas ton cas là... Va voir ailleurs si j'y suis.
+18|Ew. Est-ce que j'ai l'air de boire de cette merde ?
+19|Mon copain m'énerve suffisamment tout seul ce soir, je n'ai pas besoin que tu en rajoutes. Range-moi tout de suite cette horreur qui te sert de pénis !
+20|Espèce de putain de connard. Pour qui te prends-tu ? Attends de voir la réaction de mon copain quand il va en entendre parler ! Tes jours sont comptés, connard !
+21|Ouais, j'ai aussi remarqué qu'il s'est encore mis en mode croisade contre l'ivresse. Si tu trouves un moyen, fais-moi signe et je t'aiderais si je peux.
+22|Erf. Le service de téléphonie mobile laisse fortement à désirer ici ! Il doit bien y avoir un endroit dans cette maison où on capte quelque chose.
+22.1|C'est quoi ce bordel ? Je ne capte plus ! Existe-t-il un coin dans cette maison où on aurait une couverture décente ?
+22.2|Quelle merde. Toujours pas de signal. Il faut que j'essaye à un autre endroit.
+23|Ce putain d'idiot ! Et puis quoi encore ? Je ne vais pas me déshabiller au milieu de cette soirée avec toutes ces personnes autour. Et on ne capte pas grand-chose dans cette maison. J'ai beaucoup trop de messages importants en cours, et je ne capte que dans cette pièce. Débrouille-toi pour faire partir tout le monde d'ici si tu veux prendre une photo de moi déshabillée.
+24|Es-tu aveugle ? Il y a beaucoup trop de monde autour. Je ne vais pas me déshabiller ici.
+25|Bon, on dirait que personne d'autre n'est présent. Je suppose qu'on peut y aller. Bref, dis-moi quoi faire.
+26|Je t'ai à l'oeil... Que dois-je faire ?
+27|Ok. Comment dois-je poser ?
+28|Je suppose que tu as raison. Frank a intérêt à tenir parole.
+29|Trop, c'est trop. Tant pis. J'arrête là. Débrouille-toi avec ce que tu as et ramène-moi un verre !
+30|Et il est ou ton appareil photon, crétin ?
+31|Ew, est-ce que j'ai l'air de boire de cette merde ?
+32|Je ne bois pas de bière ou de vin. Ramène-moi un bon rhum pour que je puisse oublier cette soirée merdique.
+33|Carrément ! C'est ma boisson favorite ! Tu sais, tu n'es pas si mal que ça après tous. Je dirais que tu as 75% de chance de conclure avec moi ce soir, vu que tu as déjà vu mes seins et surtout vu comment mon copain de comporte avec moi.
+34|J'apprécie ta demande. En fait, j'ai l'impression que je suis la seule à devoir m'exhiber pour boire un verre, et s'il y a une chose que je déteste plus que Stephanie, c'est bien l'injustice. Je pense que tu devrais également t'exhiber un peu. Si tu montres ta bite à tout le monde ici, alors PEUT-ETRE qu'on pourra s'offrir un peu de bon temps...
+35|Oh merde, quelqu'un m'a vu !
+36|Comme tu veux.
+37|Ah, oui ! J'ai complètement oublié que je t'avais demandé de faire ça. Quelle idée à se tordre de rire, n'est-ce pas ?
+38|Tu sais quoi ? Allons-y. Mon petit ami est le roi des connards ce soir. M'envoyer en l'air avec toi, me semble une bonne punition pour lui. Il n'avait qu'à ne pas me poser de lapin. Au pire, il va te défoncer la gueule, mais je me serais bien fait comprendre, donc ça en vaut bien la peine. Oh, j'aurai besoin que tu fasses quelques trucs pour moi avant de commencer, si cela ne te dérange pas. Suis-moi.
+38.1|Bien sûr que je suis partante pour un autre tour. Suis-moi.
+39|Eh bien, qu'attends-tu ? Baise-moi.
+39.1|Avec des gens dans la pièce ? Qu'est-ce qui ne vas pas chez toi ?
+39.2|Quand comptes-tu verrouiller cette porte, crétin ? C'est déjà le comble que Frank ait un appareil photo rempli de photos de mes seins, je ne tiens pas à m'exhiber plus que ça devant n'importe qui !
+39.3|Retire tes vêtements, imbécile.
+39.4|Retire tes vêtements, imbécile.
+39.5|Retire tes vêtements, imbécile.
+39.6|Retire tes vêtements, imbécile.
+39.7|J'ai l'impression que tu as besoin d'une pause pour t'en remettre. Reviens quand tu seras prêt pour un autre tour.
+40|Hum. Oui, je suppose que ça devrait faire l'affaire ! Bon, une dernière chose. Je vais avoir besoin d'une bouteille d'eau. Va m'en chercher une et je serai prête quand tu reviendras.
+41|Ralentis, cowboy. J'ai d'abord besoin de quelques préparatifs. Tout d'abord, j'ai besoin d'un petit quelque chose pour m'échauffer, si tu vois ce que je veux dire. Et je préfèrerais faire ça toute seule. Alors trouve-moi simplement quelque chose que je puisse utiliser.
+42|Merci. Bon je pense que j'ai tout ce qu'il faut. Je suis prête.
+43|Non.
+44|Jolie vue, n'est-ce pas ? Dépêche-toi de me ramener de l'eau. Je ne vais pas attendre toute la nuit.
+45|J'apprécie que tu m'aies également inclus. C'est agréable de pouvoir avoir un avant-goût de ce qui m'attend.
+46|C'est bien l'idée.
+47|Vire-moi ces personnes de là ! J'ai besoin de rester seule quelques minutes !
+47.1|Peux-tu me laisser seule un instant, s'il te plaît ? Reviens dans quelques minutes.
+48|Eh bien, c'était exactement ce dont j'avais besoin. J'espère que le fait d'appeler mon copain pour qu'il nous écoute pendant nos ébats ne t'a pas trop dérangé ?
+49|Que penses-tu d'arrêter de parler et d'accorder plus d'attention à ce que tu fais ?
+50|J'étais le major de ma promotion et j'ai un diplôme d'ingénieur. Est-ce que je sais comment pirater un téléphone ? Sérieusement ? Je pourrais le faire en dormant !
+51|Par "hypothétiquement", tu veux dire que tu veux que je le fasse pour toi, n'est-ce pas ? Trouve-moi un ordinateur portable ayant accès à Internet et un téléphone mobile que je puisse utiliser pour envoyer ton message. Je ne le ferais pas avec le mien. Il y a des façons de retrouver le téléphone qui l'a envoyé si quelqu'un l'exige.
+52|Patrick !
+53|Ouais, génie. Je t'ai dit que j'avais besoin de son téléphone alors qu'il trainait dans ta poche tout ce temps. Es-tu sûr d'avoir fini la maternelle ?
+54|Je pense que j'ai une idée du téléphone que tu pourras utiliser...
+55|C'est parfait ! Allons utiliser l'ordinateur de la chambre d'ami. Je pense pouvoir envoyer ton SMS. Suis-moi.
+56|Ah, comme c'est mignon. Elle a protégé son ordinateur portable avec un mot de passe. Ca ne me prendra pas plus de quelques minutes pour le trouver. Préviens-moi dès que je dois envoyer ton message.
+57|Ok. Tu connais déjà le numéro du destinataire de ce message ?
+58|Ok. Et maintenant, j'ai besoin du numéro d'expéditeur.
+59|Ca, ce n'est pas mon problème. Reviens vers moi quand tu auras toutes les informations nécessaires, crétin.
+60|Parfait. Allons utiliser l'ordinateur portable. Suis-moi.
+61|Parfait. Dicte-moi simplement le message que je dois envoyer de sa part.
+61.1|La star du porno ? Comme tu veux. Dicte-moi simplement le message que je dois envoyer de sa part.
+62|Ok, donne-moi quelques minutes le temps que j'envoie ce message.
+63|Calmez vos ardeurs. Ce contenu n'est pas encore disponible. Vous devez attendre une version ultérieure d'House Party pour voir comment cette histoire se termine.
+64|La connexion a dû tomber. Je ne peux pas envoyer de message sans connexion WiFi, et en plus, je ne peux même plus vérifier mes e-mails. Je ne sais même pas où elle a bien pu cacher sa box internet. Quelle tuile.
+65|Ah ! Internet est revenu. Trop cool ! Je commençais à être en manque.
+66|As-tu besoin de quelque chose ?
+67|Ok. Et maintenant, j'ai besoin du numéro d'expéditeur.
+68|Ok, donne-moi quelques minutes le temps que j'envoie ce message.
+69|Parfait. Dicte-moi simplement le message que je dois envoyer de sa part.
+70|Est-ce que je ressemble à un trafiquant de drogues ? Ou à une pharmacie ?  Sais-tu que c'est déjà légal dans plus de 29 états aux US ?
+71|J'ai une application sur mon téléphone qui calcule exactement ce que je peux boire pendant une soirée en prenant en compte ma morphologie, mon métabolisme et ce que j'ai mangé. Tu devrais peut-être l'installer sur ton téléphone...
+72|Pour ceux qui doutaient de moi quand j'annonçais que ton niveau d'intelligence frise le ridicule, ben voici la première pièce à conviction !
+73|Oh ! J'ai l'impression de regarder la chaîne Histoire. Ca ne vous dérange pas si je prends quelques notes ?
+74|Eh bien, ça dépend. C'est pour quelle cause ?
+75|Oh, ça serait une solution simple et efficace concernant ce problème majeur. Où dois-je signer ?
+76|Que c'est stupide. Tu es vraiment stupide. Barre-toi de ma vue.
+77|Pas du premier abord, mais je suis sûre que je peux trouver la cause du problème. Je vais y jeter un oeil.
+78|Si jamais tu m'appelle encore une fois comme ça, je vais t'assassiner dans ton sommeil.
+79|Le problème du micro-onde venait du disjoncteur thermique, qui aide le micro-onde à éviter de surchauffer. Lorsque ce disjoncteur ne fait pas son travail, le micro-onde refuse de démarrer. C'est une mesure de sécurité pour l'empêcher de devenir trop chaud. J'ai débranché le micro-onde, puis je l'ai retiré du meuble. Une fois que j'ai trouvé ce disjoncteur, j'ai déconnecté les fils le connectant. Ensuite, j'ai utilisé un multimètre pour vérifier la continuité. Puisque ce test était un échec, je l'ai remplacé. J'ai aussi profité de l'occasion pour vérifier que le ventilateur fonctionne afin qu'il ne provoque pas de surchauffe dû à la coupure de la circulation d'air qu'il provoquerait le cas échéant.
+80|Oui. Crétin.
+
+[Responses]
+f0067e64-add2-41c2-bb6f-b95b9bc8fa2c|Arf. Laisse tomber...
+53c5507b-c482-4083-8067-d92825a06a8f|Ton copain est un lapin ? Tu dois t'éclater au lit !
+4c687806-aba2-4089-b270-be13deef82b9|Qui oserait te poser un lapin ?
+a6f63d67-727c-452c-829e-183dd08833c9|Bon, alors ok...
+98a7d062-da2e-4fce-9e7d-673572b92516|Cool, je vais voir ce que je peux faire.
+36c73a84-fa10-4ff9-a29b-6d4e6fe0c753|Hum, ça me donne une idée.
+3a4fdbcd-5541-4138-8a90-dee61607e9cf|Je vais voir ce que je peux faire.
+1d1bcc5a-a7e5-4921-82bf-4c324d5cd9d8|Ouistiti !
+ac9b05f1-bd59-4946-8432-f04e56ddfdf9|N'oublie pas de sourire !
+6ee99d7f-9d0c-4594-98ec-4403375d36bb|Je pense que je devrais pouvoir y arriver.
+b4ff00f9-85c5-4148-9727-a114536809df|Je pense que je vais prendre tout mon temps.
+93ce83d7-ff34-4b5f-84d7-91650ded33c0|Whoa ! Alors ok !
+e7a30df2-bd91-448f-b551-64ce2cf2e47f|Je ne voulais pas dire... Laisse tomber...
+05e94fbc-3775-45ea-81c5-dff7038e0993|Effectivement... À quoi pouvais-je bien penser ?
+9e34d8a2-c124-4270-9cfa-9ec30d36cf8d|As-tu pris des leçons en brisage de coeur ?
+def4d3f1-1b8e-4570-bde8-d29e2792176b|Je vais tenter ma chance.
+d9b88701-2725-474f-b99e-b0f6593748ef|Ouais, moi aussi, je ne capte aucun signal.
+6e4ffb9b-80e1-4350-97fc-e5069b66057b|Merde alors. Bon, je vais voir ce que je peux faire.
+55117d84-bb8c-4ac0-993a-5495d3803d9b|Bon sang !
+c2b9ae45-b32b-459a-93e8-ff222bf03ea0|Que dirais-tu d'enlever ton haut ?
+730d9453-f802-44f0-b96b-9515ca0c9e4f|Prends la pose.
+8d70312a-1f1b-4bc3-8877-236e6a5ffb74|Détends-toi et fait comme si je n'étais pas là.
+7dd9fd4e-5307-4c1b-989a-784fece9c35b|Je ne pense pas que ce soit ce que Frank a voulu dire quand il a dit une "photo de tes seins"...
+49df5903-bb32-452d-bdde-0aa1d0919e9a|Que dirais-tu d'enlever également ton pantalon pour rendre Frank fou ?
+c90053eb-cc94-469d-8a32-49d45c4ca861|Faisons une pause pour le moment.
+342e728e-2d64-46b5-a730-144c4dbb5bc5|Mets tes mains derrière la tête pour voir.
+0211fcc3-8f5d-4275-8fc7-66727a89ca4e|Agenouille-toi pour voir.
+aaa4fe28-b345-42eb-b4d8-0f3348884102|Allonge-toi pour voir.
+b1bb6d67-ba7d-4a3e-a3e5-8d6a37d47b9c|Putain, oui !
+8e190561-a1f4-4167-961d-94059c9358fa|Oups. Je suppose que j'y suis allé un peu trop fort...
+ad375774-9ebd-4c66-b505-416f531d816f|Oups. Désolé.
+712165cd-f79e-42da-9fab-530e8a5cecb6|Wow, ça c'est cash...
+14acb561-cf91-452b-8997-777790e7e129|Hum. M'exhiber devant tout le monde ou refuser une partie de jambe en l'air ? Pas la peine de choisir, c'est parti !
+624ab543-2ce2-4345-8589-b135733bc8f9|Tu sais quoi Katherine ? J'en ai assez de tes conneries. Je ne le ferai pas.
+e0e08331-a24a-4d61-b031-748b32d6be3f|Fait chier !
+6d2aaa7f-812c-487a-bd6c-fd677469561a|Eh bien, si ça peut te consoler, je pense que je me souviendrai de cette expérience pour le reste de ma vie.
+f7ce4a91-ef43-4b23-9824-0531591ea30a|J'ai juste entendu "envoyer en l'air", mais pas grand-chose d'autre. Allons-y !
+c97a931d-7304-41c4-81f1-cdd4f740433d|Mission réussie !
+84f91665-9a45-406e-a680-2e48335326ed|Compte sur moi !
+a870ee95-9794-47e3-99cf-490d45c1fd69|Tu ne préfères pas que je reste pour te regarder faire ?
+aa2ea7cb-48d2-4125-a903-0055f4ae212d|Je vais voir ce que je peux faire.
+658a5dca-5341-4ed1-a8ef-c642ae145d0f|Ce n'est pas trop... Ah, enfin !
+d56d53b9-186a-4056-987b-0bd4245691ad|Merde.
+9a2e1538-c894-4209-8a40-38eb15db21e4|Oui m'dame !
+44e8a2f7-4b2b-450c-b1fd-e1c16943f7e6|Je suis content que tu apprécies...
+cac435cd-9c7e-4615-b77f-eb50f2dbfa23|Enfin, quelqu'un qui apprécie que je me promène la bite à l'air !
+eb3eb797-50d0-498a-be77-236fc9243b74|Oui m'dame !
+17bc8362-0b81-436f-b914-9a74e70d5ab6|Je risque d'avoir quelques problèmes avec son copain, mais c'est le prix à payer pour pouvoir prendre un peu de bon temps.
+960149bc-647b-433a-af5b-d99a9d77339b|Mets-toi à quatre pattes !
+4ae5ec44-ae27-486f-a5d5-873cdcc32369|Allonge-toi sur le dos !
+4080904c-fee8-4d93-a89d-6c2dcb916469|Chevauche-moi !
+d188767a-adde-4c91-91eb-62c68cb4bbdc|C'est pas faux, désolé !
+b742316f-758d-44c5-aeab-e43fe5f1256b|En fait, je ne voudrais pas utiliser mon téléphone...
+ced426e7-5402-4470-8ced-5303e2c71cca|Patrick !
+c0bfb516-53b9-480a-86e1-e503d8385880|Je sais exactement ce que tu vas dire...
+9fb93a87-2e29-479f-88ba-28f9715ca903|Mission réussie !
+5896a34b-def4-449b-85b5-775dbbb3c8e1|Parfait !
+bf922c71-9dc1-41b5-8147-06cc3616548c|Envoie-le à Rachael. Son numéro est le 555-4242.
+32c35fc9-c239-40af-9ea1-e394308a563f|Hum. Envoie-le au 555-6969.
+8e24095c-05a2-411a-88c3-29c1f329e3a7|Euh, non. Je suppose que je n'ai pas pensé à tout…
+3c6f1e17-544e-4ab5-bbc0-0e1942d82397|Merde, je n'ai pas le numéro de Vickie.
+3a9fa5c6-df4e-4bcc-b842-feb3cd67ea40|Envoie-le à partir du numéro de Vickie Vixen. Son numéro est le 555-6969.
+835c005f-8bf6-4071-b7c6-1ab1e372d2a5|Envoie-le à partir du numéro de Rachael. Son numéro est le 555-4242.
+c81ca709-65d0-4704-a553-e290ecf32c22|Tu sais quoi ? Laisse tomber.
+c699173e-eeb7-4f9c-ac66-d327aecd2037|*Soupir*
+c9dd2598-a1e5-45c1-8f24-1159726ae184|Ok, je te suis !
+6ef7bfb5-942f-4d30-80b9-02511d4e62ae|"Je te défie de raconter au type le plus mignon qu'il était présent dans le rêve érotique que tu as eu hier soir".
+4dfdfd9b-ec3e-40be-9e46-e1954be6beee|"Je te défie de dire qu'il fait chaud et de changer ton haut par celui de ton bikini".
+0d6cbc9d-cc6c-4134-856c-49a67adb42a2|"Je te défie de passer le reste de la soirée pieds nus".
+88b2ce45-c3cf-422c-b518-82bcb601cb17|"Je te défie de montrer tes seins au type que tu trouves le plus mignon".
+5f9549fc-739b-48b8-ac8e-eca6a5bd919e|"Je te défie de danser en bikini".
+1286bc0d-cd5b-4736-9fdb-8eefd298dd5e|"Je te défie de finir ta soirée sans ton pantalon".
+ef6bff8f-5ccb-4099-9481-251bc932f34c|"Je te défie de trouver un endroit isolé, de te déshabiller complètement puis de te masturber".
+c310f318-dbd3-45f1-93c4-bec08fec6842|"Je te défie de courir dehors les seins à l'air".
+a3985ea1-bae9-4c50-80be-0c4cde5b7947|"Je te défie de t'exhiber entièrement nue devant le type le plus mignon pendant au moins 30 secondes".
+8ba3381a-ea8a-4580-a781-74acf8c4532c|"Je te défie de faire l'amour avec le type le plus mignon de ta soirée".
+2a9610c0-e40e-49dc-95b6-931435b89393|Euh, laisse tomber. J'ai trop les chocottes pour continuer sur cette voie...
+5a9dadbc-38e2-4987-835b-0b9d60c26f66|Mais pas une de plus !
+54516350-6b51-4240-b91d-ade369bf7961|Quel enfoiré ce développeur d'House Party !
+cfccb622-9b41-4141-a939-d59e243183eb|Pour toi, mais aussi pour moi, je vais trouver un moyen de résoudre ce problème.
+5ac19273-1172-4c85-bdd4-39b238cbe69a|"Je te défie de venir à la soirée de Madison. J'aurais besoin d'aide pour mettre de l'ambiance".
+feb01de6-127d-4965-a728-2a8cc075c9f0|Merci !
+29b30049-1c0a-44a1-b649-fad6faa79048|"Salut.  Je viens de te rencontrer.  Et c'est incroyable..."
+5e6dc9d6-fe5a-4652-960b-8535a5170f2f|"Salut. Tu pourrais passer à la soirée de Madison pour m'aider à mettre de l'ambiance ?"
+4e30a78a-ce86-49e4-a460-da533a39e998|"Je ne te connais pas. Mais je te trouverais et te tuerais."
+a6178ddc-2fa3-42eb-a387-91c2f1e12015|C'est pour obliger Derek à enlever sa chemise.
+c89e71bf-3e06-4f9b-8c0a-43d3e1961917|C'est pour castrer tous les hommes afin qu'ils puissent penser plus clairement.
+566e6e32-5f13-4004-b5b4-4aec41470f80|Je me doutais bien que tu signerais pour ça. Merci !
+56cf8f76-5b54-4830-a414-66aaa917e18b|Je suppose que j'aurais dû m'en douter...
+ddb86e56-c811-4287-98cd-b24a5a5a7d8a|Merci Kitty Kat !
+8e75337e-7654-4a99-9b5a-ca31e6f5dbb3|Message Reçu.
+f1073ae8-2522-45a6-bfc0-1e77988507b2|Euh... Merci ! Donc il est de nouveau fonctionnel ?
+52f92103-1531-4072-9c20-790b58ef6283|Saurais-tu comment pirater un téléphone ?
+24570674-33f8-40a2-83ba-6ca12e701a36|Supposons que je veuille falsifier l'émetteur d'un SMS. Comment devrais-je m'y prendre ?
+bce31439-5bbb-4e6b-bd14-c143e67ee245|Par hasard, tu n'aurais pas le téléphone de Patrick ?
+ca4f983e-e4ea-47ed-9ff8-6771172f8234|Pourrais-tu envoyer un SMS falsifié pour moi ?
+85ea40ea-9582-4eab-9a86-08e0a09e5ff6|Je prendrais bien un verre. Veux-tu que j'aille t'en chercher un ?
+390cfefe-28f7-4c9d-a28f-3ff77217fba5|J'ai vu que tu regardes sans cesse ton téléphone. Est-ce que tout va bien ?
+24cff0b7-888f-4e5e-bc8d-9afeeb02fbbd|J'ai l'impression que le mot "besoin" est sorti de son contexte.
+ce7c7002-08f1-433c-859e-4098785776a9|J'aime bien tes lunettes. Elles te donnent l'air intelligente !
+35cd71ce-3229-4d39-b7b7-165037200156|Frank surveille tout l'alcool.
+2bbd74f2-8190-4db2-84f8-e9c341ab6b5a|En fait, Frank a dit que je peux prendre de l'alcool uniquement si je lui donne une photo de tes seins.
+bf1a0593-5274-4e57-8123-c7873a83de97|Et si on allait prendre cette photo maintenant ?
+1650d05a-555d-4de6-ade0-ff53dc71e78c|Que veux-tu boire ?
+ac0155bb-6ea5-4c2b-b28d-b9bf5447a448|Et comment puis-je être sûr à 100% de conclure avec toi ?
+e8e07013-0421-43db-948f-0791ad17f7c7|Je l'ai fait ! Je me suis exhibé devant toutes les personnes présentes ici !
+2855c8e8-ba3a-4b78-a067-fc20e0b02eb3|Alors, veux-tu aller dans un endroit plus intime avec moi ?
+82c7871c-8d74-4a5a-a1dd-79fead17775f|Je pense que Frank a un petit faible pour toi.
+7df618ab-1157-4a71-8dbf-f6a6f03147d5|Que penses-tu de Stephanie ?
+b614db14-faf1-484a-9b92-f99b93b0dee3|Bref, et si j'allais te chercher un verre maintenant ?
+77e9c457-dd62-41f2-9d32-b6d15fe86a82|J'aurais besoin d'un joint...
+c86e9095-6bfa-4ffc-8caa-b5dfa21f7dca|Ah, Katherine. Est-ce que tu veux bien signer ma pétition ?
+a95e02a4-d783-420b-a4b9-fe721d241077|Sais-tu pourquoi le micro-onde ne fonctionne pas ?
+6dedb497-9a62-468b-8d6d-fa79c3efcf1c|C'est toujours un plaisir, Katherine.
+
+[Quests]
+1477ed2c-1222-4463-94d5-5478eefaf63b|Katherine a besoin d'un verre
+1477ed2c-1222-4463-94d5-5478eefaf63bDescription|Katherine s'énerve contre son petit ami et commence à vous allumer ! Quoi de mieux qu'une boisson alcoolisée rafraîchissante pour l'aider à se relâcher un peu plus ?
+a5c57921-eaf0-4046-883e-a7f78a2bf3a7|Le dilemme "Katherine"
+a5c57921-eaf0-4046-883e-a7f78a2bf3a7Description|Nous savons déjà que Katherine est une garce, mais maintenant, elle veut que vous résolviez ses problèmes de téléphone et éloigniez tout le monde avant qu'elle n'accepte de se déshabiller. Comment allez-vous faire ?
+d6c9cfee-a03b-4eac-803d-67b6c2020482|Exhibe express
+d6c9cfee-a03b-4eac-803d-67b6c2020482Description|Katherine veut que vous vous exhibiez devant tout le monde. Elle vous fait miroiter une partie de jambe en l'air pour vous motiver. Devriez-vous le faire sachant qu'elle est un peu lunatique ?
+11484350-ac97-4038-a94f-c3cf2a7a8ae8|Les "caprices" de Katherine
+11484350-ac97-4038-a94f-c3cf2a7a8ae8Description|Vous avez une chance de conclure avec Katherine ce soir ! Mais bien sûr, comme il s'agit de Katherine, ça risque d'être plus compliqué que prévu.... Voyons voir si vous arrivez à accomplir ses "caprices" !
+
+[Events]
+33e681d3-6c30-4526-99d6-4a247848005c|Arf. Je suppose que je n'aurais pas dû être aussi cash avec elle...
+b4b73bd8-3ec1-4bba-a054-7ad7ef136238|Ca promet d'être génial ! Je devrais quand même garder un oeil sur Rachael...
+d01c7fbf-9cb2-46ca-9dda-7b9dd33acc1c|Hum. Quelque chose me dit que j'ai fait le mauvais choix...
+cf19959f-32d4-43bb-a8fc-0c64f2515d08|Hum. Quelque chose me dit que j'ai fait le mauvais choix...
+96f4c9d9-b442-4464-b17a-935105a7ffb5|Ben merde alors. J'ai l'impression qu'il fonctionne correctement.

@@ -1,0 +1,216 @@
+[General]
+Name|Madison
+
+[Dialogues]
+0|Re-bonjour. Es-tu perdu ?
+0.1|Oh salut, comment vas-tu ? Est-ce que tout va bien ? Que puis-je faire pour toi ?
+0.2|Euh, on se connait ?
+0.3|As-tu réussi à retrouver mon téléphone dans la salle de bains ? Je pense que je l'ai laissé près du lavabo.
+0.4|Comment se déroule notre plan ?
+0.5|Que veux-tu ?
+0.6|Ca serait génial si tu pouvais me foutre la paix.
+1|Oh, que c'est gentil. Je m'appelle Madison. C'est moi qui ai organisé cette soirée. Ravie de faire ta connaissance !
+2|Bien sûr, quand tu entres dans la chambre à coucher principale à l'étage, c'est la première porte sur ta gauche. Tant que j'y pense, j'ai laissé mon téléphone là-bas. Pourrais-tu être un amour et me le rapporter ?
+3|Oh mon dieu ! Tu m'as ramené mon téléphone ! Merci beaucoup !
+4|Elle est en train de manigancer quelque chose, j'en suis sûre ! Ma petite soeur tout craché, n'est-ce pas ? Je suis plutôt sur les nerfs parce que si elle manigance quelque chose contre moi pendant ma soirée, ça serait vraiment très embarrassant.
+5|Laisse-moi deviner, il te fait un sermon sur l'ivresse ? C'est du Frank tout craché. Je ne sais même pas qui a osé l'inviter à ma soirée. Il nous pourrit l'ambiance. J'apprécierais beaucoup si tu trouves un moyen de le faire partir.
+6|Ne serais-tu pas un peu audacieux ? Aide-moi à jouer une farce à ma soeur, et tu sais quoi ? Il se pourrait qu'il y ait bien plus qu'un simple baiser qui t'attends comme remerciements, si tu vois ce que je veux dire.
+7|Ok, alors voici le topo. J'ai déjà "accidentellement" renversé de la bière sur Ashley. J'ai verrouillé ma penderie afin qu'elle ne puisse pas m'emprunter de vêtements. Mon plan est simple : d'abord elle doit penser que sa seule option est de se déshabiller afin de pouvoir laver ses vêtements. Une fois que nous avons mis ses vêtements à laver, il ne nous restera plus qu'à la forcer de se promener toute nue devant tous mes invités. Charmes Ashley afin qu'elle te fasse suffisamment confiance pour que tu puisses laver ses vêtements pour elle. Puis trouve un moyen de la faire sortir de sa cachette.
+8|J'ai déjà essayé de lui dire que tout le monde se moque de la taille de ses seins. Mais à quoi bon ? Je sais que les miens ne sont pas aussi gros que les siens, mais je me ballade toujours avec une bonne moitié exposée par mon décolleté, et ça ne me gêne pas du tout ! C'est vraiment qu'une pleurnicheuse. Au fait, pas la peine de jouer la carte du bon samaritain avec elle, c'est une lesbienne. Donc ça ne te mènera probablement nulle part.
+9|Frank est un type bizarre. Il est en croisade contre l'ivresse, et apparemment ça ne gêne personne. Il est en train de pourrir ma soirée vue comment c'est parti. Je ne sais même pas qui l'a invité, mais je n'ose pas lui demander de partir.
+10|Quelle garce ! Eh bien, je suis contente que tu sois de MON côté ! Nous allons lui donner un avant-goût de sa propre médecine : je vais me débrouiller pour qu'elle se pavane à poil devant tout le monde ! Tu es partant ?
+11|Génial ! Voici le plan : Je vais aller "accidentellement" renverser de la bière sur Ashley. Ensuite, vas la réconforter.
+12|Oh mon dieu, c'était tellement génial la manière dont tu as déboutonné le haut d'Ashley ! La tronche qu'elle a tirée lorsqu'elle a couru vers la salle de bain est inestimable !
+13|Erf, qu'est-ce qu'elle peut bien me vouloir ? Ok, je vais aller la voir. Merci.
+14|Merde, vraiment ? J'ai, euh... des documents importants dedans. Je devrais aller le chercher moi-même.
+15|Qu'est-ce que... Mais, c'est mon journal intime ! Je vais chercher Frank. Tu es un homme mort, fils de pute !
+16|Hé, comment ça va ?
+16.1|Qui t'as invité à cette soirée ?
+16.2|Va voir ailleurs si j'y suis, connard.
+16.3|Salut, comment vas-tu ?
+16.4|Salut mon gros lapin. Comment vas-tu ?
+16.5|J'ai oublié si j'ai mis une culotte ce matin... Tu veux vérifier ?
+16.6|Oh. Désolé, je vais te laisser passer.
+17|Qu'est-ce que vous foutez tous les deux ? Si vous comptez me jouer un tour, faites-le au moins quelque part où je ne peux pas vous entendre. Vous êtes aussi idiots l'un que l'autre.
+18|Je suis presque sûr que Rachael était dans sa classe. Elle doit encore être en contact avec elle.
+19|Putain de merde ! Tu as récupéré les habits d'Ashley ! Je ne pensais pas que tu en serais capable ! Maintenant, il suffit de trouver un moyen de la faire sortir de sa cachette. Je ne peux pas t'aider, parce que sinon, je n'ai pas fini d'en entendre parler si jamais elle apprend que je suis derrière tout cela. Je vais prendre ses vêtements.
+20|Sérieusement ? Tu vas me laisser tomber maintenant ? C'est vraiment n'importe quoi. Peu importe. Et dire que je pensais qu'on allait s'envoyer en l'air ensemble ce soir.
+21|Sympa ! Ca ne serait pas une soirée digne de ce nom sans un peu de nudité, n'est-ce pas ?
+21.1|Oh mon dieu, que comptes-tu faire avec ?
+22|Erf. Sérieusement ? Bon, ok.
+23|Nom de dieu, c'est tellement épique ! Oh mon dieu, c'est trop humiliant ! Je n'aimerais vraiment pas être à la place d'Ashley en ce moment !
+24|C'est quoi ce bordel ? Tu as trouvé mon téléphone ? Attends, comment se fait-il que tu aies trouvé mon code pin ? Rends-le-moi !
+25|Quoi ? Quel putain de connard ! Je reviens tout de suite.
+26|Quoi ? Comment as-tu pu les voir ? J'espère au moins que tu ne les as montrées à personne ?
+27|Oh mon dieu, merci. Je suis un peu gênée que tu les aies vues, mais je suis soulagée que ça ne soit pas allé plus loin !
+28|(Glops). Qu'est-ce... qu'est-ce que tu veux que je fasse ?
+29|Ne diffuse pas ces photos, je t'en supplie ! Je ferais tout ce que tu voudras !
+30|Oh, euh, d'accord. Quel genre de pose veux-tu que je prenne ?
+31|Saisissez le texte du dialogue ici.
+32|Euh, c'est clairement un remix.
+33|Hé ! Je t'ai entendu, connard !
+34|Oh, c'est quoi ce bordel. Tu en as foutu partout sur moi.
+35|Mer... mer... merci pour tout. J'ai vraiment beaucoup aimé... parce que je suis tellement ... une grosse cochonne.
+36|Pas avec tous ces gens autour !
+37|Ce que tu as fait à ma soeur était épique. Tu mérites bien ça. Je vais te sucer jusqu'à ce que tu sois sur les rotules.
+38|Et puis quoi encore ? J'espère que tu n'as pas pour habitude de demander aux filles que tu connais à peine de te sucer. Retourne à la réalité, imbécile.
+39|Mrph erfff ermm gerf grunph merkin ?
+40|Quoi ? Tu... Tu veux que je me mêle à mes invités habillée comme ça ?
+41|Oh, merci. Et merci de ne pas avoir publié ces photos. J'en serais morte de honte ! Et sinon... je suis... à ta disposition au besoin.
+42|...Ok. Je... Oh mon dieu, ça va être horrible. Je vais passer pour une grosse salope, mais je préfère ça plutôt que ces photos ne soient publiées.
+43|Bonjour, je suis Madison et j'ai l'impression que c'est votre première partie de House Party. Veux-tu que je t'explique comment ce jeu fonctionne ?
+44|Très bien. Je suppose que tu peux simplement regarder les instructions (F1) si tu veux apprendre à jouer.
+45|Eh bien, tout d'abord, tu dois apprendre à regarder autour de toi. De base, il suffit de déplacer la souris pour regarder autour, mais lorsque tu es en train de discuter avec quelqu'un, tu dois maintenir le bouton droit de la souris pour regarder autour. Essaye avant de me répondre.
+46|Waouh, tu comprends rapidement. Alors, continuons. Lorsque tu souhaites interagir avec quelque chose, tout ce que tu as à faire est de le centrer dans le réticule au milieu de ton écran et de cliquer avec le bouton gauche de la souris. Seuls certains objets ont un menu d'interaction, mais tous les personnages du jeu en ont un. Si tu peux interagir avec quelque chose, son nom apparaitra à côté du réticule. Lorsque tu es prêt, finis ce dialogue. Puis clique sur moi et utilise mon menu d'interaction pour recommencer à me parler.
+47|Bien joué. Si tu ne souhaites pas voir le réticule et le texte d'aide, appuies sur la touche Tab pour les désactiver (et les réactiver). Parfois, tu pourras même être en mesure de ranger des objets dans ton inventaire. Appuie sur la touche I pour afficher (et masquer) l'inventaire une fois que tu as ramassé quelque chose. Quelqu'un a laissé une cuillère sale sur le micro-onde. Va me la chercher, puis donne-la-moi. Utilise les touches Z, Q, S et D pour te déplacer (Tu peux reconfigurer ces touches via l'onglet Input de la fenêtre qui apparaît lorsque tu lances ce jeu).
+47.1|J'attends toujours ma cuillère.
+48|Génial, merci ! Tu peux également interagir physiquement avec des objets en appuyant sur la touche Ctrl. Ton curseur se transformera en une main. Tu peux cliquer pour saisir des objets grâce à cette main. Tu peux également jeter des objets en déplaçant la souris pendant que tu relâche le bouton. Retourne à l'endroit où tu as trouvé cette cuillère, puis clique sur l'une des tasses en plastique sur le plan de travail et jette-la. Ensuite, essaye avec le micro-onde. Comme ce dernier est un peu plus lourd, tu ne pourras pas le ramasser ni le jeter, mais tu pourras le déplacer. Reviens me parler quand tu auras fini.
+49|As-tu pris ton pied en saccageant ma maison ? Quoi qu'il en soit, continuons. Il y a des quêtes dans ce jeu que tu auras besoin d'accomplir. Tu peux ouvrir ton journal de quêtes en appuyant sur la touche R. En ce moment, tu n'as qu'une seule et unique quête : me parler. Mais lorsque tu commenceras à interagir avec différents personnages, tu recevras de nouvelles quêtes. Tu seras également averti à chaque fois que tu en obtiens une nouvelle ou lorsqu'elle se termine (dans le coin inférieur gauche de l'écran).
+50|Lorsque tu parles à quelqu'un, des jauges apparaissent en dessous de la photo de cette personne. Ces jauges indiquent la relation que tu as avec cette personne. La première (avec l'icône smiley) affiche ton niveau d'amitié. La deuxième (avec l'icône coeur) indique combien cette personne t'apprécie, et la dernière (avec l'icône bière) indique à quel point la personne est ivre. Tu dois prendre en compte le niveau de ces jauges pour déterminer ce que tu peux ou ne dois pas dire. Il te faudra probablement recommencer plusieurs fois le jeu pour trouver le bon enchainement qui te permettra d'avancer dans tes quêtes.
+51|Parfait. Le menu du jeu s'affiche (et se masque) en appuyant sur la touche Echap. Dans ce menu, tu pourras charger et sauvegarder une partie mais aussi : ajuster les paramètres du jeu, ou le recommencer. N'ait pas peur de recommencer de temps en temps, parce que dans ce jeu, l'histoire change en fonction des choix que tu fais. Certains choix échoueront automatiquement certaines quêtes tout en débloquant un autre moyen afin de compléter une quête différente. Il est impossible de terminer toutes les quêtes en une seule partie, et tu peux atteindre une des diverses fins en fonction des choix que tu fais dans chaque partie. Imagine simplement qu'à chaque fois que tu recommence ce jeu, tu es de nouveau invité à une autre soirée, et vois où te mène tes choix.
+52|Mouais, c'est ça. Bon, où en étions-nous ? Ah oui, ai-je mentionné que tu peux sortir ton pénis de ton pantalon en appuyant sur la touche P ? Je te conseillerais de ne pas faire ça devant certaines des filles présentes ici. Elles pourraient être offensées, surtout si elles ne te connaissent pas beaucoup. Tu peux également effectuer diverses actions spéciales lorsque ton pénis est de sorti en appuyant sur les touches numériques. Pour une liste complète des contrôles, appuie sur F1.
+53|C'est parfait. Je pense que cela devrait suffire pour commencer. Amuse-toi bien !
+54|Ok ! Avant de commencer, s'il le jeu semble fonctionner lentement, à n'importe quel moment, appuie sur la touche Echap pour modifier les paramètres. Tu peux également essayer de modifier les paramètres de qualité et de résolution dans la fenêtre qui apparaît lorsque tu lances le jeu.
+55|Aussi, n'oublie pas que ce jeu est encore en phase de développement, donc toutes les histoires ne sont pas encore terminées... Eek! Games publie généralement une nouvelle version tous les mois. Tu peux apprendre comment aider au développement de ce jeu via l'écran de titre. Les auteurs aimeraient également entendre tes suggestions et tes commentaires !
+56|Euh... Je pense que je vais tenter ma chance avec Raymond. Bouffon.
+57|Je ne l'ai pas vu. Il perd toujours ses affaires. Je ne m'en soucierais pas trop si j'étais toi.
+58|En fait, je pense que je l'ai dans mon téléphone. Mais je ne vais pas te le donner sans rien obtenir en retour. Ca te tente de jouer une farce à ma soeur ?
+59|Rien de très compliqué. Tu vois le haut qu'Ashley porte ? Il est attaché à l'arrière de sa nuque. Une simple pichenette et il devrait tomber. Fais ça pour moi et tu pourras avoir le numéro de téléphone de Vickie. Assure-toi que je sois dans les parages quand tu le feras.
+60|Tu l'as bien mérité. C'est le 555-6969. Ne lui dis surtout pas que je te l'ai donné.
+61|C'est plus dans le genre de ma soeur. Tu ferais mieux de voir ça avec elle.
+62|Pour info, tu ne peux pas dormir ici cette nuit...
+63|Ca te dérangerait d'éviter de faire ça pendant ma soirée ?
+64|Bordel de merde ! Je sais vraiment comment organiser des soirées...
+65|C'est quoi ce bordel ? C'était donc toi le trou du cul qui me vole toutes mes affaires ! Prie pour ta vie, je vais chercher Frank.
+66|Une pétition ? C'est pour quelle cause ?
+67|C'est quoi cette idée de merde ? Non. Je suis la seule et l'unique personne qui ait le droit de jouer des tours à ma soeur. Tu peux répéter ça à tous ceux qui ont signé ta pétition.
+68|Hum, d'accord. Ca va détendre l'atmosphère. J'en suis.
+69|Goodbye Kitty ? *Rigole* Oui, j'étais une grande fan dans ma jeunesse. Pourquoi cette question ?
+70|Espèce de gros pervers ! Je vais aller le dire à Frank !
+71|*Rigole* Bien vu l'aveugle ! On peut même dire que j'étais un peu obsédée. J'avais un sac à dos et même des figurines ! J'ai même eu des sous-vêtements Goodbye Kitty. Je pense que je dois toujours les avoir rangés quelque part.
+72|Quelle drôle de question. Tu sais quoi ? Brittney porte toujours un truc patriotique. N'aborde pas le sujet directement, car sinon elle va te saouler avec ça. Mais si quelqu'un peut porter un vêtement à l'effigie du drapeau, c'est bien elle...
+73|Attends... Es-tu entrain de fouiller les données de mon téléphone ? Mon dieu, si tu comptes fouiner dans mes affaires, au moins ne le fait pas à la vue de tous ! Espèce de crétin. Maintenant, si tu veux bien m'excuser, je vais chercher Frank pour qu'il te botte le cul !
+
+[Responses]
+22ff462b-2208-4780-9c54-117ab5b35076|Je vais voir ce que je peux faire.
+4db85836-6cee-447e-a361-2484e9fad168|Laisse-moi y réfléchir avant que je te donne ma réponse.
+1a427b1e-ddcb-4dcb-a0c6-0e6b27784533|Oh que oui, Madison ! Je suis ton homme ! Comment s'y prend-t-on ?
+eb36a225-1d81-495f-8d86-702a1fb0a81d|Compris !
+1345d52c-20b0-4d8f-b2cc-ed799a8acba2|Bien sûr, j'en suis !
+0e462dbd-3ddb-4f12-9c59-e6876ca7cc43|Arf, j'ai fait ce que j'ai pu !
+7ce1941a-4ee9-4909-8681-d238b0d7154d|De rien !
+42b326c1-1ee8-42b2-9cd7-2463ac062e5e|J'espère que tu trouveras ce que tu cherches !
+ff2a541f-11e9-4392-b083-1ecae07688b5|Et merde.
+9a18444e-f4ab-4084-9b76-6ecb1d8b1650|Merde, nous sommes grillés.
+50822ee5-4cd0-4de8-a379-76b3c7bfbf79|Ne penses-tu pas qu'on est déjà allé trop loin ?
+046e2f29-451e-46c7-93a3-b8dafdb92cc2|Ca marche ! Je vais voir ce que je peux faire pour la faire sortir de sa cachette.
+02019420-dbd5-4b4b-a170-7e5f9a78b630|Hein ? Mais... Attends... Et merde.
+7d481b8e-ecb1-4a1f-8666-3be311dab795|Au moins, quelqu'un apprécie mes efforts...
+f9a50960-c872-4a3b-87eb-efe2141c1e23|Si je reste trop près, je vais devenir toute collante. Toute collante, tu comprends ? Arf, laisse tomber. Cette blague n'est même pas drôle.
+de3aa4b8-5d34-4c10-8d31-3a8a7fa92e2e|Ne tire pas sur le messager !
+5f007f28-11a9-43c4-b6d3-0f6545953f24|(Madison semble ravie)
+ee9d7199-3004-4df9-b472-0bb20b7286d2|Tu as de la chance que ce soit moi qui l'ai trouvé et pas quelqu'un d'autre.
+44581e2e-afe8-4ac8-9ddd-c2b1e7438373|Prends ton temps.
+2b7d6a39-0222-4978-98cb-4d666f89458b|Nan, ton secret est en sécurité avec moi. Ne t'inquiète pas.
+6dc3c5db-83e9-41f3-8ace-1d32ba1606b8|Non, mais je me les suis envoyés. Ce que je vais en faire ne dépend que de toi.
+cdade49e-209c-45a4-b424-caf7f6c1f7f4|Trouvons un endroit plus intime. Je te suis.
+97ecbd4c-ca63-4dc7-b495-83e0ed36489d|Je pense que tu devrais poser pour moi.
+53ceeb83-a8ac-47be-a919-24d98d5a41a0|Que dirais-tu de te mettre à l'aise en enlevant ton haut ?
+d41627aa-d92f-4756-b80e-9c1e614f2fc9|Ok, tu peux continuer sur ta lancée et enlever ton soutif maintenant.
+20161245-94a5-49c7-9ca8-15c3b2be4fdc|Ce pantalon semble terriblement inconfortable. Enlève-le.
+2fdc9b81-d70a-473e-aa93-089456334db6|Ok, je pense qu'il est grand temps que tu te sépares de ta culotte.
+dbcfd3e7-fd82-4522-aad2-a59684bc2967|Ok, tu peux te détendre.
+b31e875d-8d4d-4080-b0dd-eb542222c53e|Tu peux remettre ton soutif.
+75979f69-7d74-4c2b-96d7-e8388baacdf9|Tu peux remettre ton pantalon.
+08997b3d-d558-431c-9265-a204f528d094|Tu peux remettre ta culotte.
+74b6914f-dc9e-4457-a417-b684bb4f5d28|Tu peux remettre ta chemise.
+2345184f-adab-442c-a98f-234bc38ca755|Je pense que notre relation dépasse le stade où des chaussures sont encore nécessaires. Enlève-les.
+f203a4dc-9ed9-445b-92af-480127476b48|Tu peux remettre tes chaussures.
+104549d7-cc74-477e-9790-71210110388c|Ok, tu peux retourner te mêler à tes invités. Je te ferai signe si j'ai encore besoin de toi.
+e6963835-1e02-4a8b-ad02-e1eb45422bf5|Met tes mains derrière la tête.
+a3c49903-b2ee-4d2d-8dae-da47717a1652|Assieds-toi sur le sol et écarte tes jambes.
+2f916ccd-81ad-43bf-bed4-7d50cb6a741f|Penche-toi en avant. Je veux voir ton cul.
+fa521b79-2528-44f9-9d57-4066e9a8ac05|Met tes mains derrière le dos. Ne te couvres pas.
+163fb0a3-b5f6-4873-8132-73b94e6daf16|Pourquoi ne t'agenouillerais-tu pas ?
+53ec5fea-90aa-45d2-afab-62a1e3ab284e|Mets-toi à quatre pattes.
+3106e7bc-c58a-4e39-b3b9-b0b3a5f76160|Oh... effectivement. Désolé.
+61a0d3bb-9523-43a7-8e2d-b7ba57af4bb8|Oups !
+d49206cc-9498-4fc0-ae2f-894a4f6ab343|Oups ?
+91f39f9e-524d-4fc4-9459-ae989d5470e8|C'est mieux.
+4f33e87b-a841-42be-a7ff-35df6f76b578|Mission réussie !
+8de6e281-c340-4cd4-a1ae-5df6eef74f6d|Euh... Ouais, tu te débrouille bien. Continue.
+3167ca27-7f2a-4d0d-a623-c2b8e0c34b4a|Absolument. Et si tu oses parler à qui que ce soit de notre "arrangement"...
+ba814df0-5f29-4abe-86cc-4f394a5bdcbc|Très bien. Je vais montrer un peu de pitié. Tu peux te rhabiller.
+0a6c8938-d89b-4711-bc2c-04902b142db8|Je suis content que nous ayons trouvé un accord.
+c4567a03-136b-4858-9247-480c5058b289|Bien sûr, Madison ! Abreuve-moi avec ta sagesse !
+e8afae51-7db8-467f-8982-275b934eff16|Ve te faire foutre. Je n'ai pas besoin de ton aide. Je vais me débrouiller tout seul.
+db245eaf-6eef-4456-aba3-d490a0511d74|Compris. Et maintenant ?
+b739f03a-3b24-4b98-9ddd-f769d8aa9cbd|Ok, c'est parti.
+aac72fc4-203c-4e8a-a4b2-5c25d9d66a21|Compris.
+235e1df0-ca64-4e67-a920-9184edad6649|En fait, j'aime quand tu te prends pour le chef.
+0e46869f-db7e-4be1-9008-7b7f3758c5a8|Cool !
+2e7577d9-e4e4-4e44-94cd-22d6a9d53933|Compris !
+e5d4ea11-dd82-434c-8c9d-0acbb593293a|C'est le meilleur jeu de tous les temps !
+97600be4-9493-449a-8da4-a54da16b6ac4|Quoi, sérieusement ? C'est le meilleur jeu !
+56653b8a-7ff9-4220-84d0-66fe6024f54a|Ok. Explique-moi comment jouer à ce jeu.
+a6f660f2-737c-4fe9-904e-740e5f57d636|Ca doit être des personnes super sympathiques.
+2efa0451-e927-4703-a698-9284e37d42c6|Bon, alors ok...
+50d62dcf-abbd-42cf-9fbd-1962cc84a43f|Laisse Ashley tranquille ! Laisse-la tranquille, laisse-la tranquille !
+8e201ed5-e88b-47ae-b282-3a063a948684|Je suis ton homme. Qu'as-tu besoin que je fasse ?
+f5ba4050-1fc6-4ef1-8f21-6cb33b27195d|Simple mais efficace.
+3c532d9e-f8c3-40f9-8839-888697b62924|Merde, ne pourrait-on pas en discuter avant ?
+4edcd6e3-c5b0-4cae-8b96-a20f45bd66bf|C'est une pétition pour déshabiller Ashley afin de pouvoir la recouvrir de goudrons et de plumes !
+950b71fb-a7f6-4d38-957c-3f40c64c42c2|C'est une pétition pour obliger Derek à enlever sa chemise.
+027f18a1-3c88-4299-b8c4-e0737c45bbb5|Désolé, je ne savais pas !
+b38c9ec3-dab3-471b-a091-317b3ba70277|Mission réussie !
+f55a3434-a5f8-48cd-8594-7085b50ddff6|Ta culotte dépasse de ton jeans et j'ai cru reconnaître le logo.
+e29f8bca-0dd0-4ee4-861e-85b20ab3215f|Ma soeur était aussi une grande fan. Je sais reconnaître un fan quand j'en vois un.
+efc0de30-6928-4cbe-a34c-bf31c1bf6b72|Et merde...
+30b8e3b7-f78a-4097-be20-63c13ee66f46|Je vais pouvoir rassurer ma soeur qu'elle n'est pas la seule fan de cette ville !
+fc916ab6-1ade-44ab-90f5-512d6fa380f5|Est-ce que je pourrais les avoir si tu ne les utilises plus ? Tu sais... Pour ma soeur ?
+374d42c1-13a3-4650-ad9e-39a1744704f2|C'est bon à savoir. Merci, Madison !
+363415a1-4a11-4289-920f-2c571f2d0b2b|Oups...
+4d855b08-6332-45c6-ae46-a95de3497b8e|Ashley voudrait te parler.
+4273f658-5cac-443c-ade7-f3ddc912ed3f|J'ai vu Patrick planquer certaines de tes affaires dans son pantalon. Je pense qu'il essaie de te voler certaines babioles.
+78432e17-de33-49cb-8f13-abd940c1dbc6|Stephanie voudrait que tu changes la chanson qui passe dans le salon.
+07036c92-b7ba-461f-adbf-4192f9cd8730|Ne devais-tu pas changer de chanson pour Stephanie ? J'ai l'impression que c'est exactement la même.
+9c05671a-2b3a-406c-9406-18e701e8e030|J'aimerais tellement apprendre à te connaître.
+05df6215-4aa0-4cda-9ebb-89d0f8a6f50c|Peux-tu me dire où se trouve la salle de bains ?
+d3fc55fe-63ba-470a-9567-ffc6b9b29c8b|Au fait, est-ce qu'il y a une récompense pour t'avoir ramené ton téléphone ? Je pense qu'un bisou ou un truc du genre ne serait pas trop demandé comme paiement.
+109361f6-2fa0-42df-84df-2394b1420cdd|Pourrais-tu me réexpliquer le plan avec Ashley ? J'ai oublié ce que je devais faire.
+169a3687-268c-4fc1-a6b4-ef87f69056c4|Je n'arrive pas à trouver ton téléphone dans la salle de bains.
+7a77f9c4-ab63-4ecc-bd89-e999c2aff53d|Comme tu connais tout le monde ici, sais-tu si quelqu'un connait bien Vickie Vixen ?
+e5b475d1-53cb-4cfd-85fd-4478a8b488a7|Nous devrions discuter des photos de toi nues que j'ai trouvé dans ton téléphone.
+928b5ba0-7f4a-4eb6-870c-8b3551e76288|Bref, quels sont mes chances que tu me tailles une pipe ?
+6e99548e-3215-4c14-a6a9-e816d905aa15|Allons dans ta chambre. J'ai encore quelques trucs que tu dois faire pour moi.
+67e06009-0d7b-4a0d-8c81-0c8b9e15e2ec|Alors, veux-tu apprendre à m'aimer ? Ou aimer Raymond, comme tout le monde ?
+f2a2a9ce-f0a7-4f1b-966e-b50b25cbab43|Patrick a perdu son téléphone. L'as-tu vu ?
+b69c01dd-a6d7-47de-8b4d-b85719748833|Par hasard, tu n'aurais pas le numéro de téléphone de Vickie Vixen ?
+ac4959d0-118d-4302-972b-2ffc45978134|Puis-je avoir le numéro de téléphone de Vickie maintenant ?
+713ff135-ad24-4a22-82c4-6c39e7dc4a8c|J'ai rencontré ta soeur, Ashley.
+3cf43edf-3063-446d-b667-0ab287953e95|C'est quoi le problème de Frank ?
+4beafcc8-03c3-4feb-bcbe-ede556ed7818|Brittney ne veut pas sortir du bureau.
+c123866b-9bdc-4f69-8cb4-dfa8e0c36b65|Tu n'aurais pas osé organiser une fête sans penser à amener quelques drogues à usage récréatifs, n'est-ce pas ?
+9b23a822-c60f-4cee-8293-0bca97655df3|Ah ! Est-ce que tu veux bien signer ma pétition ?
+4821b278-b155-4c3f-9fbc-aea885ccf0f5|Je pense que tu devais être fan de "Goodbye Kitty" si je ne m'abuse.
+8b64b496-a956-4cfb-aab2-226d764cb19a|Par hasard, est-ce que tu saurais si l'un de tes invités porte des sous-vêtements à l'effigie du drapeau américain ?
+84aaba5c-3770-452d-ab21-49ea71cf386e|A plus, Madison.
+
+[Quests]
+349c80f4-9f5c-471d-abed-1e011d0d8b56|Le téléphone de Madison
+349c80f4-9f5c-471d-abed-1e011d0d8b56Description|La pauvre Madison a laissé son téléphone dans sa salle de bains. Elle a besoin d'un bon samaritain désintéressé pour le lui ramener.
+4450841e-5d5f-4237-826a-16fc6a1354ea|Humilier Ashley
+4450841e-5d5f-4237-826a-16fc6a1354eaDescription|Madison veut que vous humiliiez sa petite soeur. Devriez-vous l'aider ? C'est vous qui voyez.
+b592bd38-4adb-4e63-a7f0-926c4e4d1af6|Trouver le code pin
+b592bd38-4adb-4e63-a7f0-926c4e4d1af6Description|Madison veut que vous lui rameniez son téléphone. Devriez-vous le lui rendre directement ou regarder d'abord son contenu ? Quelqu'un pourra certainement vous aidez à débloquer son téléphone...
+c401e494-c5fe-430f-badc-0b142400f12c|Jaques a dit...
+c401e494-c5fe-430f-badc-0b142400f12cDescription|Maintenant que vous avez vu les photos intimes de Madison sur son téléphone, il doit bien y avoir un moyen de les utiliser contre elle !
+e04c86bc-1c67-4192-b0f5-6d140098b01e|Vickie Vixen
+e04c86bc-1c67-4192-b0f5-6d140098b01eDescription|Hum. Maintenant que vous avez les numéros de Rachael et de Vickie, vous faites face à un choix cruel et difficile : jouer une farce à Rachael ou inviter Vickie à cette soirée ?
+
+[Events]
+7a062b5f-7dc0-473c-91e4-1ffe67d2acfc|Je suppose que j'aurais dû être plus attentif aux personnes à proximité avant de fouiner dans les affaires de Madison...
+e17ca428-efd7-4d38-9003-c7a6e990a40e|Note à moi-même : la prochaine fois que je compte voler un truc à quelqu'un, s'assurer que son propriétaire n'est pas juste à côté de moi. Ce que je peux être con dès fois...
+24e74b07-1891-4245-9fee-0100ebe6974a|Putain, ça sonnait mieux dans ma tête...
+c68445b4-6ad2-4c97-a508-c4b35399cc88|Hum. Elle doit bien avoir rangé ce genre de sous-vêtements quelque part dans cette maison...
+412afb51-2028-4671-a0ff-8dc7397c74dc|Votre ami Derek vous a invité à une soirée. Lorsque vous arrivez, la soirée a déjà commencé et quelques personnes sont présentes. Après une inspection rapide des lieux, vous remarquez qu'il y a beaucoup plus de femmes présentes que d'hommes. La concurrence masculine étant plus que réduite, c'est peut-être votre jour de chance ! Mais avant tout, il faut que vous alliez voir Derek, vu qu'il est la seule personne que vous connaissiez vraiment. Oui, vous êtes ce genre de gars. Bonne chance !

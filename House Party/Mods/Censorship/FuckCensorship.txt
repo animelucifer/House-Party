@@ -1,0 +1,7 @@
+Extract this file, and place it in the following folder:
+
+Documents/Eek/House Party/Mods/Censorship
+
+You should run the game once before applying this patch, as the game will create the folder for you, and you can just drop this file into it.
+
+Enjoy!

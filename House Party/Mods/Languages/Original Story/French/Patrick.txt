@@ -1,0 +1,116 @@
+[General]
+Name|Patrick
+
+[Dialogues]
+0|Comment va ?
+0.1|Ca va ? As-tu réussi à me trouver de l'aspirine ?
+0.2|Mais... C'est mon meilleur pote ! Ca va ?
+0.3|Je suis complètement saoul !
+1|Frank le Tank ? Hic ! Il ne me fait pas peur.
+2|J'ai un sacré mal de tête. J'aurais vraiment besoin d'un cachet d'aspirine. Tu ne saurais pas où je pourrais en trouver par hasard ?
+3|Whoa, tu m'as dégoté de l'aspirine. Merci beaucoup. Maintenant, nous sommes potes pour la vie. Fais-moi signe si tu as besoin de quoi que ce soit.
+4|Madison et moi sommes cousins même si elle ne l'admettra jamais. La plupart du temps, elle prétend qu'elle ne me connaît pas. Ce n'est pas plus mal. Je ne l'aime pas particulièrement et elle non plus. Mais nos parents sont super proches et elle se ferait engueuler si elle me laissait à l'écart. Quoi qu'il en soit, je suis juste ici pour les boissons gratuites.
+5|C'est facile. A chaque fois que je vois Frank, je la planque dans mon pantalon ! Je suis arrivé ici avant lui, et quand il a commencé à regrouper toutes les boissons alcoolisées, j'ai caché cette bouteille dans mon pantalon. J'en ai déjà bu la moitié et je me sens trop bien. Un ch'ti canon ?
+6|Whoa ! Je peux voir ta teub ! Et en plus, tu en as une plus grosse que moi ! J'ai besoin d'un autre verre.
+7|Tu ne me croiras jamais ! J'étais tranquille dans mon coin quand il est venu vers moi. J'ai perdu ma bouteille de vin et il garde tout le reste de l'alcool. Je pense que je suis en train de dessoûler. Ce n'est vraiment pas cool.
+7.1|Tu ne me croiras jamais ! J'étais tranquille dans mon coin quand il est venu vers moi. Enfin bref, j'ai retrouvé ma bouteille, donc tout va bien.
+8|C'est quoi ce bordel ? Essayes-tu de cacher de l'alcool ? Je vais te casser la gueule, connard !
+9|Merde, est-ce qu'il pleut ? Attends, je ne suis pas dehors... Waouh, quel trip. J'ai besoin d'un autre verre.
+10|Trop cool ! Je vais prendre une gorgée de vin ! Merci mon pote ! Tu es le meilleur !
+11|Merde alors ! Merci de m'avoir prévenu ! Frank surveille tout ce qu'il a ramassé, et j'ai besoin de garder mon taux d'alcoolémie élevé !
+12|Parfaitement ! Je l'ai... Euh, commet dire ? En fait, je ne me rappelle plus où je l'ai mis. Ma mémoire n'est pas très bonne quand j'ai bu. Je le donne à quelqu'un pour qu'il le garde quand je commence à être bourré.
+13|Pas de soucis ! Je vais le chercher et tu vas me le garder au chaud jusqu'à ce que je sois sobre. Ce sera certainement avant Mardi.
+14|Britney ! Comment vas-tu ? Est-ce que je peux récupérer mon téléphone maintenant ?
+15|Ouais, mais mon meilleur pote ici présent en a besoin. Je pense qu'il doit appeler sa moman.
+16|Te voilà ! Désolé, j'ai essayé de récupérer mon téléphone mais Brittney ne me le rendra que quand je serais sobre. Tu vas devoir attendre Mardi.
+17|Non merci à toi ! J'ai du vin ! D'ailleurs, si je bois un café, je risque de dessoûler. Ca serait vraiment dommage.
+18|N'y compte même pas. C'est déjà nul que j'ai perdu ma bouteille. Mais si je bois ça, je risque de devenir complètement sobre.
+19|Whoa, pourquoi ne m'as-tu pas dit que c'était un Irish coffee ? Cool !
+20|Merci ! Ca va me permettre de garder mon niveau d'alcoolémie élevé !
+21|Attends, es-tu certain que ce soit un Irish coffee ? Mon taux d'alcoolémie est retourné à zéro.
+22|Whoa, ce café est glacé. Est-ce que tu peux aller me le réchauffer ?
+23|Oh ouais, pas de problème ! Laisse-moi aller le récupérer.
+24|Brittney ! Je suis sobre maintenant ! Est-ce que je peux récupérer mon téléphone ?
+25|Désolé ! Je ne pense pas que je te connaisse suffisamment pour te le laisser. Rien de personnel, je dois juste faire gaffe à mes affaires, tu comprends ?
+26|Whoa ! Merci mon pote ! Tu as retrouvé ma bouteille ! J'ai dû la laisser tomber quand Frank m'a frappé.
+27|Merci mon pote !
+28|Hé ! Brittney m'a enfin rendu mon téléphone. Le voici. Tu peux l'utiliser, par contre, promet moi que tu ne me le rendras uniquement si je ne suis plus en état d'ébriété, ok ?
+29|Même pas en rêve ! Je ne touche pas à ça. Ca me pourris mon taux d'alcoolémie.
+30|Whoa. C'est une idée géniale ! A deux contre un, je pense que Frank n'a aucune chance de s'en tirer. Mais je n'ose pas me battre sobre contre lui. Je t'aiderais si tu me dégote une bonne bouteille.
+31|Whoa, un cadeau, pour moi ? C'est une très belle flasque, mais je ne peux pas l'accepter... Je veux dire, elle est vide...
+32|Whoa, pas croyable ! Je te prends ça et je vais t'aider pour ton problème avec Frank. Préviens-moi quand tu auras besoin de moi.
+33|Parfaitement ! J'ai hâte de pouvoir prendre ma revanche ! Il n'aurait jamais dû me prendre ma bouteille !
+34|Waouh, doucement ! Tu ne devrais pas boire autant surtout si tu n'es pas un grand habitué comme moi !
+35|Trop fort ! Tu as deux bites ! Ah non, je vois juste double...
+36|Ouaiissss !
+37|Mais bien sûr, je suis toujours prêt. On ne peut jamais savoir quand on va avoir besoin de se salir les mains... Oh, attends, tu veux un préservatif ? Ah, non, désolé, je n'en ai pas sur moi.
+38|Waouh, j'adore les pétitions ! Attends, c'est pour quelle cause ? Il faut être prudent avant de signer quoi que ce soit de nos jours...
+39|Désolé, mais non. J'ai entendu dire qu'il avait des tétons en forme de frites, mais quand bien même, je parie que toutes les nanas auront leurs yeux rivés sur lui. Ca va ruiner toutes mes chances de conclure...
+40|Waouh ! La seule chose que j'aime encore plus qu'une pétition, c'est bien une surprise ! Deux de mes choses préférées ! Comment pourrais-je refuser ?
+41|Même pas en rêve ! Que des slips en coton blanc !
+
+[Responses]
+491b6431-fc0c-49e8-af66-23d2665b879c|Je te préviendrais si j'en trouve.
+16a89b78-a98a-47ed-ba29-90f50eb9655d|Je pense que je vais éviter de boire un truc qui sort de ton pantalon... Mais merci quand même.
+c349bdfc-4ef5-418d-b22f-af7d673fef0e|Au moins, quelqu'un est impressionné...
+92846865-273c-469e-bbae-309cab08bb07|C'est fait maintenant, Patrick.
+51827b77-8175-4d02-9637-b8c1147113b2|Je ne sais pas trop quoi répondre.
+daafef40-8f61-479b-881f-53229ca86fab|Je ne suis pas sûr que ce soit exactement ce que je devais faire ...
+76dd1b13-28dc-40dd-b939-87a005199766|Compris.
+68e4a98b-6def-44fe-b0a6-227ddde278e8|Enfoiré d'al... Il y a toujours quelque chose qui cloche. Ok, je vais voir si je peux savoir qui a ton téléphone.
+5a32516c-7beb-4c11-b408-59e8bdd13108|Génial. Merci beaucoup, Patrick.
+708de9a0-29ad-4dda-b7ae-f65a6532b1c2|(Continuer)
+77cd74cc-0c6d-47ac-a4fa-cbdedc13c922|(Continuer)
+db5d13a2-6303-45d6-b1e4-2e24a88a2496|Est-ce juste moi ou toutes les personnes présentes ici sont cinglées ?
+fe212092-e22a-404c-a768-98a336848d32|Effectivement. À quoi pouvais-je bien penser ?
+79dfd088-6ff8-408f-b3c6-5c5fa3be2540|Ouais, ça serait dommage, n'est-ce pas ?
+252b8967-6160-437d-bf66-fe4bfbe5984e|C'était étrangement trop facile ...
+4ca3e043-641c-41b6-8ee1-57c4c5e62a99|De rien, Patrick !
+eb8eb9b8-0ea2-4de2-adda-c53c5971564f|Oups. Désolé Patrick.
+00da44b1-cbeb-4ba5-9af1-fcbd904da9d5|Bien sûr, pourquoi pas ?
+d906e79b-2365-4399-9add-e666f2037f74|Enfin !
+b25eccfc-851f-4268-80b7-7efaf1a32b95|(Continuer)
+def0b66b-a79a-45e2-afb8-b3cbfc6617cd|C'est sûr.
+ecfd1225-716a-4446-af30-9587d2e9d8d0|À quoi servent les meilleurs potes ?
+11c99c3c-bc3d-451f-85d6-d69a7b1612c9|(Continuer)
+428be970-527a-4555-bb08-b872fb194355|C'est entendu, Patrick.
+a9fc96bc-9a4c-4315-9c23-f0bce2991bbd|Tout ce que je ne fais pas pour toi, Patrick... Merde ok.
+d6bc83ca-ef66-49bd-b283-996b56d1249a|Bien entendu. Ce que je peux être bête alors...
+2fa42d92-1f72-4a0b-bccf-0ce99e0e97aa|J'étais sûr que je pouvais compter sur toi, Patrick !
+779baef6-a365-49fb-bc1e-4a8528da3dcf|Ouais, je suis sûr que c'est lui qui t'a pris ta bouteille de vin !
+e04c0ea6-9b2f-4188-80bb-62192f4e21e4|C'est quoi son problème ?
+0ed2aa04-b209-44ca-a97e-5325fe46734a|C'est pour obliger Derek à enlever sa chemise.
+997ae977-fd8f-4d87-b520-022df56acd11|C'est une de ces pétitions surprises. Quand tu recevras le résultat, tu sauras enfin la cause pour laquelle tu as signé.
+94f1865e-81d4-4888-9344-d0121fc38fa9|Je partage complètement ton point de vue.
+9aa43264-8f51-4eaa-b202-f1f35a29b668|Je comprends parfaitement. Merci !
+ba7a85ec-7dd5-4ebf-bbfa-facbcb800a9c|Tu devrais faire gaffe à Frank.
+7abeecdb-4093-49c5-b80b-1f26ffa6c9d7|Au fait, comment as-tu connu Madison ?
+afe667f1-6eaf-4817-a2c0-06438118ee6b|Comment as-tu réussi à garder une bouteille de vin avec Frank qui rode dans les parages ?
+bbe69817-aa9a-4fd1-ae70-17b934b0de58|Je vois que tu t'es battu avec Frank. Tu sais pourquoi ?
+ed0fd5b3-76d4-4cad-a05d-551894b9e22c|Que puis-je faire pour toi ?
+b6f2e33d-cd4d-428e-a595-49197396fce2|Au fait, j'ai vu une bouteille d'alcool sous le canapé dans le salon.
+d8414893-b492-4b35-b54a-e19594851d94|À propos de cette faveur que tu me dois, puis-je utiliser ton téléphone quelques instants ?
+ae91da60-2dc0-4525-97d9-4543f908de70|Tu as donné ton téléphone à Brittney, mais elle ne veut pas me le donner.
+a6c0de9c-51c1-4f6f-ad2a-5aa5effa9869|Je suppose que je vais juste donner cet Irish coffee à quelqu'un d'autre alors ?
+2e3accf5-ee24-4ee9-9f35-c8056953fcab|Puisque tu es sobre, penses-tu que tu sois capable de demander à Brittney qu'elle te rende ton téléphone ?
+cbbd3db2-b3b8-4144-882b-08dc0583740f|Attends, est-ce que je peux emprunter ton téléphone ?
+0731278f-b7fc-4b45-82d6-0316635e3825|Tu ne saurais pas qui pourrait me refiler un joint ?
+63e24a9a-2e67-4aab-8346-f5a8912e7e85|Patrick ! Tu es la personne idéale pour aider Derek à massacrer Frank !
+d76e8a32-8745-4733-bd18-f1c6c0071a18|Ok, Derek est prêt ! Allez foutre une branlée à Frank !
+3fec9481-68e2-46a4-9916-a75ce446d71e|Ah, Patrick. Est-ce que tu aurais un préservatif à me prêter ?
+95cf076f-cd28-48e0-adc4-84c193eee633|Ah, Patrick. Est-ce que tu pourrais signer ma pétition ?
+5062e15f-e0c5-459d-9e39-3e41ee423310|Ah, Patrick. Est-ce que tu porterais des sous-vêtements à l'effigie du drapeau américain, par hasard ?
+aaf6470c-6c4d-4d2a-a487-6800491682f9|A plus, Patrick.
+
+[Quests]
+bda26daa-5444-4f5a-b7e4-40e50ae2a7d6|Un médicament pour ce pauvre homme !
+bda26daa-5444-4f5a-b7e4-40e50ae2a7d6Description|Patrick a un sacré mal de tête. Vous devriez peut-être lui donner de l'aspirine.
+574049de-6301-4d80-86f6-b8432cb225b9|SMS falsifiés
+574049de-6301-4d80-86f6-b8432cb225b9Description|Patrick laisse toujours son téléphone à quelqu'un pour le garder en sécurité quand il compte s'enivrer. Vous allez devoir trouver la personne à qui il l'a laissé si vous voulez lui emprunter...
+700aed5e-9c81-4def-ade7-c7f5536a59ab|Pas avant Mardi ?
+700aed5e-9c81-4def-ade7-c7f5536a59abDescription|Patrick ne sera pas sobre avant Mardi, mais vous avez besoin de son téléphone ce soir. Il faut trouver un moyen d'accélérer le processus... Pour commencer, il faudrait le séparer de cette bouteille de vin...
+
+[Events]
+e1ffdc24-9f36-40d1-89aa-640b2f6dc2fe|Bon, il faut que je dessaoule Patrick. Tout d'abord, il faut qu'il se débarrasse de cette bouteille. Ensuite, il faut que je trouve un moyen rapide de le dessaouler...
+d6e158fc-7a28-436b-97d7-964f38441143|Bon, il faut que je dessaoule Patrick. Frank vient de lui péter la gueule et il a perdu sa bouteille. Il ne me reste plus qu'à trouver un moyen rapide de le dessaouler...
+7941cd7f-ca42-47f7-bb89-b6fbac6f9a2a|Bon, y a plus qu'à attendre...

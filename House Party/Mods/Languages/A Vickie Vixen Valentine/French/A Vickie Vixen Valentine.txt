@@ -1,0 +1,181 @@
+[General]
+WhichStoryText|A quelle histoire voulez-vous jouer ?
+UnderDropDownText|(Vous pouvez ajouter des histoires en les téléchargeant ou en créant les vôtres !)
+StartNewGame|Démarrer une nouvelle partie
+LoadGame|Charger une partie
+VisitWebsite|Visiter notre site pour les dernières nouvelles
+DownloadStories|Télécharger et partager des histoires sur notre forum
+StoryCreatorHelp|Apprendre à créer votre histoire
+Quit|Quitter
+ChooseLanguage|Choisissez votre langue
+LockedDoor|Elle semble bloquée.
+CantDoThat|Je ne peux pas faire ça.
+
+[Item Names]
+Amy|Amy
+Armchair|Fauteuil
+Ashley|Ashley
+Bathroom Door|Porte de la salle de bains
+Bed|Lit
+Bedroom Closet Door (Left)|Porte du placard de la chambre (gauche)
+Bedroom Closet Door (Right)|Porte du placard de la chambre (droite)
+Bedroom Door|Porte de la chambre
+Brittney|Brittney
+Cabinet|Meuble
+Cannabis Chocolate|Chocolat au cannabis
+Couch (Left)|Divan (gauche)
+Couch (Middle)|Divan (milieu)
+Couch (Right)|Divan (droit)
+Derek|Derek
+Drawer|Tiroir
+Dining Chair|Chaise de la salle à manger (1)
+Dining Chair 2|Chaise de la salle à manger (2)
+Mound of Dirt|Monticule de terre
+"The Uncertain" DVD|"The Uncertain" en DVD
+Fire Pit|Feu de camp
+Frank|Frank
+Fridge|Frigo
+Garage Door|Porte du garage
+Gutter|Gouttière
+Hot Tub Stairs|Escaliers du jacuzzi
+Katherine|Katherine
+Katherine's Phone|Le téléphone de Katherine
+Stashbox Key|Clé de la cachette
+Laundry Room Door|Porte de la buanderie
+Lawn Chair|Chaise de jardin
+Madison|Madison
+Your Phone|Mon téléphone
+CatNip|Herbe à chat
+Master Bathroom Door|Porte de salle de bains principale
+Master Bedroom Door|Porte de la chambre principale
+Nighstand Drawer 1|Tiroir de la table de nuit (1)
+Office Chair|Chaise du bureau
+ | 
+Sofa|Canapé d'extérieur
+Allergy Medication|Médicament contre les allergies
+Pantry Door (Left)|Porte du cellier (gauche)
+Pantry Door (Right)|Porte du cellier (droite)
+Patio Armchair|Chaise de jardin
+Patrick|Patrick
+Pencil|Crayon
+Flash 'n Dash|Flash 'n Dash
+Phone3|Téléphone 3
+Ashley's Phone|Le téléphone d'Ashley
+You|Moi
+Pouf|Pouf
+Rachael|Rachael
+Safe|Coffre-fort
+Slider Door|Porte coulissante
+Closet Door|Porte du placard
+Sofa (Left)|Canapé (gauche)
+Sofa (Right)|Canapé (droit)
+Room Door|Porte de la chambre
+Spare Room Chair|Chaise de la chambre d'ami
+Spare Room Door|Porte de la chambre d'ami
+Stephanie|Stephanie
+Study Door|Porte du bureau
+Upstairs Bathroom Door|Porte de salle de bains (à l'étage)
+Utility Closet Door|Porte du placard (utilitaire)
+Vanity Chair|Chaise de la coiffeuse
+Vickie|Vickie
+Vickie's Panties|La culotte de Vickie
+
+[Item Actions]
+Inspect|Examiner
+Talk|Parler
+Give|Donner
+Sit|S'asseoir
+Faster|Accélère
+Slower|Ralentis
+Fuck|Baiser
+Open|Ouvrir
+Close|Fermer
+Lock|Verrouiller
+Unlock|Déverrouiller
+Lay Down|S'allonger
+Check Underneath|Regarder en dessous
+Consume|Consommer
+Read Cover|Lire la couverture
+Take|Prendre
+Climb|Grimper
+Get Out|Sortir
+Use With...|Utiliser avec...
+Check|Lire
+Shake|Secouer
+Shake |Secouer 
+Knock|Frapper
+Open |Ouvrir 
+Open  |Ouvrir  
+Use With|Utiliser avec
+Check Texts|Regarder les messages
+Check Reminders|Regarder les rappels
+Remove Shirt|Enlever sa chemise
+Remove Pants|Enlever son pantalon
+Remove Boxers|Enlever son caleçon
+Put On Boxers|Remettre son caleçon
+Put On Pants|Remettre son pantalon
+Put On Shirt|Remettre sa chemise
+Remove Shoes|Enlever ses chaussures
+Put On Shoes|Remettre ses chaussures
+Play|Jouer
+Approach|Approcher
+Doggy|Levrette
+Missionary|Missionnaire
+Eat Out|Cunni
+Cowgirl|Cowgirl
+
+[Events]
+d20cb5ff-f2d8-4879-8a4e-2adeea5841bd|Amy vient d'arriver dans notre ville. Je ne pense pas qu'elle connaisse grand monde à cette soirée.
+f0e38c53-a2f6-4656-9946-0ad1c035654a|C'est Ashley, la soeur de Madison. Elle a l'air assez contrariée. Je parie qu'elle a besoin d'un gars comme moi pour la réconforter.
+cd8316ee-a6e1-4ec0-aa33-251ee688c7c3|J'ai trouvé un DVD et un vibro. Je vais prendre le vib... Le DVD. La tête de Vickie est sur la jaquette et ça a pour titre "Gangbang Gothique 16". Gangbang Gothique, hein ?
+2db75f33-0552-43ce-b681-0462676f064c|J'ai trouvé un DVD et un vibro. Je vais prendre le vib... Le DVD. La tête de Vickie est sur la jaquette et ça a pour titre "Gangbang Gothique 16". Gangbang Gothique, hein ?
+97b01f56-be12-43c4-9891-a78eaa187749|Brittney est toute seule dans cette pièce et elle semble triste. Je me demande si je peux faire quelque chose pour lui remonter le moral.
+1d2a8b0e-daa5-47ca-81e0-dfc1974967b8|"Miss Munchie - Du chocolat aromatisé au Cannabis"
+
+"La seule solution naturelle lorsque vous ne voulez pas quitter le canapé pour trois jours !"
+0a841f89-73a4-4666-9a6b-558acfaaf34d|C'est Derek. C'est un ami et c'est lui qui m'a invité à cette soirée où je ne connais presque personne.
+a69d5ca5-8493-4713-b5d5-ad208098e992|Hum... J'ai l'impression que le sol est plus meuble par ici, comme s'il avait été retourné récemment.
+1e3884f5-7aeb-4f11-bb28-fec0015d2614|Wahou ! Je ne savais même pas que ce film était sorti ! Il y a une note écrite dessus... Ecrite par Vickie.
+b75af56b-127e-40d3-b200-bba120395d21|Hé, il y a une autre note de Vickie...
+895714b6-29bb-4284-8b5b-179748d68a75|*Une copie de "Gangbang Gothique 16" repose maintenant dans l'étui*
+729b3710-f91b-4745-b825-6a3e750ef3e6|Cool, un feu de camp ! Dommage qu'il n'y ait pas de guimauve...
+a5241c6c-be2b-468e-a80d-bfefefa4af74|Frank n'est qu'un connard très susceptible. Je devrais probablement éviter de le faire chier.
+3f1017fb-060f-4b10-b37e-d4debca66c15|Quel temps de merde en Février... On se les gèle ici.
+75463536-54c3-4b6e-8649-053841071c3a|*Vous réussissez à vous infiltrer par la petite fenêtre au-dessus de la machine à laver. Vous êtes entré !*
+44df90ef-bdfe-446c-812d-aa91304e1fd7|Katherine à l'air sympa, et elle est intelligente mais elle a déjà un petit ami. Devrais-je quand même tenter ma chance quitte à perdre mon temps ?
+e3f93a94-eb7e-46ad-acbf-4e9894e39c5b|Lire le message
+1298b7f3-c87c-4c11-828a-ec43b94043af|*La clé que Vickie a extrait de tiré de l'épave d'une guitare*
+3949dbc4-fba4-45d0-8a64-793e48177f3c|*Quelque chose roule de l'arrière du meuble et tombe par terre*
+d817d338-b0eb-49c6-985a-473cb2e098d7|Ca fait bizarre d'être ici sans... les autres.
+2ae370b1-4f00-4ecc-bca1-27179faa14c2|C'est Madison. C'est elle qui a organisé cette soirée. Je dois absolument bien me comporter en sa présence si je ne veux pas qu'elle me vire.
+bc197bfa-1aec-47d8-a7fc-2541b08d00a7|Aucun nouveau message depuis celui de Vickie... A croire que tout le monde est occupé pour la Saint-Valentin.
+bc17eea9-675c-4a60-9e8a-958de9a98152|Et me voilà, à la saint-Valentin avec un sac d'herbe à chat dans ma main, à la recherche d'un chat dont je ne suis même pas sûr qu'il existe... Génial.
+b3c4d34c-0250-4e85-810d-7cecd6b9661b|Viens ici, petit, petit !
+9b29aa70-035f-4634-aba3-eea2c63c610f|J'ai l'impression d'être un idiot... Je devrais peut-être essayer une autre pièce.
+a971afa0-abf2-4364-b561-d0d3e24900b2|Je commence à en avoir marre de ça.
+bb803b85-ed27-42d4-b068-d18f9427ce0c|C'en est trop. Je vais aller tirer cette affaire au clair avec Vickie.
+47eff5f4-a051-4772-a125-dd754b3f5134|Hors de question. J'en ai fini avec cette connerie. C'est l'heure de demander des comptes à Vickie.
+dc752296-41d8-4ef2-893b-7e45b8dfdd52|Il vaudrait mieux que je descende ouvrir à Vickie. Je n'imagine même pas ce que Madison me ferait si elle apprend que je suis allé dans sa chambre sans son autorisation.
+4a4ed1ee-9e20-4dc6-9784-f6bf2c8b9758|*Vous trouvez un conteneur orange verrouillé avec un simple cadenas* 
+af2dc0ef-222b-415c-b3a5-120deb2213ff|Putain de merde, ça doit être la cachette ! Je vais attendre d'avoir trouvé la clé avant de le dire à Vickie.
+0ec1d876-57f4-4252-9a5c-ef81882a06ef|*Le haut de la cachette glisse, révélant des dizaines de barres de chocolat*
+01bbe632-922a-4e7d-835f-2980879962d7|*C'est un médicament prescrit par un médecin... Vous lisez l'étiquette sur la bouteille. Madison a une réaction allergique à un animal de compagnie d'un de ses voisins.*
+61da5f39-9276-410c-8385-e9b208120e07|Pourquoi Madison aurait-elle un chat si elle en est allergique ?
+
+Ca n'a aucun sens ! Tu fais chier, Vickie !
+b0d2a3ac-7b9a-4a95-9114-611540303364|Presque tout le monde déteste Patrick. Je ne sais même pas comment il a pu être invité.
+128e0405-97c4-40e3-b7ed-d5aed85c81d4|Le crayon n'est pas un indice, c'est juste un crayon.
+1a3ea259-9aae-47f1-8256-add210c0d3eb|Lire le message
+d3e4448d-6fa7-4127-bb9f-9711ec253c66|Hum, il y a une discussion entre Ashley et Madison. Même si c'est bizarre, je vais quand même lire leur dernier échange.
+56b4d9e3-f22f-4598-b522-cc9061ce95fb|Je dois prendre la chose afin que je puisse voir l'écran.
+12a8f3c3-d694-49d6-91b2-2eabdd5a6018|Oh, ai-je le courage d'en lire plus ?
+f1763535-ebbc-4274-899a-b5186d795928|Bon, je vais lire une autre de leur discussion.
+0536a726-6063-45d6-87c5-ebedc78e59de|Rachael semble très sympa. J'ai entendu dire qu'elle est amie avec certaines personnes célèbres, notamment Vickie Vixen.
+80746a36-4608-4f73-87af-624dbd947ccc|Hum. J'ai l'impression que la porte de ce placard ne se ferme pas complètement...
+612f50c3-49eb-4d87-b6b9-704fcf3fd6f5|Merde ! Elle a verrouillé la porte ! De toute façon, la surprendre n'aurait rien apporté de bon... Je me demande s'il n'y avait pas un moyen pour que je puisse voir ce qu'elle peut-être en train de faire...
+ae8e98a8-e36d-4a78-bb9a-27e424e31465|Advienne que pourra... Ashley va me tuer si elle sait que je suis venu ici.
+9ff39872-7bae-4cf1-9b08-76789a0870d1|Comme si dégrafer son haut n'était pas suffisant... Si je compte aller dans la chambre d'Ashley, je ferais mieux d'écrire mon testament d'abord.
+f2463d77-50be-4149-a3f7-68947040b111|Je n'ai pas l'impression que Vickie soit là.
+49cadac3-83be-46c7-836e-c5a06b56bc26|Stephanie se comporte comme une gamine, mais ça lui va bien. Il n'y a qu'à la voir bouger !
+034b5822-334b-4a93-9f48-db9778f19d81|C'est partis !
+d72280d1-f48b-47fa-8d9d-73653945b1f0|Mon dieu, regardez-moi ça. Je dois absolument enlever ce pantalon et mon caleçon !

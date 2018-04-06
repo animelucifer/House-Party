@@ -1,0 +1,259 @@
+[General]
+WhichStoryText|A quelle histoire voulez-vous jouer ?
+UnderDropDownText|(Vous pouvez ajouter des histoires en les téléchargeant ou en créant les vôtres !)
+StartNewGame|Démarrer une nouvelle partie
+LoadGame|Charger une partie
+VisitWebsite|Visiter notre site pour les dernières nouvelles
+DownloadStories|Télécharger et partager des histoires sur notre forum
+StoryCreatorHelp|Apprendre à créer votre histoire
+Quit|Quitter
+ChooseLanguage|Choisissez votre langue
+LockedDoor|Elle semble bloquée.
+CantDoThat|Je ne peux pas faire ça.
+
+[Item Names]
+Armchair|Fauteuil
+Bathroom Door|Porte de la salle de bains
+Bed (Left)|Lit (gauche)
+Bed (Right)|Lit (droit)
+Gut Grip Digestive Aid|Gut Grip - Aide digestive
+Brittney|Brittney
+Liquor Cabinet|Bar
+Cell Phone Jammer|Brouilleur de téléphone
+Computer|Ordinateur
+Couch|Canapé
+Operator|Opérateur
+The Uncertain|The Uncertain
+Spermicidal Lube|Lubrifiant Spermicide
+Flower|Fleur
+Frank's Chair|La chaise de Frank
+Fridge|Frigo
+Garage Door|Porte du garage
+Whack Spaniels|Whack Spaniels
+Liquor Cabinet Key|La clé du bar
+Brittney's Key|Le passe-partout de Brittney
+Lawn Chair|Chaise de jardin
+Patrick's Phone|Téléphone de Patrick
+Marijuana|Marijuana
+Master Bathroom Door|Porte de salle de bains principale
+Master Bedroom Door|Porte de la chambre principale
+Microwave|Micro-onde
+Michelin' Motor oil|Huile pour moteur de Michelin
+Office Chair|Chaise du bureau
+Office Drawer Right|Tiroir du bureau (droit)
+Outside Sofa|Canapé d'extérieur
+Notes About Brittney|Notes à propos de Brittney
+Comfy Chair|Fauteuil confortable
+Patrick|Patrick
+Phone|Téléphone
+Brittney's Phone|Le téléphone de Brittney
+Phone4|Téléphone 4
+Pizza Box|Pizza
+|
+Pouf|Pouf
+Slider Door|Porte coulissante
+Sofa|Canapé d'extérieur
+Speaker with Sexy Beats|Haut-parleur
+Smelly Stove|Four malodorant
+Tablet|Tablette
+Towel|Serviette
+Vanity Chair|Chaise de la coiffeuse
+
+[Item Actions]
+Sit|S'asseoir
+Open|Ouvrir
+Close|Fermer
+Lay Down|S'allonger
+Inspect|Examiner
+Take|Prendre
+Ingest|Ingérer
+Ingest |Ingérer 
+Talk|Parler
+Give|Donner
+Oogle|Mater
+Brash Compliment|Compliment salace
+Safe Compliment|Compliment normal
+Listen|Ecouter
+Lean In|Se pencher
+Lean In |Se pencher 
+Motorboat|Jouer avec ses seins
+Top Off|Enlève ton haut
+Doggy|Levrette
+Go Down On|Cunni
+Lean Close|Se rapprocher
+Lean Close |Se rapprocher 
+Joke: Foul|Blague de cul
+Joke: Off-Color|Blague douteuse
+Listen |Ecouter 
+Lean Close  |Se rapprocher  
+Gift|Cadeau
+Plan|Organiser
+Give |Donner
+Ask|Demander
+Approach|Approcher
+Inquire|Se renseigner
+Missionary|Missionnaire
+Cowgirl|Cowgirl
+Faster|Accélère
+Faster |Accélère 
+Plan  |Plan  
+Approach |S'approcher 
+Unlock|Déverrouiller
+Use With...|Utiliser avec...
+Dating Profile|Profil de votre rencontre
+Search Patrick|Rechercher Patrick
+Pick|Cueillir
+Pick |Cueillir 
+Inspect |Examiner 
+Check|Vérifier
+Photo Pat|Photos de Pat
+Upload|Télécharger
+Photo Brit|Photos de Brittney
+Upload |Télécharger 
+Photo Mode|Mode photo
+Lift Cushion|Soulever le coussin
+FlashN'Dash|Flash'n'Dash
+Eat|Manger
+Open |Ouvrir 
+Turn Off|Éteindre
+Turn Off |Éteindre 
+Turn On|Allumer
+Commit|Tenter
+Sabotage|Saboter
+Inspect Recipe|Examiner la recette
+FLASHN'DASH|Flash'n'Dash
+Lift|Soulever
+
+[Events]
+Wait until Brittney's all the way upstairs!|Attendez au moins que Brittney soit à l'étage !
+02a0ede3-a41e-4683-8de7-35dd9bd8bf11|GUT GRIP : La seule aide digestive qui empêche les fuites. Vous comprenez de quelles fuites on parle...
+
+Marron, celle qui sort des fesses...
+24d19afd-86a9-4eff-a182-042150933329|J'ai déjà mangé... C'est trop tard maintenant.
+c88f1d50-fca9-489e-a3fe-91e343e3815d|*Vous engloutissez tout le tube Gut Grip et laissez tomber le tube vide sur le sol. Comme un faux dur à cuire.*
+a8000a71-cea6-4687-97e1-28fd15d8a05f|Il n'en reste plus. Tout est dans mon estomac.
+3994c0b4-fddd-440e-997d-57f05f420370|Mon dieu, cette femme pourrait commencer un culte juste grâce à son apparence. Je signerais immédiatement, tant pis pour les litres de Kool-Aid que je devrais boire.
+14a3d697-fae1-4f89-8132-0bd6a244de0f|Tout à fait charmant comme endroit, Brittney. Tu as tourné un porno pour pouvoir te le payer ?
+51947e7d-f9db-4a8f-ad36-27442291c9cd|J'aime vraiment ton style, Brittney !
+4f8214a6-2ff2-4c5d-89ef-4da52bcb503a|Je ferais mieux d'enlever ma chemise, pour éviter qu'elle frotte mes tétons. Putain de sensibilité.
+55989861-1a4a-422c-b38b-9cfbfebe24d2|Je ne peux pas atteindre l'agrafe !
+9a717ec6-0cdf-46dd-9897-78f40550c85f|L'agrafe est en-dessous d'elle !
+6d1cd362-04ad-4c56-a961-c0752f1d139c|Je ne peux pas atteindre l'agrafe !
+62346288-443e-4a7e-b050-d4cd14669035|Oui !
+3ee171cf-bcef-4d68-843e-12d606b157e9|Quel est le point commun entre la maffia et un vagin ? 
+
+Si ta langue fourche, tu peux facilement te retrouver dans la merde !
+aa1e3add-b186-4dfa-8ac6-ef52fb8594b2|Comment casses-tu le gode d'une fille du Sud ? En frappant son frère dans la bouche.
+c1053ba1-e742-467a-a905-9046855aaefc|Brittney, concernant la clé du bar, tu ne saurais pas où elle se cache ?
+ba53f259-54a0-40cf-9145-76446f57fa58|Brittney, concernant la clé du bar, tu n'aurais pas la moindre idée où elle serait cachée ?
+4459fe17-f2ca-4907-bc4b-836dbb317038|J'ai la clé. Et maintenant ?
+1a724530-fce8-4f94-8361-ee1b70895cd2|Je ferais mieux d'enlever ma chemise !
+d869e920-0086-4396-a0dd-1c1647a1cfad|Je ferais mieux d'enlever ma chemise !
+7b54462b-ecda-4471-b431-7663c875653a|*Brittney veut que vous retourniez à l'extérieur, pour voir si Patrick est ivre*
+cc8db2c3-0e53-4ea3-b89b-63dfeb73feb9|*Brittney vous rappelle de prendre une photo avec son téléphone*
+f0add077-6b49-490f-8c01-29f09b9098f2|Zut... J'ai l'impression que Brittney se retient de pleurer. J'espère que c'est juste dû l'odeur d'huile de moteur dans l'air. De toute façon, je ferais mieux d'utiliser son téléphone pour commander à manger.
+e9acaed8-ea9c-4a32-88ad-e08fb1213143|Ca, c'est ce que j'appelle un bar ! Brittney est très bien équipé pour faire la fête. Je devrais peut-être me faire plaisir, pour me calmer les nerfs.
+b97b8e68-174b-4461-810d-a3bddd224ab5|Merde, c'est verrouillé. 
+e8ebf166-576c-41dd-a1d5-777e5ef78e9a|Salut, Whack Spaniels.
+5b9b7026-ed27-47bb-9326-73ce4466f127|Ca, c'est ce que j'appelle un bar ! Brittney est très bien équipé pour faire la fête. Je devrais peut-être me faire plaisir, pour me calmer les nerfs.
+b787c495-6cca-46ef-b837-5920fc6162a3|Merde, c'est verrouillé. 
+d0e94185-d330-4b9d-b487-db7ebbc27e78|Salut, Whack Spaniels.
+0bd49a4f-d407-4d6d-a54e-bb942f783b57|Est-ce que c'est un brouilleur de téléphone portable ? Pas question que j'embarque ça. Je n'ai pas envie d'être interdit de prendre l'avion.
+e2b5aa28-d224-4656-b0ab-feae25273526|Pas de mot de passe ? Sacrée Brittney...
+0813250d-aaf3-4887-a2e1-45f173bb691b|Bienvenue sur la Plantation du plaisir, le site de rencontre pour ceux et celles qui croient encore que le Sud puisse encore se lever.
+
+Le profil de Brittney (Actuellement caché - Félicitations d'avoir trouvé quelqu'un qui vous intéresse !) :
+
+Aime :
+- Les compliments
+- Les blagues douteuses
+- La lutte dans la boue
+- Les gestes romantiques
+- Les sports nautiques.
+
+Déteste :
+- Les blagues dégueu 
+- Parler en public
+- Les gens trop directs
+- Les pervers
+1cd1ec58-a5f8-4879-bf3f-706e2ca8a123|Son profil de rencontre !? Cela pourrait être utile pour plus tard. Je vais noter ça.
+88d9c5c1-a802-49fb-a4a3-4ee5c395209d|Plusieurs articles parlent de Patrick. 
+
+Ce type a été arrêté plus souvent que Mel Gibson en état d'ivresse sur la voie publique. 
+
+Mais Patrick a également été invité dans un podcast nommé "Hang 10k", vous écoutez un extrait.
+00b01c68-90d4-441e-be09-4a26924ca7be|Description manquante, désolé
+35c2f0a0-5b84-47d1-ba85-de0b1c5c6888|Ce fil m'a un peu déçu pour être honnête. Rien à voir avec le roman graphique sur lequel il est basé.
+1886e1ab-a19c-40a3-ab6e-d70cb035316f|Euh, non ? Je ne volerais pas une voiture, alors pourquoi prendre ça ? 
+d715f96d-ead0-44ea-843d-f2ce32359fec|Sperm Ecorché : la Prévention de la grossesse est une guerre d'usure !
+a7cd6b66-9c9e-49e0-bb93-3315f4f6bd77|Donner une fleur à une fille. C'est peut-être cliché, mais ça vaut le cout.
+a08b0b45-ba02-453d-9e9b-7a637c2764f7|Je ne pense pas que ça puisse m'aider à reconquérir Brittney... Quels sont mes autres options ?
+8fdc7e07-845e-4a73-8e8c-240fbec66daf|Quelle jolie petite fleur.
+60558320-b75c-4462-8488-71c838ffdcac|Je crois que c'est un "Frigo". Oui, j'en suis sûr.
+d4594192-ca52-47be-b7f5-4a3dd716dde0|Je ne devrais pas fouiller son frigo. Je sais que mon estomac est super sensible. Je ne veux pas tomber malade en mangeant tout et n'importe quoi.
+2efb34fa-c4d2-45d1-8b62-ef62c352fcb5|Verrouillé... Peut-être plus tard.
+d00c85a4-ff51-42b1-ae25-0267e8080f1a|Un tour rapide de clé... Et c'est ouvert !
+cd4afaef-a292-4720-b536-400818b76d78|Whack Spaniels. La boisson préférée de Patrick. 
+e1416e36-567b-4198-b788-ab28c9315160|Cette clé est collante et empeste l'alcool. Elle ne peut donc servir qu'à ouvrir le bar.
+4efa4700-67e3-44be-97b9-43f2752c7047|C'est la clé que Brittney m'a donné. Apparemment elle ne fonctionne qu'au rez-de-chaussée.
+00fe507f-5be4-4948-abea-b7cb893a4a33|Ce téléphone a dû vivre un enfer. Normal, c'est celui de Patrick.
+826c378a-b271-448b-8516-a3089be6f257|Patrick ne voudra pas payer pour des photos de Brittney si ses seins sont cachés sous ses vêtements.
+0d1cdd29-3bc1-4c89-a4d8-25f2ba78126f|Nan, pas en levrette. Il me faut des photos de ses seins.
+6614a4fd-1dbe-41c4-8833-04c5869db6ff|Ce n'est pas le bon moment. La photo doit être prise dans un moment plus intime. Je le saurais quand je le verrais.
+0bab0864-51fc-41ae-bae2-d0f935f00804|Lire le message
+26b0af22-7190-4e22-b7ea-5b4f292bd723|Je ne crois pas que je sois supposé être ici... pour le moment.
+fc7af38b-b3b4-4016-bf40-3a69bd0975ad|C'est un micro-onde. Que dire de plus ?
+409bff9f-9ed7-4ef7-b873-aefa3a8de56d|Oh oui, excellente idée : je vais mettre le micro-onde dans ma poche et continuer ma route... Idiot
+58114a20-51a3-44a6-8745-eb63da7abf0b|Ahhh, l'huile pour moteur de Michelin... Produites à partir des vignes de Detroit. Ca doit être parfait pour ruiner un plat !
+3300a77c-3da9-4084-b898-246814e64d6c|Description manquante, désolé
+7866eaed-1bcf-435f-9c1b-3989b4652a30|
+Le profil de Brittney (Actuellement caché - Félicitations d'avoir trouvé quelqu'un qui vous intéresse !) : 
+
+Aime :
+- Les compliments
+- Les blagues douteuses
+- La lutte dans la boue
+- Les gestes romantiques
+- Les sports nautiques.
+
+Déteste :
+- Les blagues dégueu 
+- Parler en public
+- Les gens trop directs
+- Les pervers
+aca55d17-d0a7-44d0-8199-c07eb03d89c9|Ah tiens, une clé ! Elle est collante et attire les regrets. Ca doit être la clé du bar.
+730776a6-dd7b-4448-80f0-45d4f03f3be0|J'ai l'impression qu'un truc essaye de me rentrer dans les fesses quand je m'assoie. Je ne pensais pas que cette soirée serait de ce genre-là...
+62cb81a4-619b-4303-813b-df2c70314ab4|Tiens, un homme est caché dans un buisson devant la maison de Brittney. Rien d'anormal.
+c2b08b40-2274-4d58-ab80-a0a6e7eef32c|Ce téléphone a dû vivre un enfer. Normal, c'est celui de Patrick.
+00f7ab5f-7eba-4f54-9146-cfc4914adb62|Merci d'avoir téléchargé l'app de livraison Flash'n'Dash ! Les plats vous seront livrés en moins de 30 minutes, sinon on vous envoie une prostituée. 
+
+*NOTE* : Seule des prostituées amputées sont disponibles pour le moment.
+3a4b7ef4-a050-47fb-b0a3-1c64ef8c4dee|Hum, au pire, on pourra simplement commander...
+fb7653c4-d622-4836-805c-9818fce1189c|Et c'est encore une pizza qui sauve la soirée. 
+8eac3cd6-8fb9-449f-ab74-ac2e95252077|Les grands espaces... Hein. 
+548d787d-efde-479d-851a-cc76c72b6fbb|Un tour rapide de clé... Hop !
+4e25999d-c249-4eb8-8f49-1a520c57947e|C'est une musique digne de "films érotiques", si je ne me trompe pas. Mais c'est un peu trop fort...
+c94536f2-4b36-4a6b-97e5-eccea1b91004|Les voix dans ma tête sont de plus en plus forte depuis que j'ai éteints ça...
+2ea1d66e-3242-4467-9517-b519c7cf017e|Le plat de Brittney est immonde. Ca pue comme le trou du cul de Jabba le Hutt, ce truc... Si jamais Brittney sort de la cuisine, je pourrais alors peut-être "améliorer" son plat...
+86fbdb35-cb66-46e3-a78c-beed07c6a496|L'effet de la cuisine maison de Brittney ressemble à celui des plages du débarquement en Normandie.
+68468220-b6c5-492d-b833-712886d17412|Ce four ne pourra plus jamais être utilisé à cause de l'huile pour moteur. J'aurais peut-être dû réfléchir plus aux conséquences...
+c1ee667d-6825-454b-ab75-e417559eb01b|Le plat de Brittney est immonde. Ca pue comme le trou du cul de Jabba le Hutt, ce truc...
+
+Et maintenant que Brittney est partie...
+4bf5a401-250f-4c68-b98f-e4f78b7ad16d|Je dois être absolument sûr que je suis prêt à manger ce truc. Je devrais peut-être trouver quelque chose pour aider mon estomac à digérer ça...
+(Sélectionnez "Tenter" de nouveau quand vous êtes prêt)
+33087b5d-53a0-408d-923f-cb405f4e4635|Ah, Brittney. Je pense que tout est prêt ici !
+b7814476-2e03-4232-a362-dd9315f265ef|J'ai besoin de quelque chose pour saboter ce plat.
+
+
+debba1df-4068-4d8f-b45a-6f0f1fb3d1cf|Que devrais-je utiliser ?
+50db2aeb-f995-47c3-b431-4c9abb088478|Rien de mieux que l'huile de moteur pour ruiner un plat. En tout cas, c'est ce que disait mon père.
+cc5abc24-3fb2-4ee8-aa22-a459fad0e94f|Le Dr. Mobus a envoyé à Brittney une recette végan avec une photo qui ressemble à du mucus cuit. 
+
+Si je compte manger ça, je ferais mieux de trouver un moyen de protéger mon estomac d'abord.
+72e8cc90-5f60-4d12-9f33-144d205556cb|Merci d'avoir téléchargé l'app de livraison Flash'n'Dash ! Les plats vous seront livrés en moins de 30 minutes, sinon on vous envoie une prostituée. 
+
+*NOTE* : Seule des prostituées amputées sont disponibles pour le moment.
+44e041c1-a506-45e3-bb4f-f3877a7a74cd|Hum, au pire, on pourra simplement commander...
+b6acd2a0-a981-4100-9532-649610e89475|Merde alors ! C'est une serviette ! J'en ai une chez moi.
+8698cd19-f224-4b96-9fed-aa22124c943f|Mais il y a une bouteille de l'aide digestive de cachée en dessous ! Avoir une digestion saine est toujours une bonne idée. Je vais embraquer la boite.

@@ -1,0 +1,21 @@
+[General]
+Name|Ashley
+
+[Dialogues]
+0|"Bonjour soeurette. Puisque tu ne veux pas que j'utilise ton frigo, j'ai dû trouver un autre endroit pour mettre mes trucs au frais. Si tu tombes dessus, merci de ne pas y toucher. Merci d'être encore une telle pétasse."
+1|Rappels :
+- Acheter des hauts qui ne se dégrafe pas facilement
+- Finir le devoir de chimie
+- La clé est dans la guitare
+- Planquer le courrier de Madison
+2|"Euh, écoute, je ne voulais pas te voir entrain de te masturber... Désolé, je voulais juste te demander de couper le film que tu regardais. Je pensais que ces gémissements venaient d'un film... d'horreur."
+
+[Responses]
+10657ff3-f4ce-4ed2-8229-0c75c3f7a465|*LIRE*
+82d97650-aad8-43e8-8c04-b369596593c1|*Rappels importants*
+fb15546c-eb46-4428-8af1-0c936a1c1c2e|*Continuer la lecture*
+
+[Quests]
+
+[Events]
+b23023d9-b662-47d5-bf6c-77a59c6b109f|La clé est dans la guitare ! Mes mains sont tellement grosses qu'elles ne passeront jamais... Je dois demander à Vickie.

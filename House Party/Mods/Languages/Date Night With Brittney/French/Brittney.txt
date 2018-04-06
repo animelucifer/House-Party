@@ -1,0 +1,334 @@
+[General]
+Name|Brittney
+
+[Dialogues]
+0|
+0.1|Maintenant que ton auto-visite est terminée, comment trouves-tu mon petit paradis en banlieue ? Et est-ce que tu aurais trouvé ma tablette ?
+0.2|Maintenant que ton auto-visite est terminée, comment trouves-tu mon petit paradis en banlieue ?
+0.3|Eh bien, en fait, j'espérais que c'était toi. Etais-tu tout seul là-bas ? J'ai entendu ta voix... Tu n'étais quand même pas en train de te parler à toi-même ?
+0.4|Alors ?
+1|A peine passé la porte que tu es déjà un héros ! Les soi-disant gentlemans de cette ville n'ont rien à voir avec ceux de ma ville natale. Ils se pointent sans même les avoir invités... Enfin, bref, passons. Suis-moi.
+2|Oh ! Bénis soit-tu ! Pète un coup, ça ira mieux. Bref, rejoins-moi dans la cuisine.
+3|Je dois garder un oeil sur le four. C'est une recette assez... spéciale. Peux-tu me rendre un service ? Ramène-moi ma tablette, elle doit trainer dans le salon. Je pense avoir suivi la recette à la lettre, mais... Ca ne semble pas digeste. Je voudrais vérifier que je n'ai rien oublié.
+3.1|*Crie depuis une autre pièce* Je dois garder un oeil sur le four. C'est une recette assez... spéciale. Peux-tu me rendre un service ? Ramène-moi ma tablette, elle doit trainer dans le salon. Je pense avoir suivi la recette à la lettre, mais... Ca ne semble pas digeste. Je voudrais vérifier que je n'ai rien oublié.
+4|Mazette, tu me fais rougir.
+5|Fait ce que tu veux, mais ne monte pas à l'étage. Je n'ai pas envie de te retrouver le nez dans mes culottes.
+5.1|*Crie depuis une autre pièce* Fait ce que tu veux, mais ne monte pas à l'étage. Je n'ai pas envie de te retrouver le nez dans mes culottes.
+6|Eh bien, c'est curieusement spécifique comme question. Les seuls fantômes qui hantent ma maison sont ceux d'un simplet du passé. Si tu as entendu quelque chose d'étrange, je peux seulement supposer que Patrick est à proximité. Tu te souviens bien de lui lors de la dernière soirée chez Madison, non ? Il est tombé amoureux de moi depuis que j'ai accepté de garder son téléphone pour lui.
+7|Mon chevalier en armure brillante ! J'y serais bien allée moi-même, mais ce plat... J'ai peur que si je m'éloigne ne serait-ce que 30 secondes, le plat va prendre ses jambes à son cou et se barrer du four ! Je rigole, mais garde tes distances, on ne sait jamais.
+8|Ce que le Dr. Mobus nous a appris ! Tu devrais écouter un peu plus en cours. Ce qui me fait penser que tu devrais adorer ce que j'ai préparé pour ce soir. Et qui sait ? Si ça se trouve, je pourrais même voir ton esprit animal... Mais pas tout de suite. Allons à la cuisine. 
+9|Ouais, ben comme mon père me l'a dit quand j'ai déménagé dans cette ville : "Brittney, tu dois saisir la vie à pleine main". Et donc, à chaque fois que Patrick s'approche trop près de moi, je lui choppe les testicules et le frappe avec un journal. Ca le fait toujours détaler ! Il est facile à gérer, à moins qu'il ne mette la main sur une bouteille...
+10|J'aime croire que je suis une fille "manuelle". Je n'aurais peut-être dû ne pas lui rendre son téléphone quand j'y pense... Mais bon, puisque tu es là, tu ne voudrais pas t'en charger pour moi ? J'apprécierais vraiment.
+11|Du moment que tu acceptes qu'il se les caille enfermé dehors pendant que nous savourons notre soirée, alors y'a aucun problème de mon point de vue...
+12|Un homme qui n'a pas peur d'avoir les mains sales, ça c'est impressionnant de nos jours ! Voici un passe-partout. Je doute que Patrick ait le courage de rentrer chez moi, mais on ne sait jamais. Tu ne voudrais pas t'en charger pour moi ? J'apprécierais vraiment.
+13|Cool Raoul. On n'a aucun intérêt à être déchiré avant même d'avoir mangé. Ca serait aussi utile qu'une paire de seins sur un taureau, de mon point de vue. En plus, je ne me souviens même pas où j'ai rangé cette clé.
+14|Essaye d'imaginer ton oncle qui commence à avoir les mains baladeuses après quelques verres. 
+15|Tu n'as jamais regretté d'avoir oublié de tourner 7 fois ta langue dans ta bouche avant de dire une connerie ? Parce que j'ai l'impression que tu devrais...
+16|Eh ouais. Le Dr. Mobus m'a donné une chance de rattraper ma note. La matière qu'il enseigne n'est pas exactement ma tasse de thé, donc ça pourrait m'être utile. Tout ce que j'ai à faire, c'est de cuisiner une recette de son blog végan et de lui envoyer une photo du plat. Le pire, c'est que je ne suis pas végan ni même bonne cuisinière, donc ça risque d'être intéressant !
+17|Je sais, mais c'est préférable à la première proposition du Dr. Mobus : il voulait que je lui envoi des photos de moi... Je ne sais pas trop pourquoi, mais de toute façon, je suis bien trop timide pour envoyer des selfies à n'importe qui. Je ne suis pas autant dévergondée que Madison... 
+18|En parlant de drôle de tête, je pense que je devrais aller me rafraîchir. Toute cette cuisine me fait suer comme une putain dans une église. Pardonne-moi mon langage familier, je suis fatiguée, c'est tout.
+19|Oui, volontiers. C'est simple : Garde un oeil sur le four et assure-toi que la maison ne brûle pas. Tu penses pouvoir y arriver ?
+20|Tu te débrouilleras comme un chef, j'en suis sûre. Ah, j'oubliais. Voici un passe-partout qui te permettra de te balader tranquillement dans la maison. Du moment que tu t'assures que ce qu'il y a dans le four ne crame pas, tu peux te promener dehors, t'assoir près du feu, bref, ce que tu veux. Par contre, si tu entends le four, jettes-y un oeil et préviens-moi.
+20.1|Tu te débrouilleras comme un chef, j'en suis sûre. Ah, si tu as le temps, n'oublie pas de traquer notre petit invité surprise. Tu comprendras ce que je veux dire par "petit" quand tu le verras. Bon, j'y vais, je reviens vite !
+20.2|Tu te débrouilleras comme un chef, j'en suis sûre. Ah, j'oubliais. Voici un passe-partout qui te permettra de te balader tranquillement dans la maison. Du moment que tu t'assures que ce qu'il y a dans le four ne crame pas, tu peux te promener dehors, t'assoir près du feu, bref, ce que tu veux. Par contre, si tu entends le four, jettes-y un oeil et préviens-moi. Bon, j'y vais, je reviens vite !
+21|Fait vite, chéri.
+22|Oh, non. J'ai mis beaucoup de coeur dans ce plat, et la seule façon que nous n'y goutions pas, c'est que ce soit vraiment immangeable.
+23|Mais, mais, mais... Tu sens la même chose que moi ? Oh non, non, non ! Que dieu te damne, Dr. Mobus ! C'en est trop. On va commander.
+23.1|*Crie depuis une autre pièce* Mais, mais, mais... Tu sens la même chose que moi ? Oh non, non, non ! Que dieu te damne, Dr. Mobus ! C'en est trop. On va commander.
+24|Je suis juste désolée que tu ais dû subir tout ça pour rien. Prends mon téléphone et utilise Flash'n'Dash pour passer la commande. Je vais me débarrasser de cette parodie. 
+25|Donc, quand j'étais dans la fosse, les mains enroulées autour de la gorge d'Alicia, à seulement quelques secondes de devenir la championne du Monde de Lutte dans la Boue, j'ai réalisé que je voulais vraiment devenir Pro. La lutte féminine est en plein essor, mais j'ai suffisamment confiance en moi pour rentrer sur le ring quand je suis sacrément torchée...
+26|Mon dieu, c'est vraiment direct. Je ne peux pas dire que je suis fan... du moins, pour le moment. 
+27|Mazette ! Gentil et mignon, ça c'est un pack complet. Je suis fan des packs complets.
+28|*Crie depuis une autre pièce* Bonne nouvelle ! Je descends tout de suite.
+29|Apparemment, ça à l'air plus digeste que je ne le pensais. Si je pleure, ça doit être à cause des oignons. Mais je ne me rappelle pas en avoir mis dans ce plat... Bon appétit !
+29.1|Apparemment, ça à l'air plus digeste que je ne le pensais. Si je pleure, ça doit être à cause des oignons. Mais je ne me rappelle pas en avoir mis dans ce plat... Bon appétit !
+29.2|*Crie depuis une autre pièce* Apparemment, ça à l'air plus digeste que je ne le pensais. Si je pleure, ça doit être à cause des oignons. Mais je ne me rappelle pas en avoir mis dans ce plat... Bon appétit !
+30|Tu ne donnes pas l'impression d'y croire...
+31|Eh, ne juge pas un livre juste par sa couverture ! Regarde-moi, je suis faite pour la lutte dans la boue. Ca doit être grâce à tout le maïs que je me suis enfilée en grandissant. 
+32|Tu es bien mielleux. Qu'essayes-tu d'obtenir de ma part ?
+33|C'est vraiment à quoi tu penses ? Dans ce cas, on est sur la même longueur d'onde. Rejoins-moi à l'étage, mon chou.
+33.1|Honnêtement, je ne suis pas trop d'humeur vu la manière dont les choses se sont passées ce soir. Tu peux peut-être encore rattraper le coup, mais pour le moment, restons ici.
+34|Oh mon dieu. Patrick est là ? Le garçon bizarre de la dernière soirée ? Viens avec moi, partons de sa zone d'éclaboussement.
+34.1|Oh bon dieu. Patrick est là ? Le garçon bizarre de la dernière soirée ? Viens avec moi, partons de sa zone d'éclaboussement. Nous devons en parler.
+34.2|Oh bon dieu. Tu l'as trouvé, hein ? Viens avec moi, partons de sa zone d'éclaboussement. Nous devons en parler.
+35|Tu casses vraiment l'ambiance là. Parfois, les vrais gentlemans me manquent...
+36|Donc Patrick est de retour, hein ? J'espère juste qu'il n'est pas perdu ou confus. De quoi avez-vous parlé ?
+36.1|Donc cet imbécile de surfeur est de retour, hein ? De quoi avez-vous discuté ?
+36.2|Je suis prête pour un verre, bébé. Trouve-moi cette clé.
+36.3|Soit sérieux, bébé. L'alcool est la clé. Si je me souviens bien, Patrick a un petit faible pour le Whack Spaniels.
+37|Quel salaud ! Et dire que je lui laissais le bénéfice à cause de ses capacités mentales... Donc tu as son téléphone, hein ? Il doit bien y avoir un moyen de retourner la situation.
+38|Oui, je connais ce site, mais je ne savais pas qu'il appartenait à Patrick. Eh bien, s'il veut poster des photos dessus, que dirais-tu que ce soit lui le sujet des prochains ragots ? Quelques photos de lui, ivre comme pas possible, dans une situation bien compromettante ! Nous savons tous deux comment il se comporte quand il a trop bu.
+39|Tu es un vrai soldat, tu sais ? Maintenant, reste plus qu'à le rendre ivre. J'ai une armoire pleine d'alcool. Il suffit juste de l'ouvrir et de lui donner ma bouteille de Whack Spaniels. Une fois qu'il sera bien imbibé, il devrait commencer à faire des conneries, comme lors de la dernière fête. C'est à ce moment-là qu'on agira.
+40|Zut, tu as raison... Si seulement je pouvais me rappeler d'où je l'ai rangé... Tant pis, tu vas devoir fouiller partout. Elle doit bien trainer quelque part dans la maison.
+41|Tu ne salues même pas la dame qui t'invite dans sa maison ? Ce n'est pas exactement la meilleure manière de commencer...
+42|Haha ! Je ne pensais pas que ça puisse donner un tel résultat, même si Frank était là pour lui mettre le grappin dessus. Dépêche-toi, prends une photo de lui et télécharge-la sur Internet.
+43|Tu es INCROYABLE. Mazette, je n'aurais pas pu rêver d'un meilleur partenaire. Tout ce châtiment, ça m'excite plus qu'un bon porno. Donnons à Patrick un dernier cadeau. Sort ta bite pour moi.
+43.1|Oh, mon chéri, au début, j'ai cru que cette nuit nous... mais plus maintenant. Je pense que nous ferions mieux de rester amis, car tu vois, en fait, euh... t'es un peu trop con...
+44|Oh, Patrick, ton pantalon est trempé. Est-ce que tu as eu un petit accident ? Mon dieu, ton téléphone n'arrête pas de sonner. Beaucoup de gens doivent déjà essayer de te joindre pour te donner des conseils. Médite aussi longtemps que tu veux là-dessus. J'ai déjà tout ce dont j'ai besoin.
+45|Je dois avouer que c'était vraiment un réel plaisir cette soirée. Tu as été génial. Je devrais peut-être te retourner l'ascenseur, non ?
+46|Eh bien, si c'est ce que tu veux...
+47|Ben merde alors ! Reviens ici tout de suite, petite merde !
+48|Chéri, tu viens de franchir la ligne...
+49|*Rigole* Oh mon dieu, tu me chatouilles. Mes mamelons durcissent à vue d'oeil.
+50|Un homme comme je les aime. 
+50.1|Bonne idée, Mes genoux commençaient à bruler.
+51|Euh, Ok. Mais prends pas 36 photos de moi. Je ne suis pas comme Rachael.
+52|Waouh, ça c'est vraiment ce que j'appelle une partie de jambes en l'air. Tu es vraiment un bon coup. Je vais regarder un truc en vitesse sur mon téléphone. Prépare-toi pour le second tour. 
+53|73 appels manqués... 400 sms... C'est quoi ce bordel ? Attends, mais... Putain, je rêve ! Tu as posté des photos de moi sur ce site odieux ? Tu sais très bien à quel point je suis timide ! Tu es vraiment couillu. Laisse-moi te faire une faveur en les supprimant.
+53.1|73 appels manqués... 300 sms... C'est quoi ce bordel ? Attends, mais... Putain, je rêve ! Tu as posté des photos de moi sur ce site odieux ? Tu sais très bien à quel point je suis timide ! Tu es vraiment couillu. Laisse-moi te faire une faveur en les supprimant.
+53.2|Tout a un prix. Une personne a publié sur Neighborhoodwatch.com qu'un truc énorme allait être mis en ligne ce soir. Mais tout ce que je vois, c'est une annonce pour des cours de tricot. Bref, peu importe. Revenons-en à nos moutons...
+53.3|Le Dr. Mobus a aimé les photos que je lui ai envoyées. Celle de la nourriture, bien sûr. Et voilà comment on améliore ses notes ! Ce qui signifie que toi aussi, tu mérites quelque chose en retour.
+53.4|En fait, j'ai prévenu le Dr. Mobus que le plat était un échec et il m'a répondu qu'il allait quand même m'aider, aussi longtemps que je ne dis rien à propos de son offre précédente. Et voilà comment on améliore ses notes ! Ce qui signifie que toi aussi, tu mérites quelque chose en retour.
+54|Tu l'as fait ? *Rigole* Est-ce qu'il voulait se battre ? J'espère que tu ne lui as pas fait trop mal. Bref, célébrons, ça. Je n'avais pas trop envie de boire un coup, mais là, ça mérite bien un verre. Ouvre le bar pour moi.
+55|Tout ce que je peux dire, c'est que j'ai retourné entièrement cette maison. J'ai cherché à l'étage, au rez-de-chaussée, bref partout. Cette clé n'est pas dans la maison.
+56|Oh, et bien, je dirais probablement oui, mais d'abord, célébrons notre victoire ! Buvons un coup.
+57|Tu es INCROYABLE. Allez, bois avec moi.
+58|Mazette ! La dernière fois que j'ai bu du Whack Spaniels, c'était avec les autres lutteuses après une compet'. Nous nous sommes retrouvées toutes ensembles dans une pile géante à la fin de la nuit.
+59|Ouais, une compète régionale. Ne fait pas style que tu n'en as jamais vu une. Personne ne peut voir un stade plein à craquer jusqu'à ce que des filles viennent lutter dans la boue.
+60|Ha, ouais, pourquoi pas. Mais je t'aime trop pour te faire mal.
+61|Bon, comme tu veux. *Bois* Reprends une gorgée et rejoins-moi dans le salon. Allonge-toi et je te montrerais quelques mouvements.
+62|Bon... Quel mouvement te montrer ? Je pourrais tenter un direct sein droit... Ou un uppercut du postérieur... Ah non, j'ai trouvé : un blocage par mes lèvres inférieures ! Tu vas pouvoir gouter à ma victoire !
+63|Oh non ! Comme mon coach me toujours dit, "Retourne la situation !"
+64|Oh, je n'en peux plus. Tu ne voudrais pas m'enfourner ?
+65|Ca, c'est mon genre de lutte. Reprends ton souffle avant le second round.
+66|Oh que non. Inoffensif ou pas, je ne vais pas le laisser s'en tirer à si bon compte.
+66.1|Je ne vais pas ce pauvre homme perdu et confus dans mon jardin. Dis-moi, qu'est-ce qu'il t'a dit ?
+67|*Explose de rire* Je dois l'avouer, ce genre de blague fonctionne toujours avec moi. C'est probablement parce que j'ai grandi avec mes deux frères...
+68|Je suis plutôt fière de moi... ce plat n'était pas si mauvais que ça. Même si je peux entendre ton ventre gargouiller d'ici.
+68.1|Je suis plutôt fière de moi... ce plat n'était pas si mauvais que ça. Et en plus tu as l'air d'avoir apprécié, ça me touche beaucoup.
+69|Pffff. Désolé, bébé. Mais ce genre de blague ne m'amuse pas du tout.
+70|Soit sérieux 30 secondes. Tu ne crois pas que c'est un peu trop audacieux comme approche ? Range-moi ça.
+70.1|Merde alors, ça c'est un homme qui prend l'initiative. Cependant, pas maintenant, chéri. Range-moi ça.
+71|Eh bien, je dois dire, les femmes qui participent à de tels événements, elles sont toutes très belles... oh, je dis tout un tas de bêtises en ce moment... Je voulais dire que ce sont toutes des athlètes talentueuses, c'est ça.
+72|Est-ce que tu peux... Foutre le camp tout de suite de chez moi ?
+73|Fait ce que tu peux, je reste là, à repenser à toutes les rencards foireux que j'ai subis.
+74|Le directeur de tournée de Willie Nelson... Puis le gars qui a inventé le Zune... Jared de Subway... Que de gens remarquable pour des rencards foireux... Et toi, qu'as-tu fait de remarquable ?
+74.1|Qu'as-tu fait de remarquable ?
+75|*Explose de rire* Vraiment ? C'est assez ringard... Mais tu as de la chance, j'adore les trucs ringards.
+76|Il n'y a aucun doute. Je t'aime bien, même si tu as fait quelques écarts ce soir. Allons à l'étage.
+77|Laisse-moi voir... Waouh, ce n'est pas mal en fait. J'aimerais beaucoup te voir à l'oeuvre.
+78|Allons, tu n'as pas peur, n'est-ce pas ?
+78.1|Oh bébé, c'est parti ! Dis-moi simplement ce que tu veux que je fasse.
+79|Plus le temps de déblatérer. C'est plus le moment.
+80|Ah merde... Cette connerie ne va même pas me rapporter de crédits supplémentaires... J'aurais peut-être mieux fait de lui envoyer les photos qu'il voulait...
+81|Nous sommes sur le point de nous déchaîner et tu continues à dire des blagues ? Ferme-la.
+81.1|Je crois à 100% que si quelqu'un peut le faire, ça serait bien toi.
+82|Et maintenant ? Fait boire Patrick jusqu'à ce qu'il soit complètement bourré. Verse l'alcool directement dans sa gorge si besoin.
+83|Pas moi, idiot. Donne-le à Patrick !
+84|Je sais que je devrais t'aider à trouver cette clé vu qu'on est chez moi, mais je préfère vérifier que tu peux te montrer à la hauteur.
+84.1|Tu l'as trouvée ? Bien joué ! Maintenant dépêche-toi d'ouvrir le bar, s'il te plait !
+85|Attends, tu ne serais pas en train de prendre des photos ? Je n'aime pas trop ça.
+86|Euh, est-ce que c'est ta définition d'avoir du bon temps ? Eh bien, tant mieux pour toi alors... Ecoute, j'ai une longue journée demain, donc on va s'arrêter là pour ce soir...
+
+[Responses]
+ee95d966-1f95-4ecf-9df3-0ca580f82599|Ah non ! Un peu plus tôt, il y avait un autre gars à la recherche d'un rencard. Je l'ai fait fuir.
+7ff6bbde-6d62-4c04-bf87-09b2ebdd4d29|Oui. Et je comprends que ça peut paraître étrange. Je suis nerveux, ok ?
+7c0a7453-7f7b-4edb-be4a-5146939344b8|J'étais en train de me préparer pour notre rencard en communiquant avec mon esprit animal...
+2c549f9b-0681-4ba9-a93f-25107051021a|Ce lieu ne serait pas hanté, par hasard ? Peut-être par le fantôme d'un pervers lubrique qui pourrait être agacé par ma simple présence ?
+0c65da2e-a2d2-4ed5-a9ef-4c7a73ca2a6b|Désolé, j'étais distrait par la vue. Je vais continuer à chercher, Brittney.
+2a0fadf6-e1a2-4842-acd4-b0f1f5d5a332|Que dirais-tu de sauter tout de suite à la partie intéressante de cette nuit ? Tu sais, celle qui implique l'absence de pantalon...
+f32e055c-7197-4f93-8669-fdc435b6e20f|J'ai une idée : dans le cas peu probable où cette bouffe est dégueulasse, on pourrait commander et se faire livrer à domicile ! 
+617cf0be-cce1-42fc-8833-c9d8b928f8d5|Ok, je vais m'assurer que cette maison reste intacte.
+c6afac2b-4357-4954-a3da-9818b49f76d2|Pas besoin de me le demander deux fois !
+201f0d12-38ff-46db-b50b-0b13cea5f065|Pas besoin de me le demander deux fois !
+81b37352-beda-4604-8e98-8f8e02e83ab6|Pas de problème. J'en profiterais pour visiter un peu.
+93c6c81b-233b-4c70-a5b5-e417e24dcc21|Tu es absolument incroyable.
+fc930a68-1271-442f-82fa-d0e80f170f15|Ok, compris.
+47744c05-7ed2-40b8-bba9-e73451f40da9|Tu étais au courant ? Tu me semble bien calme pour quelqu'un qui a un voyeur sur le dos.
+29d18b24-f4f5-44ff-97ca-d43d30aff1dc|Sur une échelle allant de 1 à 10 dans la démence, on doit atteindre facilement 11 là. 
+bab25aa6-dce5-47e8-953b-07eab230ce6c|Tu cuisine quoi en fait ? Je sens comme une odeur de cramé.
+5fd82fe4-c545-450e-808b-fa48afd1387a|Pas besoin de me le dire deux fois !
+7424f3e5-6766-45af-af90-8a840e57cc48|Je suis à la fois effrayé et excité. Tu me fais vraiment un effet étrange. 
+40fdc642-415b-414c-9db7-1f270b2db9b4|Je comprends. Je vais dégager ce mollusque de là.
+1c83f949-c41a-4c37-9bf0-eb68b60adedb|Je n'aime pas trop regarder les bites des autres. Ca me rappelle trop les colonies de vacances.
+18eedc96-6eb0-41f5-a0f5-10b6c2d89c57|Pas de problème pour moi non plus. En fait, ça me parait un bon plan, comme ça on va pouvoir revenir à nos moutons...
+e9694bcc-66ab-4d56-9821-8d5ccb15018e|Un passe-partout ? Comme c'est étrange... 
+3cfac806-a3f5-4f33-afdb-4d9b11eebd2f|Je savais que je n'aurais pas dû boire avant de venir !
+68fed4c8-dbde-4156-84e6-5d93824d2740|Mais pourquoi est-ce sous clé ?
+5560913f-026f-4cd7-bfb5-d13b32990d23|J'imagine très bien. Repose en paix, Oncle Jerry.
+d43c7be5-40cc-4806-af9d-0ee3d5d8edba|Mais quel con !
+7547501e-2bc2-4ca6-85cf-225faed4fad3|C'est une bonne affaire, sauf peut-être pour moi.
+647a7e1f-fd3d-4ecc-80a9-2f97579e678f|Imagine-le en train de regarder des photos de toi... Imagine sa tête...
+15d0cf77-e5db-4fc0-818e-67e60018e413|Est-ce que je peux faire quelque chose pour t'aider ?
+bf19cd76-3adc-47a6-b545-d0031d260615|Attends, avant que tu y aille...
+425f9814-b6e9-4671-9738-b23bf90bc1fc|Je pourrais peut-être t'aider à te rafraîchir ?
+102d8617-4533-4a8b-804e-7d6281d2ad9d|Je suis né pour cela.
+cb79979e-b8db-48ab-befb-f3a7e3482e38|Je ne sais pas...
+d384d647-704f-49ef-81f1-b7cf4694b6e7|A tout de suite.
+5103892f-71d0-4832-a1d8-ccdd5cd8fac9|Ce lieu n'est pas hanté, par hasard ? Peut-être par le fantôme d'un pervers lubrique qui pourrait être agacé par ma simple présence ? 
+86cbcf2a-7600-4504-bf78-d3fc504b9e90|J'ai une idée : dans le cas peu probable où cette bouffe est dégueulasse, on pourrait commander et se faire livrer à domicile ! 
+b20fe6d8-f819-4c4f-997c-e7b69ab2cbc3|Jason Bourne dit qu'il faut toujours savoir où sont situées les sorties. Donne-moi 5 secondes.
+058ccb15-d079-4233-adce-6d28a48f26af|J'essaye toujours d'avoir accès à l'alcool !
+81addda0-d5a9-4806-bd18-f9a1071f1f63|Hum...
+e0322c99-9a3d-4420-9760-70bb58d6f45f|Pas de soucis, je suis juste emballé.
+f33bf766-aefc-4af1-9b1c-9ff07d2af1eb|Quel dommage... Tu avais travaillé si durement...
+dbb18a16-8a77-4c30-9cad-98b77b54c7e1|Eh bien, tout arrive pour une raison, n'est-ce pas ?
+dfd5ccc6-e9d2-4b06-9d32-c069f3dd8125|Ne t'inquiète pas, je m'en occupe.
+4fbba605-03cc-408a-b7a1-2b9bcab49af8|Il faut vraiment ne pas se fier aux apparences avec toi.
+3ddde685-f058-44b8-af45-05816254844d|*Vous baillez* Très intéressant...
+8ba97802-5009-4067-b06e-de483646a8e4|Et je suis sûr que l'histoire ne s'arrête pas là...
+5413ee37-e169-40b1-9a9b-80c8e14b9339|Je suis désolé ! 
+919b61e4-3297-4b29-95e1-c106d7ab01ca|Cool !
+ab67eef1-5793-4d4c-ac1c-6bec13530c88|Ok, ça marche.
+d5b91272-e0c7-46b8-ad3c-e61c4ebae805|Bon appétit à toi aussi ! 
+2cd49876-145b-4996-9d19-63d2af5335ac|Oups.
+2670ef16-d4cc-4869-8567-9925b3a689bb|Ouais, ça doit être ça. Le fait d'avoir mangé pleins de maïs, je veux dire.
+4bc831a9-d3e5-417b-907b-1ca4b0b2f4ec|Je pense que nous devrions monter à l'étage, afin de continuer à nous amuser.
+84a7d217-cd35-4468-9c68-0e44929d4e6f|Ne regarde pas, mais Patrick est dehors et il nous regarde en ce moment même.
+2133bdf5-10a5-4c54-8d06-439f9d7103da|J'ai juste pété.
+df13f592-6d4b-4fb1-836d-2537d21964a7|Ne regarde pas, mais Patrick est dehors. Il nous regarde en ce moment même.
+3550a71b-dabe-4c70-a1b6-e278b1ba0b9a|J'ai une surprise pour toi. Quand je suis allé dans ton jardin, j'y ai trouvé Patrick et je lui ai botté les fesses jusqu'au trottoir.
+58e264ad-c214-4c8e-b843-e343e762fe9a|J'ai une surprise pour toi : Patrick, le gars dont tu me parlais plus tôt ? Je l'ai trouvé et je lui ai botté les fesses jusqu'au trottoir.
+0de855ed-4f25-4bbf-a455-b219a85a31a8|Pas de problème. Je suis comme les verrues génitales : il faut un peu de temps pour s'habituer.
+b964ca06-6cc6-4428-8de3-5379b9693b8e|Désolé d'avoir laissé les choses déraper. Je trouverai un moyen de te remonter le moral, promis.
+fe6653c9-bf09-466a-9838-bb5e7189b15f|Je peux le faire.
+ce928ae5-7e3d-47dc-bf8f-878f3f9a5682|Je peux le faire.
+cf41132f-8c58-4321-8f44-029665642fa3|Zone d'éclaboussement ? C'est ignoble.
+bc870848-007e-4905-93dc-0f45be23ebdf|Euh, je voulais dire, "Est-ce que je peux faire quelque chose pour toi pendant que tu es partie ?"
+ca79d647-3b54-4fc5-8a26-4cc78ce3cdd5|Donne-moi une autre chance...
+23e3bbf0-928c-49e7-ad10-61c6da470565|Je ne pense pas que Patrick soit aussi stupide que tu ne le penses. Il veut que je prenne des photos de toi... Nue.
+a4eebe1d-b155-408d-b7e1-b70a43cc352f|De tout et de rien... Il me semble assez inoffensif, vraiment. 
+7aea6f62-9073-4eea-a878-dc0b86baae38|J'ai trouvé la clé. Allos libérer tout l'alcool.
+f593d856-934d-47a8-8648-246585f61b3b|Tu n'aurais pas la moindre idée de l'endroit où tu aurais rangé cette clé ?
+33b895c4-d617-436c-8874-cf28196bf255|Les photos vont être téléchargées sur un site web dont il est propriétaire. Tu connais son site ?
+bfb25a5f-aa3b-4be6-8e31-c0f66ef66649|J'en ai marre de parler de lui. Revenons-en à notre soirée.
+b9972437-75c9-4780-993b-835de8522af1|Mais carrément !
+2e40d4d8-9ca9-4b12-b140-bea4ba3a6591|Je dirais plus partant pour qu'on l'oublie et qu'on en revienne à notre soirée.
+adeb4776-0d55-471a-a65d-1af4990e2a54|Je m'en occupe.
+1169a816-22f5-43b8-8e59-b2d1837529b7|Mais la clé du bar est toujours égarée, non ?
+83aaa885-8463-4e68-b436-1d5be6c94065|Je vais la trouver.
+a880beed-3b05-4a9e-9619-0f7eadb79e3c|Désolé, je suis nerveux.
+4ada272b-654d-4321-ae4c-5a2378b06fb4|Considère que c'est fait.
+ce360296-deb4-4c4b-9e50-b17b3feda14f|Oh, bébé !
+3d52adb7-5009-4651-a17f-cd652d3a3b86|Merde. Crotte. Flute.
+ef595f37-e3c4-484a-9a18-e2bed25c7d03|Tu parles bien de la mienne, hein ?
+c583613c-a588-4296-af4f-4d3a43e671ac|Ca serait un vrai plaisir si tu enlevais ton haut.
+c4b07ce5-8fd0-469d-b7f1-f60f337cc29f|Ca serait un vrai plaisir si tu t'agenouillais devant moi.
+ab3b1477-f345-4de7-9629-2e82151e2351|Héhéhé. Sympa.
+30c59d6d-c591-4c74-ba2f-f3b968336a0a|Je suis tellement désolé !
+0fc01b16-df46-4438-9ccd-dece98aee534|Attends, ne me frappe pas !
+8b1c3a4f-3f27-4e41-a876-7cd8cf5efba8|Allonge-toi sur le lit et laisse-moi te donner du plaisir.
+4b998c54-1664-458e-8609-cfbe6c68e3b9|Bien sûr.
+e59ee708-5f01-40fa-ac19-0fe5947acdc0|Hum. Hé, reviens au lit.
+70f2c830-46ca-4b9e-ac89-d4652cf7bce8|Je suis toujours prêt. Ils appellent ma bite Lou Diamond Phillips, car elle peut toujours se lever et s'exécuter.
+b45c3874-469d-4d06-af86-dd3509ee996e|Ce n'était pas moi.
+08b94ea4-a285-407b-8723-26965856fae1|Deuxième round, DING DING.
+52187439-0697-41ca-8062-82b68e81f3ad|Ca marche, j'ai retrouvé la clé !
+1447651f-1d7b-479c-b648-d89c00a3ac56|L'alcool est toujours sous clé, non ?
+a391573a-cf16-4f13-83e0-a9eed4584650|Attends, je voulais te demander... Est-ce que tu ne préfèrerais pas aller à l'étage pour... Tu sais...
+938786cf-636e-4d1a-a5b2-baa4b640906a|Hum.
+7cc4ba52-53db-46c8-bf4f-a03f6020aeec|Dans ce cas, ok.
+d0467585-58fd-43d2-9829-83a0ed12b220|Volontiers *Bois une gorgée*
+e877cbe9-9f35-416b-96d7-6c29c101ac12|Quelle compétition ?
+5056c927-667b-4c97-b807-cf79f0953b62|Il faut absolument que tu me fasses une démonstration de quelques mouvements de lutte un jour.
+e199d007-ba06-436f-8859-0483534bfbfe|Il faut absolument que tu me fasses une démonstration un de ces jours.
+d45cea37-3877-46cc-ac80-e2eb463ee3e5|Allez, tu ne peux pas me faire de mal. 
+229b4963-14b0-4548-bdd5-f737467f7bbb|*Vous buvez* Ok, je suis prêt.
+c8c2002c-2cd9-4acc-bf69-e4599f1a2c89|MMMFFPPHH ! MPH-MA-MAFPH !
+d78e716a-3cbb-4e0b-b938-7f2b5ad8f0af|*Vous retournez Brittney*
+468abbe6-1ba2-4cf4-89e2-1d7c51ae36d9|Tu vas voir ce que tu vas prendre !
+1aa65092-5a82-4bcb-837b-bd1dcbb724e0|Youpi !
+a74cbd38-d47c-4e09-abc0-3e2e121b6585|Ok. Il n'est pas simplet, Brittney. Il m'a donné son téléphone pour que je prenne des photos de nous quand nous sommes... Intimes.
+685328ca-33d5-4bcf-a0cf-c73653e5b0c9|Ok. A quoi penses-tu ?
+4db0e8bb-7c3d-4c3c-b8aa-6fd0196bcd05|Alors, comptes sur moi !
+6463ead0-8162-44e2-8806-d14a66d21dec|Et merde, ok.
+fe50db81-ce29-4968-9432-136e29c00219|Tout à fait, c'était exquis.
+91f26e53-0478-46ee-a68f-1b2f450c340d|Ouais, tu as un réel talent culinaire.
+2584a02f-77f0-46fe-89e9-d9069e63eaf8|Merde. Merde et merde alors.
+4da1cb39-5e11-4adf-8384-197d5870ce63|Merde, ça ne fonctionne jamais. Je ne sais pas pourquoi je continue à faire ça.
+fe24b41f-fa48-43b1-b41f-6974be16d68a|Je comprends parfaitement ton point de vue.
+823ab977-0825-47b6-85a4-67f6b69b30d3|Ok, je sais où se trouve la porte.
+3870d5b0-3aa7-4917-8ed1-17afb431b758|Pas de problème.
+f09745ab-ccdc-481a-8c7d-fa3aa2b78bb2|Rien pour le moment, mais je ne désespère pas.
+a803ec28-40b1-4c21-a4f3-f8498406eef7|Trouver Patrick en train de t'espionner dans ton jardin, ça compte ?
+1c7f076e-2aef-4c6e-893c-d7172398ba79|Trouver Patrick en train de t'espionner dans ton jardin et lui botter les fesses jusqu'au trottoir, ça compte ?
+d22dc997-cce8-43f7-8b0b-fc99e2e41bdd|Regarde cette vidéo trop géniale de moi, euh... Surfant dans des rouleaux ... sur des vagues, avec ma planche...
+4b34f7f2-3d0b-4f52-81d6-80a74cb6479d|Est-ce que je peux avoir une seconde chance ?
+4b41f44b-0852-481d-ae3b-b4cb7f1376b6|Oui !
+de7fd2ff-6399-46e0-b603-1ed400d99259|Oui !
+c8283f10-2497-47a5-80f4-0babb2fbf5e0|Oui ! 
+630b6a13-c039-41b7-99e6-a330f5d6ddcb|Je t'y emmènerais un jour, mais pas qu'en simple ami, si tu vois ce que je veux dire...
+781b4240-bf21-4fa7-9ece-fb04a2ebe964|Je n'ai pas peur, je suis juste en train de me détendre. Je vais me coucher.
+968128c0-5407-47b5-a2ac-70ea01c66e10|Motus et bouche cousue.
+11167917-f36d-431f-bf9f-1f4c54a490b3|Oui, m'dame.
+718440ea-dcdc-4043-8935-933689e6b362|Euh, je le savais.
+2d93d3d1-3c0d-44d7-8b69-9768903d2883|Je vais voir ce que je peux faire.
+3f7ef852-f9fd-4084-a0ae-2e24a162c931|C'est typique du charme du Sud.
+50f02d47-d9c4-4961-8841-10a9ede6e2ba|Désolé, je voulais juste vérifier le cours de certaines actions.
+f9aac402-9427-45d2-b7dd-afb38f88b19d|C'est juste un truc que je fais pour améliorer ma confiance en soi.
+f364b17d-b7d3-4508-b037-1fb3bd5e222c|Est-ce que j'ai fait quelque chose de mal ?
+
+[Quests]
+36317cb8-6b51-46eb-8095-e7ef7aa2e4d1|Tous les coins et recoins
+36317cb8-6b51-46eb-8095-e7ef7aa2e4d1Description|Récupérez la tablette de Brittney, et profitez-en pour visiter. 
+dea0dcf6-9b20-4f07-9af8-93afbc140c5e|Délivre-nous du plat infernal
+dea0dcf6-9b20-4f07-9af8-93afbc140c5eDescription|La livraison à domicile reste toujours une option valable, surtout si vous pensez que le plat de Brittney n'est pas digeste...
+531752a0-5e06-47c4-90d0-9e6500b86246|Estomac en béton
+531752a0-5e06-47c4-90d0-9e6500b86246Description|Sélectionne "Tenter" encore une fois avec le four.
+f6040246-a546-4c77-81e4-e978d23f32ab|Vengeance
+f6040246-a546-4c77-81e4-e978d23f32abDescription|Brittney a un plan pour se venger de Patrick. Faites-le boire puis prenez une photo de lui dans l'état dans lequel il sera.
+978b9f3e-0b03-4398-bfbd-d9628195f131|Sers-en un
+978b9f3e-0b03-4398-bfbd-d9628195f131Description|Le pervers est parti, c'est l'heure de fêter ça. Débrouillez-vous pour ouvrir le bar !
+a861c5b1-447c-43fb-83b7-158de3f15570|Ravive la flamme
+a861c5b1-447c-43fb-83b7-158de3f15570Description|Brittney n'est plus vraiment d'humeur, vu votre comportement. Ravivez la flamme, soit avec un cadeau ou sinon avec quelque chose d'autre.
+0d6fa15a-9527-47c1-b94e-438aec474822|Une odeur de cramé
+0d6fa15a-9527-47c1-b94e-438aec474822Description|Le plat semble presque prêt. Vous devez surveiller le four et prévenir Brittney. Enfin, uniquement si vous comptez manger son plat...
+c0eb64c4-1d81-4719-8634-23d0cd6ea71b|Sur le ring
+c0eb64c4-1d81-4719-8634-23d0cd6ea71bDescription|Vous avez demandé à Brittney de vous montrer quelques mouvements de catch. Retrouvez-la dans le salon et interagissez avec elle quand vous serez prêt.
+beb9f20d-7b1f-427f-b8d2-6ef732bb5a68|Dopage
+beb9f20d-7b1f-427f-b8d2-6ef732bb5a68Description|Votre estomac vous remercie de prendre soin de lui. Vous êtes libre de manger quoi que ce soit mis dans votre assiette.
+
+[Events]
+1e31a4af-38c6-443f-9fae-beae01cdc181|La maison de Brittney ressemble fortement à celle de Madison...Putain de ville étudiante où tous ses quartiers sortent du même moule.
+c3bc603f-00b7-40b1-96ff-311a257403c9|Je dois attendre que Brittney aille à l'étage avant d'agir. Mais je peux déjà commencer à chercher un moyen de saboter son plat.
+
+D'un autre côté, je n'imagine même pas tous les points que je pourrais marquer en mangeant ce truc...
+ef2c0564-3173-4cd7-acdc-e422c3e2f6fb|* 20 minutes plus tard *
+d9f58c21-91a2-45e3-a147-e0ee38074da9|Vous avez réussi à avaler quelques bouchées de l'abomination culinaire du Dr. Mobus avant que votre vision ne commence à s'estomper. Brittney est sérieusement impressionnée et semble de plus en plus affectueuse. Vous décidez de vous mettre tous deux plus à l'aise.
+639bfbb1-75ec-4f42-806d-5c6c6ced9636|L'aide à la digestion a été d'une grande aide : vous avez pu avaler tout ce que Brittney vous a cuisiné. Elle est vraiment impressionnée et semble de plus en plus affectueuse. Vous décidez de vous mettre tous deux plus à l'aise.
+5f6c1e37-1ae1-415b-bf98-fa3b6d4d744c|Oh, je ne me sens pas bien tout à coup. Je crois que le plat revient me hanter.
+9af1f064-b608-4269-bbd7-ec0c36f9b84e|Oh mon dieu, je crois que je vais vomir ! MERDE !
+3aa404f9-baec-4f22-a9cc-f016ac4f70ac|Ce n'est pas bon signe... J'aurais peut-être dû faire quelque chose pour protéger mon estomac... Tant pis.
+096541f5-0e64-4983-a563-14361b610cf4|Eh bien, vous avez été courageux de tester la cuisine de Brittney. Mais cela ne vous servira pas beaucoup quand vous êtes en position foetale sur le sol... Vous auriez peut-être dû vous préparer un peu avant de manger ce plat...
+66396c27-470e-4185-98ac-6b01eca0f0db|Il fallait que vous l'ouvrier... Eh bien, tant pis pour vous. 
+
+Game Over.
+ed7b4244-66f4-4188-ab3b-fff768a9bb0f|Je ne dois pas oublier de prendre une photo et la télécharger, ou... Je peux simplement oublier toute cette histoire...
+194c4dce-71a8-4a3f-89cc-47c4d51e78ef|Obtenir ces photos risque d'être plus compliqué que prévu. J'ai l'impression que je dois d'abord m'occuper de son cas à elle. Quelle plaie !
+0f52e162-56f3-4315-9251-9a751186284f|Brittney utilise ses talents de lutteuse dans la boue sur vous. Vous vous évanouissez avant même de comprendre ce qui s'est passé...
+
+Game Over.
+
+Bon travail, abruti. Vous n'êtes pas Louie C.K.
+643630de-bbb4-4c12-b254-18a51b4e8777|Vous avez accepté l'offre de Patrick et avez vraiment pris votre pied avec Brittney. Mais la question reste entière : est-ce que vous vivrez assez longtemps pour dépenser l'argent durement gagné ? Vous auriez dû prévoir une stratégie de sortie... 
+
+Game Over.
+b1f99a78-2869-4fe6-b218-9aa19ac02f58|Félicitations, vous avez conclu cette la nuit ! Vous n'avez pas respecté votre part du marché avec Patrick, mais cela n'a pas d'importance - vous avez eu une relation sexuelle. 
+
+Game Over.
+8b9644e1-8f68-4d00-888f-93303f77291b|RAGE PRIMAIRE !
+e97c83d5-4ba6-4cd7-a333-85268bcbfacc|C'était une bonne soirée de beuverie, de lutte et de sexe. De plus, vous avez effrayé un pervers. Bien joué. 
+
+Game Over.
+c8c75063-2931-45cd-bdc7-a379c684025d|C'était un mensonge. J'ai l'impression que mes entrailles sont sur le point d'exploser... Que dois-je faire ?
+6974932e-2829-44d5-972b-51140a0477d7|Ouf ! Prendre un cachet d'aide à la digestion avant de manger, c'était une idée de génie !
+667c49f3-11f3-4839-953b-546d4c22e6cc|Sérieusement, vous avez choisi la réplique concernant les "verrues génitales" ? Vous méritez ce Game over et un rendez-vous chez le dermato. 
+dddb715c-6a49-4cc1-afbb-4b39434c46b8|Elle est sûre et certaine que j'ai trafiqué son plat... Que puis-je faire qui puisse mettre Brittney de meilleure humeur ?
+a746afb4-1caf-4aec-b279-9c199a2bf3ba|Eh bien, je n'ai pas été le plus gentil des invités... Que puis-je faire qui puisse mettre Brittney de meilleure humeur ?
+fce5c8b4-68bb-4fe4-90eb-8806492a0ab9|Oh, je ne me sens pas bien tout à coup. Je crois que le plat revient me hanter.
+aabd6519-42b6-4c0c-a594-ee9e3638bf91|Oh mon dieu, je ne vais pas tarder à vomir ! Merde !
+19a6131f-18c3-4a36-be58-441ce21e0f52|Ce n'est pas bon signe... J'aurais peut-être dû faire quelque chose pour protéger mon estomac... Tant pis.
+e2be4bdb-c7f2-41f2-83df-34961233782b|Eh bien, vous avez été courageux de tester la cuisine de Brittney. Mais cela ne vous servira pas beaucoup quand vous êtes en position foetale sur le sol... Vous auriez peut-être dû vous préparer un peu avant de manger ce plat...
+059131b9-da40-4024-852c-78c6c4802a64|Après avoir eu un orgasme sans même avoir une relation sexuelle avec Brittney, elle vous jette dehors. Poliment, bien entendu. 
+
+Game Over.
+6bee3bb6-b545-4841-b9e1-42f911c15722|Depuis la soirée chez Madison, vous vous êtes réinscrit à l'université, dans l'espoir de rencontrer plus de gens. Comme si le destin l'avait voulu, Brittney est dans l'une de vos classes ! 
+
+Même si vous comptiez rencontrer d'autres personnes, vous vous trouvez à traîner plus souvent avec elle que quiconque.
+f0e5709a-7df0-447e-8316-04db897b81ce|Vous avez pris votre courage à deux mains, et vous lui avez invité à sortir. C'est peut-être de votre apparence (ou pas) ou peut-être votre personnalité exceptionnelle (mais bien sûr), mais vous avez certainement eu de la chance. Non seulement elle a accepté, mais elle veut cuisiner pour vous ! Quelle chance ! 
+
+L'heure du rendez-vous a sonné. Voyons voir ce que vous pouvez faire lors de Soirée chez Brittney.
+2df055a3-f17a-4c13-afe2-cf91fd1de9ed|Bon, l'avenir de ce plat est entre mes mains. Comme Brittney n'est plus dans les parages, je peux choisir entre le fait de saboter son plat sans qu'elle le sache ou alors, de ne rien faire et de devoir le manger...
+5b1333b0-afa2-481a-bc66-7b6d4bcba966|Je n'ai pas envie de tout gâcher trop tôt. Voyons-voir jusqu'où cela peut aller !
+7852df31-1244-4958-af9e-8d8495836a18|*Brittney vous demande gentiment de retourner en bas pendant qu'elle se prépare*
+72639a5f-557d-40f7-ab8c-08fa923d8c3f|Eh bien, ce n'était pas très sournois de ma part.

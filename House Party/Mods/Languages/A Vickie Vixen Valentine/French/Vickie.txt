@@ -1,0 +1,302 @@
+[General]
+Name|Vickie
+
+[Dialogues]
+0|Putain, soldat. Tu as vraiment pris tout ton temps, hein ? J'étais bien la seule personne avec qui tu voulais passer la saint-Valentin, non ?
+1|Je te l'aurais peut-être dit si je n'étais pas restée debout dans le froid pendant une heure. Maintenant il va falloir que tu le mérites.
+2|Ce n'est pas justement le principe de l'amitié ? Tout laisser tomber pour un ami dans le besoin, patati patata.
+3|Appelle ça comme tu veux. Je ne suis pas trop fan de ce genre de connerie romantique. Nous sommes juste deux vieux amis qui passe ensemble des vacances pourries.
+4|Et tu ne penses pas que nous avons tissés des liens lors de la dernière soirée ? Oh bébé, tu me fends le coeur. 
+5|Je veux dire, le jacuzzi qui est juste là... Il ne te rappelle rien ? 
+6|Sans aucun doute ! Et tu sais à quoi serve les amis ? Ils aident Vickie à entrer chez Madison parce qu'elle a perdu sa clé. N'est-ce pas amusant ? 
+
+7|Pour nourrir son chat pendant qu'elle est dehors pour profiter de la saint-Valentin avec Ashley et ses autres amies célibataires. Arrête de poser des questions et aide-moi à trouver un moyen de d'entrer chez elle. 
+8|Soldat, concentre-toi. Nous sommes dehors et nous devons aller à l'intérieur. Voit ce que tu peux faire. 
+9|Hé, ça c'est une idée ! J'aime la façon dont tu improvises. Maintenant, grimpe là-haut et passe par une fenêtre. Ensuite, descend m'ouvrir la porte.
+10|Sésame, ouvre-toi et on verra bien où ça nous mène... Je suppose que je vais remettre ça. Beau travail, soldat. Tu as escaladé ça comme un chaton de gouttière.
+11|Hum, non. Il doit bien être caché quelque part. Rend-moi une faveur, retrouve le pour moi. Secoue cette herbe à chat et appâte-le via des "Viens ici, petit, petit, petit" jusqu'à ce qu'il sorte de son trou. Je vais aller à l'étage pour récupérer... d'autres trucs pour ce chat.
+12|Sûre et certaine. Pas la peine de fouiller l'étage, parce qu'il a été scientifiquement prouvé que les chats ne montent pas les escaliers. C'est ce que cette Katherine m'a dit à la dernière soirée avec pleins de théories scientifiques. Bon, à toute suite.
+13|Tu viens de me provoquer une crise cardiaque ! Qu'est-ce que je t'ai dit à propos de ne pas fouiller ici ?
+14|Bon, Ok. Je ne peux pas garder ça secret plus longtemps... Tu as parcouru toute la maison en secouant un sac d'herbe détrempée que j'ai trouvée au travail. Il n'y a pas de chat ici et je n'ai même jamais eu la clé de chez Madison. Nous sommes des hors-la-loi ! Nous sommes entrés par effraction !
+14.1|Laisse-moi voir ça.... Allergie... Bla bla bla. Ok, tu m'as démasqué. Il n'y a pas de chat ici et je n'ai même jamais eu la clé de chez Madison. Nous sommes des hors-la-loi ! Nous sommes entrés par effraction !
+15|Parce que je savais que Madison et Ashley seraient à une soirée entre filles pour oublier le fait qu'elles n'ont pas de petit ami. C'était le moment idéal pour agir...
+16|Attends, "Voler", tu y va un peu trop fort, là. Ashley vient juste de revenir du Colorado, et elle a remplis ses médias sociaux de photos d'elle avec des super goodies qu'elle a pris dans un dispensaire. Elle est revenue avec des paquets de friandises, si tu vois ce que je veux dire.
+17|C'est exact ! Mais je suis prête à essayer et je veux que ma première fois soit avec des trucs venant d'un dispensaire. Je suppose que leurs produits seraient de meilleures qualités, tu comprends, plus pure...
+18|Eh bien, tu as de la chance parce que nous ne sommes pas à la recherche de vulgaire joint. Tu peux en trouver facilement dans toute la ville. Là, je te parle de victuailles ! Tu ne fumes peut-être pas mais tu dois bien manger à un moment ou un autre, tout le monde mange.
+19|Bon, je vais fouiller chaque centimètre carré de cette chambre, c'est l'endroit le plus probable. Pendant ce temps, va fouiller le reste de la maison.
+20|Ha ! As-tu trouvé quelque chose ?
+21|Arf, je sais. C'est la moitié de la raison pour laquelle je suis prête à essayer : afin que je puisse arrêter de ressembler à un amateur. J'ai arrêté le monde des amateurs il y a déjà des années. Alors aide-moi à trouver ces victuailles, ok ? Regarde s'il n'y a pas un indice qui traine... 
+22|Je ne suis pas d'accord, chaton. Vu la façon dont tu as escaladé cette gouttière, je pourrais aussi bien t'appeler Halle Berry.
+23|Tu réfléchis beaucoup trop. J'aime bien ta compagnie et tu n'as pas l'air d'être un gars qui fête la saint-Valentin. Je me suis dit que tu serais le partenaire parfait pour commettre un crime, mais aussi quelqu'un avec qui ma première fois pourrait ne pas être désastreuse. J'ai cru comprendre que tout est dans l'ambiance.
+24|Elle a pris des photos de toute sorte, c'est pourquoi je ne me sens pas mal de lui en piquer un ou deux. En fait, c'était surtout des bonbons sur les photos. Et c'est ce que nous devons trouver. Allez, bouge ton cul !
+25|Je ne sais pas si tu as remarqué, mais nous sommes toujours à l'extérieur...
+26|Mec, c'est comme se serrer la main dans mon milieu. La semaine dernière, j'étais la demoiselle d'honneur d'une nana avec qui j'étais dans un plan à 3. C'est littéralement la seule fois où nous sommes allées quelque part ensemble.
+27|Je vais te dire un truc, petit malin. Madison et moi sommes devenues très proche récemment. Je lui ai même envoyé un DVD comme un cadeau. C'est pourquoi j'ai une clé de chez elle. 
+28|Woah ! Maintenant, tu comprends pourquoi j'ai besoin de ces poches ? Combien en prenons-nous ? C'est un trésor... de chocolat aromatisé. 
+28.1|Woah ! Je suis contente que mes vêtements ont des poches. Combien en prenons-nous ? C'est un trésor... de chocolat aromatisé. 
+29|Wahou, je suis vraiment en train de le faire ! Bon, il est grand temps de voir de quoi il s'agit. Repos, soldat ! C'est l'heure de manger !
+30|Sérieusement, j'en ai aucune idée. Heureusement, Madison poste de nouveaux statuts comme une folle. Il y a deux minutes, elle a écrit : "Cette soirée entre fille n'est pas près de se terminer !" suivi par une dizaine d'émoticônes de feu, et d'une merde, pour une raison quelconque.
+31|Hé-oh, c'était du bon chocolat. Tout est tellement bon en ce moment... Tu sais quoi ? Je n'ai jamais passé une bonne saint-Valentin. Sérieusement, jamais.
+32|En fait, je parie que c'est à cause de mon travail. Ne te méprenez pas, j'aime ce que je fais, mais pour ce qui est d'une relation... c'est toujours de courte durée. Ouais, jamais invité pour passer la saint-Valentin.
+33|Tout pareil. Jamais invité pour passer la saint-Valentin.
+34|Oh mon dieu ! Tu sais à quoi nous devrions jouer ? A &quot;Je n'ai jamais, jamais&quot;! C'est le jeu parfait quand on est défoncé.
+35|C'est simple : tu commences avec trois vies et ton adversaire te pose des questions pour éliminer ces vies. Les questions posées doivent être des choses que tu n'as jamais faites, par exemple : "je n'ai jamais, jamais... sauté en parachute". Si l'autre personne l'a déjà fait, tu perds une vie. La première personne à zéro vie a perdu ! 
+36|Parfait ! Bon, juste une règle en plus. D'ailleurs elle est connue sous le nom de la "Règle de Vickie". Comme je suis une pro, tu ne peux pas dire : "je n'ai jamais, jamais fait de porno". Je sais que ça fonctionnerait pratiquement à coup sûr, mais pas avec moi. Si tu ne peux pas être précis, comme donner le titre d'un film dans lequel j'aurais pu jouer, ça ne compte pas.
+37|Oh, pauvre petit. Tu ne peux pas battre une actrice porno lors d'un jeu "Je n'ai jamais, jamais", boo-hoo. Arrête de pleurer et allons-y !
+38|Bon, ok. Mais soit rapide. Je ne veux pas arrêter de planner avant qu'on joue.
+39|Perfecto ! Commençons.
+40|Moi d'abord ?! Quel honneur. Voyons voir...je n'ai jamais, jamais...
+41|Grimpé sur gouttière pour entrer par effraction chez Madison.
+42|Une vie en moins ! Je joue pour la victoire. Je n'ai jamais, jamais... Perdue une partie de je n'ai jamais, jamais. A ton tour.
+43|Bon alors, ça vient ?
+44|Merde, comment sais-tu ça ? Je suppose que c'est à cause de mon jargon... Je n'arrive pas à m'en défaire. Ok, une vie de perdue.
+45|Je n'ai jamais, jamais... cru à un chat fictif.
+46|Plus qu'une vie ! Tu n'essayes même pas de te battre !
+47|Ah merde... je me suis tellement défoncée que j'avais oublié ! Bon, toujours deux partout. A toi.
+48|Joue intelligemment...
+49|C'est nul comme question, et non, je ne l'ai pas fait non plus. Tu viens de perdre un tour bêtement.
+50|Ahah  ! Tu as enfreint les règles. Je t'ai dit qu'il fallait être plus précis que ça. Ca ne compte pas.
+51|Et maintenant, pour le coup de grâce. Hé, coup, ça me donne une idée. Je n'ai jamais, jamais...
+52|Baisé l'une de nos amies !
+53|J'ai gagné, les doigts dans le nez. Ah, la victoire a un goût tellement doux. Doux, tout comme ce chocolat aromatisé, qui rend mes paupières super lourdes... pour le moment...
+54|Je vais juste fermer les yeux... Pendant quelques secondes.
+55|Techniquement, C'est plutôt de ton fait. Tu as été un volontaire très obstiné. Bon, ça compte uniquement parce que je sais que je peux encore te battre.
+56|Juste une minute ! Euh, reviens après que tu te sois bien occupé du chat.
+57|Non, je ne le savais pas. Je suppose que nous devrions retourner dans le couloir.
+58|La chambre d'Ashley... un peu ringarde, si tu veux mon avis. Par contre, j'aime bien sa guitare. Voyons-voir ce que nous pouvons trouver. 
+58.1|*Crie depuis une autre pièce* La chambre d'Ashley... un peu ringarde, si tu veux mon avis. Par contre, j'aime bien sa guitare.
+58.2|Bienvenue dans la salle d'expo pour ceux et celles qui cherchent du mobilier "les années lycée me manque". Disponible immédiatement, à un prix tellement bas que vous ne pourrez jamais vous faire baiser.
+59|Voyons voir... Attend. Cette nana a sérieusement laissé son téléphone ici ? Je ne pars jamais sans mon téléphone. Viens ici, soldat. Regarde ce que tu peux y trouver. Je vais continuer de fouiller.
+59.1|Wahou, c'est très vieux-jeu... Voyons voir... Attend. Cette nana a sérieusement laissé son téléphone ici ? Je ne pars jamais sans mon téléphone. Viens ici, soldat. Regarde ce que tu peux y trouver. Je vais continuer de fouiller.
+60|Ca pourrait ne pas te surprendre, mais on me le dit souvent. Dis-moi ce que je dois faire.
+61|Ok, pousse-toi de ma route, soldat !
+62|Bon, c'est une histoire drôle quand on y pense. Je ne pouvais pas passer ma main à travers... euh, les cordes, donc comme toute personne raisonnable aurait fait, j'ai explosé la guitare en un million de pièces.... Donc, on va juste fermer la chambre d'Ashley et agir comme si rien ne s'était passé. Ok ?
+63|C'est exactement ce que j'avais en tête. Voici la clé. Tu sais à quoi elle peut bien servir ?
+64|Je te suis, soldat.
+65|Merde, tu n'es pas très doué pour suivre des instructions, hein ? Tu n'aurais jamais fait carrière dans le monde du porno. Restes-en bas pendant que je cherche ici.
+66|*Crie derrière la vitre* Tu apprécies la vue ? Est-ce que ça te rappelle quelques bons souvenirs ?
+67|*Crie derrière la vitre* Je savais que ça ferait effet. Dépêche-toi d'ouvrir cette porte.
+68|Ce n'est pas ce qu'un chat aurait dit. Tu dois vraiment aimer ma nouvelle culotte, c'est le seul moyen que j'ai de reconnaître ces vacances. Un bon point pour la bravoure, mais j'ai besoin de mes poches. 
+69|Je sais qu'elle est la soeur cadette... mais pourquoi a-t-elle un lit mezzanine ? J'ai l'impression de tourner un film... Vickie Vixen dans "Nounous aux gros seins" ! S'il vous plaît, monsieur, je ne voulais pas mettre la pagaille. Que puis-je faire pour vous pour me faire pardonner ?
+70|J'ai perdu le compte, vraiment. J'aime ce que je fais, mais depuis que les films commencent à avoir deux chiffres dans leurs titres, j'ai arrêté de faire de l'espace pour les ranger sur mon étagère quand mon exemplaire gratuit arrive par la poste.
+71|Bien sûr qu'ils le font ! Mon cul ne travaille pas littéralement pour rien dans chaque scène où je joue ! Je reçois une copie gratuite et un gros salaire, bien sûr. Mais comme je l'ai dit, je ne garde plus mes copies gratuites ces jours-ci. Dernièrement, je les envois à mes amis pour leur faire une blague, mais d'abord, j'échange la jaquette du film par celle d'un autre auquel ils ont réellement envie. D'ailleurs, j'en ai envoyé un à Madison. Je me demande si elle l'a gardé...
+72|Pas question. Je ne mangerais pas la mienne tant que tu n'as pas mangé la tienne.
+73|Pourrais-tu te dépêcher et commencer à manger ta friandise ?!
+74|Bizarre. Ca a bon goût, mais je ne ressens pas la différence...
+75|...le serveur est revenu à notre table pile au moment où Tara avait son soutien-gorge au-dessus de son haut ! Elle a seulement mis une minute à s'en rendre compte avant de l'enlever et de le fourrer dans son sac.
+76|Ca pourrait être la fin pour moi !
+76.1|Donne-moi tout ce que tu as, soldat.
+77|Attends... est-ce que tu viens de me laisser gagner ? Tu sais bien que c'est la meilleure saint-Valentin que je n'ai jamais eu. Tu aurais pu gagner...
+78|Bon alors, que dis-tu de ça ? Je n'ai jamais, jamais... baisé dans le lit de Madison. 
+79|Tu m'enlèves les mots de la bouche, soldat. Si je comprends bien ce que tu insinues... je pense que nous devrions aller à l'étage. Tu sais, dans l'intérêt du jeu...
+79.1|Tu sais quoi ? On peut encore faire égalité, et donc perdre ou gagner tous les deux. Mais pour ça, j'ai besoin de baiser dans le lit de Madison... Hum, eh bien, je pense que je vais aller à l'étage voir si ça peut se concrétiser...
+80|Oh, et fait quelque chose avec ça. Je n'ai plus besoin de poches. Et puis zut ! Prend ça aussi tant que tu y es. 
+81|"Salut, Madison. Encore merci de m'avoir invité à ta soirée. Pour te remercier, je t'ai acheté le film dont nous avions parlé... Profite-en bien ! Encore merci encore ! Bisou, Vickie"
+82|"Haha ! Ce film n'est pas encore sorti en DVD. Profite bien de mon dernier film porno à la place. LOL - Vickie"
+83|"Heyyyy, c'est Vickie. Laisse-moi deviner, tu n'as également rien de prévu ce soir ?"
+84|"Grâce à internet, mec. Ce n'est pas si compliqué. Je voudrais que tu me retrouve chez Madison. J'ai besoin d'un coup de main."
+85|"Profitons du fait que tu n'aies pas de soirée romantique de prévu. Je voudrais que tu me retrouve chez Madison. J'ai besoin d'un coup de main."
+86|"Ramène tes fesses, ça va être drôle. Passe par derrière, je veux dire par la porte du jardin. A quoi d'autre pensais-tu ? Dépêche-toi de venir m'y retrouver !"
+87|J'ai l'impression que ma mentalité de gagnante me permet d'obtenir le meilleur de moi-même. Je vais encore jouer un coup bas. Je n'ai jamais, jamais...
+88|Oh, mon père, mes frères et aussi mon grand-père avant eux. C'est le seul mode de vie que j'ai connu en grandissant... Puis j'ai découvert les magazines pornos de mon frère et le monde entier a changé...
+89|Effectivement, j'ai joué dans ce film. Es-tu un de mes fans ? Ou as-tu simplement trouver me DVD que j'ai envoyé comme un cadeau à Madison ? Dans tous les cas, tu as raison. Bravo, gros pervers.
+90|Ah, enfin.
+91|Essaye-tu de fuir loin de moi ? Personne ne s'enfuit loin de Vickie Vixen, en particulier lors de la saint-Valentin !
+92|Pfff, tu es comme mes fans sur internet. J'en vois beaucoup trop, vraiment beaucoup trop.
+92.1|Ne commence même pas sans moi. Viens par ici.
+93|Fait ce que tu as à faire. Je vais peut-être placer quelques paris sportifs en ligne via mon téléphone. Préviens-moi quand tu auras terminé.
+94|Bien joué, champion. Tu serais parfait pour garder tout le monde excité à mon boulot. Je suis sûr que cette vidéo que j'ai fait de toi montre bien tous tes talents.
+94.1|Bon, j'espère que c'est pour t'aider à durer plus longtemps ? Reprends ton souffle, tu dois encore me baiser.
+95|Alors... tu es le genre que je dois sucer d'abord ou on passe directement aux choses sérieuses ? Parce que je pourrais te sucer comme jamais, mais je ne sais pas vraiment combien de temps que nous avons avant qu'Ashley en ait marre des conneries de Madison et décide de rentrer... 
+96|Euh... Je vais rester ici... et t'attendre.
+97|Apprécies-tu cette course, mon gros étalon ?
+98|C'est presque comme si je baisais pour vivre. Maintenant, baise-moi plus fort !
+99|Bordel de merde ! Tu m'as fait jouir !
+100|Soldat, je dois l'avouer, c'était à couper le souffle. Mes jambes tremblent encore. Et tu sais à quoi je pensais dans la salle de bain ? Tu m'as apporté du chocolat pour la saint-Valentin ! Vous êtes vraiment un chaton ! Joyeuse saint-Valentin, chaton.
+
+[Responses]
+b802880a-2398-44dc-ad2b-9cd0d8fe7ee5|Pourquoi sommes-nous chez Madison ?
+e338b090-bf45-4381-a064-008a57ec0c26|Tu m'as envoyé un texto il y a moins d'une heure !
+bbbbe39c-c772-4837-bc9c-36094fd95846|Donc, c'est un rendez-vous pour la saint-Valentin, non ?
+f7369fde-e462-4364-a93e-e8e5ff1e0e7e|Nous nous sommes croisés qu'une seule fois avant...
+1cd5e753-3dba-4736-b140-7870e1cea480|Nous nous sommes croisés qu'une seule fois avant...
+fc0c0205-9e4e-4861-8aa6-fd2eeffb5fad|Nous nous sommes croisés qu'une seule fois avant...
+ac0e16ac-a70e-403a-b70a-78f519cb3f96|Eh bien...
+b7f41db1-5eb3-4d19-a131-4e11fe2a8069|Ah, c'est pas faux. Je suppose que nous sommes donc amis. 
+1815b3be-f410-43e5-94db-0519fbbd6aa3|Pourquoi Madison t'aurait donné la clé de chez elle ?
+6bfe53bc-9e3b-44e7-99ec-50e29b30f558|Je ne me souviens pas avoir déjà vu un chat par ici....
+87ee0e03-f242-4da9-a800-b42977da77ee|Ok, j'ai compris.
+ff68c231-9b9e-4b9b-9dec-c0a3a4e6e1a1|Ca marche.
+445b7c87-ccb4-424b-95e5-e762edd03671|Euh, plutôt comme un chat normal.
+0b69beb0-7fa9-475d-880a-b29ffc3ecfcc|En parlant de chats, il n'y en a certainement pas un ici.
+35c1c612-ba08-473a-9265-e400ebdc4026|Tu ferais mieux de ne pas le remettre.
+69b2786a-a5aa-4e0f-bf4f-f2e1665545d4|Es-tu sûre de ça ?
+01112fff-ce81-4c6c-866b-43dc4c78fad4|Je ne pense pas que ce soit vrai, mais je vais voir ce que je peux faire.
+3b55873c-22ab-4a29-8d2c-86cd2609d69e|Menteuse, Madison est fortement allergique aux chats !
+74f3804e-688f-4aa7-afc7-b903809b857b|Arrête de me faire tourner autour du pot et dis-moi de quoi il s'agit vraiment !
+affabc97-88f7-49a5-b049-3c8c78face15|Quoi ?! Mais... pourquoi ?!
+bc1836cd-6f5d-4c2c-b221-401033454faa|Tu es là pour voler quelque chose.
+e9b2a7c6-a517-4e03-a272-3199a13c7228|Mais je croyais que tu ne fumais pas ?
+bd566f82-c6a0-44b6-88c3-e9d09b77f1ef|C'est un peu idiot, mais passons.
+ea83ac1d-8a6b-47b9-8100-f5eb0bdc3bd1|En fait, je ne fume pas.
+564fa723-b818-4dd0-a62f-8affb8801820|Je ne le ferais pas. Je retourne chez moi.
+42720fb0-2d02-4a76-9852-c1bd083ecb67|Hum, ok.
+b6a17524-df8b-4efb-8005-b888284cf89d|Maintenant que je suis là, trouvons quelques victuailles.
+4e2cc33c-c4b1-48e8-8c34-f1a984f3a73f|De quel genre de victuailles sommes-nous à la recherche exactement ?
+ba996f54-00a5-4135-a66b-aa70452c4d25|Pourquoi m'as-tu mentis pour m'attirer ici ?
+19f04e16-71d0-40e8-973a-742864f209ba|Tu sais que c'est la chambre de Madison et pas celle d'Ashley, hein ?
+27f6a3a1-0415-4d61-9060-55d493c4546a|Dépêche-toi, j'ai besoin de tes petites mains !
+d44b22f0-1bf5-474a-adc7-e076af3a694a|Pas encore.
+4010fe66-d532-45c8-b5de-a23a64b44a53|Victuailles ? Bon, je vais t'aider à les trouver.
+035e0eff-679f-4679-b830-9dea5762a50d|En parlant de chats, je n'en vois pas ici.
+ea8b8928-71e1-43f3-8630-34509627d7fd|Tu as raison. Merci de me faire confiance.
+3800233d-6608-4248-9ae4-dc81250e57d0|A la recherche de bonbons alors.
+1cb7bdf5-e42d-4a02-9249-52461fe7882b|Alors s'envoyer en l'air dans le jacuzzi fait de nous des amis, hein ?
+841178c9-8509-44e5-a897-5111c38b5aae|Alors... Pourquoi Madison... t'aurait donné la clé de chez elle ?
+4a67e8af-8304-40db-8421-a06b902724cd|J'y travaille.
+b7d46a95-d93d-4aa7-a532-88be4fa793cd|Ta vie est démente.
+a6f90199-1878-4768-a200-a95c4d2a98da|C'est ce que tu dis.
+1539a367-c3e2-4c8c-a665-195105dda7cd|Nous allons manger une barre entière chacun !
+3b9920f9-82ea-48bc-af47-29b0bb5f62c4|Toi d'abord. 
+fc60c348-8c6e-4105-8ccd-7110e2caf10e|Je voudrais jeter un oeil aux alentours avant de commencer.
+92454574-e6f5-4dd3-8d16-b6a01c751ab4|Eh bien, Ashley doit probablement être avec elle, donc... 
+c31704ef-0340-4391-86ea-e55dafb7c1a1|Pourquoi ça ?
+05e5320d-fc02-4335-b326-216abe4d8a2f|Je passe la plupart des miennes tout seul.
+9aabb4f0-2e9a-41a8-b8f5-debd50f0439a|Il ne faut jamais dire jamais.
+d1d4c336-d5d0-4f4b-a390-6710dac46e34|Il ne faut jamais dire jamais.
+6c9fb2b8-3ff7-4f45-8cc7-4ddd1b8dc236|Comment y joue-t-on ?
+356f8a32-c88a-496e-85ef-1aece5717d5f|Oui ! Je sais comment jouer à "Je n'ai jamais, jamais".
+bf815524-dcda-44f5-87d3-31ad0fb42984|Ok, compris !
+79071dba-2496-4942-8eda-c8e06126c391|C'est de la triche cette règle.
+efb89e71-908d-4335-bc34-ddbee5318ebb|Ok, ça me va. Nous pouvons commencer !
+1969c126-be21-41b4-b606-ca4c7a949aa2|Très bien, je suis prêt. Toi d'abord.
+2a0f96f0-a229-4cb8-8a83-c1d1d2766b31|Attends ! J'ai besoin d'aller dans la salle de bains avant de commencer.
+cecdc7c9-251c-4c0f-95d8-a5234826a620|Très bien. Toi d'abord.
+e0ed1705-f5f1-4dcc-a300-0aaeefe3a1b4|Attends ! J'ai besoin d'aller dans la salle de bains avant de commencer.
+7ff65d9a-17eb-4daf-a7cb-e2f124a3351a|*Préparez-vous pour l'impact*
+82c69902-467c-471d-a62f-8a174af9bdd3|Woah ! Quel coup bas !
+c985a658-3a0c-4c0d-8294-ef6cb1eb6f34|Je n'ai jamais, jamais...
+6bbeaf90-1bd2-41ec-9a94-d0ca00ff9317|Eu de piercing. 
+f47a4e40-52ed-41f8-9ef6-769a4e1613c9|Essayé de transformer une soirée en orgie.
+779e4f92-b3cd-4946-bae6-fa0755fbaf1b|Grandit dans une famille de militaires.
+dc82a327-aaa3-46d2-95a5-d5be4bd33494|Dans ta famille, qui a été dans l'armée ?
+b20c4c3e-08bc-4ab9-9ed3-35818fba1c91|OUI ! Deux partout, balle au centre. A ton tour.
+ae6e0626-b71b-47c0-9ae7-8cb5780987e3|Tricheuse.
+d796d93b-b2a2-40c3-a57d-5bc00c130479|Ca ne compte pas ! J'ai découvert que tu m'avais menti, tu t'en souviens ?
+87de7a31-b53a-40ff-825d-9b934b2f71ba|Ca n'a pas d'importance. Je n'ai jamais, jamais...
+91bbe694-8755-476f-b560-5518d40f265a|Je n'ai jamais, jamais...
+aaa838ee-5808-450e-a9be-e191463a09f4|Joué dans un film appelé "Gangbang Gothique 16."
+9dc63e0c-d334-446d-ab90-f1e0374825d9|Euh, fait de saut en parachute.
+d02c71e5-3cad-402f-8528-29b7fd50ac95|Joué dans un film porno.
+7be3a21a-bc63-416c-bf9e-e3637a72c2ff|Merde !
+d7e26f79-a505-47f6-9e6a-e4f3c2254f08|Je ne suis pas encore vaincu !
+29ac9cf2-b1ed-4e41-a564-17e308386660|Merde !
+4c3d63c7-7dea-4b03-a4a9-21f06daba352|Je ne suis pas encore vaincu.
+b4f2e35d-0e0a-4687-965e-1ca9a02b84d5|*La fin est proche*
+7786a728-b823-4721-a818-e3965c00823d|Et... J'ai perdu.
+1c6c35eb-746f-4599-aa51-d46b4c6628e5|Merde. Il ne me reste plus qu'une vie... A mon tour.
+0613d12d-fcfd-4963-a626-afbdcab21285|Woah ! Ne t'évanouies pas sur moi !
+2857efc0-6453-4c4d-9f50-c212c3c90f91|Bonne nuit, Vickie. Joyeuse saint-Valentin.
+4ecf700e-a0d2-41cc-863a-398f5c046a88|Voyons voir ce que tu as pour moi.
+6ae4d0b6-8f15-4a7f-9bad-80aa85b34550|Bon, je vais continuer... d'essayer de trouver un chat.
+a68cba5d-2496-4b25-8e04-106343d8c8c9|Peux-tu sortir de cette pièce et venir me parle en face ?
+39300971-5f22-4a10-891b-14e7430bbb9a|*Vous secouez le médicament contre les allergies et ouvrez la porte*
+1710c315-aa25-471f-84e0-9bacdd143a2b|*Vous balancez l'herbe à chat et ouvrez la porte*
+d24e6db3-3dfa-4490-a0db-4462e5bef22b|La dernière porte sur la gauche.
+f0bef9dd-5f88-459f-885c-3b1d54499c72|Je t'y rejoins dans une minute.
+2bf8424f-47b3-4a61-a75f-29034fdbc6d1|Même si c'est la soeur cadette, je pense qu'elle est toujours à l'université.
+dbdfc454-2dbe-4858-98b2-52e60a2ec9da|Oublions tout ça. Il faut que nous récupérions la clé qui se trouve l'intérieur de cette guitare. Mes mains sont trop grosses pour atteindre !
+ee2c2828-e749-445c-bd91-9095a245f2a1|Ca marche.
+3fc8ee91-e367-439f-ba33-453859604877|La guitare d'Ashley. Il y a une clé à l'intérieur. Essaye de l'attraper avec tes petites mains.
+36332caa-c041-4706-83f1-fae0af6615d0|Il y a une clé cachée dans la chambre d'Ashley. Tu ne savais pas que cette chambre est celle de Madison ?
+6a1f8c0d-72e4-48fa-9bc6-af98e53da61f|Wow. Espérons qu'Ashley soit déchirée et qu'elle pense qu'elle a fait ça.
+ba8ff934-4591-4f50-86ca-49a147dd0bd2|Bien sûr. Suis-moi.
+c930cf95-20d9-43db-8bbd-b87f620e8649|Pas encore, mais ça doit être la solution. Suis-moi.
+75be694c-f69f-4aa1-98d1-a252f11f6f22|Quelle superbe saint-Valentin en perspective.
+64994a5f-ba5a-4619-9b03-7148f00bf168|Woah !
+b970a28c-64c9-4bc5-b633-ba21a1fa4015|Tu es cinglée, Vickie.
+f3e54ddd-192b-4ba6-a9b5-3bf063b03932|J'arrive, j'arrive.
+e31f4309-1637-4f0f-a1c0-b3987d0307bf|En parlant de chats, il n'y en a certainement pas un ici.
+0f390184-3d5e-4842-a237-211d957f6a98|Montre-moi plutôt ce que tu as déjà trouver !
+7a1c54ac-81c4-4e35-9222-91e1dbe10fdb|Au fait... Dans combien de films as-tu déjà joué ?
+66e26c27-51a0-4eb4-8de7-5cf7c88bf74e|Récupère-mou plutôt cette clé !
+80a33407-1afd-406a-8de3-24e7a56e8aae|Ils te donnent une copie de chaque film dans lequel tu as joué ?
+a4e21e39-cb4b-491b-b37f-40359ad40bba|Eh bien, essayons d'abord de trouver des indices, ensuite nous irons peut-être à la chasse au DVD.
+2b9b41e7-18ba-4ee5-b726-0b4c2cfdae38|Trouve-moi cette clé, et peut-être qu'ensuite nous irons peut-être à la chasse au DVD.
+0066a382-1d0c-48fb-a6d4-5a71f8ecf817|Comme tu veux.
+a7a56e04-269c-49fb-9fcc-33a4930cd2cd|Ok, pfff.
+fdd38a35-a34c-4915-9c3c-ad9d19de8e38|Ouais, moi non plus...
+d35b7be5-8979-4ca7-b6b4-6d244cbb6587|Oh mon dieu, c'est trop bon ! Ouf... Depuis combien de temps parlons-nous ?
+77a4d982-f7d5-4475-a1ca-2f1ec8d7ee0b|Passé d'aussi bonne saint-Valentin que celle-ci.
+ca6c6280-8f0b-4931-8022-d05844e00713|Ouais. Eh bien, c'était un très bon moment.
+29e9af90-6b93-46f7-a1bd-57ffc56017d2|Ah, merde. J'ai perdu.
+55c04a03-3954-4bc1-a393-574c21afeb2e|Il y a encore une manière pour que nous perdions tous les deux : faire match nul.
+354a19ab-327d-4227-81c6-ffa581adf4ba|Je te suis.
+8134d261-19a5-47b6-8f30-1a43248d69f5|C'était chaud à mourir.
+fa85d015-0d4e-4b1c-807c-c1ea5a96e0c7|*Finir de lire la note*
+aa12154c-0850-46fc-bdd6-f6f530d96774|*Finir de lire la note*
+078486f2-7501-47f8-bb51-e78aa884b13f|"Hé oui, pourquoi ?"
+0f36f0b3-0a6d-429a-88e9-f98dc002f0af|"Comment as-tu eu mon numéro ?"
+b41117ef-635e-4e55-b769-5d70fc812c6b|"Qu'est-ce qu'il t'arrive ?"
+84813738-fa5b-47a2-a925-711887c6913f|"Pourquoi ?"
+8d9abab2-8132-44ed-8c68-06fc0de99de9|"Euh, ok. A tout de suite."
+f6897896-2f57-4464-a9c1-65857203a53e|Oh mon dieu...
+900d00fa-a350-46f1-aae9-10ff41ff1083|Je ferais mieux de t'arrêter avant de tu ne me donnes quelque chose que je puisse utiliser contre toi à mon prochain tour.
+feecf0a7-32e3-4da8-83d4-c8c8a071e466|A toi.
+d37f4897-dd37-434e-b974-560009af476c|A toi.
+9b4b902e-a8e6-48b2-853b-85bc14ddc0f7|Vickie, où es-tu ?
+7f53d3c5-8b49-44e0-bdd7-7aa9f1eadecc|Je rentre chez moi, Vickie ! Laisse-moi tranquille !
+c552e2af-78ce-4dee-8b84-093198cec9ca|Je l'appelle Chuck Yaeger.
+3c11b1f4-360e-440e-87ce-d3e90717a073|Je ne serais pas long.
+9dd5a59a-d533-432a-a532-d268e01ed229|Une vidéo ? Supprime-la !
+f6e3b193-422e-4948-bfef-ac1bf861532e|Bon, donne-moi juste une seconde.
+9f57bc4d-1a2c-4af0-94e6-16bb34b7c546|Suce-moi d'abord. 
+00833ba9-3340-4053-b2bb-23e52fdfaa0e|Je veux te baiser tout de suite.
+4d0556ed-08e2-4115-9b34-1f5b22dc2430|C'est incroyable.
+c7909ba8-10bc-495e-831c-0b1f012cf663|A tes ordres.
+eb9b2cbd-808c-4c49-be4e-f083f54badb3|*Fin*
+20d44fc6-9729-4d4f-bdb5-188e4189f67a|Joyeuse saint-Valentin, Vickie.
+
+[Quests]
+25bae201-0cae-404e-bf17-76c378252b9d|Trésor caché
+25bae201-0cae-404e-bf17-76c378252b9dDescription|Trouvez les victuailles. Sinon que serait une saint-Valentin sans quelques bonbons ?
+457fa85f-8b2a-4733-98b9-3c9b3e83d8d0|Public
+457fa85f-8b2a-4733-98b9-3c9b3e83d8d0Description|Trouvez le DVD de Vickie.
+f41f68a0-7293-4142-958a-45f5ea34482a|Secoue l'herbe
+f41f68a0-7293-4142-958a-45f5ea34482aDescription|Secouer l'herbe à chat pour débusquer le chat ou trouvez un moyen de prouver qu'il n'existe pas.
+717a4335-191d-4e43-96be-d800ba6c9b0e|En quête
+717a4335-191d-4e43-96be-d800ba6c9b0eDescription|Utilisez les renseignements que vous avez trouvés pour gagner la partie de "Je n'ai jamais, jamais".
+
+[Events]
+4738091c-8de2-4e16-ad22-fc99cbb62a7e|*Vickie vous rends le médicament*
+13ab9fe5-be96-4c2a-8686-f3cd8caf41ba|Vickie n'a-t-elle pas dit qu'elle avait envoyé un DVD porno à Madison ? Je me demande si je peux le trouver...
+dbed221d-9117-424b-ad7d-d50e0c941870|Oh putain, j'avais des boucles d'oreilles en or au lycée. Quelle merde les années 90 ! 
+2620e0d2-def7-4056-a608-d278bfcf7de0|Dieu merci, je n'ai pas marché à fond avec cette stupide histoire de chat...
+f44034be-1a24-43eb-a0c3-4e3f5950485a|Merde, j'aurais peut-être dû donner le nom d'un de ses films...
+bb7d0bb3-0f5c-4496-a415-8edfe135b31d|Vous jetez une couverture sur Vickie et éteignez les lumières avant de rentrer chez vous. Vous prévenez Madison qu'elle doit s'attendre à une invitée surprise quand elle rentrera chez elle. Elle est ravie quand vous lui apprenez qu'il s'agit de Vickie.
+
+C'est tout pour aujourd'hui. Bonne saint-Valentin. (Essayez de gagner la partie de "Je n'ai jamais, jamais" la prochaine fois !) 
+
+Game Over.
+d5f87a6e-af3c-4e67-a75b-4b51a93a1658|J'aurais pu prendre le médicament avec moi C'est la preuve que Vickie me ment.
+1984d190-3664-4068-85be-7b8ba39909d0|Le silence est une réponse suffisante. Je suppose que je ferais mieux de retourner chercher ce chat... ou de trouver un moyen de prouver qu'il n'existe pas.
+46f18e6a-eff6-4639-aae9-1ab3ca9d80d8|Oui, Vickie, elle l'a gardé. Mais tu n'as pas besoin de savoir que je l'ai trouvé.
+b8d0dd28-7aae-4188-b54f-90c1b8ed3213|Une heure plus tard, vous et Vickie ressentez encore les effets. Manger toute une barre était... une expérience intéressante. En plus, ça vous a permis d'avoir des discussions amusantes.
+a7601b5f-decf-4499-8688-2496a2067b9f|*Vickie lance son short et sa culotte à votre visage. Vous les attraper.*
+0536ad79-8439-4e9a-9ed2-fdb5ce82a30f|C'est une bonne blague. Merde, la boite est vide. Cette coquine de Madison a déjà dû regarder le film... Je devrais essayer de trouver ce DVD...
+0f209237-d2e3-44c6-b803-c866f2c0aaa3|Ca doit être le DVD dont Vickie me parlait. Merde, il n'est plus là ! Cette coquine de Madison a déjà dû regarder le film... Je devrais essayer de trouver ce DVD...
+77dbe5e6-4282-426c-96d9-7f87f58d30cc|Après avoir son dernier texto, vous vous demandez si vous devez simplement aller manger un morceau et rentrer sagement à la maison. Mais lorsque vous repensez à Vickie Vixen, vous vous apercevez que c'est impossible de passer à côté d'une telle opportunité. Ce n'est plus la saint-Sopalin.
+
+Profitez bien de notre histoire surprise et merci de votre soutien !
+
+
+dea62bc6-7d59-44c1-9860-80f5bbea97b0|Mon dieu, regardez-moi ça. Je dois absolument enlever mon pantalon et mon caleçon ! 
+d12b50eb-5c2c-4164-97e8-35733efec555|*Vickie enlève son haut*
+1e985d27-5ef1-4f57-ac9a-a36307753b9a|Vickie et vous nettoyez les preuves de votre passage chez Madison avant de vous échapper par l'arrière à la manière de Bonnie et Clyde. Madison et Ashley reviennent plus tard dans la nuit, ivres et toujours célibataires, et sans se douter de la merveilleuse soirée que vous avez passé chez elles. 
+
+Game over et bonne saint-Valentin. 
+f91033ce-edc1-4fda-b9fb-b7ea27e7d679|La nuit de la saint-Valentin : Vous êtes dans le jardin de Madison et que vous avez un sentiment étrange qui vous dit que vous ne devriez pas être là. Après tout, Madison ne vous a pas invité.
+
+Vous vous rappelez pourquoi vous êtes ici : les textos que vous avez échangé depuis votre canapé la nuit la plus romantique de l'année. Tout a commencé par le texto d'une personne inattendue... Vous décidez de les relire.
+12166807-ce1b-43e1-8d46-5ea420afb235|*Vickie attrape votre bite et vous plonge à l'intérieur d'elle*
+89eb0172-15a9-491c-b8d1-369f0e92953f|Attends, il y a une photo d'un chat ici. Est-ce qu'il existe vraiment ?

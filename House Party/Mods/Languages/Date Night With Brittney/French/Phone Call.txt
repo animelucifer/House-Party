@@ -1,0 +1,43 @@
+[General]
+Name|Appel téléphonique
+
+[Dialogues]
+0|C'est Flash'n'Dash, qu'est-ce que vous voulez, bordel ? 
+1|Pourquoi utilises-tu cette application si tu ne sais même pas ce que tu veux commander ?
+2|Yo, tu es débile ou quoi ? 
+3|Abrège, je n'ai pas besoin de connaître toute ta vie. Tu passes commande ou quoi ?
+4|Bon eh bien, je vais prendre une pizza.
+5|Que veux-tu que je te dise ? Nous avons des pizzas. Tu auras une pizza, crétin.
+6|J'arrive bientôt. Prépare le pourboire.
+7|Bienvenue sur Neighborhoodwatch.com. Avez-vous des photos à télécharger ?
+8|Les photos ont bien été téléchargées. Votre compte Admin vous garantis que vos photos seront mises en avant, à la vue de tous. Nous espérons que la personne mise en avant sur ces photos soit prête à être sous les feux de la rampe.
+9|Veuillez choisir un titre pour les photos téléchargées.
+10|Ah, Pat ! Merci d'avoir apporté votre contribution. Nous avons adoré entendre la genèse de Neighborhoodwatch.com. Même si ce site n'a pas suivi exactement votre vision des choses, vous ne pouvez pas dire que ce n'est pas un succès !
+
+[Responses]
+f681cca3-1d86-409b-b8c3-584eaa1ff692|Je, euh... Je ne sais pas.
+e7a58f33-67d5-4a68-a2b3-502b9e0c2785|Nous avons eu un petit problème en cuisine et...
+5e5e45ca-1ce5-48c1-a04c-57a9f2be67a7|Je, euh... Je ne sais pas.
+966d432f-c3b6-4e6e-9991-581b7f7360a8|Je, euh... Je ne sais pas.
+5052fdf8-cada-4467-967d-f7168e40eb10|Oui, je voudrais passer une commande.
+ca2173c2-e56c-4343-8db2-a5bbbfd75233|Quelque chose d'autre ?
+b3d15f79-55d1-48b0-83dc-f4bf1a511482|Euh... ok.
+9331c763-f7c4-4785-a0a5-91bbd35a0f4d|A toute, je suppose.
+d87752a8-e20a-49ee-b960-f7652db94ef6|Tu ferais mieux d'y croire. *Sélectionnez une photo*
+792fad32-99f6-49c6-a12e-f1c3790c9893|Non, je ne pense pas. *Vous vous rétractez*
+6c62219d-043b-4085-8ce5-76b2d2a020fd|Douce, douce ironie.
+cd1167e4-1bac-45dc-872b-d9cdf3688a3e|C'est une grande fille, elle s'en remettra.
+25a6026c-7dee-4742-867a-3c36611d45b3|"En avant-première, voici le propriétaire du site, dans toute sa gloire avec un joli pipi-culotte."
+1fe71403-3a42-4888-96ea-bdaaf1f6f618|"Patrick rendra Negan très fiers vu à la vitesse où il est arrivé dans la catégorie pipi-culotte."
+83ce2834-87cc-4219-a640-b1ee76db43a1|"Voici l'Admin, faites-vous plaisir."
+233e94d2-e755-448a-b574-bd65449559f0|"Bombasse Blonde se fait ramoner à fond."
+ac6d0078-36e0-4e20-8632-febfd008db86|"Photos hard de la championne de lutte dans la boue."
+e653f403-9fbe-4bb2-b5a9-1b0842f3bf15|"Belle du sud siffle Dixie en suçant une queue."
+d15f9b49-91c8-48a4-8835-3e2493fe7ee9|*Continuer*
+
+[Quests]
+
+[Events]
+99e99a53-a62b-42ea-a263-a28d59321bc8|*20 minutes plus tard*
+8c39c048-d8c8-45e0-b5d0-3737184b569a|La pizza était délicieuse ! Malheureusement, Brittney a trouvé la bouteille d'huile à moteur vide et sait probablement que vous avez quelque chose à voir avec son échec dans la cuisine. Heureusement, elle est trop polie pour aborder ce sujet. Mais, elle n'est clairement plus "d'humeur".
+47655b66-e330-4c8d-a6c8-cf17559c9f22|Voici ton téléphone, Pat. Mon petit doigt me dit que tu vas avoir beaucoup de notifications. *Vous jetez le téléphone sur le corps inconscient de Patrick*
