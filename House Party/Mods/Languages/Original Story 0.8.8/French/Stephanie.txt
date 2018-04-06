@@ -1,0 +1,98 @@
+[General]
+Name|Stephanie
+
+[Dialogues]
+0|Re-bonjour étranger ! Comment ça va ?
+0.1|Salut. Je m'appelle Stephanie. Alors, quoi de neuf ?
+0.2|Éloigne-toi de moi ou j'appelle les flics.
+0.3|J'ai grave envie de baiser !
+1|Merci ! En fait, j'adore danser !
+2|Ravie de te rencontrer également. Oh mon dieu, j'aime TROP cette chanson !
+3|Oh, Madison et moi nous connaissons depuis l'école primaire. Je n'aurais jamais pu valider les maths si elle ne m'avait pas laissé copier ses réponses à chaque fois. En fait, je n'aurais probablement pas pu valider l'histoire, les sciences ou l'anglais non plus. Ce n'est pas complètement fou ?
+4|Elle est, comment dire ? Comme super intelligente. Si j'avais suivi son exemple depuis l'école primaire, j'aurais pu être une très bonne élève.
+5|Cette soirée est sympa, mais dommage qu'il n'y ait pas de gaz hilarant.
+6|Tu n'es pas très marrant comme gars, toi.
+7|En fait, je me lâche complètement quand je suis sous l'effet de gaz hilarant. Si tu apprécies déjà mes mouvements maintenant, tu n'as encore rien vu !
+8|Il me fout un peu les jetons, tu vois. Il est toujours complètement bourré, et il matte toujours mes seins quand je danse.
+9|Oh mon dieu ! Tu as trouvé du gaz hilarant ! Tu es mon héros ! Plus je suis défoncée, plus je suis excitée. Tu devrais me voir une fois que j'ai bu du vin ! Attends, est-ce que j'ai vraiment dit ça à voix haute ? Merde, j'ai l'impression de me comporter comme une trainée... Hahaha. Dans tous les cas, je vais totalement me déchainer sur la piste de danse pour toi, et tu pourras même en profiter pour regarder sous ma jupe. Attends, n'était-ce pas trop rentre dedans comme approche ?
+10|Merci ! Je suis ravie que tu apprécies mes mouvements. Je t'ai vu regarder sous ma jupe. Continue, ça m'excite.
+11|Et puis merde alors ! Tu sais quoi ? On va transformer cette soirée en une superbe fête !
+12|Putain, tu as réussi à trouver de l'alcool ? Tu es mon héros ! Même s'il ne reste pas grand-chose dans cette bouteille, au moins, je peux avoir une gorgée ou deux ! Merci !
+13|Bien essayé, mais je devrais être sacrément saoule pour ça. Et vu comment se déroule cette soirée, ce n'est pas prêt d'arriver !
+14|Tu penses vraiment que je n'étais pas déjà au courant ? Tu casses l'ambiance là. Tu devrais vraiment te relâchez un peu !
+15|Essayes-tu de dire que ma danse te fait bander ? C'est un peu excitant.
+16|Merde alors ! Tu as réussi à dégoter une autre bouteille de vin ? Tu es le meilleur. Au fait, sais-tu que je peux descendre toute une bouteille en moins d'une minute ? Regarde !
+17|Oh mon dieu ! Je suis trop en panique. Ce mec vient juste de jouir sur moi. Beurk. Et la piste de danse est toute dégueulasse maintenant !
+18|La crème fouettée contient de l'oxyde nitreux, qui a certains effets secondaires intéressants une fois inhalé.
+19|Je suis toujours sérieuse quand il s'agit de drogues.
+20|Il fait beaucoup trop froid pour ça. J'ai dansé toute la soirée et pourtant, je ne transpire pas encore.
+21|En fait, je ne pensais même pas qu'il puisse avoir un téléphone. Je ne l'ai jamais vu l'utiliser.
+22|Attends, quoi ? On est déjà en 2017 ? Zut alors ! J'ai dû manquer mon rendez-vous chez le dentiste...
+23|Non, désolé !  Je ne pense pas la connaître.
+24|J'ai trop envie de baiser !
+25|Attends, ne serais-tu pas un gigolo ? Bien sûr que tu en es un ! J'aurais dû m'en douter ! Et tu prends combien ?
+26|Oh waouh. T'es bon marché ! Je pensais devoir payer largement plus que ça ! Affaire conclue ! Faisons-le ici même ! J'en peux plus d'attendre !
+27|Whoa, tu comptes faire quoi là ? C'est moi qui paye, je te rappelle. On va s'y prendre à ma façon.
+28|Tu comptes commencer quand ? Je te paye pour ça !
+29|Si je voulais payer quelqu'un pour parler, j'irais voir un psy.  Arrête de me distraire !
+30|Putain, oui.  C'est exactement ce dont j'avais besoin. T'es le meilleur gigolo que je n'ai jamais croisé !  Et voici pour toi. 50 balles comme convenu.
+31|Attends, es-tu bourré ? Ou tu danses juste super mal ?
+32|Eh bien, ça dépend. C'est pour quelle cause ?
+33|Oh ! Pas la peine de faire un concours, ma signature est sûre de gagner !
+34|Oh, non, je ne veux pas que ça se produise. Sinon, je ne serais plus, comment on dit déjà ? Au centre de l'ascension ou un truc du style. Tu sais, comment ça s'appelle quand tu veux que tout le monde te regarde ?
+35|Dans tes rêves ! La fête est ici ! As-tu déjà entendu cette chanson ? Elle ne vieillit jamais ! J'ai demandé à Madison de la mettre en boucle pour toute la nuit !
+36|Ben merde alors, pourquoi la musique s'est-elle arrêtée ? Si seulement je savais comment utiliser ces machins électroniques... Maintenant, va falloir que je demande à Madison de le rallumer.
+37|Waouh, trop génial ! Danser sur cette musique dehors est encore mieux que de danser dans le salon !
+
+[Responses]
+147d229d-9585-4788-8b2a-e924a24abc3b|Du gaz hilarant ? Tu veux vraiment te comporter comme en maternelle ?
+c393da1b-08b7-46f9-b238-61b9fbf4d34f|Hum. Je vais voir ce que je peux faire. Mais qu'est-ce que j'y gagne ?
+b3ca046a-02a3-4e16-ab0f-de0cb405a9ee|Désolé.
+7d3f1745-645f-4896-9822-9e60a0f58aaf|On ne peut pas vraiment lui en vouloir, mais ouais, je vois ce que tu veux dire.
+554ce4eb-2d90-4937-85c6-78e021f2ebb1|C'est bon à savoir, Stephanie. C'est toujours bon à savoir.
+28ef699b-b316-4417-b0a7-b76d953e7c35|Je suis entièrement d'accord avec toi.
+c30b4fc2-4f33-4b74-aa6d-1edbed441327|De rien !
+b480133c-1a01-4101-8965-c4dea0fe4710|Ravi que ça te plaise !
+e2b11b68-4b32-4678-971e-cb12fa26136d|Tu devrais peut-être y aller mollo... Et puis merde. Fait comme tu veux après tout.
+aa273070-c9a1-44f6-b170-a37a0e8623dc|Ta danse m'a rendu tout chose...
+f83b26df-bc72-49dd-b6e1-50291f169548|Mouais. Cette réponse ne te ressemble pas du tout.
+81de3d93-dbd1-4672-bee5-9fc365f406d7|On est en 2017. Tout le monde a un téléphone, Stephanie.
+50ff4c0c-c5fc-4399-9efc-aa6a34507150|Sérieusement ?  Non, je ne suis pas un gigolo !  Pour qui me prends-tu ?
+50667022-a61b-4129-be0a-1dfacff6788e|Euh... Pour toi, je fais le prix d'ami : 50 balles. A prendre ou à laisser.
+a1b75925-bbec-4ae7-83a7-53ecd03a01f0|Je ne sais pas encore si je devrais être content ou non...
+98189443-b55b-4c38-9f87-9d95d4450bff|Je ne pensais pas que ça serait aussi simple...
+3cb827ba-7f83-4291-b76f-325937223080|Je suppose que ce n'est pas la pire des manières pour gagner 50 balles...
+1a0bc54b-a5df-46b2-a942-a3b841af7cee|Mrph ermf mmmp eramanguph !
+e09e958c-e2b3-4ac5-a128-bf725ed58fd8|Je fais aussi les mariages et les bar-mitsvas.
+25d318fd-3564-4e55-b353-6f0192d51745|Euh... Les deux ?
+a5cc50cc-51f2-4e71-ba33-b2f55346e66c|Oh, en fait c'est juste un concours de signatures. La plus jolie de signatures gagne.
+0167950c-5651-4f80-a331-6859844575ae|Si tu signes, Derek sera obligé d'enlever sa chemise.
+f2527f70-a5bd-493b-accf-b8d46748faa3|Bien sûr. Je te ferai savoir si tu as gagné.
+bfad2150-6aae-4a7a-9206-3286b5f19481|L'attention. Merci quand même, Stephanie.
+0a0eed26-2089-416e-9559-ef802852431f|(Continuer)
+f742a2f9-9fef-4d19-9e90-cfcbfdc61da0|C'est pas faux !
+3e520cdf-71b0-4b6f-9f02-62a4c22da340|Au fait, comment as-tu connu Madison ?
+ffebf515-e80c-4fe5-a11a-153985619c95|Katherine semble sympa.
+07beb9cd-002c-40ca-99a9-5ddc2a52c5f0|Ravi de faire ta connaissance, Stephanie !
+9f83575c-3fba-442c-8d69-4ccfce2b4939|J'ai l'impression que tu t'amuses bien.
+ef48aacc-c9f8-4cc1-a685-4c7a86cf9040|Tu danses super bien, j'adore ton style !
+a0152de5-a0c2-437e-8504-8b2a9cb710bd|Eh bien, tu t'éclates vraiment sur cette piste de danse !
+a797561c-f19d-46c4-96a1-c753648fc5bf|Alors, que dirais-tu d'animer encore plus cette soirée en dansant seins nus ?
+42f9ff5b-b2da-4804-b1ae-77f0c7f63ca5|Au fait, soit prudente, on peut voir ta culotte quand tu tournes comme ça.
+ce280680-aacc-4b2c-81ef-e9785642e16a|Ou puis-je trouver du "Gaz hilarant" ?
+11530280-7325-481e-b0a2-dfb626fec636|Par pur hasard, tu ne saurais pas où se trouve le téléphone de Patrick ?
+31cc9f0a-104a-436c-bcf5-be2a4d4e5788|Tu ne saurais pas qui pourrait me refourguer un joint ?
+be7eda8a-0b2b-49d1-a850-1f630a9bbde4|Au fait, euh... Est-ce que tu veux de mon aide pour ça ?
+72246de3-9bd2-4957-9124-3244b429cacb|Est-ce que je peux avoir mes 50 balles maintenant ?
+a2aac305-f044-4364-8838-a2c71ce803a2|Ah, Stéphanie ! Est-ce que tu veux bien signer ma pétition ?
+92936248-74da-4eba-ac33-a15695b5c5cd|Nous devrions aller nous détendre dans le jacuzzi !
+efc8aeb4-4115-4d8c-8f0c-afee90eafa82|J'ai improvisé une piste de dance à l'extérieur près du jacuzzi !
+d77db943-09b1-4ec1-978e-8ee2d6631609|A plus, Stephanie.
+
+[Quests]
+85b39753-8e78-494d-ac0a-455e4e4a9a3e|A la recherche de gaz hilarant !
+85b39753-8e78-494d-ac0a-455e4e4a9a3eDescription|Stephanie veut que vous lui trouviez de la crème fouettée et en échange, elle vous montrera de nouveaux mouvements de danse.
+7c6a6d68-a46a-4dc1-b586-b112c5b88cbe|Abaissons certaines inhibitions
+7c6a6d68-a46a-4dc1-b586-b112c5b88cbeDescription|Stephanie a promis qu'en échange de boissons alcoolisées, elle acceptera de danser seins nus. Il faut lui dégoter de l'alcool !
+
+[Events]

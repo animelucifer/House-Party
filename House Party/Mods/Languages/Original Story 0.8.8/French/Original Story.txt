@@ -1,0 +1,362 @@
+[General]
+WhichStoryText|A quelle histoire voulez-vous jouer ?
+UnderDropDownText|(Vous pouvez ajouter des histoires en les téléchargeant ou en créant les vôtres !)
+StartNewGame|Démarrer une nouvelle partie
+LoadGame|Charger une partie
+VisitWebsite|Visiter notre site pour les dernières nouvelles
+DownloadStories|Télécharger et partager des histoires sur notre forum
+StoryCreatorHelp|Apprendre à créer votre histoire
+Quit|Quitter
+ChooseLanguage|Choisissez votre langue
+LockedDoor|Elle semble bloquée.
+CantDoThat|Je ne peux pas faire ça.
+
+[Item Names]
+Amy|Amy
+Armchair|Fauteuil
+Ashley|Ashley
+Ashley's Panties|La culotte d'Ashley
+Ashley's Top|Le haut d'Ashley
+Bathroom Door|Porte de la salle de bains
+Bed (Left)|Lit (gauche)
+Bed (Right)|Lit (droit)
+Bedroom Closet Door (Left)|Porte du placard de la chambre (gauche)
+Bedroom Closet Door (Right)|Porte du placard de la chambre (droite)
+Bedroom Door|Porte de la chambre
+Blue Hair Dye|Teinture bleue pour cheveux
+Brittney|Brittney
+Broom|Balai
+Cabernet|Cabernet
+Cabinet|Meuble
+Camera|Appareil photo
+Cell Phone Jammer|Brouilleur de téléphone
+Chardonnay|Chardonnay
+Chicken|Poulet
+Chicken Nuggets|Nuggets de poulet
+Chocolate Syrup|Sirop au Chocolat
+Chocolate Bar|Barre chocolatée
+Clear Eyes|Clear Eyes
+Ashley's Clothes|Les vêtements d'Ashley
+Coffee|Café
+Computer|Ordinateur
+Condom|Préservatif
+Couch (Left)|Divan (gauche)
+Couch (Middle)|Divan (milieu)
+Couch (Right)|Divan (droit)
+Credit Card|Carte de crédit
+Derek|Derek
+Derek's Shirt|La chemise de Derek
+Drawer|Tiroir
+Madison's Diary|Le journal intime de Madison
+Dining Chair|Chaise de la salle à manger (1)
+Dining Chair 2|Chaise de la salle à manger (2)
+Mound of Dirt|Monticule de terre
+Dryer|Sèche-linge
+Eggs|Oeufs
+Empty Cup|Tasse vide
+Faucet|Robinet
+Fifty Dollars|Cinquante balles
+Fire Pit|Feu de camp
+Flask|Flasque
+Flower|Fleur
+Frank|Frank
+Fridge|Frigo
+Garage Door|Porte du garage
+Gastronomy Book|Livre de cuisine
+Glasses|Lunettes
+Gutter|Gouttière
+Hot Tub Stairs|Escaliers du jacuzzi
+Hot Tub|Jacuzzi
+Whack Spankiel's|Whack Spankiel
+Joint|Joint
+Katherine|Katherine
+Katherine's Phone|Le téléphone de Katherine
+Kettle|Bouilloire
+Bathroom Skeleton Key|Clé unique pour toutes les salles de bains
+Mysterious Key|Clé mystérieuse
+Laptop|Ordinateur portable
+Laundry Room Door|Porte de la buanderie
+Lawn Chair|Chaise de jardin
+Madison|Madison
+Madison's Phone|Le téléphone de Madison
+Marijuana|Marijuana
+Master Bathroom Door|Porte de salle de bains principale
+Master Bedroom Door|Porte de la chambre principale
+Mayonnaise|Mayonnaise
+Merlot|Merlot
+Microwave|Micro-onde
+Mug|Tasse
+Natty Lite|Natty Allégé
+Nighstand Drawer 1|Tiroir de la table de nuit
+Office Chair|Chaise du bureau
+Orange Bin|Orange Bin
+Sofa|Canapé d'extérieur
+Painkillers|Aspirine
+Pantry Door (Left)|Porte du cellier (gauche)
+Pantry Door (Right)|Porte du cellier (droite)
+Paper|Papier
+Patio Armchair|Chaise de jardin
+Patrick|Patrick
+Pencil|Crayon
+Petition|Pétition
+Flash 'n Dash|Flash 'n Dash
+Phone2|Téléphone
+Patrick's Phone|Téléphone de Patrick
+Goodbye Kitty Underwear|Sous-vêtements Goodbye Kitty
+Pizza Box|Pizza
+You|Moi
+Popcorn|Pop-corn
+Potatoes|Patates
+Pouf|Pouf
+Printer|Imprimante
+Rachael|Rachael
+Router|Box internet
+Rum|Rhum
+Safe|Coffre-fort
+Salami|Salami
+Salmon|Saumon
+SD Card|Carte SD
+Slider Door|Porte coulissante
+Closet Door|Porte du placard
+Soda|Soda
+Sofa (Left)|Canapé (gauche)
+Sofa (Right)|Canapé (droit)
+Room Door|Porte de la chambre
+Spare Room Chair|Chaise de la chambre d'ami
+Spare Room Door|Porte de la chambre d'ami
+Speaker|Enceinte
+Spoon|Cuillère
+Stephanie|Stephanie
+Stove|Cuisinière
+Study Door|Porte du bureau
+Sweeties|Bonbons
+Tablet|Tablette
+Thermos|Thermos
+Thermostat|Thermostat
+Toaster|Grille-pain
+Towel|Serviette
+Upstairs Bathroom Door|Porte de salle de bains (à l'étage)
+USB Stick|Clé USB
+Utility Closet Door|Porte du placard (utilitaire)
+Vanity Chair|Chaise de la coiffeuse
+Vickie|Vickie
+Empty Vodka Bottle|Bouteille de vodka (vide)
+Washer|Machine à laver
+Whipped Cream|Crème fouettée
+
+[Item Actions]
+Inspect|Examiner
+Talk|Parler
+Give|Donner
+Sit|S'asseoir
+Faster|Accélère
+Slower|Ralentis
+Fuck|Baiser
+Use With...|Utiliser avec...
+Untie|Défaire
+Open|Ouvrir
+Close|Fermer
+Lock|Verrouiller
+Unlock|Déverrouiller
+Lay Down|S'allonger
+Take|Prendre
+Drink|Boire
+Take Photo|Prendre des photos
+View Photos|Voir les photos
+Turn On|Allumer
+Turn Off|Éteindre
+Create Petition|Créer une pétition
+Pick|Cueillir
+Climb|Grimper
+Get Out|Sortir
+Rummage|Fouiller
+Remove Shirt|Enlever sa chemise
+Remove Pants|Enlever son pantalon
+Remove Boxers|Enlever son caleçon
+Put On Boxers|Remettre son caleçon
+Put On Pants|Remettre son pantalon
+Put On Shirt|Remettre sa chemise
+Remove Shoes|Enlever ses chaussures
+Put On Shoes|Remettre ses chaussures
+Print Petition|Imprimer la pétition
+Smell|Sentir
+Tamper|Altérer
+Remove Panties|Enlever sa culote
+
+[Events]
+That doesn't really need drying...|Il n'y aucun intérêt à faire sécher ça !
+I don't need to wash that...|Je n'ai pas besoin de laver ça !
+d20cb5ff-f2d8-4879-8a4e-2adeea5841bd|Amy vient d'arriver dans notre ville. Je ne pense pas qu'elle connaisse grand monde à cette soirée.
+f0e38c53-a2f6-4656-9946-0ad1c035654a|C'est Ashley, la soeur de Madison. Elle a l'air assez contrariée. Je parie qu'elle a besoin d'un gars comme moi pour la réconforter.
+29681245-52a0-4e4e-a951-3bd0ab44de52|Le trophée ultime !
+d705eaa0-1106-4970-8cb8-adba3911c66e|La seule et dernière ligne de défense qui maintienne les seins d'Ashley à l'intérieur de son haut...
+e39429fa-a7ac-417d-985c-165ea7df622e|C'est une teinture bleue pour cheveux. Intéressant. Est-ce que Madison compte se déguiser en Harley Quinn pour Halloween ? J'aimerais tellement voir ça...
+73a58849-5a65-44af-aa4a-c18e49565d67|Cool ! Maintenant j'ai une fleur bleue !
+97b01f56-be12-43c4-9891-a78eaa187749|Brittney est toute seule dans cette pièce et elle semble triste. Je me demande si je peux faire quelque chose pour lui remonter le moral.
+773ebb03-6d23-4239-9b2d-5456f8676f37|C'est un modèle standard de balai.
+0c73fa97-28b7-472a-b953-c14ecd567970|Pas mal comme support d'enceinte fait-maison...
+d324adc0-b426-4999-b68a-7455601c7642|Rien de mieux qu'un bon cabernet pour accompagner un steak. Attends, j'ai l'impression de me comporter comme un idiot, n'est-ce pas ? Est-ce qu'on peut oublier tout ça ?
+be530d91-782f-4663-ad8d-4323740facf5|Vous buvez la bouteille de Cabernet
+407ada6a-9625-4a2b-a268-5c5ecabda9d8|C'est un appareil photo numérique. Il enregistre ses photos sur une carte SD, mais il n'y a pas de carte dans l'appareil.
+1c4a956e-932b-4d82-bcec-041c37a8b2f2|Voilà. J'ai mis une carte SD dans l'appareil et le message "Aucune carte SD" ne s'affiche plus. Je suis prêt à prendre des photos !
+be617dba-fc76-4988-9e8d-ab47c96c461f|J'ai l'impression que cet appareil photo est prêt à l'emploi !
+886a262c-91da-4e0e-9570-010ccf2acfb2|Hum. C'est un brouilleur de téléphone. Je me demande ce que Madison fait avec ça. Cela pourrait être utile.
+5dd5a60b-e0bd-42e0-af7d-c6d59bde1e42|C'est une bouteille de Chardonnay. Frank n'a pas dû la voir. Elle était cachée dans un placard.
+d8433f79-b2e8-492b-9174-09eefc315c72|Vous buvez la bouteille de Chardonnay.
+eecffbd4-be52-4699-98ba-fc77a761fae4|Ah, du poulet. Le poulet du ... attends, je pense que j'ai foiré cette analogie.
+c0f6d619-e569-4e8c-a70d-01890a89753b|Qui n'aime pas les nuggets de poulet ?
+2733ecde-340c-4e50-aaae-361b540a9526|J'imagine très bien enduire avec ça certaines des femmes présentes ici puis de les lécher jusqu'à ce qu'elles soient nickel-chrome !
+1d2a8b0e-daa5-47ca-81e0-dfc1974967b8|Une barre chocolatée ! Et en plus de ma marque préférée ! Y a pas meilleur !
+5cd91de9-b582-443b-985f-54b0d2afbf7f|Voilà. J'ai explosé la barre de chocolatée dans la tasse. Et maintenant ? Ca va retourner dans ma poche...
+Chocolate in Mug|Tasse contenant du chocolat
+Chocolate & Water in Mug|Tasse contenant du chocolat et de l'eau
+ab79b721-df83-40e6-8a1b-01201f80cff6|L'étiquette précise "Ne pas ingérer. Peut provoquer des effets secondaires graves". Et les gens continuent de mettre cette merde dans leurs yeux ?
+4ee21de0-c38e-46e3-b3b0-007dba37d465|Ce sont les vêtements d'Ashley, et ils sont dans mon endroit préféré : n'importe où, sauf sur elle.
+bf34053e-2664-44bb-9f41-c2263a6d6ddd|J'ai l'impression que quelqu'un a laissé sa tasse de café ici. En plus, la tasse est presque pleine.
+91493baa-7872-4ceb-b7f5-2263727ec69a|Pff. Saloperie de PC. Achetez un Mac.
+9e3cf5ca-43a6-45a8-9837-ee2d3d1c89ad|Mais bien sûr ! Je vais concocter une petite pétition en vitesse...
+de0ad7b4-50b5-444f-9524-2450e5b79b59|Sérieusement... Vous croyez vraiment qu'il n'y aurait aucun préservatif de planquer quelque-part dans ce jeu ?
+7e956204-0a21-4945-8edd-29be42dcf7d4|Ca doit être une ancienne carte de crédit de Madison. Elle a expiré.
+0a841f89-73a4-4666-9a6b-558acfaaf34d|C'est Derek. C'est un ami et c'est lui qui m'a invité à cette soirée où je ne connais presque personne.
+61595c87-1ef8-4467-933c-4975ed0a6f73|Je suppose qu'il ne plaisantait pas quand il disait qu'il allait me donner sa chemise...
+67ca9a09-0b4b-4513-b728-aa5bc849016d|C'est le journal intime de Madison. J'aimerais le lire de bout en bout, mais il y a des femmes à cette soirée avec lesquelles j'ai une chance de pouvoir conclure.
+a69d5ca5-8493-4713-b5d5-ad208098e992|Hum... J'ai l'impression que le sol est plus meuble par ici, comme s'il avait été retourné récemment.
+25980de3-23bb-4655-bb83-d2e6831dc7a2|Génial ! Ce monticule était encore assez meuble pour que j'y plante un balai. Mais je ne sais pas exactement pourquoi j'ai fait ça...
+e977b899-76e0-4f7c-a2a3-f8c7a2e51531|Quelle est l'utilité d'une machine à laver si aucun sèche-linge n'est à proximité ?
+Ashley's Clean Clothes|Les vêtements lavés d'Ashley
+4e4ca0f1-830d-4c21-8014-9b6272794155|Les vêtements sont encore en cours de séchage. Je devrais revenir plus tard.
+055de285-15f3-4203-a682-1f12797201da|Enfin, les vêtements sont lavés ! Parfait !
+6b0c0b4a-413e-4b51-a340-dceac065359d|Tu mets les vêtements d'Ashley dans le sèche-linge.
+d2a4c4f9-47ea-48ad-9c2a-9351ae6cd982|C'est une boite d'oeufs. Planifies-tu de préparer le petit-déjeuner pour tout le monde ?
+b41aab26-bf5c-4cc9-baf5-a6e6cf7fafb3|C'est une tasse de café vide. A quoi pouvais-je bien m'attendre ?
+aa225d4f-069f-460c-90d1-ded86560bf10|C'est un robinet. Comme si je ne sais pas ce que c'est ni à quoi ça peut bien servir...
+Bottle of Water|Bouteille d'eau
+e8ffbbaf-092d-464f-a587-f2d5d8aa81ce|J'ai rempli la bouteille de vodka avec de l'eau.
+8a2f0e84-6b76-443e-a89e-da362535ec26|Techniquement, c'est une "bouteille d'eau". Ca m'étonnerait que j'arrive à trouver mieux que ça ici...
+184c2909-812e-4e3a-9346-0b54cf87cf13|J'ai rempli la tasse avec de l'eau.
+Water in Mug|Tasse contenant de l'eau
+Chocolate & Water in Mug|Tasse contenant du chocolat et de l'eau
+009cc91f-804f-4219-ad20-b53c9da3ab2b|Un beau billet tout neuf de 50 balles !
+729b3710-f91b-4745-b825-6a3e750ef3e6|Cool, un feu de camp ! Dommage qu'il n'y ait pas de guimauve...
+Lit Joint|Joint allumé
+0d828cbb-a157-43de-a5dd-739db5901f4d|Ca devrait faire l'affaire...
+6147fd48-3ca6-4f5a-9bd8-a8d006cd72e3|Cool, une flasque. Je ne sais pas encore à quel point elle pourra m'être utilise vu la prohibition sur l'alcool de cette soirée, mais je vais quand même la prendre avec moi.
+61b4a824-4960-4ae2-9057-9ce3cd4610c9|Vous buvez le contenu de la flasque.
+Filled Flask|Flasque remplie
+3b69886e-b7a5-4976-835c-2a8c3491e562|Quelle belle fleur.
+af676ad8-6ccd-4d61-8062-00be614483d6|Cool ! Maintenant j'ai une fleur bleue !
+a5241c6c-be2b-468e-a80d-bfefefa4af74|Frank n'est qu'un connard très susceptible. Je devrais probablement éviter de le faire chier.
+85299c95-d781-4387-a450-df30daf2541c|C'est l'un des livres de cuisine de Madison. Il semble qu'il y ait quelque chose de graver dans la couverture du livre, comme si quelqu'un avait écrit quelque chose dessus. Je n'arrive pas à lire ce qui a été écrit.
+7fa81457-b371-44bb-9b78-d27eee7263d3|Ce sont les lunettes de Katherine.
+e7a9b71d-5033-45c6-8dc9-59d7c2cc9aa3|Je ne suis pas vraiment habillé pour l'occasion...
+005db2d6-7222-4d9d-93b1-925f167bf76d|Je ne suis pas vraiment habillé pour l'occasion...
+3f88f4e6-9b4a-493c-b3ec-b6b7b502c6e9|Je ne suis pas vraiment habillé pour l'occasion...
+435c8214-c1df-4f62-99a6-af1a4a0d80fe|Je ne suis pas vraiment habillé pour l'occasion...
+d553f238-e8f9-4d38-81c4-0cdca02e0222|Je ne suis pas vraiment habillé pour l'occasion...
+02dd64dd-d7b9-4850-9672-7def34094e23|Je ne suis pas vraiment habillé pour l'occasion...
+8d403334-674c-4cb1-8131-e1ecdfdeb0db|Je ne suis pas vraiment habillé pour l'occasion...
+81b3ad4e-2d14-49d0-8ea4-0d4583533c30|Je ne suis pas vraiment habillé pour l'occasion...
+4bc1b13a-afee-4c73-9702-abdf3ff8243b|Je ne suis pas vraiment habillé pour l'occasion...
+897f8dc2-9fde-4024-b440-c30a972d9ec3|Je ne suis pas vraiment habillé pour l'occasion...
+193df446-a014-4802-8d73-ccaf03485bb8|Je ne suis pas vraiment habillé pour l'occasion...
+3aed1893-d54b-45fd-b228-9e7f472f3c4a|Je ne suis pas vraiment habillé pour l'occasion...
+65a787b5-c541-4597-8046-96b05f6e03bf|Ah, Whack Spankiel. Avec un peu de coca, c'est ma boisson favorite. C'est du moins ce que je raconte aux autres. En fait, je pense que ça a un goût de merde, mais ça donne l'air cool d'en boire.
+c4712aa1-7843-4261-a514-dd96b7a92991|Vous buvez la bouteille de Whack Spankiel
+cbb34c16-9958-43e6-8502-16303b62d690|Et pas si mal roulé que ça en plus !
+44df90ef-bdfe-446c-812d-aa91304e1fd7|Katherine à l'air sympa, et elle est intelligente mais elle a déjà un petit ami. Devrais-je quand même tenter ma chance quitte à perdre mon temps ?
+e3f93a94-eb7e-46ad-acbf-4e9894e39c5b|Description manquante, désolé
+4078ce23-e586-42b8-b314-a46cd1850acc|C'est une bouilloire standard. Il n'y a rien de plus à voir ici. Peut-on revenir au jeu maintenant ?
+a9a1286d-dcd3-42e3-a69c-dd573c96dfef|La bouilloire a été remplie de café.
+1985d27b-35e9-4226-bb06-eb6aa2f971d0|Je devrais peut-être d'abord mettre la bouilloire sur la cuisinière...
+Hot Coffee|Café chaud
+c2539f79-8ce8-4951-a78b-36edfdbc28a3|Ce café est chaud comme il faut. Heureusement que je n'ai pas de brûlures de troisième degré en le gardant dans ma poche.
+b710008b-2bb6-49c0-9c8f-a3a86b47d2fc|Cette bouilloire empeste le café. Il doit bien y avoir un autre moyen de réchauffer ça.
+1298b7f3-c87c-4c11-828a-ec43b94043af|Hum. Qui aurait pu imaginer qu'il n'y ait qu'une seule et unique clé pour verrouiller toutes les salles de bains ? Trop cool !
+287f2bbc-31d5-411c-b504-289c6350ed03|Hum, c'est une clé de toute évidence. Elle doit servir à verrouiller une des portes de la maison, mais laquelle ? Mystère...
+f2cfc540-46d5-49e7-a3e8-beabaaad873d|Pff. Saloperie de Mac. Achetez un PC.
+2ae370b1-4f00-4ecc-bca1-27179faa14c2|C'est Madison. C'est elle qui a organisé cette soirée. Je dois absolument bien me comporter en sa présence si je ne veux pas qu'elle me vire.
+bc197bfa-1aec-47d8-a7fc-2541b08d00a7|C'est le téléphone de Madison. Elle a dû le laisser là, sur le lavabo.
+bc17eea9-675c-4a60-9e8a-958de9a98152|C'est la drogue que j'ai acheté à Frank avec mon argent durement gagné. Je ferais mieux d'éviter de le crier sur tous les toits.
+17c3fbfd-fe32-4430-a7cf-c6f6bf156392|Erf, c'est de la mayonnaise allégée. Mais pourquoi ?
+2b8cd7ea-7c31-4287-9b0d-522ea272421f|Comment diable Patrick a-t-il pu réussir à récupérer une bouteille de Merlot avec Frank qui rode ?
+dd4381c4-7c99-4870-81eb-a130e65ab0de|Vous buvez la bouteille de Merlot
+79cf85c2-9054-4850-b1f3-3d00293e9e86|Il semble être cassé. Il y a une étiquette sur le côté qui dit "A Utiliser uniquement dans le tutoriel". Bizarre.
+Hot Chocolate|Chocolat chaut
+fd8635c9-bbe0-4841-a5c6-02fe4d5897c8|Le micro-onde semble être cassé. Je vais devoir trouver une autre façon...
+9bf22930-30c8-402a-9302-eb75f0e7708e|Ca serait une bonne idée... si le micro-onde fonctionnait...
+9c497936-c64a-489b-8b81-19da903f137c|C'est une tasse. Les gens la remplissent avec divers liquides...
+ef145427-aa4f-47a5-b9ae-9918fbc2c9a2|Voilà. J'ai explosé la barre de chocolatée dans la tasse. Et maintenant ? Ca va retourner dans ma poche...
+Chocolate in Mug|Tasse contenant du chocolat
+Chocolate & Water in Mug|Tasse contenant du chocolat et de l'eau
+435f25ed-6c5f-4665-a366-35980779e950|Ah, Natty Allégé. La bière de l'étudiant fauché par définition.
+451f5c44-dc70-4749-bf8c-6021c3a98db0|Vous buvez une bouteille de Natty Allégé
+88719f19-1a9d-4832-8fc6-29f55493fb11|Ah, Natty Allégé. La bière de l'étudiant fauché par définition.
+2f237d3d-ce08-4fa8-84fe-ec7a017ae7ba|Vous buvez une bouteille de Natty Allégé
+e8d6a4bc-0dbf-43d2-892f-e04cb6a0d453|Ah, Natty Allégé. La bière de l'étudiant fauché par définition.
+ffa4f3a0-ed48-4b53-bd3c-37b35ec28769|Vous buvez une bouteille de Natty Allégé
+99014d0b-4fc6-41e4-a1af-6e939ed3d7a6|Ah, Natty Allégé. La bière de l'étudiant fauché par définition.
+eea28e4b-f03f-4996-a111-c6c8a18bfc2d|Vous buvez une bouteille de Natty Allégé
+07dd05af-8668-4cc4-b01b-5f4a511ab01c|Ah, Natty Allégé. La bière de l'étudiant fauché par définition.
+b043b0cc-5fc8-4495-8750-34acf35b15f2|Vous buvez une bouteille de Natty Allégé
+37994657-f56e-46da-b844-2e5c19ebb93f|Ah, Natty Allégé. La bière de l'étudiant fauché par définition.
+48c2a10c-1094-4105-96cc-8412409019f2|Vous buvez une bouteille de Natty Allégé
+4a4ed1ee-9e20-4dc6-9784-f6bf2c8b9758|C'est étiqueté "Vieux vêtements"
+01bbe632-922a-4e7d-835f-2980879962d7|Ah une marque générique ! Madison a de la jugeote !
+1b0dce0f-b8d1-4a9b-9121-cafd14735127|C'est une feuille de papier qui semble avoir été arraché à un cahier.
+4cb05ab4-4986-4d52-b3d6-d2119fc792f0|Après avoir frotté la mine du crayon sur le papier, je peux voir ce qui avait été écris sur la pochette du livre. "90-60-90". Hum. Ca doit être les mensurations de Madison... Ou le code de son coffre-fort.
+b668fa14-e9a9-4f18-a58c-c6db5eb188ce|N'as-tu rien de mieux à faire qu'une oeuvre d'art ?
+b0d2a3ac-7b9a-4a95-9114-611540303364|Presque tout le monde déteste Patrick. Je ne sais même pas comment il a pu être invité.
+128e0405-97c4-40e3-b7ed-d5aed85c81d4|C'est un crayon, un de ceux fournit sans gomme.
+751651d7-2200-4a4e-bd74-31b17086aff0|J'ai besoin d'obtenir suffisamment de signatures pour que Derek prenne ce document au sérieux.
+19bc342a-6b73-4a3f-bd8a-be2705269c0c|C'est le téléphone de Katherine.
+1d4d4fae-ebc8-4f23-8ca7-1bbf58dae48a|C'est le téléphone de Patrick.
+dc4a2daf-cc67-41a5-9b2f-0509c0470d89|Wahou, Madison a vraiment des sous-vêtements Goodbye Kitty ! Je vais faire une petite pause pour imaginer Madison entrain de porter ce genre de sous-vêtements... Ok, c'est bon !
+c837dfa2-5cbe-4a07-9353-74e11ae8cd3b|C'est vide. Dommage. Si je rassemble tous les morceaux collés au fond de la boîte, je pourrais peut-être les fusionner pour former une dernière part... Ou pas.
+e58463d8-ef92-4472-a250-285f9bebb623|C'est celui de Frank ? Est-ce une coïncidence ? Frank ne semble pas être du genre à manger du pop-corn...
+23fd3156-8416-47d3-973d-268b94fb9606|Oh non, ne me dites pas que Madison suit cette mode du "Mangez bio". Bien que si elle aime les produits bios, je pense à quelque chose de bio qu'elle pourrait goûter directement à sa source de production...
+c8c43766-dd6a-46bc-827d-e111ff1ba712|Entièrement chargée de papier et prête à l'emploi ! Il ne manque plus qu'un truc à imprimer...
+c8c43766-dd6a-46bc-827d-e111ff1ba712|Entièrement chargée de papier et prête à l'emploi ! Il ne manque plus qu'un truc à imprimer...
+0536a726-6063-45d6-87c5-ebedc78e59de|Rachael semble très sympa. J'ai entendu dire qu'elle est amie avec certaines personnes célèbres, notamment Vickie Vixen.
+7d9d84f1-fed1-439f-b4a8-7cffb21b5bd0|Hum. Je pense que ça doit être la box internet qui fournit le WiFi à toute la maison...
+dbe4e154-be9e-4e87-9dfa-4bc930724ca6|J'ai éteint la box...
+8293180f-806e-4718-82b3-0f7e932a326f|Un redémarrage fait toujours l'affaire quand ma connexion déconne...
+26392236-1bad-4165-9f39-59788bfb1e60|Je n'ai jamais aimé le goût du rhum.
+674c4edf-5803-4d4b-9bc7-98b5f7195a27|Vous buvez la bouteille de Rhum
+06a8f933-f98b-457a-98ff-ec14dd7cf548|C'est un gros objet de forme phallique... En l'observant d'avantage, je devrais pouvoir le mettre dans ma bouche. Oh, mais en fait, c'est du salami.
+a642bd4e-260c-46e6-8fd7-5a909db171c9|Ceci est un jeu pour adulte : il y a de belles femmes ici avec lesquelles interagir alors pourquoi perds-tu ton temps à examiner le saumon ?
+cbbe29b5-5834-443f-8c99-29c295bbd367|C'est une carte SD de 16 Go.
+650e784e-1920-488c-80ef-8cbafabddb0b|Voilà. J'ai mis une carte SD dans l'appareil et le message "Aucune carte SD" ne s'affiche plus. Je suis prêt à prendre des photos !
+6ba16994-eb06-4719-9ea2-e63083fd5fcf|J'ai l'impression que cet appareil photo est prêt à l'emploi !
+80746a36-4608-4f73-87af-624dbd947ccc|Hum. J'ai l'impression que la porte de ce placard ne se ferme pas complètement...
+d0461358-87eb-450c-8d65-4f768ce3c6c6|Rien de tel qu'un bon soda rafraîchissant !
+612f50c3-49eb-4d87-b6b9-704fcf3fd6f5|Merde ! Elle a verrouillé la porte ! De toute façon, la surprendre n'aurait rien apporté de bon... Je me demande s'il n'y avait pas un moyen pour que je puisse voir ce qu'elle peut-être en train de faire...
+828ea824-7fa8-43c2-a018-a217176de22d|Cool, c'est une enceinte WiFi portable ! Et sa batterie est complètement chargée ! Madison ne plaisante pas quand il s'agit d'enceintes.
+f9265d84-1ecc-47da-9e21-854a10b9f319|Mieux vaut s'abstenir. Ca pourrait énerver Stéphanie.
+5adb4979-96d2-4c0e-b864-57999919a697|Cool, c'est une enceinte WiFi portable ! Et sa batterie est complètement chargée ! Madison ne plaisante pas quand il s'agit d'enceintes.
+263c885d-4818-4033-a444-3e20db84ee76|Stéphanie en a vraiment besoin que d'une seule...
+2b7d827d-4274-46e5-9b2d-67164fdd11ef|Et voilà. Elle diffuse la même musique que celle du salon.
+27d80e1b-b572-4a54-a2bf-e5ba53bf5a17|Quelqu'un a laissé une cuillère sur le micro-onde. Quel manque de savoir-vivre. Si c'était ma soirée, je ne le supporterais pas. C'est peut-être pour ça que plus personne ne vient à mes soirées...
+49cadac3-83be-46c7-836e-c5a06b56bc26|Stephanie se comporte comme une gamine, mais ça lui va bien. Il n'y a qu'à la voir bouger !
+a72cc437-61af-4b23-acf6-ab2272d3837f|C'est une cuisinière. Doit-on vraiment tout m'expliquer ?
+3fb0bbb2-a81a-4ecd-b5ff-bba5c78b6995|Ok, la cuisinière est allumée. La bouilloire devrait me prévenir quand elle est chaude.
+e312cbc9-c086-4e9f-ae1c-6943d3a25140|Bonbons ! Parce qu'ils ressemblent à ceux d'une marque déposée !
+0153ed31-60cb-43ed-b97b-c69c9773f624|Hum... Quelqu'un a laissé une tablette sous la télévision...
+6f31473f-f9aa-456a-a1ef-e77c86a4e50e|Bizarre. Il y a un thermos qui traine au milieu de toutes ces bouteilles d'alcool...
+9b2be7d1-5040-4a69-8bde-607bee53365b|Ca doit être le thermos dont Rachael parlait.
+10f520cb-e934-44c6-a6ea-6d14acad546b|Je ferais mieux de m'abstenir. Il s'en apercevra surement quand il reviendra...
+67f9cfa3-7192-497d-8f6a-d66ef424bd16|Je devrais probablement le rendre à Rachael vu tout le mal que je me suis donné pour le récupérer.
+a899075c-af60-4c52-af66-6929ab9ddbbd|Ben merde alors ! Ce truc empeste l'alcool ! Il est presque entièrement rempli d'un liquide qui ressemble à du rhum. Devrais-je le dire à Frank ou devrais-je lui mentir ?
+Filled Flask|Flasque remplie
+1315e4af-1c36-4ae1-bf16-f4302ec3d34b|Ca doit être le thermostat qui contrôle la température de toute la maison.
+32a202f0-1c22-4986-a71e-81b7f0bef896|Salut. Je suis un grille-pain.
+a4b1a3db-36b9-40da-a915-52b20e523ed5|C'est une serviette. Et une très moelleuse en plus.
+8832f260-9b72-499c-9162-0eabcb3268d6|C'est une clé USB. Hum. Je me demande qui l'a laissé ici.
+43705945-89f8-499e-975a-cd2c0b184da0|C'est Vickie Vixen !  Une star du X. Enfin c'est ce qui se dit, ce n'est pas comme si j'avais regardé un de ses films...
+e7cfb50b-f919-4203-b333-9d3c7a6f01a5|C'est une bouteille de vodka, mais entièrement vide.
+8d4e3f62-138b-455b-b3c9-cfd9d6aebff7|C'est une machine à laver. Elle semble plus usée que tout le reste des appareils présents dans la maison. Madison a dû l'acheter d'occasion. Attends, qui suis-je pour juger ? Mes sous-vêtements sont aussi d'occasion... Merde, je devrais peut-être arrêter de penser à voix haute.
+Ashley's Wet Clothes|Les vêtements trempés d'Ashley
+a5e8ee15-61dc-4148-b552-e503b790d7c7|Cool. Cette vielle chose délabrée fonctionne toujours.
+2fdd6604-78bd-497b-956f-464086abd3ce|Les vêtements sont encore en cours de lavage. Je devrais revenir plus tard.
+303a8fb4-9706-4184-bbea-2ca796a82cf8|Enfin, les vêtements sont lavés ! Parfait !
+8bd1c9af-6922-4e5b-ad49-a787e5366542|Tu mets les vêtements d'Ashley dans la machine à laver.
+9eb713ef-53b2-41c7-94b0-1eeb0dd26b69|Je ne sais pas à quoi pourrait me servir de la crème fouettée pendant une soirée pleine de filles... Quoi qu'en y réfléchissant un peu plus, je ferais mieux de la prendre avec moi...

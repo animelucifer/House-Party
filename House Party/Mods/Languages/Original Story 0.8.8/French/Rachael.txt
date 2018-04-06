@@ -1,0 +1,173 @@
+[General]
+Name|Rachael
+
+[Dialogues]
+0|Hé, comment ça va ?
+0.1|Je ne crois pas que nous nous soyons déjà rencontrés. Je m'appelle Rachael.
+1|Merci ! Ravie de faire ta connaissance également !
+2|Sérieusement ? Quel est mon signe astrologique ? C'est la meilleure phrase d'accroche que tu aies pu trouver ?
+3|Oh, cette vieille chose ? Haha. Merci, c'est gentil !
+4|Oh, Vickie... Oui même si ça fait une éternité que nous ne nous sommes pas croisées. J'ai cru comprendre qu'elle est actuellement dans le coin. Pourquoi, tu la connais ?
+5|Ah vraiment ? Alors dans ce cas, comment s'appelle son chien ?
+6|Ouais, c'est bien ce que je pensais. Pourquoi n'irais-tu pas voire ailleurs si j'y suis ?
+7|Ah, tu es un fan. Comme c'est mignon. Tu sais que je pourrais appeler Vickie pour lui demander de venir ici. Mais pour ça, tu dois d'abord faire quelque chose pour moi.
+8|Sérieusement ? Pourquoi est-ce que ça n'arrive qu'à moi ces choses-là ?
+9|Eeeewwwww ! Berk ! C'est quoi ton problème ?
+10|Je pense que tu devrais te mêler uniquement de tes putains d'affaires.
+11|En fait... C'est vraiment stupide. J'ai honte de m'être lancée là-dedans.
+12|Ok. En fait, Vickie et moi avons un petit jeu entre nous. En gros, nous nous lançons des défis par SMS pour faire des conneries. Une fois le défi relevé, on envoie une photo comme preuve. Ca fait déjà des semaines que ça dure, et maintenant, les défis sont devenus plus difficiles. La première personne qui foire un défi perd, et deviendra l'esclave de l'autre pendant une semaine... Ce qui signifie que toute la ville finira par me voir toute nue... voir même pire, si je perds ! Quoi qu'il en soit, c'est son tour de me mettre au défi, et c'est pour ça que je suis un peu nerveuse.
+13|Va te faire foutre !
+14|Vickie ? Ah, oui, elle est géniale. On ne s'ennuie pas quand on sort avec elle. Je m'inquiète juste de ce qu'elle va me faire faire par la suite.
+15|Je passais un bon moment jusqu'à ce que Frank me vole mon thermos. Il m'a dit que cela ressemblait à quelque chose dans lequel je pouvais cacher de l'alcool, alors il me l'a confisqué.
+16|Euh, nous sommes amis ? Zut alors, je n'ai pas dû recevoir le mémo.
+17|Je ne la connais plus aussi bien qu'avant. Nous étions amis quand nous étions à l'école, puis nous nous sommes perdues de vue. Elle a fait quelques allusions pour que j'invite mon ami Vickie à sa soirée, et je pense que c'est pourquoi elle m'a invité.
+18|Maintenant que j'y pense, comment as-tu connu Madison ? Je ne pense que tu ne l'as jamais vu auparavant. Comment as-tu pu être invité à sa soirée ?
+19|Effectivement. Si tu veux bien m'excuser, je vais aller voir ailleurs si j'y suis.
+20|C'est parfaitement logique...
+21|Oh, ce serait génial ! Je t'en serais très reconnaissante.
+22|Oh wow, tu as réussi ! J'étais sûre que Frank allait te défoncer la gueule. Je ne peux pas le croire ! Maintenant, je peux enfin m'amuser pendant cette saloperie de soirée ! Merci beaucoup !
+23|Oh, calmes-toi. Tu es en vie. Et maintenant, nous avons des boissons. Je dirais que les choses ne se sont pas trop mal passées.
+24|Ne nous emportons pas. Mais buvons un ch'ti canon !
+25|Non, je ne l'ai pas vu, désolé.
+26|Euh, bien sûr. Je suppose que c'est acceptable. Tu m'as bien fait une faveur plus tôt. C'est le 555-4242.
+27|Euh, nous n'en sommes pas encore à ce niveau... Tu devrais revoir sacrément tes techniques de dragues.
+28|Attends, c'est quoi ce délire ? D'abord, tu me demandes mon numéro, et maintenant, tu veux celui de Vickie juste après que je t'ai parlé des défis que nous nous lançons ? Je ne suis pas sûr de ce que tu prévois de faire avec, mais quoi qu'il en soit, tu ferais mieux de laisser tomber tout de suite.
+29|Hé ! Je, euh... Je voulais juste que tu sache que je... En fait, j'ai fait un rêve érotique hier soir et tu étais dedans... Oh mon Dieu, c'est tellement embarrassant...
+30|Oh mon dieu, Vickie, tu es vraiment une garce. Je n'arrive pas à croire que tu me défie de faire ça. Mais malheureusement, je ne peux pas perdre ce pari. Le gage risque sans doute d'être pire que cela. Ok, c'est parti...
+30.1|Mais merde, Vickie. Ou trouves-tu des idées aussi déjantées ? J'ai l'impression que tu as l'esprit pervers d'un développeur de jeux vidéo... 
+30.2|Quoi, sérieusement ? T'es sérieuse, Vickie ? Bon, ben quand faut y aller...
+30.3|Tu exagères vraiment Vickie. Tu veux vraiment me faire faire ça ?
+31|Oh mon dieu. Il fait trop chaud ici. Heureusement que j'étais à la plage cette aprèm et que je porte encore mon bikini...
+32|Ne me dis pas que tu veux déjà me faire un câlin...
+33|Au fait, mon amie ma défiée de m'exhiber devant toi. Ce ne te dérange pas, n'est-ce pas ?
+34|Etrange, je suppose qu'il ne m'a pas suivi. Tant pis. J'aurais essayé. Ca doit quand même compter...
+35|En fait, elle ne te connaît pas. Elle a juste spécifié le type le plus mignon, et... Ben en fait... C'est toi.
+36|Tu pourrais venir voir un truc avec moi ? Y'en a juste pour une minute...
+37|C'est tout pour le moment...
+38|Mais... qu'est-ce que tu fais ici ? C'est tellement embarrassant...
+39|Erf. Il y a vraiment trop de monde aux alentours. Je ne préfère pas relever ce défi. Bon Vickie, tu gagnes cette manche...
+40|Ah, tu tombes à pic ! Mon nouveau défi consiste à m'exhiber toute nue devant toi... Ca ne te dérange pas, j'espère ?
+41|Sérieusement, c'est quoi ton problème ?
+42|Ne serais-tu pas un preux chevalier ? Profite bien de ces 30 secondes. C'est parti...
+43|Bon, j'aurais encore besoin que tu me suives. Il me reste un dernier défi à relever et je te promets que tu vas l'adorer encore plus que le précédent.
+44|Prêt quand tu l'es...
+44.1|Il y a vraiment trop de gens aux alentours. Vickie n'a pas demandé à ce que ce défi se fasse en public.
+44.2|Par hasard, cette porte dispose-t-elle d'un verrou ? Une soirée bat son plein et on ne sait jamais...
+44.3|Laisse-moi juste enlever ces vêtements...
+45|Sérieusement Vickie ? Je ne suis pas une trainée. Encore que si j'appréciais ce type un peu plus, peut-être que... Dans tous les cas, je ne suis pas d'humeur. De plus, j'ai relevé suffisamment de défis pour une soirée.
+46|Laisse-moi juste enlever ces vêtements...
+47|Je suis ravie que tu te sois décidé à venir à cette soirée...
+48|Va te faire foutre !
+49|Non, désolé, tu as mal compris, mais préviens-moi dès que tu en auras trouvé !
+50|C'est quoi ce bordel ? Non, n'y compte même pas. Je n'arrive pas à croire que tu essayes de profiter de mon jeu avec Vickie... Tu es vraiment qu'un conard fini !
+51|Bien essayé, connard.
+52|Oh, tu veux que je remplisse ta flasque ? Je suppose que je te dois bien ça. Et voilà.
+53|Je suppose que tu en veux un peu ? Laisse-moi juste en profiter un peu, tu viens à peine de me rendre mon thermos !
+54|J'ai l'impression que quelqu'un ne tient pas bien l'alcool...
+55|Bordel de merde ! Je n'arrive même pas...
+56|Oh merde ! Je vais vous laisser seuls...
+57|Aïe, c'est dur. Ce n'est pas un mauvais gars, il est juste à fond dans ses convictions. Désolé, mais je ne peux pas signer pour ça.
+58|Oh que oui. Je vais même signer deux fois !
+59|Eh bien, ça dépend entièrement de quoi il s'agit. Tu peux me mettre au parfum ?
+60|Vraiment ? Merci de me l'avoir dit. Je vais aller la voir.
+
+[Responses]
+0c60cbbd-fd26-48b0-a380-0080c1107a4e|Je t'en prie !
+e0e1091b-c0e6-44fc-bbe7-cc1410f70a55|Pff, bien sûr. Vickie et moi, nous nous connaissons depuis TOUJOURS ! D'ailleurs, elle me doit encore 5 balles !
+76415a2e-9e47-44ca-aa0f-443be3da3c01|En fait, non. Mais j'aimerais tellement la rencontrer et pouvoir lui parler.
+bd6d8d62-3dd8-4095-8f41-65df9953ae34|Hum, Fido ?
+d7651c79-69c0-4295-8ebb-8c4337854bbb|Et merde.
+746067d0-1856-419f-8d4d-ddc900f21c83|Tout ce que tu veux !
+c9873660-c1b2-4853-951f-0b8a1fa5dcbc|Euh, en fait, je préférerais ne pas m'impliquer.
+d16849aa-cebb-48e5-8b05-7e7c30883983|Eh bien, cela n'a pas marché comme prévu ...
+9ff74bff-78dc-4a02-bf2e-9712c6b2560b|De rien !
+75d9ac8e-8fc3-4c2f-a273-e4d43da38084|Pas de soucis. Pas besoin de me le dire si tu ne veux pas.
+2467004f-7bc5-49c9-98c2-ccf4aa50d94c|Fais-moi confiance, j'ai déjà tout entendu. Tu peux te confier à moi sans problèmes.
+42758f7e-3cf2-43a1-8501-abffc16a7713|Eh bien, ça semble génial. Ton ami semble vraiment sympa.
+5ee49a89-7f20-41b7-a923-909d7779fdfe|Vous vous croyez encore tous les deux à la maternelle ?
+b4873a44-e1e6-4e06-962a-ed8608e7874c|Je suis également intéressé de voir le résultat. Je vais rester vigilant !
+1a75031e-c91c-4d37-938a-70db2c32a96a|Laisse-moi lui parler. Je peux résoudre ce malentendu.
+afed5abf-4de0-4870-b008-1e8dc0bb3192|Frank n'est qu'un connard. Nous devons tout simplement l'accepter tel qu'il est.
+8544b7e7-1c90-484d-84e7-693516b81da5|J'ai du mal à croire que Madison puisse agir dans son intérêt personnel... Euh, je n'ai rien dit.
+138473bc-42c9-4678-8a2e-abca573fea0b|Euh... On a fait la guerre ensemble ?
+d2d2caef-bb9c-494c-ac11-1fa79b992767|Je l'ai sauvée d'un bâtiment en flamme.
+834eff98-2cde-4963-a53e-ba9ac76719c1|C'est un jeu vidéo. Détends-toi et laisse couler.
+d339a33b-b406-4e20-b5d9-b6a43db23976|Je suis son plan cul. N'est-ce pas évident ? Qui ne voudrait pas d'un beau morceau comme moi ?
+f7405c7a-fd23-427a-bfdf-07a3e44e1300|Oui, je suppose que je n'y aurais pas cru non plus.
+223bcc2a-7798-4482-bd8f-300f88f4a3b3|C'est comme si c'était fait
+69f3d56e-3933-4c0d-b44f-b9f4d03a4a85|Tu aurais pu au moins m'avertir qu'il y avait de l'alcool dedans. Frank aurait pu me tuer !
+2ca5e825-e6a1-4c65-9433-dbecc26c70eb|Frank ne me fait pas peur. As-tu vu mes biceps ?
+e96194d0-5b2f-49f4-bfd1-4b49f855dd9d|Je suppose que tu as raison...
+3936b85b-6ea4-4951-8108-ae98ca6ca2b3|Ca m'a l'air d'être une bonne idée !
+d64cb077-fb2a-46f9-98d9-657ecad5c7a0|Merde, grillé...
+44aa401f-e94d-4bb8-bd75-c5cc277e46f2|C'est bon à savoir, Rachael. C'est bon à savoir...
+a38a8eb9-3c93-4d7d-98be-95e68bb6341f|(Continuer)
+9c335062-1d8f-4cda-aef2-54c282b50cb7|C'est une bonne chose… enfin, pour moi !
+171c6750-a10a-462a-88b6-d9a109948c6c|Allonge-toi sur le dos !
+4ee52db3-cfc6-4ef1-93d9-522569d2e5b2|Mets-toi à quatre pattes !
+fc8b9543-3278-435a-b79b-aa4198682232|Chevauche-moi !
+be4feaf6-4169-4131-8c09-624db723d84b|Rien, laisse tomber.
+c496c27c-e05c-4962-b2a4-552d90e51e4a|Oh que oui ! Montre-moi ces beautés !
+3334ab6e-2c13-488b-874d-e59ce9de7c6e|Attends, comment ce fait-il que ton amie me connaisse ?
+b0ea90c1-b523-4843-ae71-b5b25fbe4647|Si ça me dérange. Va te promener toute nue ailleurs.
+147e297e-d17d-487f-81fe-409749d7861c|(Continuer)
+22de8132-d9d2-4de5-8a7d-49efc7d51bc0|Au contraire ! N'oublie pas de remercier Vickie pour moi.
+d06efe96-ce85-40c9-aefd-8af3821b7737|Ok !
+53c66fd4-ab03-4189-852a-cb4694f47624|Nan, ça ne m'intéresse pas. Désolé.
+3b5c0267-2ddf-4eb9-a7d1-283bbe697b5d|J'aime bien le "pour le moment".
+edb8aacb-7e01-4ddc-8222-4096c0170709|(Continuer)
+f7223bf8-9b54-487c-811d-14a6806025d0|(Continuer)
+13c87498-6bdc-429d-97cd-6bfcbef4cb1d|Tu sais quoi ? Je te merde et je rentre à ma maison.
+26e30a3e-8155-40c7-84dc-6aa9d57e8c54|Si ça peut t'aider à relever ton défi, je pense que je devrais pouvoir faire ça pour toi...
+f53ea0fd-ff05-4d1f-9302-41f781325bfb|Tu serais disponible pendant quelques heures ?
+636a4a87-0568-441b-a66f-144a96189e4a|J'ai hâte !
+369ed6c4-589c-4cac-a466-776e9fc74e80|Ca me semble intéressant. Allons-y !
+41cf7571-050e-424d-a59e-a7f0091b5312|Nan, je préfère rester vierge jusqu'à ma mort.
+957b53df-12e6-4e50-acea-4e42e4b3157a|Oh oui, bien sûr !
+bc5df5a7-90b9-48c2-8e8f-73c6289a21b4|Putain de bordel de merde, fait chier !
+29d1e8b0-0d3f-4699-bace-e9924101f768|Oui, s'il te plait.
+bd654568-cb1d-472a-be8c-b779f319f89f|Je fais ce que je peux !
+17227a57-4c11-4365-bd3b-806fd78d4aa7|Bon, alors ok...
+4b85520e-9bb8-45d5-a88e-535924c7f062|Ah, merde...
+649abf0e-9015-4ed6-959a-20e8ef1d33f9|Je vais juste aller me pendre dans la salle de bain...
+ab06b377-551a-432d-9e85-d1c4b94b38f0|Merci Rachael !
+0d0fe2f6-e863-49db-8c17-ed7fa6417ce1|Attends encore un peu...
+2c0657c5-450b-496e-85fd-a04997692791|A plus !
+5664d312-a5b9-4f7f-b987-89c1a5b54f10|Tu es quelqu'un de bien meilleur que moi, Rachael.
+1cb3d3a9-be6e-474f-bfc2-b0ae7966bbe5|Trop facile ! Merde, je ne viens pas de dire une connerie ?
+1618af05-3cac-4bdf-a008-346f7492eb1d|C'est pour obliger Derek à enlever sa chemise.
+c9079d26-b35a-4b13-a85a-bb8868a361ce|C'est pour virer Frank de cette soirée.
+07ab3caf-406f-4e7f-ae3e-7774481fe665|A plus !
+5c6ae98d-5fe4-4c5c-b9be-3120b657960f|As-tu vu le téléphone de Patrick trainer par ici ?
+6733c03d-a10a-449a-80e2-c86849b0f91f|Ravi de faire ta connaissance, Rachael !
+7e691e6f-d3d5-4f1d-8a0a-57a84877f78d|Sinon... quel est ton signe astrologique ?
+f0b81c2b-4b87-427b-9bd3-2c4f4aa9d8bc|Tu as l'air un peu nerveuse. Quelque chose ne va pas ?
+c606affb-86d8-47dc-a335-a69a4761563a|Alors, quoi de neuf ? Tu profites bien de la soirée ?
+0056fd9a-7a03-47f5-9680-b575833b2793|Comment as-tu connu Madison ?
+230bcac3-74d0-4c3f-970b-afce4c32b715|Pourrais-je avoir ton numéro de téléphone afin que nous puissions discuter de temps en temps ?
+ec091a8b-8b86-45c2-858e-6304a8661ae8|Est-ce que tu pourrais me donner le numéro de téléphone de Vickie ? Je dois lui demander quelque chose.
+d160a213-6ad0-4c04-9238-61b046428ec4|Je pense que le courant passe très bien entre nous. Que dirais tu de revoir ta position à mon égard et de me donner ton numéro de téléphone ?
+56c2259a-a8ce-48d3-8c8f-fafcde89f5b4|J'ai cru comprendre que tu connais quelqu'un qui pourrait me filer un joint ?
+b62014aa-9266-4cef-9f32-b6249c2bb90f|Ah, Rachael. Est-ce que tu pourrais signer ma pétition ?
+ada5eb9a-7813-4386-a552-606d9b3fe9db|Ah, je pense que j'ai vu ton amie Vickie à l'extérieur.
+b9147e0d-eb0d-49b8-a9cd-50b96bb3bfd1|Je repasse plus tard. Je dois y aller.
+
+[Quests]
+7e7742d6-f758-41b1-a2b1-c021e1459192|A la chasse au thermos
+7e7742d6-f758-41b1-a2b1-c021e1459192Description|Frank a volé le thermos de Rachael. Vous devriez peut-être trouver un moyen de le récupérer pour elle.
+ede10c12-6abd-4a67-aa99-b2583da26f59|Défis remplacés
+ede10c12-6abd-4a67-aa99-b2583da26f59Description|Il doit bien y avoir un moyen pour que vous puissiez vous amuser un peu avec Rachael, surtout sachant au jeu auquel elle joue avec son amie Vickie...
+
+[Events]
+efd208b4-eae2-4e02-b90a-9dde8e020c89|Waouh, elle est sur la défensive. J'aurais peut-être dû la mettre plus en confiance d'abord.
+7972583f-dd27-4f6d-a2b7-f7e9ea091928|Wow cette Vickie Vixen à l'air d'être un sacré personnage. Il doit bien y avoir une façon d'utiliser cette information pour m'amuser un peu avec Rachael... Peut-être que quelqu'un ici pourrait m'aider...
+64127b8a-ca23-46c0-a4ea-71a75994f388|Merde, j'imagine que je n'aurais pas dû être aussi impatient avec elle...
+a4054e30-f148-4a09-bce5-fead6b54bf3f|J'aurais dû apprendre à mieux la connaître avant de lui demander son numéro de téléphone...
+ffe8d614-ddf9-4170-ae10-8143b2fcd943|Cool ! Elle pense que je suis le mec le plus mignon !
+c29f4417-99c9-43fa-8a27-3af4b7568fd3|Qu'est-ce qui ne va pas chez moi ? Je viens de rater une superbe paire de seins !
+39f1c93e-bad8-4a80-9e7e-8e5b884c275b|Merde, elle m'a vu. J'aurais dû être plus discret...
+04218ffa-5b28-4bb1-98e4-c39f078d4197|Merde, je n'aurais pas dû rester là comme un con quand j'ai su qu'elle voulait un peu d'intimité. Qu'est-ce qui ne va pas chez moi ?
+24953db1-f415-457a-b835-3cd305d63750|Merde... Ca aurait été une affaire facilement menée si elle me désirait juste un peu plus... J'aurais peut-être dû lui soumettre plus de défis m'impliquant...
+78ff23b9-9072-4fa8-bad8-c57bf5d95fdb|Mais quel con ! Je n'aurais pas dû conspirer contre quelqu'un surtout quand cette personne est juste à côté de moi !
+c833db06-2f76-48bd-84a8-b09c36f54a3b|Flasque remplie
+788c5bbf-69bc-4e0a-9ef1-3c6508e31d6f|Rachael a rempli la flasque grâce à la concoction qu'elle a dans son thermos. J'ai l'impression de mourir d'une intoxication alcoolique juste en la regardant faire.
