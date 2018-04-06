@@ -11,9 +11,9 @@ Btw, censorship is removed.
 3. A Vickie Vixen Valentine
 
 0.9.2
-  (Beta 3/30/18)
-  Reworked Lighting
-  Reworked Occlusion
+  (Beta 3/30/18)  
+  Reworked Lighting  
+  Reworked Occlusion  
   Combined meshes on most of the NPCS to increase performance
   Added LOD levels to all NPCs to increase performance
   Bug fixes and refinement of Ashley’s new story content
