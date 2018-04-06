@@ -7,9 +7,14 @@ Btw, censorship is removed.
 
 I started to play this game on version 0.8.8, so that will be the first version to be included.
 
+## Version 0.9.2
+Beta started on 2018/03/30.
+#### Trivia
+Madison Blackmail quest seems to be removed. Even though you did send her nude photos to yourself, you can't talk to her about the photos.  
 ## Version 0.8.8
-### Trivia
-Madison Blackmail quest seems to be removed. Even though you did send her nude photos to yourself, you can't talk to her about the photos.
+#### Trivia
+Madison Blackmail quest seems to be removed. Even though you did send her nude photos to yourself, you can't talk to her about the photos.  
+## Version 0.8.7
 
 This branch includes all the custom stories I found on the Eek! Games forum. I do not own them nor make them.
 
