@@ -1,0 +1,6328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1304537808074974}
+  m_IsPrefabParent: 1
+--- !u!1 &1304537808074974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4949910495408840}
+  - component: {fileID: 114130324987970688}
+  m_Layer: 0
+  m_Name: BrittneyStory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4949910495408840
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1304537808074974}
+  m_LocalRotation: {x: -0, y: 0.600141, z: -0, w: 0.7998942}
+  m_LocalPosition: {x: 0.030415148, y: 1.1768249, z: 1.4006784}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114130324987970688
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1304537808074974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1154295991, guid: d650bb8f89616134290991c0e37ad16a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Data:
+    CharacterName: Brittney
+    CurrentAspect: 1
+    DialogueID: 20
+    Dialogues:
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 0
+          Character: Brittney
+          Character2: 
+          CompareType: 50
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: Brittney
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Order: 0
+        Show: 0
+        Text: I'm a little busy right now.
+      - Critera:
+        - BoolValue: 0
+          Character: Brittney
+          Character2: Brittney
+          CompareType: 30
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Order: 0
+        Show: 0
+        Text: Oh, hey.  I don't believe we've met.  I'm Brittney.
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 0
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 6
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b95fda82-405e-4b74-98d7-d6f059b76a04
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 18
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Hey again.  How's it going?
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 1
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 841f6558-4eff-49d2-b5a4-d11f99a90a72
+        AlwaysDisplay: 0
+        Next: 2
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Are you kidding?  That top looks great on you!
+      - Id: e02737a4-2c27-412b-b57f-82e13ac126e1
+        AlwaysDisplay: 0
+        Next: 3
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I didn't even notice your boobs!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ff28a2c3-e5c8-4cbb-97e3-138c4fa0b80b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh yeah I know.  I'm just... well it's kind of embarrassing.  I just bought
+        this new top, and well, I've always been endowed with rather large... well
+        you know.  I'm just really self-conscious about it and I'm not sure if I can
+        bring myself to go out there.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 2
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 0c633631-bdf4-4a85-a29e-5cbc17a5c7df
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Anytime!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 38682c30-3067-4c16-876f-c4c90c54c832
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 46deda11-087e-414f-9064-4b96e2ef4e07
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7ba452d6-7224-4a84-9f7e-b2b2b7ccdb0d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Aww.  Thank you.  That makes me feel a little better.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 3
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: d1829129-23d1-4866-8fdc-b0c2f86e6de8
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Sorry!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 34df72b9-7668-478e-bb8a-8541a2da9d2b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d74d19ae-8620-48eb-ac3b-5e2a67992947
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 89f908f5-f75e-4663-8b3e-749092ee2685
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: No need to be sarcastic.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 4
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7624a391-9f28-47f0-8761-c95be12c03dc
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 71a493b5-a831-4090-b236-01cd64ba7386
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 6335d3b9-3e9e-4169-847d-d352d849fabd
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Breast Diversion
+        Value2: 
+        WalkToTargetOption: 0
+      Text: I know, I know.  I just can't bring myself to go out there.  Maybe if
+        there was a way I could be sure that I wouldn't be the center of attention,
+        I might be persuaded to come out.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents:
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 77589a49-e698-4dd9-80db-b3a23fbbdfec
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 130
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Stephanie
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 64089a31-c690-4a42-8ce9-3b1ab12b30db
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Stephanie
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 1
+        GameMessageType: 0
+        Id: 37e1e9be-82bc-4390-ac09-53b76c18c7a0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: Go Near Stephanie
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 5
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: cfdcf195-7859-4887-8f93-f19cab26775b
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Glad I could help!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e8d3cbbb-4205-4e48-b7bc-2750c738d946
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ee281990-ed0e-4f9b-8f77-d2aa22b1f265
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9cd06218-a40f-4b6c-82d8-85810f0fa5d0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7a568149-7ec7-4997-b10d-1d658c86699a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 6335d3b9-3e9e-4169-847d-d352d849fabd
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh my!  How did you do that?  I guess it doesn't matter.  Not only does
+        that take the focus off my top, but that's kind of hot.  If you'll excuse
+        me, I'm gonna go get my dance on!
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 30
+          Value: 5
+        - BoolValue: 1
+          Character: Brittney
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 5
+        Order: 0
+        Show: 1
+        Text: Oh lord it smells so... so... delicious...
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 6
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 2fe1e5f5-d787-4a80-b872-8c127a255064
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Is that right?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: What the fuck?  Why would you do that?  Get away from me you pervert!
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 7
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: fce9df00-fe26-4bd4-b746-4455a90b74fd
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Touchy subject I guess.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e7016abd-fe47-4b7a-b214-4b0b7c257999
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1ba30307-9d36-40f3-ba3e-d57760791c25
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5a0b604d-3411-42ec-8f15-8a179c9df7ea
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: That's none of your fucking business is it?
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 8
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 9b1936e3-8d58-4818-9b40-de9af3062bbe
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I guess you're right.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f62d93c5-1e70-472b-b57d-e6f636383172
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: I don't think walking around with your dick out is going to be the answer
+        to my problems, but I appreciate the effort.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 9
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: be13e605-ffe4-490a-abb3-c2740a062a8b
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Oh sorry.  I've got an itchy zipper finger.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 07d79b35-275a-4f15-9eca-8cd5527882ea
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: d6c9cfee-a03b-4eac-803d-67b6c2020482
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c21ad73e-16b4-44a3-ad7d-2ec3e9958b26
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: FlashScore
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 29b1b343-be3e-497f-bdda-48fba914c9d5
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        - BoolValue: 1
+          Character: Amy
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: SLevel
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 7
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: TurnedOn
+          Key2: '#'
+          Order: 2
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 507229fb-cc2a-42ea-ad4a-b487a4095280
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 45
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 30
+          Value: 5
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 20f1c51c-b43e-4ec6-99a7-cdaa98e2bd44
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 47
+        Value2: 
+        WalkToTargetOption: 0
+      Text: oh god, get your penis out of my face you perv!
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c085084c-3edc-4a87-8164-f54699c8187d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: UpstairsBathroom
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 45
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: faa091e1-a6b4-4e59-b2d4-087064b17f26
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: OfficeChair
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 10
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: d89cd3fb-40e9-487b-b9cd-da83279fb7ac
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Sorry not sorry?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 53058e4a-d7de-473e-aef7-9bbc9822f37a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 71b8126c-b9fc-4fd3-82c3-e610f38d80e0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ed52fb6a-a3eb-4a40-a586-14a640753a90
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh my fucking god.  I can't even right now.  What the fuck, dude?  Why
+        did you fucking do that?
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 11
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 81cda626-fcf4-4f8f-ab8a-467dcac199f1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e3526bda-af81-4d24-a91c-c4236c4acc37
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: fd6a1029-a6ce-4c20-a7cf-c42d325094b4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Why yes it is, most folk think I dye my hair but i'm against hair dyes
+        they do more damage than good
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 12
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: cfd18a61-2f1a-4d1e-bf91-226e45eec841
+        AlwaysDisplay: 0
+        Next: 13
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Um, he's not mentally challenged.  He's just drunk.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: cfc97180-fd7f-4bf0-b5f0-3ae89d74e859
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh, you mean that nice mentally challenged young boy walking around?  He
+        gave me his phone for safekeeping so he wouldn't lose it.  He's a lot smarter
+        than people give him credit for.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 13
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: ea1ddb27-e1ce-42a2-bce4-9274fc89896c
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: '::Sigh:: Fine.'
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 67f737a0-cc29-4161-ab6c-e6fe311a8f22
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Well aren't you sweet to look past his shortcomings?  Well anyway, I can't
+        just give you his phone without his permission.  You can tell him he can come
+        and get it from me and I'll be happy to give it back to him.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f4ba33bb-d3ac-4193-a3de-4111f05ddfcd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 15
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 14
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: d6ecbaf8-7c2c-486a-9261-bf65a4f0a776
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Patrick
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: de6377b0-7afc-4526-8145-9e6a2b954943
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Now hold on just a minute Patrick.  You specifically told me not to give
+        you this phone back unless you were sober.  You don't look very sober to me.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7b614400-0ad2-42ee-8f0f-b9d81ff81944
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Player
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 15
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: b6e74f0f-dea0-4691-aa9a-4642be88ae9f
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Patrick
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8b525767-6dbd-421d-90e6-6270f5dbc0bb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: I'm sorry, but I'm responsible for this phone.  You trusted me with it,
+        and I won't give it back to you unless you're sober, just like you asked.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 367f641d-e8da-46de-82fa-8f6489a5dea2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 27
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 16
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 5ef8c532-0a7c-4f9c-af13-52a5037b5f39
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Patrick
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 85d478e5-8cd2-4835-9527-805c04cd89bb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 9
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Well you certainly look much better.  It's still a little hard to tell
+        on account of your mental deficiency, but you don't seem drunk, so you can
+        have this back now.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 17
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Umm.  No, and maybe you should see a doctor about that.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 18
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Ugh, get away from me and pull yourself together.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 19
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8a95d9e5-62e9-4d46-8c20-1efffe9b206b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Ew that's disgusting.  Find some place else to do that, would you?
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 20
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh, I'm sorry!  I didn't know you two were... well oh my!
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 21
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 8c545fc2-308e-47fd-9302-c8a62ad0fe73
+        AlwaysDisplay: 0
+        Next: 23
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: It's a free the nipple campaign.
+      - Id: 1400ae32-813c-4924-95a7-b9da5f42b5d4
+        AlwaysDisplay: 0
+        Next: 22
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: It's for Derek to take his shirt off.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well I'm not just going to sign it without knowing what it's for, silly?  Wanna
+        fill me in?
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 22
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a02c2b3b-f662-41a9-b075-a7b12ff8ff6e
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Ah fuck.  Guess she's not a fan of the D-Man.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Mmm, I think I'll pass.  Thanks for asking though!
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7415d01b-eb90-41c5-a4df-97ea1ff408b9
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Signatures
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7899db69-9c8d-485c-bed9-08e25bd1f462
+        IntimacyOption: 0
+        ItemAction: 3
+        Key: Petition
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: PlaySoundEffect1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 23
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 070f95d9-9480-4dc6-9be4-e16383a5df82
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Good to know, Brittney.  Thanks!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well sure I'll sign that!  Not that I'd be comfortable myself with that
+        sort of thing, but I love to look!
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 85377dca-b924-4293-93b4-d99b84921127
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Hmm... looks like I need to lure her out there somehow.  But how?
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 24
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 5309b876-c2ff-443b-a4d7-5f3aaadbf1e3
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Good to know, Brittney.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I'm actually having a pretty good time over here watching this young lady
+        dance, but I might be persuaded to come out for a dip if circumstances change.
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents: []
+      ID: 25
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5acf429d-a200-4f6b-bbfc-abb3c4571bec
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 400396d5-f4f5-457d-bd9f-3c27e7988f53
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 86bb26db-3fcd-4fc3-8e78-f2307296d1b6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh my!  The audacity to ask a lady such a question!  I'm sorry, but I'm
+        not about to discuss such things with you.  We hardly know each other!
+    - AlternateTexts: []
+      CharacterID: 2905924f-bb24-4982-8eb3-d7f840c854ad
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2b97ff93-45b0-49dc-a065-265808325aae
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: HotTubSeat3
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 26
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 9ec91afc-a03a-44a0-b493-42efb81e527e
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: You got it!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh how divine.  I can watch Stephanie dance right from the comfort of
+        the tub.  Thanks for setting this up for me, darling!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 27
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: bf119d09-2497-404d-beff-61700078965d
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I suppose you're right...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: It's a hot tub darling.  That's the whole point.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 28
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 221682e7-8191-42fe-8d86-e4df12771265
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4b21f960-08d2-407c-93cc-2d72f6a0909a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh she is just adorable walking around in that little bumblebee outfit.  I'd
+        be lying if I said I wasn't curious to see what's underneath it.  That'll
+        just be our little secret though. [Coy Laugh]
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 29
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a5110754-445f-4f75-acf2-a72585b124ea
+        AlwaysDisplay: 0
+        Next: 30
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: If you get naked, she'll get naked.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 72de5a8b-5e80-44d3-9a53-b0b622691e63
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 62ba2f90-b8c6-4681-bb20-ddc523d18cda
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e8c741a5-bb8c-4ac2-a3ee-6920ea1c616c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Is that so?  Well assuming I'd be interested in such a thing, how do you
+        propose we do that?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 30
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh if that isn't the oldest trick in the book.  I'm sorry, but I'm not
+        buying it.  Although... On the off chance there might be a hint of truth to
+        the situation... Let's just say that if you can get Amy to get naked in this
+        here hot tub, you won't have a hard time getting little ol' me to follow suit.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 31
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: e0b51f82-7f34-42b2-9159-fc0bae5ce303
+        AlwaysDisplay: 0
+        Next: 36
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Tell us about a secret crush you've had in the past.
+      - Id: 3f78c5b3-ed33-4355-9623-917b19e8a31c
+        AlwaysDisplay: 0
+        Next: 37
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Who here do you find most attractive?
+      - Id: c13fdd32-3c52-4404-826d-4dfbfc41de26
+        AlwaysDisplay: 0
+        Next: 39
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: What's the last YouTube video you watched?
+      - Id: b7087280-4935-4a53-9ed7-ec73fc78810f
+        AlwaysDisplay: 0
+        Next: 40
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Have you ever kissed another woman?
+      - Id: 867f6cc1-efed-4469-9005-bb4559408eac
+        AlwaysDisplay: 1
+        Next: 35
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: TurnedOn
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Are you turned on right now?
+      - Id: 71b47af0-1963-42e3-abf1-f7c6467d53d9
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Actually nevermind.  I changed my mind.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh how exciting.  I'll play... I'll take a truth!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 32
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: e0e943f1-3c59-4fe8-b073-c57f2ffb95fc
+        AlwaysDisplay: 1
+        Next: 33
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 110
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I dare you to take your top off.
+      - Id: bed86b73-4c4d-44df-8cc1-b973c6e50025
+        AlwaysDisplay: 1
+        Next: 34
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 110
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I dare you to take your bottoms off.
+      - Id: 8eecca3a-4ff0-451a-aa51-af738aba6ebc
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Wait, I changed my mind...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 28742789-0467-4f88-8673-b9cebe1a237f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 930f42db-06a9-45dd-a7a0-715e877de0cd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: All this talk about sex is getting me all hot and bothered.  Give me a
+        dare!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d313b971-63b7-4534-a392-4bbeb42f4d58
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2ec181eb-438a-42b0-bc6c-104333a592a4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 16
+        Type: 137
+        UseConditions: 0
+        Value: 40
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 33
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 9be452f7-1914-4d20-bed3-395674ed415d
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Score!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well okay.  But only because this game is turning me on so much!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1dbcf7ae-017c-4d11-a1cc-3a3cbd7a183c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: acd277df-33f0-4ed6-9523-fcda21c1df13
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 16
+        Type: 137
+        UseConditions: 0
+        Value: 100
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 34
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f62f7dc1-22fd-4317-963e-e19e08964796
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Can't see a thing!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I suppose I'd still be a little covered under the water and all...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: d50f31c6-6885-45c2-908c-974d3725cc7b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Maybe if I ask the right questions, I can get her turned on enough
+          to take a dare...
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 35
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 62efd38d-33fc-4513-91b0-80150644fe1c
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Good to know.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I have to admit, this silly game is a little more titillating  than I
+        thought it would be.  But I'm managing to keep my composure...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: bc43a9a1-f90f-4e3b-b443-17067e027e0d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: TurnedOn
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 36
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 6434050a-d506-4319-ba76-4f7b719fd279
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Hot damn!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Hmm... well we used to have a neighbor across the street from us, and
+        she used to leave the curtains open sometimes when she was getting changed.  I
+        always wondered if she could see me or not, but I've spent some late nights
+        thinking about finding out.  Unfortunately, I never got the chance to tell
+        her how I felt, but I had some pretty interesting late nights watching her
+        from my window...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 37
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: ecf3f757-d583-477b-bbed-12eef6b73810
+        AlwaysDisplay: 0
+        Next: 38
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Aww.  Thank you Brittney!  You're too sweet!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well I have to admit, there are a few mighty fine people at this here
+        party, but I'd have to say that that the finest of them all is sitting right
+        here in front of me.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 38
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f09bae56-3b48-49e4-a983-786d1d8d267d
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Oh... right...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Amy
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 363e74f6-2684-4295-9cb9-1d9fc6cad372
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 70
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      Text: I was talking about her...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 39
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 038522bf-db22-4721-ad20-1dd1e3558737
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Never heard of the guy...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: It was a video of this strange man playing a video game.  Poodle-pie,
+        or pewfie-something.  Anyway, I could tell there was something off about him.  That
+        boy just ain't right in the head.  Definitely not the quickest tractor on
+        the farm.  It made for such interesting entertainment though...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 51eb40bc-8077-4a1f-aa53-c16ef2ef28e3
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: TurnedOn
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 40
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 555574fe-1659-4006-9470-ab5a7b5fdee8
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Good to know!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: No, I haven't... but that's not to say that I wouldn't like to...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 41
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 56a35e21-cfc4-4dab-8bbd-3a3e04a338da
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Seems fair.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: You've been picking on me an awful lot.  Why don't you pick on Amy a little
+        more.  I'd like to see her take another turn...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 42
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 4e7484d5-fcdb-4713-9116-99f1ea5a160f
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (It's working!)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ad9fbac7-ec9d-4988-8316-33e5af56f85c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: TurnedOn
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 74349b01-5f3a-44a9-a782-5012185f502d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b0706235-d65c-4ed3-a167-8c29af3a87b6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 183d7563-c8bf-4488-b388-58c8ffbfdf91
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh my.  I think I'd be just as hot right about now even if I wasn't sitting
+        in a hot tub...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 036ec883-8da5-4c65-ae8d-615d21ecef5f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Stephanie
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9de8a7cc-d080-442e-b079-1f3c00dd7a3b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: NoTub
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 43
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 06b6341c-3efe-4b9d-92fd-d59cb447e880
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Or not so good of an answer...  Shit...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Now hold on just a minute.  Is that what all this is about?  You're just
+        trying to get me to strip down so you can win a scavenger hunt?  I thought
+        we were hitting it off!  I won't be a part of your games anymore.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: de68db00-00d7-4fc8-b061-3798318379a2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: It's working!  Brittney's getting more and more turned on!
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ad4fa432-913b-4adb-a1bc-d8fcc2b6bd83
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: TurnedOn
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 44
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 579384e4-8f4b-4b51-8009-39894706bd7d
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Aww.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b55e0119-445e-4625-8c12-bd4ab011f823
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a5d06f8a-f10e-4c3d-8a29-85bab78f927b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1057f8e1-bbd6-4d5d-be04-72c083c38816
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh my!  You sure do know how to make a woman blush!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 45
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: d7691a01-1f90-4400-8097-e95a82ec3442
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: You're welcome...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ccafa60c-aa20-46cf-9bb8-de3d26ee806c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh my!  This entire situation is getting awfully interesting if I do say
+        so myself...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 46
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 5bfac807-4551-4d6d-9f7e-bf963117e504
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: We've created a monster... in a good way of course...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2e0bf5ee-55a7-4c2e-8850-4982ddc1a8f1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f5e885c3-0655-4dc7-abc8-1227080385f0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: I'm just gonna stay here for a bit without my clothes.  This feels so
+        great!  You two go on along... and thanks so much for this!  This is the most
+        fun I've had in years!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 47
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 70b64b62-1d08-4662-807b-a2827f4f6339
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I know.  I work out...
+      - Id: f23936cd-5daf-4160-a9cc-10a3040e16f8
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents:
+        - AddRemoveAction: 0
+          BodyPartValue: 0
+          BooleanValue: 1
+          Character: Brittney
+          Character2: Player
+          CombatOption: 0
+          Criteria: []
+          Delay: 2
+          DialogueAction: 0
+          DisplayInEditor: 1
+          Enabled: 1
+          EventTriggerOption: 0
+          GameMessageType: 0
+          Id: b583936b-e0c2-4850-b719-b4c7ee18a942
+          IntimacyOption: 0
+          ItemAction: 0
+          Key: 
+          LookAtTarget: 0
+          ModificationType: 1
+          OnOff: 0
+          OpenClose: 0
+          PlayerOption: 0
+          QuestAction: 0
+          RelationshipType: 0
+          RoamingOption: 0
+          SendEventOption: 0
+          SocialModificationType: 0
+          SortOrder: 0
+          StartDelayTime: 0
+          TraitValue: 0
+          Type: 180
+          UseConditions: 0
+          Value: 10000
+          Value2: 
+          WalkToTargetOption: 0
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Why don't you play for this team... just for a minute?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh my.  I usually play for the other team if you get my drift, but I must
+        say, that's rather impressive...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 48
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a6e859ae-f00b-4c60-b052-5e1f02bf6d0e
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents:
+        - AddRemoveAction: 0
+          BodyPartValue: 0
+          BooleanValue: 1
+          Character: Brittney
+          Character2: Player
+          CombatOption: 0
+          Criteria: []
+          Delay: 1
+          DialogueAction: 0
+          DisplayInEditor: 1
+          Enabled: 1
+          EventTriggerOption: 0
+          GameMessageType: 0
+          Id: bd205736-0992-4ed4-a632-436190fe766b
+          IntimacyOption: 0
+          ItemAction: 0
+          Key: 
+          LookAtTarget: 0
+          ModificationType: 1
+          OnOff: 0
+          OpenClose: 0
+          PlayerOption: 0
+          QuestAction: 0
+          RelationshipType: 0
+          RoamingOption: 0
+          SendEventOption: 0
+          SocialModificationType: 0
+          SortOrder: 0
+          StartDelayTime: 0
+          TraitValue: 0
+          Type: 180
+          UseConditions: 0
+          Value: 10052
+          Value2: 
+          WalkToTargetOption: 0
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: No need to worry I'll take care of you.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh, it's just all that talk about sex has gotten me real horny...  do
+        you mind? I normally don't do these things with men but I'm at my limit...
+    GlobalGoodbyeResponses:
+    - Id: 2f3970d3-c869-4d66-89e8-f6a8fa7ca470
+      AlwaysDisplay: 0
+      Next: 0
+      Order: 0
+      ResponseCriteria: []
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 1
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Ciao bella!
+    GlobalResponses:
+    - Id: 0f27c52a-f581-4a6c-bb92-58cc0c65d95c
+      AlwaysDisplay: 0
+      Next: 1
+      Order: 0
+      ResponseCriteria: []
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey are you ok?  There's a party going on out there you know.
+    - Id: 23cdd589-f786-4e8f-b8d7-0888ff9a56d5
+      AlwaysDisplay: 0
+      Next: 4
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Oh look.  Here you are all by yourself again.
+    - Id: 16fef40f-fd38-4cf0-b726-b8430e9ff2c1
+      AlwaysDisplay: 0
+      Next: 5
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Brittney
+        Character2: Brittney
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      - BoolValue: 1
+        Character: Brittney
+        Character2: Brittney
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 6335d3b9-3e9e-4169-847d-d352d849fabd
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I got Stephanie to dance topless downstairs!
+    - Id: 208120ce-ec0d-4df4-ade6-68d712ae7e67
+      AlwaysDisplay: 0
+      Next: 11
+      Order: 0
+      ResponseCriteria: []
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Is your hair natural?
+    - Id: 066f7373-6fc7-4dda-985c-905cadb39ee4
+      AlwaysDisplay: 0
+      Next: 12
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 574049de-6301-4d80-86f6-b8432cb225b9
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey Patrick's looking for his phone.  You haven't seen it, have you?
+    - Id: bf3055b0-3eb1-49ff-9567-fc9d0cffa39e
+      AlwaysDisplay: 0
+      Next: 17
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey you don't have any marijuana do you?  My glaucoma's acting up.
+    - Id: 233dd631-58ff-482c-a6b4-871581c29a4b
+      AlwaysDisplay: 0
+      Next: 21
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 10
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Petition
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey do you think you could sign my petition?
+    - Id: fe3e181f-a4cf-43d0-9535-611dd0d981e7
+      AlwaysDisplay: 0
+      Next: 24
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 6335d3b9-3e9e-4169-847d-d352d849fabd
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 150
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 30
+        ItemComparison: 0
+        Key: Brittney
+        Key2: Speaker1
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 6
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Would you like to join me in the hot tub?
+    - Id: 2bf4ae44-6f1f-4252-8d5a-463e940fb460
+      AlwaysDisplay: 0
+      Next: 25
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 45
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 26
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 110
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: What kind of underwear do you have on?
+    - Id: c827ef40-bf52-4398-8be8-27cd48ec6584
+      AlwaysDisplay: 1
+      Next: 26
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 6335d3b9-3e9e-4169-847d-d352d849fabd
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 150
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 30
+        ItemComparison: 0
+        Key: Brittney
+        Key2: DirtMound
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 6
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 1
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 23
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: NoTub
+        Key2: '#'
+        Order: 3
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: So how about we relax in the hot tub for a bit?
+    - Id: dac650ba-05d3-4b3d-9ee3-1105a17cbfd3
+      AlwaysDisplay: 0
+      Next: 27
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 23
+      - BoolValue: 0
+        Character: Brittney
+        Character2: '#'
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: You look really warm in this tub.  Maybe you should take something off.
+    - Id: 42d61b06-841f-40c6-af25-fd7a48d03036
+      AlwaysDisplay: 0
+      Next: 28
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: What do you think of Amy?
+    - Id: f8e1bfea-e671-488c-af8d-bacfef62c931
+      AlwaysDisplay: 0
+      Next: 29
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 23
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 29b1b343-be3e-497f-bdda-48fba914c9d5
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I bet you I can get Amy to get in this hot tub completely naked.
+    - Id: 45ce56bf-071a-44c6-9169-c2ab1a98566e
+      AlwaysDisplay: 1
+      Next: 0
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 23
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 23
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 4
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: SLevel
+        Key2: '#'
+        Order: 3
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 7
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 4
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 61
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 29b1b343-be3e-497f-bdda-48fba914c9d5
+        Key2: '#'
+        Order: 5
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 6
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 62
+      ResponseEvents: []
+      ResponseRoutes:
+      - Criteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: TurnedOn
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 3
+        - BoolValue: 0
+          Character: Brittney
+          Character2: '#'
+          CompareType: 130
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Next: 32
+      - Criteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 36
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 37
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 2
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 39
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 3
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 40
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: TurnedOn
+          Key2: '#'
+          Order: 4
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 4
+        Next: 41
+      - Criteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: TurnedOn
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 4
+        Next: 31
+      - Criteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 130
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Next: 41
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 1
+      TestingCriteraOverride: 0
+      Text: Brittney, truth or dare?
+    - Id: 02ff0675-b520-48f4-9540-18689cc922e5
+      AlwaysDisplay: 1
+      Next: 48
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 29b1b343-be3e-497f-bdda-48fba914c9d5
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 1
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: What's wrong Britt you look a bit red
+    HousePartyVersion: 0.8.3
+    LockCharacterSelection: 1
+    LockStoryName: 1
+    Personality:
+      Values:
+      - Type: 0
+        Value: 87
+      - Type: 1
+        Value: 86
+      - Type: 2
+        Value: 25
+      - Type: 3
+        Value: 42
+      - Type: 4
+        Value: -86
+      - Type: 5
+        Value: 40
+      - Type: 6
+        Value: 100
+      - Type: 7
+        Value: -60
+      - Type: 8
+        Value: 30
+      - Type: 9
+        Value: 36
+      - Type: 10
+        Value: -28
+      - Type: 11
+        Value: -40
+      - Type: 12
+        Value: 37
+      - Type: 13
+        Value: 64
+      - Type: 14
+        Value: 38
+      - Type: 15
+        Value: 57
+      - Type: 16
+        Value: -100
+    QuestImageLibrary:
+      Folder: QuestImages
+      Images:
+      - None
+      - Ashley
+      - AshleyClothedEmbarrassed
+      - AshleyHappy
+      - AshleyNakedEmbarrassed
+      - AshleyPose1
+      - Brittney
+      - BrittneySad
+      - BrittneySurprised
+      - Frank
+      - iPhone
+      - iPhoneKeyPad
+      - Katherine
+      - KatherineHandsOnHips
+      - KatherineUpset
+      - Madison
+      - MadisonHappy
+      - MadisonSexy
+      - MadisonWorried
+      - Patrick
+      - PatrickSad
+      - PhoneInHand
+      - Rachael
+      - RachaelPensive
+      - RachaelShy
+      - Stephanie
+      - StephaniePose1
+      - StephaniePose2
+      - StephaniePose3
+      - StephaniePose4
+      - StephaniePose5
+      FileCount: 60
+    Quests:
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Brittney needs to make sure there's some type of distraction so people
+        won't stare at her boobs before she'll come out of the room.
+      Icon: 100
+      ID: 6335d3b9-3e9e-4169-847d-d352d849fabd
+      Name: Breast Diversion
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/BrittneySurprised
+      QuestProgressImage: QuestImages/BrittneySad
+      QuestStartImage: QuestImages/BrittneySad
+      QuestFailedImage: QuestImages/BrittneySad
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    Reactions:
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Brittney
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 80d70058-cc3c-4655-bfcc-695cb478058e
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 9
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 1
+      Type: 50
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: Brittney
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d660b384-d189-4b36-a9a0-d177380e9885
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 10
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 70
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Brittney
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5f35f7fe-2d0a-4e34-95c2-be4f33bb4bde
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 1
+        Value: OfficeChair
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: fa960cee-42f6-44a5-9e83-54a96daa931b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 1
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ab0e8580-5835-4423-a879-bc4fe14351d7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 130
+        UseConditions: 1
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 1
+        GameMessageType: 0
+        Id: c366ad37-bf29-40fa-9f30-8e7c6b66f39b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: Go Near Stephanie
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Brittney
+        Character2: Player
+        CompareType: 20
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 27fe8b5d-7328-4c4e-a191-fdf3cca8cd9c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3dcb3d84-6c86-48c6-afaa-a589ba31baac
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 30
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 70
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 60
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e81ffee8-dfd6-4dde-9797-8adb5ee9642a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 19
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 51
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6138659b-b097-4742-847a-da51fee57fcd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 20
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 52
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 0
+        Character: Brittney
+        Character2: Stephanie
+        CompareType: 20
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 20
+        ItemComparison: 0
+        Key: Brittney
+        Key2: Stephanie
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 6
+      CurrentIteration: 0
+      Enabled: 0
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 80f01ecb-8ae9-4776-aeee-28cb63d3a049
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Stephanie
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: Go Near Stephanie
+      ShowInInspector: 0
+      Type: 80
+      UpdateIteration: 20
+      Value: 
+      WalkToTargetOption: 0
+    StoryItems: []
+    StoryName: Woe's Bash 0.8.8
+    WrittenWithVersion: 0.5.0

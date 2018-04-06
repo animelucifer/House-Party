@@ -1,0 +1,6905 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1957436630653936}
+  m_IsPrefabParent: 1
+--- !u!1 &1957436630653936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4114658773051656}
+  - component: {fileID: 114683185241605764}
+  m_Layer: 0
+  m_Name: VickieStory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4114658773051656
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1957436630653936}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.2011776, y: 1.8269055, z: -8.16382}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114683185241605764
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1957436630653936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1154295991, guid: d650bb8f89616134290991c0e37ad16a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Data:
+    CharacterName: Vickie
+    CurrentAspect: 1
+    DialogueID: 0
+    Dialogues:
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 0
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 25
+        Order: 0
+        Show: 0
+        Text: Looks like you've had a little to drink and are loosening up.  That's
+          a good start!  Just don't overdo it...
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 0
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 639ca68a-2323-4de0-b17a-b6a1e1f6b8b2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 6
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: OrgasmSensitivity
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 135
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 2
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a8f4fe81-1778-402a-bc7a-ef772693c8ff
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 27
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 135
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 70
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: fc43215c-8975-4c3f-973f-f17023e7ff16
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 32
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 130
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 12
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 120
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 10
+          SocialStatus: 0
+          Value: 4
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c5038628-4a58-4db1-83a7-5c4fd6e8eb69
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 33
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 135
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 50
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 37933394-7837-4246-8a4f-3b06700fc89c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 38
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Hey dude.  How's it hanging?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 1
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f3f652b1-c07a-42e8-815e-a22e5fa5a492
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I guess I shouldn't have came earlier on the floor.  And on the sofa.  And
+          on Frank...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Meh.  Not that impressive dude.  I've seen much bigger loads on set.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 2
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: dc731e64-02aa-4b9f-851a-6dee550323f2
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Holy shit!  She liked it!
+      - Id: f6c78c07-1e33-4179-88bc-62269015f52e
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 4
+        - BoolValue: 1
+          Character: Vickie
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 30
+          Value: 6
+        ResponseEvents:
+        - AddRemoveAction: 0
+          BodyPartValue: 0
+          BooleanValue: 1
+          Character: Vickie
+          Character2: Player
+          CombatOption: 0
+          Criteria: []
+          Delay: 2
+          DialogueAction: 0
+          DisplayInEditor: 1
+          Enabled: 1
+          EventTriggerOption: 0
+          GameMessageType: 0
+          Id: ffc384b2-14a0-4aab-85ac-39ad197400b1
+          IntimacyOption: 0
+          ItemAction: 0
+          Key: 
+          LookAtTarget: 0
+          ModificationType: 1
+          OnOff: 0
+          OpenClose: 0
+          PlayerOption: 0
+          QuestAction: 0
+          RelationshipType: 0
+          RoamingOption: 0
+          SendEventOption: 0
+          SocialModificationType: 0
+          SortOrder: 0
+          StartDelayTime: 0
+          TraitValue: 0
+          Type: 180
+          UseConditions: 1
+          Value: 10000
+          Value2: 
+          WalkToTargetOption: 0
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I could really use a hand... or your mouth
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: eb7cd81c-5a15-4c79-b232-9c50d26d843a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Don't threaten me with a good time.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 3
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 7946245b-b5ae-4fea-b1e8-c65928df78aa
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I think I love you.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Hey!  At least warn a girl!  I didn't even have my mouth open...
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 4
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: bb2ef4ed-9df1-4b7e-9914-aa03abd438df
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 063d13cc-ff60-49ab-a174-9851c3627cae
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ad475714-d5a1-43fa-9f9c-e7fa396782b1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: You do realize that lines like that don't actually work outside of movies
+        and video games, right?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 5
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9b5fc9d4-e20f-4963-a331-5677e7874332
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: cd160b53-3be1-4d05-a9e8-595919de2a18
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh she did now, did she?  Rachael can get a little freaky too these days,
+        but you should have seen her when I met her.  Let's just say I have a knack
+        for getting good girls like Rachael to let their guards down and have a little
+        fun.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a85eea93-41cb-4018-8fea-4220c68a3d06
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: b4dbe1c3-ae82-430c-bb1f-dd811bba8886
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Good Girls Gone Bad
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 6
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 4ee8aeb3-e40c-4c3b-bb9d-c6c3e27f2096
+        AlwaysDisplay: 0
+        Next: 8
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Did I mention I love you?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2a8dc8fc-9dd9-4fc8-b05e-466dd0571a40
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6f019d65-5b32-474b-8439-e9b9ab36fa5d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Is that so?  It sounds like you're offering your help.  Trust me, I can
+        turn this party into an orgy once I work my magic, but the conditions need
+        to be just right.  How about you help me set the mood, and I'll see what I
+        can do?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 7
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8d6152fc-0faf-4d6a-8ed0-4729f9cf3fbb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ab5b6d6f-eea6-423b-b927-6e0a4b70eedf
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8d6b7e23-ca9b-45ae-8732-d40c05d045e1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Only bad things I hope...
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 8
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: ea61a91b-2947-42a9-8ee8-04f678f74d3b
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Got it!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 83e37cde-d3b1-4cc6-8323-e62573cdcbb0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Training Day
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Pay attention cadet!  First thing's first, these girls need to feel comfortable
+        and actually like you.  That means you need to not be a douche-bag.  Chat
+        up as many of these ladies as you can, and try to get them to like you.  You
+        can let me know when you're ready to move on to the next step, but you can
+        more than likely count out any girls you may have pissed off from being included.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 9
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f683c2fb-6125-46f6-b185-9de3eb1a335e
+        AlwaysDisplay: 0
+        Next: 10
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Madison
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'd love to see more of Madison's wild side!
+      - Id: 89fb1f1a-0cb3-46e0-9da3-46c8afba4341
+        AlwaysDisplay: 0
+        Next: 10
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Katherine
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I actually managed to get Katherine to like me!
+      - Id: 8ace8235-7d6c-4299-9253-cdc97bcf619c
+        AlwaysDisplay: 0
+        Next: 10
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Ashley
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Ashey's so sweet.  Let's corrupt her!
+      - Id: addc31f5-2077-4a35-a459-27394e31a2e6
+        AlwaysDisplay: 0
+        Next: 10
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I bet Brittney would be a lot of fun!
+      - Id: bcb94b52-83f2-49c5-b105-b17f302d7d48
+        AlwaysDisplay: 0
+        Next: 10
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Stephanie is already pretty wild.  Let's see what she's capable of!
+      - Id: b75e76cf-8e02-447b-8a70-3ab38532cb0a
+        AlwaysDisplay: 0
+        Next: 10
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Rachael
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Let's see what we can do with Rachael!
+      - Id: c8059e6f-8f59-48b0-bccb-91999430f949
+        AlwaysDisplay: 0
+        Next: 10
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Amy
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Amy's warming up to me.
+      - Id: 214606d8-a2a5-45ef-88dc-78eeb29cfe28
+        AlwaysDisplay: 0
+        Next: 11
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Maybe I could practice on you first?  You know... for science.
+      - Id: 2843076f-681a-46de-b226-37f94888a5dc
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 1
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Nobody likes me...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Great!  Who do you want to work on first?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 10
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 39912747-9757-4b8a-b460-7c592dce839f
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Fuck you House Party Developers!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Sorry, but this is as far as the story goes right now.  But more story
+        to come soon!
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 11
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 34a040b9-0659-498b-9358-deca95355944
+        AlwaysDisplay: 0
+        Next: 12
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Score!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 12
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 89f070b5-dcce-472a-bc85-be59b5a56407
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 12
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Aww, how adorable.  You're a little shy aren't you?  No problem.  We can
+        work up your confidence game before we dive in.
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 12
+        Order: 0
+        Show: 0
+        Text: Ok.  Let's try this again...
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 12
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 08e508b2-9de7-4c33-a6cc-749ebbdca3c5
+        AlwaysDisplay: 0
+        Next: 13
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Hey baby... wanna wrestle?
+      - Id: 1c7d7ec0-81ce-46c7-a626-8dddcd220dd8
+        AlwaysDisplay: 0
+        Next: 14
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: So do you come here often?
+      - Id: 8c25d999-2138-4a0e-91ad-f873a90c5b09
+        AlwaysDisplay: 0
+        Next: 15
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 14
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: All of your base are belong to us?
+      - Id: e54c37ae-105b-4809-97fa-ab21bee2ddb9
+        AlwaysDisplay: 0
+        Next: 16
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 14
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: You know, you have a really nice smile.
+      - Id: f5be0830-8b42-469c-8b59-1d2f21032606
+        AlwaysDisplay: 0
+        Next: 17
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 14
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Hey, are those the outlines of nipple-rings I notice on your shirt?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Ok.  Pretend I'm one of the girls.  Show me your game.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 13
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: fdfa1081-1378-458c-858f-9f368e7b7740
+        AlwaysDisplay: 0
+        Next: 12
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Noted
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Please don't... say that to anybody ever again.  Like.  Ever.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 14
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f7333b5e-4f10-49da-8cdb-ca3ebb86db53
+        AlwaysDisplay: 0
+        Next: 12
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Come to think of it...  I guess not.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Seriously dude?  We're at a fucking house party.  This isn't a local bar.  God
+        you have so much to learn.  It's really a good thing you came to me for help.  Forget
+        the pick-up lines.  Have any of them worked for you yet?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 15
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: b69ca2ed-a9e8-4416-8912-073f37fec76c
+        AlwaysDisplay: 0
+        Next: 12
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Genius!  Charisma plus one!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Okay.  Not a pickup line.  That's progress.  But now you sound like you're
+        in one of those poorly translated visual novel games.  How about trying a
+        compliment?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c3fac1a5-86c5-4390-bdca-71c16fe7bbdd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 76cd3b14-9e0a-40c0-9d3c-d06c3898a023
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Redemption
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 16
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 02cef8ac-0e68-44c8-90bd-f1de734359e7
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'm on it!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: daac50fa-9644-4412-b0d6-20fd5ef1bae2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8f528368-79e7-46e1-b86d-6b0f81f3e707
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 77db1bae-ff9b-4ff5-9622-cbe5edf0dad3
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Holy shit, that was actually a sweet compliment.  There may be hope for
+        you yet!  Let's see this new side of you in action.  Rumors around this party
+        tell me that Ashley's pissed at you.  I'm not sure what you did to her, but
+        see if you can win her back over, and then we'll get to the fun part of your
+        training.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 17
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 5c11a4b7-a8ae-4e8b-accb-22850a2b21ef
+        AlwaysDisplay: 0
+        Next: 12
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I should be writing this stuff down... wait...did you say yes?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a0c1fb45-aec7-4db6-aeb7-e3cb65781d14
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2549fe0e-4089-4963-b05e-4c707a069bd6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Well it's certainly better that you've taken more of an interest in the
+        subject, but try not to blatantly make comments about someone's tits when
+        you first start chatting them up.  Oh and by the way, yes.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 18
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a74027c2-580d-4d57-a6d1-7e4fdf97e1e6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1e2245f2-79bd-4ff4-8d7b-84c17cbeec87
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: df0a6798-0e59-4a21-9695-f9327e49bad0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Actually, I've never touched the stuff, but nice job stereotyping me,
+        asshole.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 177960a5-474a-45b6-ac48-ab77e78bd120
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: HotTubSeat1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: fc4a342f-b652-472e-b113-4c6a1e146473
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 19
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a46b7471-7c59-4334-b473-f11cde55c910
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Lead the way!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Good work cadet!  Your buddy Derek bet me $5 you would shit the bed.  He
+        doesn't seem to have a whole lot of faith in you, but I do.  We'll show him.  Why
+        don't you join me in the hot-tub and we can continue this conversation with
+        a little more comfort... and a lot less clothing.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 20
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Rachael
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a80c4998-7bc7-4555-8ead-d53ebdeee697
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 50a80866-6d0b-4c9c-84d5-397aa5711cb3
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2895231d-d98f-443f-884d-91e01360b02b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh these old things?  You can thank Rachael for these.  Our dares can
+        get a little crazy sometimes.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 21
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 691efae0-2f2c-4871-a215-8635136206d4
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Oh right.  Sorry!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Why don't you take those silly shorts off first.  This is a hot tub, not
+        the YMCA swimming pool...
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 22
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: d0c2186a-3958-4357-9979-b344510e701a
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents:
+        - AddRemoveAction: 0
+          BodyPartValue: 0
+          BooleanValue: 1
+          Character: Vickie
+          Character2: Player
+          CombatOption: 0
+          Criteria: []
+          Delay: 0
+          DialogueAction: 0
+          DisplayInEditor: 0
+          Enabled: 1
+          EventTriggerOption: 0
+          GameMessageType: 0
+          Id: 4c215baf-f353-483c-8298-1346e014433c
+          IntimacyOption: 0
+          ItemAction: 0
+          Key: 
+          LookAtTarget: 0
+          ModificationType: 1
+          OnOff: 0
+          OpenClose: 0
+          PlayerOption: 0
+          QuestAction: 0
+          RelationshipType: 0
+          RoamingOption: 0
+          SendEventOption: 0
+          SocialModificationType: 0
+          SortOrder: 0
+          StartDelayTime: 0
+          TraitValue: 0
+          Type: 180
+          UseConditions: 0
+          Value: 10011
+          Value2: 
+          WalkToTargetOption: 0
+        - AddRemoveAction: 0
+          BodyPartValue: 0
+          BooleanValue: 1
+          Character: Player
+          Character2: 
+          CombatOption: 0
+          Criteria: []
+          Delay: 0
+          DialogueAction: 0
+          DisplayInEditor: 1
+          Enabled: 1
+          EventTriggerOption: 0
+          GameMessageType: 0
+          Id: 8bb77b44-8c06-4f6d-b8e8-d26fabb0debc
+          IntimacyOption: 0
+          ItemAction: 0
+          Key: OrgasmSensitivity
+          LookAtTarget: 0
+          ModificationType: 0
+          OnOff: 0
+          OpenClose: 0
+          PlayerOption: 0
+          QuestAction: 0
+          RelationshipType: 0
+          RoamingOption: 0
+          SendEventOption: 0
+          SocialModificationType: 0
+          SortOrder: 0
+          StartDelayTime: 0
+          TraitValue: 0
+          Type: 0
+          UseConditions: 0
+          Value: 15
+          Value2: 
+          WalkToTargetOption: 0
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 1
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I submit to your tests... for science.
+      - Id: afa7ec39-5c71-499c-bf81-272be518d039
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Fuck no!  I ain't no lab rat bitch!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Ok cadet.  There's a few things you need to learn if you want to roll
+        with me.  If there's one thing I can't stand, it's guys with no endurance,
+        and you looked like you were ready to bust a nut the second I looked at you.  What
+        do you say we do a little test and see where you stand?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 23
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 4f9baf44-3d58-460b-9c27-193bc16be687
+        AlwaysDisplay: 0
+        Next: 24
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: That's not fair!  You're like some kind of wizard with your hands!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa dude.  Okay, I'm not gonna lie, that was kind of pathetic.  What
+        was that about 5 seconds?  We really need to work on this...
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 24
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 6801bb2c-754d-44fd-8e8d-d131efb2090a
+        AlwaysDisplay: 0
+        Next: 25
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: How do you propose I do that?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well I can't say that I haven't had a lot of practice.  My record is 3.6
+        seconds.  But that just makes me a good baseline to judge against.  If you
+        want a taste of my world, you're going to need to work on that stamina.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: d943cd81-0d63-4290-927b-2e054986836f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Fuck, Vickie's right.  I'm like a kid in a candy store being around
+          her.  I need to calm down and focus or I'll never get to see her work her
+          magic.  Maybe I should try to talk to Derek about what I should do now.  But
+          maybe I should put some clothes on first.
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 25
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: c0ca1e65-8518-4efb-aa12-7701eed945a1
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'll check back with you later.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Lots of practice?  I don't have all the answers dude, but I can tell you're
+        super wound up just from being around me.  Why don't you cool down a bit and
+        see if you can work on that.  When you're ready, come back and we'll see if
+        you've made any progress.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 26
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: bef9741d-3a42-48ac-8b90-a1419f829f9f
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'm working on it!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Looks like you're still a little premature there.  But feel free to come
+        back and try it again when you've got that figured out.  I'll be here all
+        night.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: d84fdcba-efa2-40a9-a671-233cffc827bf
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Guess I may have overdone it on the drinking a bit...
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 27
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 4ca58643-7bcf-4cb0-aaf5-923863dca412
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Shmaoh Khay...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Dude.  Are you fucking wasted?  How do you expect to get anything accomplished
+        like that?  Come back to me when you're not so annihilated...
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 28
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f9dcb10f-8d3f-487f-ba25-dabaaac39cf3
+        AlwaysDisplay: 0
+        Next: 30
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Well you gotta practice to become the best
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Hey not bad!  There may be hope for you yet!  I couldn't see what was
+        going on inside from out here, but rumor also has it that you've become quite
+        the ladies man
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6df56e73-016d-43dd-b948-05852408eba1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: c44adc86-e079-4bc5-9532-d62abbb74c7f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Hmm... I wonder if I should have told her the truth.  She suddenly
+          seems turned off by me...
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 29
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: e12f049f-858b-4ba8-a1da-df630dd3f737
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Yes Maam!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ac76e070-c10e-481c-9dc9-c34a20633ab0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Sounds like you're quite the tough guy.  Well anyway, I'm glad I could
+        help you out.  I'm going to get back to the party now, but but be sure to
+        put my teachings to good use cadet.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 30
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 4fba0ef4-24a9-46e6-a173-1e16722f099b
+        AlwaysDisplay: 0
+        Next: 31
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Fuck here we go with another quest...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Aww, look at you being a lady slayer. I think you're going to like the
+        next part of your training, but unfortunately I need to ask you a huge favor
+        first...
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4c981a1a-34e2-4b43-b606-7f61130a5df2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Training Day
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 31488fcd-b751-4b10-a196-9b522306a8dd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 16
+        Type: 137
+        UseConditions: 0
+        Value: 100
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 31
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: df5589ff-8fb6-4cbe-9308-6e071e88447b
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Oh.. well okay then...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 429aeaa8-c559-411b-80e1-c60229cd4987
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 150
+        UseConditions: 0
+        Value: 4
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Vickie
+        Character2: Vickie
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b3c4cd99-bc29-4b0b-ae06-9abbf18b4ea1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 20
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 10
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 150
+        UseConditions: 0
+        Value: 24
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 08275326-e7b0-4c4c-8aaf-29b8834b18d1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 10
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 999
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a97aa249-07cc-47c6-8205-235921d013ba
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 130
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Do you think you can take these off for me?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 32
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 470e6ba7-bebf-46d2-bc6b-4be4ab86d2e8
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Uhhh.. thanks?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Come on dude.  You can do it.  Try thinking about your grandfather's hairy
+        balls.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 08b07afe-4287-490d-afcf-6854f150568b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: GoBottomlessInHotTub
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 33
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 4965667c-9296-415c-b961-31e0e242c437
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I think I'm picking up what you're putting down!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Do you really need more of an invitation than this?
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 34
+        Order: 0
+        Show: 0
+        Text: I fucking love repeat customers...
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9a185b3b-693e-4657-a94b-57bbffcde2f4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: GotSkinnyDipPartner
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a8dc96df-dd60-41af-bea7-2834ca788fe6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: HotTubSeat1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 34
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f8d0c156-a737-4edd-b071-42d9c22ef1a1
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Fucking yeah!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I'm glad we did this.  You turned out to be a lot more fun than I thought
+        you'd be.  Oh, and tell Derek he owes me $5.00.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8eef65b1-5d93-4dc4-a478-383caf4a4493
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: fucking
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5787c9dc-376f-4ac5-8a86-dc4b249d5af4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 180
+        UseConditions: 0
+        Value: 10052
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 02e9db4b-f396-479b-9c23-a2cd54d899b1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 150
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8fe1eaeb-e771-4b2d-a117-cdd09b3b50b3
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 35
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 18d9bc59-bc61-4349-838a-3b9c6f8c9dcd
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Score!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Fuck yeah dude.  I'd never pass that offer up!
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 36
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Let me know if you need any help with that...
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 37
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 97c5d750-e860-4dac-a0b0-cb915fe59d84
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Be my guest...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Holy shit, now this is what I call a party!  You guys don't mind if I
+        stay and watch, right?
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 38
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 3ec6e5a3-8fb6-4ed7-b909-cc59095420af
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Yes maam!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: You better make me cum first.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1419ae5b-6c16-4f5c-ad4e-e87e6d5fe9ac
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Signatures
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e1f3659e-f03a-4cb3-bdd9-75de8fc8033f
+        IntimacyOption: 0
+        ItemAction: 3
+        Key: Petition
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: PlaySoundEffect1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 39
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: be91fbb7-f94c-4886-b310-c2caccb93e8b
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Thought so.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Um, hello?  Have we met?  Of course I'll sign that.
+    - AlternateTexts: []
+      CharacterID: 6e919d66-b48e-490c-b666-c3188902291f
+      CloseEvents: []
+      ID: 40
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 13fea5d2-2a6d-4234-8468-3e22e69ca5bf
+        AlwaysDisplay: 0
+        Next: 39
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: It's for Derek to take off his shirt.
+      - Id: 0d8b4a1b-7a67-4f45-8932-5166cd42ec8d
+        AlwaysDisplay: 0
+        Next: 39
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: It's for uh... Derek to take his shirt off.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: A petition?  I'm bored already, but I'll bite.  What's it for?
+    GlobalGoodbyeResponses:
+    - Id: 3d05898a-0400-42a8-b6ea-badf0c116bd5
+      AlwaysDisplay: 1
+      Next: 0
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 135
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 1
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 10
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Bye Vickie.
+    GlobalResponses:
+    - Id: 8bb44c4b-5361-4c35-9792-1540a9b1f525
+      AlwaysDisplay: 0
+      Next: 4
+      Order: 0
+      ResponseCriteria: []
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Do you believe in love at first sight, or should I walk by you again?
+    - Id: 379a4b32-f7c7-4970-b617-ec4172ad9e71
+      AlwaysDisplay: 0
+      Next: 5
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Rachael told me you're a lot of fun!
+    - Id: 26551750-49bf-468a-87f2-a424849dd668
+      AlwaysDisplay: 0
+      Next: 6
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 5
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: There are a lot of "good girls" here that need to let their guards down.
+    - Id: 573c111e-fda9-4efb-8c42-4448eca29416
+      AlwaysDisplay: 0
+      Next: 7
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 0
+        Character: Vickie
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: You must be Vickie Vixen!  I've heard a lot about you!
+    - Id: e83212ab-fffb-46d8-984e-9ad06e6ad992
+      AlwaysDisplay: 1
+      Next: 9
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: b4dbe1c3-ae82-430c-bb1f-dd811bba8886
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Ok, I'm ready!  I made a few friends!
+    - Id: f9b1b308-5282-45b6-bcec-073ef0444470
+      AlwaysDisplay: 1
+      Next: 12
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 12
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 16
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I need more practice.  Let's role-play.
+    - Id: ac562599-212f-490d-921a-e1c9df52465e
+      AlwaysDisplay: 0
+      Next: 18
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Vickie!  You obviously know where I can find some pot, right?
+    - Id: 9a3ea872-5d7f-4904-b34e-7432166b6d9e
+      AlwaysDisplay: 0
+      Next: 19
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Ashley
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 76cd3b14-9e0a-40c0-9d3c-d06c3898a023
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I did it!  Ashley says we're square!
+    - Id: f6c13f02-57f9-4afd-ae4d-e13f87138279
+      AlwaysDisplay: 0
+      Next: 20
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 4
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 23
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Wow those really were the outlines of nipple rings under your shirt!
+    - Id: f4668e9b-bb86-445f-a967-5db5c3d08c70
+      AlwaysDisplay: 0
+      Next: 21
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 4
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 23
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 19
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 110
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 3
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I'm ready for the next part of my training!
+    - Id: 111971a3-e255-46d2-bf8c-c0d0e4954b93
+      AlwaysDisplay: 0
+      Next: 22
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 23
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 4
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 19
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 3
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 12
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Ok, I'm ready for the next part of my training!
+    - Id: fc04276e-9593-4fa5-86ba-24c469bc3695
+      AlwaysDisplay: 1
+      Next: 0
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 120
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 10
+        SocialStatus: 0
+        Value: 4
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 25
+      - BoolValue: 0
+        Character: Player
+        Character2: '#'
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 16
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 3
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 12
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 4
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      ResponseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3bc7a383-7603-4d13-82b0-3110bba61162
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 180
+        UseConditions: 0
+        Value: 10011
+        Value2: 
+        WalkToTargetOption: 0
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Go ahead and test me again...
+    - Id: 13d7fb0a-8292-4ad9-bc8d-2bce6d48812f
+      AlwaysDisplay: 1
+      Next: 35
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 34
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 12
+      - BoolValue: 0
+        Character: Player
+        Character2: '#'
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 16
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey so uh... wanna give it another go?
+    - Id: 4aaeb968-2c52-42a3-975f-02aa6232aca7
+      AlwaysDisplay: 0
+      Next: 40
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 10
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Petition
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Do you think you could sign my petition Vickie?
+    HousePartyVersion: 0.8.3
+    LockCharacterSelection: 1
+    LockStoryName: 1
+    Personality:
+      Values:
+      - Type: 0
+        Value: 8
+      - Type: 1
+        Value: 89
+      - Type: 2
+        Value: 71
+      - Type: 3
+        Value: -85
+      - Type: 4
+        Value: -100
+      - Type: 5
+        Value: 100
+      - Type: 6
+        Value: 100
+      - Type: 7
+        Value: 78
+      - Type: 8
+        Value: 66
+      - Type: 9
+        Value: 24
+      - Type: 10
+        Value: 66
+      - Type: 11
+        Value: -78
+      - Type: 12
+        Value: -51
+      - Type: 13
+        Value: 82
+      - Type: 14
+        Value: -100
+      - Type: 15
+        Value: 100
+      - Type: 16
+        Value: 44
+    QuestImageLibrary:
+      Folder: QuestImages
+      Images:
+      - None
+      - Ashley
+      - AshleyClothedEmbarrassed
+      - AshleyHappy
+      - AshleyNakedEmbarrassed
+      - AshleyPose1
+      - Brittney
+      - BrittneySad
+      - BrittneySurprised
+      - Frank
+      - iPhone
+      - iPhoneKeyPad
+      - Katherine
+      - KatherineHandsOnHips
+      - KatherineUpset
+      - Madison
+      - MadisonHappy
+      - MadisonSexy
+      - MadisonWorried
+      - Patrick
+      - PatrickDrunk
+      - PatrickSad
+      - PhoneInHand
+      - Rachael
+      - RachaelPensive
+      - RachaelShy
+      - Stephanie
+      - StephaniePose1
+      - StephaniePose2
+      - StephaniePose3
+      - StephaniePose4
+      - StephaniePose5
+      FileCount: 62
+    Quests:
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Vickie seems to have mastered the art of turning House Parties into
+        the slumber party that most men dream about.  Maybe I should follow her instructions...
+      Icon: 100
+      ID: b4dbe1c3-ae82-430c-bb1f-dd811bba8886
+      Name: Good Girls Gone Bad
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/None
+      QuestProgressImage: QuestImages/None
+      QuestStartImage: QuestImages/None
+      QuestFailedImage: QuestImages/None
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Vickie's offered to train you to work up your sex game.  Don't let
+        her down!
+      Icon: 100
+      ID: 3ab5d448-c062-400f-9f48-d3dad8e3b131
+      Name: Training Day
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/None
+      QuestProgressImage: QuestImages/None
+      QuestStartImage: QuestImages/None
+      QuestFailedImage: QuestImages/None
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    Reactions:
+    - CharacterToReactTo: Vickie
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8c1a25f9-1500-4ce9-99a6-c86208ba24d1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 76531d21-0aaf-4639-a976-56b4c6818770
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 130
+        UseConditions: 0
+        Value: 18
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5ddd1f5d-0650-43c0-8f8a-1c40b9276553
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 0
+        Value: LoadingDock
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: OnStart
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: Player
+        CompareType: 20
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d6da5fd0-3812-423e-a326-0be554b998a0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 60
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2128489a-a5e7-4a9a-ba9d-7c8cb3d547e6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c8060c65-060a-4cb3-9fc4-9e4ca46925f9
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 70
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 32bb6a58-a86e-49eb-b0e6-ba9290dabcc9
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 1
+      Type: 50
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Vickie
+      Critera:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 1000
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 862c513a-20fd-47fb-83bc-e62e7c37110e
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 0
+        Value: Kitchen
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: edd58feb-394f-461d-b26a-74f4b57d71fd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 76cd3b14-9e0a-40c0-9d3c-d06c3898a023
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Redemption
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 4
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c18468fb-ad10-4f09-8b77-4dbcde2093d8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 76cd3b14-9e0a-40c0-9d3c-d06c3898a023
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Redemption
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 95923eed-1a54-4a55-ada7-ee7d2f9296c8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Amy
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 48329f68-a4f3-450b-8355-0af57053d6f9
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 4
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: abf24771-f22b-4ecf-9704-e073fabe8bd6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: The Candyman Can!
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9a202df3-e094-4f3b-a1be-8480c9438181
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: The Candyman Can!
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 4
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 86cc0349-fd76-406f-9df8-201ad03da55b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 7e7742d6-f758-41b1-a2b1-c021e1459192
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Hunt for Red's Thermos
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1c4ddd0f-926e-4149-83c2-5ce8a4c48753
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 7e7742d6-f758-41b1-a2b1-c021e1459192
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Hunt for Red's Thermos
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9fb00d5a-fd07-4f9c-85ed-30327d307fae
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 19
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 80a5719f-4b55-4225-8a64-112b0db0ece7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: TESTING VICKIE
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Vickie
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 30
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4862d080-7425-43da-aeb2-6d34d453b195
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 0
+        Value: EnterPartyPoint
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 35
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2b48822d-d630-4768-998b-5f50615a2dab
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 40
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f8a5151b-2fb0-408f-a3be-5d4ca0cf18d8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 1
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3f4dc506-0da0-4fac-ae40-2f8915e47848
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 130
+        UseConditions: 0
+        Value: 18
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: Enable Me
+      ShowInInspector: 0
+      Type: 0
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 22
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 23
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 0db336b3-06e2-4b84-8d60-0b3a5f7d4079
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: HotTubSeat1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6fa4757b-9881-45ec-b58f-540ae5860eeb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 23
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e529d124-9292-4441-b018-73d2407a4013
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 70
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 60
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 25
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: Player
+          CompareType: 20
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: OrgasmSensitivity
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d77ce4a9-06ff-48f4-bacf-1a8f6303260b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 26
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 120
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 1
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 10
+          SocialStatus: 0
+          Value: 23
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: daf1e1f5-90c2-435b-beab-b34ae7367b63
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: HotTubSeat1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: Player
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Vickie
+          Character2: Player
+          CompareType: 20
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 0adc1fb9-0404-467e-a6fa-6ac4b9f3b617
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 70
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: af580db8-d423-4365-886e-da642750a69a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: OrgasmSensitivity
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: OrgasmSensitivity
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1088ece8-c5c4-42ae-8154-422200c8cfb8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: OrgasmSensitivity
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: OrgasmSensitivity
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        - BoolValue: 0
+          Character: Vickie
+          Character2: Player
+          CompareType: 20
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 1cd3c70f-c52f-4e6b-907d-1b08ea6c9126
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 1
+        Value: Shit looks like I'm still not holding out too well.  I'm going to need
+          more practice and a drink or two if I'm going to impress Vickie...
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: OrgasmSensitivity
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 25
+        - BoolValue: 1
+          Character: Vickie
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 2
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 28
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 120
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 1
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 3
+          PlayerInventoryOption: 0
+          PoseOption: 10
+          SocialStatus: 0
+          Value: 4
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 755a4868-ca5e-4e5b-ac92-44e4ba166fe4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Fuck yeah, that's what I'm talking about.  I should let Vickie test
+          me again...
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: OrgasmSensitivity
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 120
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 10
+          SocialStatus: 0
+          Value: 4
+        Delay: 6
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2d221a90-6a46-4cf0-a1ce-64cb27407f0f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 28
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 60
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 20
+        ItemComparison: 0
+        Key: OrgasmSensitivity
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: a40b474c-9f07-46fb-be50-7a93d38ddf86
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: This should hopefully slow things down a bit for me...
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e087d955-9c1c-4a7f-8f76-1553c71b67b5
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: OrgasmSensitivity
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: -4
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: OrgasmSensitivity
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: efaf76c5-194f-4b48-9f7f-1313e3cb02c3
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: OrgasmSensitivity
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: OnPlayerDrinks
+      ShowInInspector: 0
+      Type: 0
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: fucking
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d780283a-d090-4708-8b11-8c6f91c066ca
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 34
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 441d0948-89b4-4a2c-9e36-a6256d8ecf13
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: fucking
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 60
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5e4a4cfa-572c-4300-aeec-76be6eb52c42
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 36
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 51
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d82ba22d-5950-4452-be7f-d08684be23f4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 37
+        Value2: 
+        WalkToTargetOption: 0
+      Key: AshleyTop
+      Name: 
+      ShowInInspector: 0
+      Type: 52
+      UpdateIteration: 0
+      Value: AshleyFindChangeSpot
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Vickie
+      Critera:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 1000
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a5b7fcfc-4dea-4d88-b814-6b941ad19ae5
+        IntimacyOption: 0
+        ItemAction: 3
+        Key: Vickie's Panties
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: ChangeVickiePanties
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Vickie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 1
+        GameMessageType: 0
+        Id: 9f32f347-23d7-49af-b47a-b7f8104cc3ff
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: None
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: TESTING UNDIES
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    StoryItems: []
+    StoryName: Woe's Bash 0.8.8
+    WrittenWithVersion: 0.5.0

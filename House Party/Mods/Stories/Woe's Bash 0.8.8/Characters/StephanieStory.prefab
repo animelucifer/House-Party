@@ -1,0 +1,6189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1304537808074974}
+  m_IsPrefabParent: 1
+--- !u!1 &1304537808074974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4949910495408840}
+  - component: {fileID: 114783759732833000}
+  m_Layer: 0
+  m_Name: StephanieStory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4949910495408840
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1304537808074974}
+  m_LocalRotation: {x: -0, y: 0.600141, z: -0, w: 0.7998942}
+  m_LocalPosition: {x: 0.030415148, y: 1.1768249, z: 1.4006784}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114783759732833000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1304537808074974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1154295991, guid: d650bb8f89616134290991c0e37ad16a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Data:
+    CharacterName: Stephanie
+    CurrentAspect: 1
+    DialogueID: 15
+    Dialogues:
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 0
+          Character: Stephanie
+          Character2: Stephanie
+          CompareType: 30
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: Stephanie
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Order: 0
+        Show: 0
+        Text: Hey, I'm Stephanie.  Like, what's up?
+      - Critera:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: Stephanie
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 20
+          Value: 0
+        Order: 0
+        Show: 0
+        Text: Get away from me or I'm calling the police.
+      - Critera:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: AteOut
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Order: 0
+        Show: 0
+        Text: I am sooooo fucking horny!
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 0
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 1
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 271fa685-a25f-40b0-bc66-c7208c95e924
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: '#'
+          CompareType: 135
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 60
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1006048c-391f-4ca6-84fc-fdd2b4760f7c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 29
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 6
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7131f893-f8e3-4fa5-9bb8-44c9e687259a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 31
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Hey again stranger!  How's it going?
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 1
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 29c89d0d-380d-4949-9f16-f1c3502e46cf
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: cd54a8d7-2406-4ea3-85b5-22a95b0eeb0a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b1fc58d0-61a9-4f11-aeae-6b838097dc1d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 1
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Thank you!  I like, love to dance!
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 2
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: df467a6b-fc0d-4a68-946f-0e8c87beba76
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ad837afb-ebfb-4148-91a2-906127956cb7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Nice to meet you too.  OMG, I like, LOVE this song!
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 3
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 69f0a552-4399-4b93-9047-f9638a35aba8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 86d86770-4683-4afc-becb-342d689b00b4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh Mads and I have known each other since grade school.  I totally wouldn't
+        have gotten through math class if she like, didn't let me cheat off her all
+        the time.  Come to think of it, I probably wouldn't have gotten through history,
+        science, or english either.  Can you believe that?
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 4
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3d7e3941-657b-4fee-b773-1eaf8c34e8ff
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 13ddc0f1-0cd4-4fc7-b4a0-198d8c7e0f9f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: She's like, super smart.  If I could have copied off her in grade school,
+        I would have been like, a straight A student.
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 5
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: c393da1b-08b7-46f9-b238-61b9fbf4d34f
+        AlwaysDisplay: 0
+        Next: 7
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Hmm.  I'll see what I can do.  What's in it for me though?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1cf6841e-e24e-437e-b8c6-f2238eade51b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d40efc8e-6d1d-4e32-957e-371d7a391c7a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 31c3b6d5-e972-4c24-b534-91e0021a160c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 85b39753-8e78-494d-ac0a-455e4e4a9a3e
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: I'm Not Whipped, Bro!
+        Value2: 
+        WalkToTargetOption: 0
+      Text: This party is ok, but I really wish I could do some whip-its.
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 6
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: b3ca046a-02a3-4e16-ab0f-de0cb405a9ee
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: My bad.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 81a6f6e6-1691-43be-8469-ca0f0c055e9f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c3b58111-606f-4154-a1aa-ced980befa4e
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4c0e96b1-7eba-49c5-bc29-39acd4f4301d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 1
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: That wasn't a very nice thing to say.
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 7
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 310e6cf8-ef0a-46d6-b997-b4572bf113a2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9c82725c-761c-451d-bea3-fb58484e4cd8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 1
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Well, I get kinda crazy on whip-its.  If you like my dance moves now,
+        you haven't seen anything yet!
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 8
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 7d3f1745-645f-4896-9822-9e60a0f58aaf
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Can't say I blame the guy, but yeah, I get what you mean.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f0a39a5e-ba31-4ead-8bf2-91024c03f14a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 34a93b2c-a80b-4742-9747-215276f622c1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: He like, creeps me out.  He's always so drunk, and he always stares at
+        my tits when I'm dancing.
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Katherine
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4481a309-2ce7-44f1-9d7a-2ddc1cd82f47
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Dancing:Skill
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 9
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d3670aab-1777-442d-9f58-24bf105d4e3a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 9
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 554ce4eb-2d90-4937-85c6-78e021f2ebb1
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Good to know, Stephanie.  Good to know.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8f895d9b-be07-4564-9e7d-9e356f300c22
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 68058d0c-ba94-4f3a-8bf4-f4e6f608a60a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2776d718-81ea-453b-8ccf-8bfde5835739
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 1
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 0d19e59a-c30b-4c49-8db5-343225fa20a4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 85b39753-8e78-494d-ac0a-455e4e4a9a3e
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: OMG, you totally found some whip-its!  You're like, my hero!  The more
+        fucked-up I get the more horny I get.  You should see me when I drink wine!  Wait,
+        did I just say that out loud?  Gosh, I sound like such a slut.  Tee hee.  Anyway,
+        I'm totally going to tear the dance floor up for you, and you can totally
+        look up my skirt when I do.  Wait, was that too forward?
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 10
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2dcada91-9c22-4a2f-9a24-377c3544370c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b639ddbf-288b-4aa1-855b-cde1224a25ac
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Thanks!  I'm glad you like my moves.  I caught you looking up my skirt.  Keep
+        doing that.  It turns me on.
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5420ede0-096f-4980-b1c2-5c26f5324b88
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ff4e2a32-5f0a-4523-97f3-0d2e29b5e918
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 11
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 28ef699b-b316-4417-b0a7-b76d953e7c35
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I support this endeavor.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e7beeb9f-8509-42c4-bd2a-f05ec57be742
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7e54a3c4-2252-47d3-a931-045770774793
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 1
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: You know what?  Fuck it!  Let's turn this party into more of a party!
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9b74e7cc-ac6c-4587-8408-37195cde633b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 10
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 7
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9c260775-cc5c-4bb0-a611-0e5a59f7aff0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 1
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 12
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: c30b4fc2-4f33-4b74-aa6d-1edbed441327
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: No sweat!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3bf1b311-16fc-4100-b9b2-7dca9bce970f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3987c416-2142-47a8-812d-336e7a17d0b8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e182f483-85f0-4deb-bb48-70f6cc35aebe
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 1
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      Text: No way, you found some booze?  You're totally my hero!  I can get my grove
+        going even more!  Thank you!
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 13
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4367bdbd-1226-485f-90de-1b09fe1d5c4a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Nice try, but I'd have to be pretty drunk for that.  And from the looks
+        of this party, it doesn't look like that's going to happen!
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 14
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 963a96ce-0f43-4f2a-9909-c620c5ad041a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d908d1d3-9e0b-464c-8fea-c876e29ac732
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c7363b19-9b0e-46cf-89f1-dc7891045dd9
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 1
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 30
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: You think I don't know that?  Way to be a buzzkill dude.  Like, loosen
+        up, would you?
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 15
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: b480133c-1a01-4101-8965-c4dea0fe4710
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Happy to oblige!
+      - Id: 0df71d94-15c5-48ee-a1bc-056a49214dca
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 30
+          Value: 5
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 4
+        ResponseEvents:
+        - AddRemoveAction: 0
+          BodyPartValue: 0
+          BooleanValue: 1
+          Character: Stephanie
+          Character2: Player
+          CombatOption: 0
+          Criteria: []
+          Delay: 1
+          DialogueAction: 0
+          DisplayInEditor: 1
+          Enabled: 1
+          EventTriggerOption: 0
+          GameMessageType: 0
+          Id: 6f0bd103-a653-4fcd-a3d9-e7f3d7200352
+          IntimacyOption: 0
+          ItemAction: 0
+          Key: 
+          LookAtTarget: 0
+          ModificationType: 1
+          OnOff: 0
+          OpenClose: 0
+          PlayerOption: 0
+          QuestAction: 0
+          RelationshipType: 0
+          RoamingOption: 0
+          SendEventOption: 0
+          SocialModificationType: 0
+          SortOrder: 0
+          StartDelayTime: 0
+          TraitValue: 0
+          Type: 180
+          UseConditions: 0
+          Value: 10000
+          Value2: 
+          WalkToTargetOption: 0
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: It did, you should really take responsibility
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3f9e47b0-b39d-4777-a982-c277dfc89ed2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e76e6741-da5f-45e3-b322-d2d9558d0fe7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: FlashScore
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Are you saying that like, my dancing made you hard?  That's kinda hot.
+    - AlternateTexts: []
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4a4e46bc-c94a-4116-a349-6be9e3e114ab
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 10
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: Stephanie
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 1
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a9ae7b5b-6abe-4160-9946-efaef4b7e285
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 11
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 16
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: e2b11b68-4b32-4678-971e-cb12fa26136d
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Maybe you should go a little easy... ah nevermind.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8f7f6de5-842e-4dfc-a151-09840980898a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh shit!  You totally scored me some more wine?  You're the best.  Hey,
+        did you know I can chug a whole bottle in under a minute?  Check it out!
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: Player
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 30
+          Value: 5
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 4
+        Order: 0
+        Show: 1
+        Text: Like woah dude was that like champagne?
+      CharacterID: c733aefe-48fe-4216-bef2-7330620b48f5
+      CloseEvents: []
+      ID: 17
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: aa273070-c9a1-44f6-b170-a37a0e8623dc
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Your dancing does things to a man...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 1
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1c93d9f2-8944-4e62-8dfa-1a9a92748e76
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 0
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Like, oh my god.  I am totally freaking out right now.  This dude just
+        fucking came all over me.  Ugh, and the dance floor is all sticky now!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 18
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f83b26df-bc72-49dd-b6e1-50291f169548
+        AlwaysDisplay: 0
+        Next: 19
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Uh.  Ok.  That response seemed quite uncharacteristic of you.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: A Whip It is the act or process of inhaling nitrous oxide from small compressed
+        canisters or compressed cans of whipped cream to obtain a momentary high.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 19
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I get like, totally serious when it comes to drugs.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 20
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: It's like, way too cold in here.  I've been dancing all night and I like,
+        haven't even worked up a sweat.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 21
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 81de3d93-dbd1-4672-bee5-9fc365f406d7
+        AlwaysDisplay: 0
+        Next: 22
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: It's 2017.  Everybody has a phone, Stephanie.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b1571283-976f-42d1-90d3-52ee9a1a4656
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Like, I don't even think he has a phone.  I've never seen him using it.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 22
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 76f282f3-fe3a-44ae-b646-a80e6c231d5d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Wait, what?  It's 2017 already?  I think I like, missed my dentist appointment.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 23
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: No, sorry!  I don't think I know her.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 24
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I am so fucking horny!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 960d101d-8851-412d-aeab-d83650df6860
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: That was too easy.
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 25
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 50667022-a61b-4129-be0a-1dfacff6788e
+        AlwaysDisplay: 1
+        Next: 26
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 1
+        ShowResponseRoutes: 1
+        TestingCriteraOverride: 0
+        Text: Um; okay...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3c52806a-d4d5-4a69-b51f-f3d7f8b916ec
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh my GOD yes, take your pants off right now!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2f55c03a-fb06-4a00-9524-140801e98ca1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 26
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a1b75925-bbec-4ae7-83a7-53ecd03a01f0
+        AlwaysDisplay: 0
+        Next: 27
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: bad1f613-b783-4eb6-90f7-0cfeb8907963
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 5
+        Value2: 
+        WalkToTargetOption: 0
+      Text: blah blah blah, I can't wait anymore!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1e43f49a-02c1-4089-af08-c53d51d94a9b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 944b77b2-92b9-4567-9eee-125f913f482d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 7
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2b12a02e-5bb2-4b1a-b060-ed049a9675f3
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 29
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8e3daf5e-1a83-4180-9bd0-3f4085ce83b1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 1
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 180
+        UseConditions: 0
+        Value: 10052
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 27
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 98189443-b55b-4c38-9f87-9d95d4450bff
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I didn't expect her to be so in control
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Get on your back, I'm riding you
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 28
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 3cb827ba-7f83-4291-b76f-325937223080
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: '#'
+          CompareType: 135
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 50
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 1
+        ShowResponseEvents: 1
+        ShowResponseRoutes: 1
+        TestingCriteraOverride: 0
+        Text: I guess I'll let her do it then
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6444da0d-6332-4668-bd27-d3b2ac111727
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Like, stay still will ya~
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 29
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 1a0bc54b-a5df-46b2-a942-a3b841af7cee
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes:
+        - Criteria:
+          - BoolValue: 1
+            Character: Stephanie
+            Character2: '#'
+            CompareType: 40
+            DialogueStatus: 10
+            DoorOptions: 0
+            EqualsValue: 0
+            EquationValue: 0
+            ItemComparison: 0
+            Key: '#'
+            Key2: '#'
+            Order: 0
+            PlayerInventoryOption: 0
+            PoseOption: 0
+            SocialStatus: 0
+            Value: 29
+          - BoolValue: 1
+            Character: Stephanie
+            Character2: '#'
+            CompareType: 135
+            DialogueStatus: 10
+            DoorOptions: 0
+            EqualsValue: 0
+            EquationValue: 0
+            ItemComparison: 0
+            Key: '#'
+            Key2: '#'
+            Order: 1
+            PlayerInventoryOption: 0
+            PoseOption: 0
+            SocialStatus: 0
+            Value: 0
+          Next: 30
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 1
+        TestingCriteraOverride: 0
+        Text: Sure thing
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: oh FUCK, fuck me harder!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c1e1f7c5-086d-48b8-bdc3-ea9446b794c5
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 30
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: e09e958c-e2b3-4ac5-a128-bf725ed58fd8
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I also do weddings and bar mitzvahs.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Fuck yes.  That was like, just what I needed.  You're so BIG
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 31
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 25d318fd-3564-4e55-b353-6f0192d51745
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Um.. both?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Are you like, drunk?  ...Or are those just really bad dance moves?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 32
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a5cc50cc-51f2-4e71-ba33-b2f55346e66c
+        AlwaysDisplay: 0
+        Next: 33
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Oh it's just a signature contest.  Best-looking signature wins.
+      - Id: 0167950c-5651-4f80-a331-6859844575ae
+        AlwaysDisplay: 0
+        Next: 34
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: If you sign it, Derek will take off his shirt.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well, that depends.  What's a petition?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9de89b32-9772-4426-b781-c39fea5b3e27
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Signatures
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a6e85a74-8dff-472b-aafd-11d293595b38
+        IntimacyOption: 0
+        ItemAction: 3
+        Key: Petition
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: PlaySoundEffect1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 33
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f2527f70-a5bd-493b-accf-b8d46748faa3
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'm sure it is.  I'll let you know if you won.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh wow!  I totally have this in the bag.  My signature is the coolest!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 34
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: bfad2150-6aae-4a7a-9206-3286b5f19481
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Attention.  Thanks anyway Stephanie.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh I wouldn't want that to happen.  Then my dancing won't be like, the
+        center of ascension or whatever you call it.  Like, you know, what's it called
+        when you want like, everybody to look at you?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 35
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: No way!  The party's in here!  Have you heard this song before?  It never
+        gets old!  I had Madison put it on repeat for me the entire night!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6fccad0b-cc85-4356-a123-f996c3e3ccbc
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Madison
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 36
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 0a0eed26-2089-416e-9559-ef802852431f
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Like, where did the music go?  I wish I knew how to work these things.  Electronics
+        are soooo confusing.  Now I've gotta have Madison turn it back on.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8166e89c-e3ef-4236-89a5-c6ef5b6ae691
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Speaker2
+        Value2: 
+        WalkToTargetOption: 1
+      ID: 37
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: f742a2f9-9fef-4d19-9e90-cfcbfdc61da0
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: My sentiments exactly.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 81c62be3-0770-4e1c-baaa-1f07a610923c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Whoa, that's like, totally awesome!  The only thing better than dancing
+        to this song is like, dancing to this song outside!
+    GlobalGoodbyeResponses:
+    - Id: d77db943-09b1-4ec1-978e-8ee2d6631609
+      AlwaysDisplay: 0
+      Next: 0
+      Order: 0
+      ResponseCriteria: []
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 1
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I'll see you around, Stephanie.
+    GlobalResponses:
+    - Id: 3e520cdf-71b0-4b6f-9f02-62a4c22da340
+      AlwaysDisplay: 0
+      Next: 3
+      Order: 1
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Madison
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      - BoolValue: 1
+        Character: Madison
+        Character2: Stephanie
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Stephanie
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#EnterValue#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: So how do you know Madison?
+    - Id: ffebf515-e80c-4fe5-a11a-153985619c95
+      AlwaysDisplay: 0
+      Next: 4
+      Order: 1
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Katherine
+        Character2: Stephanie
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Katherine
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#EnterValue#'
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Katherine seems cool.
+    - Id: 07beb9cd-002c-40ca-99a9-5ddc2a52c5f0
+      AlwaysDisplay: 0
+      Next: 2
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 0
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Stephanie
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#EnterValue#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Nice to meet you Stephanie!
+    - Id: 9f83575c-3fba-442c-8d69-4ccfce2b4939
+      AlwaysDisplay: 0
+      Next: 5
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: You look like you're having fun.
+    - Id: ef48aacc-c9f8-4cc1-a685-4c7a86cf9040
+      AlwaysDisplay: 0
+      Next: 1
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Stephanie
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#EnterValue#'
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: IsDancing
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 20
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Those are some pretty sweet dance moves you've got there!
+    - Id: a0152de5-a0c2-437e-8504-8b2a9cb710bd
+      AlwaysDisplay: 0
+      Next: 10
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 85b39753-8e78-494d-ac0a-455e4e4a9a3e
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: IsDancing
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 20
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Man, you are tearing it up on that dance floor!
+    - Id: a797561c-f19d-46c4-96a1-c753648fc5bf
+      AlwaysDisplay: 1
+      Next: 11
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 85b39753-8e78-494d-ac0a-455e4e4a9a3e
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 110
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      ResponseEvents: []
+      ResponseRoutes:
+      - Criteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: Bobby
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#EnterValueName#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 4
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: HouseTemp
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 80
+        - BoolValue: 1
+          Character: Amy
+          Character2: '#'
+          CompareType: 150
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: Stephanie
+          Key2: Speaker1
+          Order: 2
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 6
+        Next: 11
+      - Criteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: Bobby
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: '#EnterValueName#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 5
+        Next: 13
+      - Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: HouseTemp
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 75
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 150
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: Stephanie
+          Key2: Speaker1
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 6
+        Next: 20
+      - Criteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 150
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: Stephanie
+          Key2: Speaker1
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 6
+        Next: 0
+      - Criteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 4
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 150
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: Stephanie
+          Key2: Speaker1
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 6
+        Next: 11
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 1
+      TestingCriteraOverride: 0
+      Text: So what do you say you liven up this party even more and dance topless?
+    - Id: 42f9ff5b-b2da-4804-b1ae-77f0c7f63ca5
+      AlwaysDisplay: 0
+      Next: 14
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey careful,  I can see up your dress when you do those spin moves.
+    - Id: ce280680-aacc-4b2c-81ef-e9785642e16a
+      AlwaysDisplay: 0
+      Next: 18
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 85b39753-8e78-494d-ac0a-455e4e4a9a3e
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: What the fuck is a "Whip-It"?
+    - Id: 11530280-7325-481e-b0a2-dfb626fec636
+      AlwaysDisplay: 0
+      Next: 21
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 574049de-6301-4d80-86f6-b8432cb225b9
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 12
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: You wouldn't happen to know where Patrick's phone is, would you?
+    - Id: 31cc9f0a-104a-436c-bcf5-be2a4d4e5788
+      AlwaysDisplay: 0
+      Next: 23
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Do you know where I can score some Mary Jane?
+    - Id: be7eda8a-0b2b-49d1-a850-1f630a9bbde4
+      AlwaysDisplay: 1
+      Next: 25
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 0
+        Character: Stephanie
+        Character2: '#'
+        CompareType: 110
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: '#'
+        CompareType: 50
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 20
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 10
+        Value: 5
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 1
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 1
+      TestingCriteraOverride: 0
+      Text: So uh... do you want some help with that horniness?
+    - Id: 72246de3-9bd2-4957-9124-3244b429cacb
+      AlwaysDisplay: 0
+      Next: 30
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: AteOut
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: So can I get that $50 now?
+    - Id: a2aac305-f044-4364-8838-a2c71ce803a2
+      AlwaysDisplay: 0
+      Next: 32
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 10
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Petition
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey Stephanie!  You'll sign my petition, right?
+    - Id: 92936248-74da-4eba-ac33-a15695b5c5cd
+      AlwaysDisplay: 0
+      Next: 35
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 24
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey we should go chill in the hot tub for a bit!
+    - Id: efc8aeb4-4115-4d8c-8f0c-afee90eafa82
+      AlwaysDisplay: 1
+      Next: 37
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Music2On
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 150
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 20
+        ItemComparison: 0
+        Key: Stephanie
+        Key2: Speaker2
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 6
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey I set up a speaker outside near the hot tub!
+    HousePartyVersion: 0.8.3
+    LockCharacterSelection: 1
+    LockStoryName: 1
+    Personality:
+      Values:
+      - Type: 0
+        Value: 90
+      - Type: 1
+        Value: 89
+      - Type: 2
+        Value: -84
+      - Type: 3
+        Value: -75
+      - Type: 4
+        Value: -80
+      - Type: 5
+        Value: 100
+      - Type: 6
+        Value: 40
+      - Type: 7
+        Value: -79
+      - Type: 8
+        Value: 76
+      - Type: 9
+        Value: 82
+      - Type: 10
+        Value: 85
+      - Type: 11
+        Value: -76
+      - Type: 12
+        Value: -89
+      - Type: 13
+        Value: 30
+      - Type: 14
+        Value: -90
+      - Type: 15
+        Value: 60
+      - Type: 16
+        Value: 100
+    QuestImageLibrary:
+      Folder: QuestImages
+      Images:
+      - None
+      - Ashley
+      - AshleyClothedEmbarrassed
+      - AshleyHappy
+      - AshleyNakedEmbarrassed
+      - AshleyPose1
+      - Brittney
+      - BrittneySad
+      - BrittneySurprised
+      - Frank
+      - iPhone
+      - iPhoneKeyPad
+      - Katherine
+      - KatherineHandsOnHips
+      - KatherineUpset
+      - Madison
+      - MadisonHappy
+      - MadisonSexy
+      - MadisonWorried
+      - Patrick
+      - PatrickDrunk
+      - PatrickSad
+      - PhoneInHand
+      - Rachael
+      - RachaelPensive
+      - RachaelShy
+      - Stephanie
+      - StephaniePose1
+      - StephaniePose2
+      - StephaniePose3
+      - StephaniePose4
+      - StephaniePose5
+      FileCount: 62
+    Quests:
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Stephanie wants you to find some Whipped Cream for her and in exchange
+        she'll show you some new dance moves.
+      Icon: 80
+      ID: 85b39753-8e78-494d-ac0a-455e4e4a9a3e
+      Name: I'm Not Whipped, Bro!
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/StephaniePose2
+      QuestProgressImage: QuestImages/StephaniePose1
+      QuestStartImage: QuestImages/StephaniePose1
+      QuestFailedImage: QuestImages/StephaniePose1
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    - CompleteAt: 2
+      CurrentValue: 0
+      Details: Stephanie says if she gets a little booze, you might see a little boobs.  Try
+        to find her some alcohol!
+      Icon: 30
+      ID: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+      Name: Let's Lower Some Inhibitions
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/StephaniePose5
+      QuestProgressImage: QuestImages/StephaniePose4
+      QuestStartImage: QuestImages/StephaniePose3
+      QuestFailedImage: QuestImages/StephaniePose1
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    Reactions:
+    - CharacterToReactTo: Stephanie
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9ea796d8-bf17-4109-b389-f9e2eed7d305
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Dancing:Skill
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ee146956-f373-47b3-aa2a-9603c3650784
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Dancing:Dance
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b5f33a9b-1913-4df7-ad7c-f812a3a3aaef
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 1
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 1
+        GameMessageType: 0
+        Id: 3cb09744-75fa-403a-90a5-e4390f87cf6a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: Return to Speaker 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 1
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e76542a7-47c1-4c98-bc2a-fe9cb4d434d4
+        IntimacyOption: 0
+        ItemAction: 3
+        Key: Speaker1
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: StartMusic
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e47b17c0-7652-44d4-af51-33f3b1255eac
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 15
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 50
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Player
+        CompareType: 20
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 04b294fe-f296-409a-a6f3-1b99dd2505b4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 324422a6-0ccb-414f-9f08-62f8668c68c0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 30
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 70
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 60
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 83091308-2521-4156-894d-c7caa906c9fd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 17
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 70
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: Stephanie
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 30
+          ItemComparison: 0
+          Key: WineCount
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 998411f7-0b53-46f5-b1df-12cb6d2085b7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 12
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Stephanie
+          Character2: Stephanie
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: WineCount
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1d8bd6f3-3fe9-4574-b9a4-7e0aea3af9c8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 16
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: WineCheck
+      ShowInInspector: 0
+      Type: 0
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events: []
+      Key: Madison's Phone
+      Name: 
+      ShowInInspector: 0
+      Type: 90
+      UpdateIteration: 0
+      Value: FacebookSelected
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Stephanie
+      Critera:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 1000
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 21599f0a-247a-4e48-bd16-37c5277ac415
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 180
+        UseConditions: 0
+        Value: 10053
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9c11cf52-2226-46cb-be19-097a19b93f59
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f3a17ba5-06df-4515-bcfb-29ac5e08eed7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 287d9e56-65fc-41b0-90b3-b4ba63da151a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: TESTING CUNNIGULUS
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 204ef813-7305-4c15-a0b4-6499cc1903e7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 31
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 51
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Stephanie
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Madison
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2e662263-d219-4de7-b5df-971f93d55179
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 50
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Madison
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f9ed01bf-1033-4744-9234-7dcef4b8a28d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Speaker1
+        Value2: 
+        WalkToTargetOption: 1
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 10
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c2fefaf6-9e66-4d46-87e1-445d0f2d8d52
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: LivingRoom
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 15
+      UpdateIteration: 0
+      Value: Madison
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: CurrentMoveTarget
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: None
+      - BoolValue: 0
+        Character: Stephanie
+        Character2: '#'
+        CompareType: 130
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 21
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: '#'
+        CompareType: 135
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: Music2On
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e9455dd3-186d-4f9d-b08c-5b1b146a8305
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Speaker2
+        Value2: 
+        WalkToTargetOption: 1
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: Music2On
+          Key2: '#'
+          Order: 2
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ef03a157-1fdd-41ec-aa06-d5447b220a2b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Ashley's Panties
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 1
+        Value: LivingRoom
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: Return to Music
+      ShowInInspector: 0
+      Type: 80
+      UpdateIteration: 20
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Stephanie
+      Critera:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: MusicOff
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: cb9baf17-22e6-4569-9743-6f3ee3eb96d6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 36
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 15
+      UpdateIteration: 0
+      Value: Speaker1
+      WalkToTargetOption: 1
+    StoryItems:
+    - Critera:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 85b39753-8e78-494d-ac0a-455e4e4a9a3e
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ItemName: Whipped Cream
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 9
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Katherine
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Whipped Cream
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Stephanie doesn't want that right now.
+        Value2: 
+        WalkToTargetOption: 0
+      ShowInEditor: 0
+    - Critera:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ItemName: Chardonnay
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: WineCount
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Katherine
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Chardonnay
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 1
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: WineCheck
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Stephanie doesn't want that right now.
+        Value2: 
+        WalkToTargetOption: 0
+      ShowInEditor: 0
+    - Critera:
+      - BoolValue: 1
+        Character: Stephanie
+        Character2: Stephanie
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ItemName: Merlot
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: WineCount
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Stephanie
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 1
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: WineCheck
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Stephanie doesn't want that right now.
+        Value2: 
+        WalkToTargetOption: 0
+      ShowInEditor: 1
+    StoryName: Woe's Bash 0.8.8
+    WrittenWithVersion: 0.5.0

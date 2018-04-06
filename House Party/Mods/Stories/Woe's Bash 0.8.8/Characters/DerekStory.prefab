@@ -1,0 +1,5525 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1957436630653936}
+  m_IsPrefabParent: 1
+--- !u!1 &1957436630653936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4114658773051656}
+  - component: {fileID: 114907093216417826}
+  m_Layer: 0
+  m_Name: DerekStory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4114658773051656
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1957436630653936}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.2011776, y: 1.8269055, z: -8.16382}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114907093216417826
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1957436630653936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1154295991, guid: d650bb8f89616134290991c0e37ad16a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Data:
+    CharacterName: Derek
+    CurrentAspect: 1
+    DialogueID: 40
+    Dialogues:
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 0
+          Character: Derek
+          Character2: '#'
+          CompareType: 30
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Order: 0
+        Show: 0
+        Text: Hey buddy, glad you could make it!  Just a fair bit of warning, my friends
+          are a little... should I say, eccentric?  They're cool though.  Make yourself
+          at home and introduce yourself around.
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 0
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: bb683321-9c26-4a73-bc6f-3a9d9744fbbe
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: b5a37b7f-1e3c-4277-9c5d-4179ee359c8d
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Talk to Derek
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Derek
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 27
+        - BoolValue: 1
+          Character: Derek
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 28
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b24007ea-b45f-4869-98ef-1a1d8a5c542a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 28
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 6
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7f8513e5-d925-45ef-9945-603dd7767b2f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 30
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Hey, how's it going buddy?
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 1
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I'd steer clear of Frank if I were you.  It doesn't take much to set him
+        off.  But if you're really looking to win him over, try convincing him that
+        you're on his side.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 2
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Did you check the fridge?  That's the most obvious place it would be to
+        me.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 3
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa, sorry buddy.  You need to leave me out of this one.  If Madison
+        knew I had any part of that she'd kill me.  Maybe you should just give it
+        back to her.  I mean, you start off breaking into phones, and next thing you
+        know you're selling meth, robbing banks, and burning down orphanages.  It's
+        a slippery slope.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 4
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 887b652b-aeac-4b20-b932-8eac37838a55
+        AlwaysDisplay: 0
+        Next: 5
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'm writing her memoir and I need the info in there.
+      - Id: ed35f8ab-e6a8-4933-a802-c76203e421dc
+        AlwaysDisplay: 0
+        Next: 6
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Um.  Boobs?
+      - Id: 79dd10a9-5303-4bcd-9684-2666cdb5cff2
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Yeah, you're right.  I'm taking this too far...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Dude what the fuck.  I invite you to my friend's party and you're going
+        through her shit?  There better be a good reason for this...
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 5
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I'm not buying it dude.  You're on your own on this one.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 6
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well why didn't you just say that in the first place?  It's gotta be in
+        her closet safe.  I know Madison writes down her passcode to it because she
+        changes it all the time.  I would check around in her room for clues.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 7
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh yeah?  You and Kat?  I never thought anybody would be able to break
+        through that wall of ice.  Nice job, buddy!  Well, she's glued to that phone.  If
+        you could somehow mess with her phone reception, maybe she'd pick another
+        place to hang out.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 8
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Chill buddy.  There's a faucet right there.  I'm sure you can find something
+        to fill with water...
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 9
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 97ea63cb-c772-46e4-92ab-41861242297e
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Sorry Derek.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d24e024e-f931-4135-9706-6dac9530561d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: cc3c8f94-e0c6-4e77-8877-b884257fe9ea
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: FlashScore
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh what the fuck dude!  These are my friends!  Have some respect!  Though
+        nice job on the manscaping...
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 10
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 222b5e91-26aa-4e5a-a8fb-f3f2c25daf8c
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Whoops.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh come on bro.  That's not even funny!  Fuck, I hope I have a change
+        of pants in the car...
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 11
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: The only booze I know of here is with Frank.  Maybe you should talk to
+        him and see if you can work something out.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 12
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Hmm.  Have you tried giving her a gift?  Women love unexpected presents.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 9d61cb5c-d035-47fe-9146-161728735b21
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Whoa, that might be my in!  I wonder who I could talk to about scoring
+          some weed though...
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 13
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 61969030-0620-4f8a-9e91-a6b5e3716fc2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: The Candyman Can!
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Well I happen to know that Ashley's a bit of a stoner.  I'm guessing that's
+        the key to getting in with her.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 14
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Dude, we just fucking talked about this.  Don't you think I'd mention
+        it if I had some?
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 15
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 1
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa, slow down there buddy!  Everybody knows that Ashley hates the color
+        red!  I wouldn't do that if I were trying to get on her good side.  Though
+        a flower is a good idea...  maybe if it were a different color?
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 16
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well I happen to know that Stephanie's parents are loaded.  If anybody
+        has $50.00 around here, it's probably her.  Maybe you should talk to her and
+        help her out if she needs anything...
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 17
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: cf31225c-1382-417f-8b83-e751bfdcd6b8
+        AlwaysDisplay: 0
+        Next: 18
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Come on Derek.  It's important.  It's for science?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: What the fuck dude!  What did I tell you about talking to me about this
+        kind of shit.  I don't wanna know!
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 35d0fa9e-0dc5-475f-8105-d6c72083d550
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: That's actually not a bad idea.  I've had my own case of whiskey dick
+          from time to time.  Now I need to find something to drink.  I've already
+          scoured the entire house and gave everything to Frank and Stephanie.  That
+          leaves what's left in Frank's cabinet... Fuck.
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 18
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 1e5ae99f-2b3e-4644-9ac0-be2f46a445e1
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Thanks Derek!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: God dammit.  Ok fine.  If I really have to indulge this conversation...  I
+        find that when I have a little bit to drink, my um... endurance takes a hit.  Maybe
+        you should have a couple of drinks and relax.  Just be sure not to get completely
+        plastered, otherwise you'll be useless.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 19
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a7c59077-5b87-4a22-a1e9-f0c5ce784fcf
+        AlwaysDisplay: 0
+        Next: 20
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: He called you an ass-licking fart monkey?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Hey calm down now!  Yeah I know Frank can be an asshole, but violence
+        should always be the last resort.  I'm sure whatever it is you can work out
+        it amicably.  I'd have to have a really good reason to throw a punch at him.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 324a6b64-aa9c-4554-a05d-b6136f729330
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Hmm.  What can I do to get Derek pissed at Frank?
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e741c5c5-482d-4dc8-b180-238bb3884584
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 64850a80-d809-4d4d-8bdb-6aeeb857c6c1
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Derek Smash!
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 20
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 6a813128-1dd3-4e3a-9408-cc2eed47c1c0
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Yet being the key word...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well I just find that funny.  It takes a lot to get me triggered, but
+        there is a line.  Frank just hasn't crossed it yet.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 21
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Amy's the best.  I had a few classes with her last semester.  She's obsessed
+        with that band, Panic at the Disco.  She freaks out anytime anybody even mentions
+        them.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 22
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Thanks for coming buddy!  I'm actually really glad you came.  It's been
+        a rough week.  I was looking forward to hanging with you.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 41b25074-a096-415c-be23-446e1003a0a2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Hmm.  Somebody must have the scoop as to what's going on with Derek.  Maybe
+          I should ask around...
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 23
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 9abdf597-bbc8-4b87-98c7-3ad8078c6f04
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Sounds good buddy.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 47924e75-ae9c-4f5a-85c0-fa3abaf8a1ca
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f65d6999-bdcd-4f24-843a-af239d45d1d1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Ah it's not worth getting into right now.  Let's just relax and enjoy
+        ourselves.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 24
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 35e7c493-91fb-4354-8246-ec596c02c05e
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 63d72264-84e0-4b65-aad4-edd542ffab43
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Ah I figured you'd hear it through the grapevine eventually.  I should
+        have just told you myself.  I appreciate your concern though.  If I find the
+        guy that sold him that meth, I'm gonna lose my shit.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e36330ac-b742-49bb-accb-2fccab7581eb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Frank
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 25
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: b76d7bb2-575f-4cf0-be47-4cba9b26f041
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'll just get out of your way.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 442f1b5f-9c39-4549-a598-78f8223569fa
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: What the fuck?  That doesn't even make any sense.  He's straight edge!  I
+        think I need to have a word with him.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 19f494d0-f76e-4720-8deb-2bef49999d8d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 32
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 26
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 8a3b789d-3683-418f-bd00-d0b51e635cfe
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Frank
+      StartCriteria: []
+      StartEvents: []
+      Text: Frank.  What the fuck?  You're the one who sold that shit to my little
+        brother?
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Frank
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f3cdc634-b7c3-42a6-a0d5-1da9123d1020
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: Derek
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e1f284f1-7d5a-4fc1-b2ea-a99e638465d9
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5e07481c-b427-4fd2-94e5-a2d181796111
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 64850a80-d809-4d4d-8bdb-6aeeb857c6c1
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Derek Smash!
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 27
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a3b12584-569e-4349-9fde-d0f9cd930ef6
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Holy Shit, It's happening!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Frank
+      StartCriteria: []
+      StartEvents: []
+      Text: Fuck you Frank!  I'm way too angry to consider that my brother is responsible
+        for his own actions or to listen to reason right now.  You're going down,
+        asshole!
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 4145ac72-e168-48bb-b35d-4e83618f2484
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: I'm way too horny to try and help Derek out.  I can only think about
+          one thing right now.  Maybe I can convince somebody else to help Derek out...
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 28
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: fb5805d9-6b4c-4111-9922-881ba786dee6
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Hmm, I'll see what I can do...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Sorry buddy.  I know you wanted me to kick Frank's ass.  I wanted to kick
+        his ass too, but that mother fucker is jacked.  Maybe if I had a little help,
+        I could pull it off...
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: Derek
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 1
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e16f4568-8134-45e8-967b-762df7ecb359
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 10
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 29
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 10521b61-71e4-4601-a4df-8a146dd051c4
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Will do!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 0e6ed66a-2381-4fac-9333-fc59d7eadd6c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Fuck yeah baby!  That's what I'm talking about.  Let him know I'm ready!  Frank's
+        going down!
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 30
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa, are you ok buddy?  You don't look so good.  Why don't you go sit
+        down for a bit, and lay off the drinking or I'm gonna end up having to call
+        you an ambulance.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 31
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 67964871-859e-4a96-b830-101acb636db5
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh come on dude!  I didn't invite you here so you can make an ass of yourself!  What
+        the fuck are you on!  Cut it the fuck out man!
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7c15af0c-3b52-40ec-9f74-4d8962ddbdfb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 1
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 32
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Holy shit!  I'll just let you two be.  Fuck man, we really need to get
+        together sometime and discuss how you manscape like that.  I've been trying
+        to get that look for years.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 167f7c87-7114-4611-87f2-8522ff410aa4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: Derek
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 1
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d5c3f847-b57d-4044-aeac-6ec87c8f9f3f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e68304f8-1dd6-4331-8efe-22eff54a5f39
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Run
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 33
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 36270179-c817-4b4f-bd3b-e9fe9c6e0226
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Aw fuck...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Oh hell no.  What the fuck is wrong with you?  I invite you to this party
+        and you walk around and steal shit?  I thought we were friends man, but you
+        leave me no choice here...
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 28b4ab97-f283-48a1-bcf2-4df77291c42b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Condom
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Condom
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 34
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: b5d87b92-9ca2-4395-a351-b3ede1a1d34c
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Thanks bro
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Shit dude I thought you were into going raw. well lucky for you I came
+        prepared.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 35
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: c9fa0c66-e7c9-4c21-a89e-b0a5dfdd0753
+        AlwaysDisplay: 0
+        Next: 36
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I asked him for a condom and he thought I was coming on to him.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Probably bi is more like it.  He's had a crush on Kat for as long as I
+        can remember.  But I see the way he looks at my ass too.  Why do you ask?
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 36
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 6b402528-a74b-4528-96f5-aa2aabbce9ad
+        AlwaysDisplay: 0
+        Next: 37
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Fuck no, I'm trying to get into Amy's pants.
+      - Id: 6adf0bc1-d0d4-4aa0-9b9a-8cac5b5cbc06
+        AlwaysDisplay: 0
+        Next: 38
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Actually, I think I am.  What do I do now?
+      - Id: 5d93c94c-dd4c-4cc4-942f-227b002746b5
+        AlwaysDisplay: 0
+        Next: 39
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Me and Frank?  Come on Derek...  What are you smoking?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: It sounds like Frank is confused about the situation.  Unless of course,
+        you actually are interested in Frank?
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a455a9d2-e2f4-4624-a7f7-ac00137001ca
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 41d23e2b-92c9-44a8-87c2-3e9b9af6f270
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Run
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 37
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a32beeed-3cf2-42e9-a6f8-ea6f5b0ee277
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Ah shit...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 522e3b13-27d9-467f-9743-a52ea5cca214
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: What the fuck!  Amy's one of my closest friends.  How dare you disrespect
+        her like that!  You're about to get fucked up!
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: Derek
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 1
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: fc6550d6-a83a-4c15-b6ba-edc457b33a5b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 40
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 38
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 1a05d27f-45b7-4927-9bae-f1a3756c0705
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I guess I didn't realize it until I talked to you.  Thanks Derek!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well in that case, it sounds like you need to be truthful about your feelings.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 72b44ad6-499c-49c0-9604-ced881f7910b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Great.  How the fuck am I supposed to convince Frank I'm not gay?
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 39
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 683edb4b-b254-45bc-9f3f-a923ba7cde3a
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Thanks for the advice Derek.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: I see your point.  That would be an unusual scenario.  Anyway, it sounds
+        like you need to clear up this misunderstanding with Frank.  He thinks you're
+        gay, so maybe there's a way to convince him that you're not.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 40
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 693f9011-2a96-4476-8d2e-8b063e41a6ef
+        AlwaysDisplay: 0
+        Next: 43
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I overheard the girls talking about how much they really want to see
+          my bro without his shirt
+      - Id: 3c66e6a6-d4df-46aa-8046-37b6c9a4c961
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Ah you're right.  Nevermind.  Forget I asked.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: My shirt? Why do you want my shirt?
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: c6af151d-a1fb-4601-adab-8c8ad8c375f7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: What the fuck did I just get myself into?  How am I going to pull this
+          one off?
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 41
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 24b01fdd-428c-4610-b3df-377c4c136191
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'll get back to you.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: A petition?   For me to take my shirt off?  Ok, you've got my attention.  Show
+        me this petition, and maybe we'll talk.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 42
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: c00808a8-6d12-4f4a-a62f-992c38ba358f
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Fine Derek.  But I just want to say you're being a baby about this.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Sorry buddy, but that's not enough signatures.  It seems like there are
+        still quite a few people who would feel uncomfortable if I took my shirt off.  Come
+        back to me if you get some more support behind this.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 496fade7-2dd6-40c1-8d37-cda9873cf05c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 1
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 60
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 59a5b217-a1bb-4d30-90a0-0ae00b9b8eb0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Petition
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2c1b5874-5ca2-4985-a6e0-da7bf1dd649f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Petition
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e07d30ab-d115-4aa9-a62a-812904a3340f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Derek's Shirt
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 43
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 21bc42a9-3947-4c55-b177-5975d76a8cdb
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Cool story bro
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Well, I guess if the ladies want it off that bad...
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 54aa5422-01f3-4955-a1cf-471800938414
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Amy
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 44
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 14f09f55-88c1-48df-b206-759c3523f846
+        AlwaysDisplay: 1
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: You got it.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Thanks for the heads up, buddy!  I can always make some extra time for
+        Amy.  I'll go find her.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 45
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Hmm, well I don't see anybody here wearing anything with the flag on it,
+        but people sometimes wear interesting things under their clothes if you catch
+        my drift.  Maybe you'll get lucky and somebody wore some patriotic unmentionables.
+    - AlternateTexts: []
+      CharacterID: e136459e-f6f3-4940-aa13-22d379d01a0e
+      CloseEvents: []
+      ID: 46
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Why is it that everytime I give you advice, you turn around with some
+        dumb-ass question as if I'm not the one who just gave you the idea?  No, I
+        don't have American flag underwear on.  If I did, I would have told you.
+    GlobalGoodbyeResponses:
+    - Id: 601186f1-55f1-479d-a2a6-955705abce76
+      AlwaysDisplay: 0
+      Next: 0
+      Order: 0
+      ResponseCriteria: []
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Later Derek.
+    GlobalResponses:
+    - Id: 1d8376ee-dd1f-4c39-8e9d-cf0c35e5c769
+      AlwaysDisplay: 0
+      Next: 2
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 85b39753-8e78-494d-ac0a-455e4e4a9a3e
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I can't find any whipped cream for Stephanie.
+    - Id: ebdcc664-6a87-442e-9b6c-6740659ab858
+      AlwaysDisplay: 0
+      Next: 1
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 274482de-2e8a-4afd-a55d-c0fdbecc5734
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Frank doesn't trust me.
+    - Id: 571784a0-1cb7-4890-971b-766361c359ea
+      AlwaysDisplay: 0
+      Next: 3
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: b592bd38-4adb-4e63-a7f0-926c4e4d1af6
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I'm trying to break into Madison's phone, but I haven't been able to figure
+        it out.
+    - Id: 223028a9-f208-4d9f-823e-3670c4182084
+      AlwaysDisplay: 0
+      Next: 4
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 417e6480-b266-4ac8-9b79-a1ddc623afc2
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 0
+        Character: '#'
+        Character2: '#'
+        CompareType: 10
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Diary
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I'm trying to find Madison's diary.  You don't know where she keeps it
+        do you?
+    - Id: 35e9374d-3e02-4a54-a7a3-4cda19a0ff08
+      AlwaysDisplay: 0
+      Next: 7
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: a5c57921-eaf0-4046-883e-a7f78a2bf3a7
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I need to get Katherine somewhere more private.
+    - Id: 79f4dcec-9b11-4c24-8b95-514264c3704f
+      AlwaysDisplay: 0
+      Next: 8
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 11484350-ac97-4038-a94f-c3cf2a7a8ae8
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Katherine
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 40
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I desperately need a bottle of water!
+    - Id: 5d17cdf1-2445-45f5-9ff0-ae88df3e14bd
+      AlwaysDisplay: 0
+      Next: 11
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 1477ed2c-1222-4463-94d5-5478eefaf63b
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Katherine wants me to get her a drink.
+    - Id: ffd68c65-6650-409a-b813-a569faf0ec1c
+      AlwaysDisplay: 0
+      Next: 12
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 76cd3b14-9e0a-40c0-9d3c-d06c3898a023
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Ashley
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 52
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I need to get on Ashley's good side.  Any suggestions?
+    - Id: 7f021507-4338-455b-a683-dce37c9146f9
+      AlwaysDisplay: 0
+      Next: 13
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 76cd3b14-9e0a-40c0-9d3c-d06c3898a023
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Ashley
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 52
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I'm almost there with Ashley, you got any more info I can use to gain
+        some ground with her?
+    - Id: ed607f87-c21c-40fc-bf0c-b1e4add7bdb1
+      AlwaysDisplay: 0
+      Next: 14
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey bud I need some weed.  Did you bring any?
+    - Id: 72fba02c-1e4a-4723-aee3-96e7ed37eaad
+      AlwaysDisplay: 0
+      Next: 15
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 76cd3b14-9e0a-40c0-9d3c-d06c3898a023
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 10
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Flower
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: BlueFlower
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I found a red flower!  I'm going to give it to Ashley!
+    - Id: c3f896af-62cf-4d1b-8ab5-8b090eae099c
+      AlwaysDisplay: 0
+      Next: 16
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey dude, do you know where I can score $50.00?
+    - Id: 7d99c085-3f83-445b-9f92-9b384b44228c
+      AlwaysDisplay: 0
+      Next: 17
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Vickie
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 25
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I need to figure out how to increase my endurance so I don't cum too quickly.
+    - Id: 16327fb1-6206-4ba0-ae58-c9559ac49f4e
+      AlwaysDisplay: 0
+      Next: 19
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 30
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 26
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I've had enough Derek.  Can you just kick Frank's ass for me?
+    - Id: 9b60604e-aa9e-4b2e-8057-d4668d8403a2
+      AlwaysDisplay: 0
+      Next: 21
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: What's Amy's deal?  She's kinda cute.
+    - Id: a9090f43-bd05-4e01-8806-134fa0db885f
+      AlwaysDisplay: 0
+      Next: 22
+      Order: 0
+      ResponseCriteria: []
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Thanks for inviting me to the party!
+    - Id: 60edfaf4-35e2-4f64-b315-6b82479dd8b7
+      AlwaysDisplay: 0
+      Next: 23
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 22
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Rough week?  Is everything ok?
+    - Id: 80a8be91-bc8d-400c-b958-eae02eba9e3f
+      AlwaysDisplay: 0
+      Next: 24
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 10
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 24
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey I heard what happened to your brother...
+    - Id: f471cf09-6e02-4ee2-acae-037aa36dbb0f
+      AlwaysDisplay: 0
+      Next: 25
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 31
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 26
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Frank's the one who sold your brother the meth!
+    - Id: 411330a7-e760-4f4e-9fc7-18de0925033f
+      AlwaysDisplay: 0
+      Next: 29
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 32
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Patrick's gonna help you beat up Frank!
+    - Id: f3f40228-7dd0-41d5-a5c4-67b733f77cbf
+      AlwaysDisplay: 0
+      Next: 34
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: SLevel
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 18
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 19
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey you wouldn't happen to have a condom on you, would you?
+    - Id: 38a1c0e4-aa4e-4806-a721-37ddc1277345
+      AlwaysDisplay: 0
+      Next: 35
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 37
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey Derek, is Frank gay?
+    - Id: 39cc7b68-c107-4eaf-8005-1fdaa3fcdd3f
+      AlwaysDisplay: 0
+      Next: 40
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: SLevel
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 20
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 1
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Can you give me your shirt?  It's for something really important.
+    - Id: b4df4a07-3a60-4119-86e2-386938760b1a
+      AlwaysDisplay: 1
+      Next: 44
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 21
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey Amy said she was looking for you.
+    - Id: ba7255bf-34b5-4654-bf20-ee14e58fe3d0
+      AlwaysDisplay: 0
+      Next: 45
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 29
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I need a picture of somebody wearing something with the American flag
+        on it.
+    - Id: 33aa3791-8d88-4fe1-b2b3-2093cc25df51
+      AlwaysDisplay: 0
+      Next: 46
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 45
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey Derek, are you wearing American flag underwear?
+    HousePartyVersion: 0.8.3
+    LockCharacterSelection: 1
+    LockStoryName: 1
+    Personality:
+      Values:
+      - Type: 0
+        Value: 75
+      - Type: 1
+        Value: 64
+      - Type: 2
+        Value: 50
+      - Type: 3
+        Value: -33
+      - Type: 4
+        Value: 70
+      - Type: 5
+        Value: 85
+      - Type: 6
+        Value: -83
+      - Type: 7
+        Value: -13
+      - Type: 8
+        Value: 39
+      - Type: 9
+        Value: 57
+      - Type: 10
+        Value: 71
+      - Type: 11
+        Value: 24
+      - Type: 12
+        Value: 16
+      - Type: 13
+        Value: 76
+      - Type: 14
+        Value: -80
+      - Type: 15
+        Value: 3
+      - Type: 16
+        Value: -35
+    QuestImageLibrary:
+      Folder: QuestImages
+      Images:
+      - None
+      - Ashley
+      - AshleyClothedEmbarrassed
+      - AshleyHappy
+      - AshleyNakedEmbarrassed
+      - AshleyPose1
+      - Brittney
+      - BrittneySad
+      - BrittneySurprised
+      - Frank
+      - Katherine
+      - KatherineHandsOnHips
+      - KatherineUpset
+      - Madison
+      - MadisonHappy
+      - MadisonSexy
+      - MadisonWorried
+      - Patrick
+      - PatrickDrunk
+      - PatrickSad
+      - PhoneInHand
+      - Rachael
+      - RachaelPensive
+      - RachaelShy
+      - Stephanie
+      - StephaniePose1
+      - StephaniePose2
+      - StephaniePose3
+      - StephaniePose4
+      - StephaniePose5
+      - iPhone
+      - iPhoneKeyPad
+      FileCount: 62
+    Quests:
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Derek's the only person you know here.  It might make sense to check
+        in with him before you look like some random weirdo who just popped by uninvited.
+      Icon: 90
+      ID: b5a37b7f-1e3c-4277-9c5d-4179ee359c8d
+      Name: Talk to Derek
+      ObtainOnStart: 1
+      QuestCompleteImage: QuestImages/None
+      QuestProgressImage: QuestImages/None
+      QuestStartImage: QuestImages/None
+      QuestFailedImage: QuestImages/None
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 1
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Derek's a big guy.  If I can get him pissed at Frank, I bet he could
+        take him down...
+      Icon: 41
+      ID: 64850a80-d809-4d4d-8bdb-6aeeb857c6c1
+      Name: Derek Smash!
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/Frank
+      QuestProgressImage: QuestImages/Frank
+      QuestStartImage: QuestImages/Frank
+      QuestFailedImage: QuestImages/Frank
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    Reactions:
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Derek
+        Character2: Player
+        CompareType: 20
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d18e73f7-c7e5-4e98-b019-e183ad83ed53
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 9
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 50
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Derek
+        Character2: Player
+        CompareType: 20
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 545ee6ef-9cf3-4ae8-b613-334c85a484b2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c4eb842d-d86b-44fa-84d1-879b9da83a0a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 30
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 70
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 60
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 390fb86a-0c43-48a5-9ba0-2b3f2c983f5f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4e6423e3-0765-403c-9a43-abc163e99c18
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 10
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 70
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Derek
+      Critera:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 1000
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 36722563-5f66-40ad-ad93-4782cdbc40dd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 25
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 08d4d9bc-5178-4543-be12-1fcfd233e771
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 7e7742d6-f758-41b1-a2b1-c021e1459192
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Hunt for Red's Thermos
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 6
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 95b514eb-e41a-409e-9072-0e5e531b7521
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 7e7742d6-f758-41b1-a2b1-c021e1459192
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Hunt for Red's Thermos
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: TESTING FIGHT
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Derek
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f5abffcd-b29f-4818-960c-3b86d542ec42
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: dfb830bc-2a22-4ba1-aa3d-6410c6b87a39
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 2
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: HotTubSeat1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d767c62a-79f7-4361-a7ec-62d6fe2a5ba8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 2
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: HotTubSeat2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 65089bc9-9dfe-47b2-9597-96f1590516bc
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 2
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: HotTubSeat3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d30c90a1-cac8-44d9-aeb4-2afec14fc5ed
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 2
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: HotTubSeat4
+        Value2: 
+        WalkToTargetOption: 0
+      Key: AshleyTop
+      Name: 
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: AshleyFindChangeSpot
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Derek
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Amy
+        CombatOption: 30
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 33
+        Delay: 45
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f0eae3ce-c6b1-4bfb-bc92-c4c7aae9fe3d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Amy
+        CombatOption: 30
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 33
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 30946920-d6ec-443a-885a-ae293a4aa126
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 1
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Frank
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 33
+        Delay: 6
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6ee3a826-881e-43f5-a485-1a44e0e9e926
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 1
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Anybody
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 33
+        Delay: 5
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 7ed02c41-77c2-4331-987b-1b3086c40a63
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 1
+        Value: Well that wasn't what I expected to happen at all...  Fuck now what?
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 33
+        Delay: 47
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 68b88d8f-0aa2-4631-bed1-3a21f6be58a8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 1
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 21
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Derek
+      Critera:
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 64850a80-d809-4d4d-8bdb-6aeeb857c6c1
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 25
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 26
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 95850b4b-6cbf-422e-aa53-5f19de800696
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 26
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 15
+      UpdateIteration: 0
+      Value: Frank
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Derek
+      Critera:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 900
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 53520852-c6e0-49b3-ab53-5a9657475f44
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: SofaLeft
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 834533f3-70b6-4391-9a09-61b33db0f0ce
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: LivingRoom
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 184ac523-5789-4c71-b58a-d049085432f5
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: PatioArmchair
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 24a6229d-c8f7-4af4-8655-b7c229ca9bd7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: MasterBedroom
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ae6cfa41-724b-45da-b7cf-b72f1cdaccdf
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: DiningRoom
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ebf5cf4e-ce66-478e-9993-88d22fcfc737
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: Armchair
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 415ed49b-935f-4721-8457-2f8c53054a88
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 31
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 51
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4f05323a-ab8b-40f8-84ae-efb05cddf99a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 32
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 52
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    StoryItems:
+    - Critera:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 20
+        ItemComparison: 0
+        Key: Signatures
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 6
+      ItemName: Petition
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 43
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 42
+        Value2: 
+        WalkToTargetOption: 0
+      ShowInEditor: 0
+    StoryName: Woe's Bash 0.8.8
+    WrittenWithVersion: 0.5.0

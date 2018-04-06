@@ -1,0 +1,7611 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1304537808074974}
+  m_IsPrefabParent: 1
+--- !u!1 &1304537808074974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4949910495408840}
+  - component: {fileID: 114280844041487790}
+  m_Layer: 0
+  m_Name: PatrickStory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4949910495408840
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1304537808074974}
+  m_LocalRotation: {x: -0, y: 0.600141, z: -0, w: 0.7998942}
+  m_LocalPosition: {x: 0.030415148, y: 1.1768249, z: 1.4006784}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114280844041487790
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1304537808074974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1154295991, guid: d650bb8f89616134290991c0e37ad16a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Data:
+    CharacterName: Patrick
+    CurrentAspect: 1
+    DialogueID: 0
+    Dialogues:
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 0
+          Character: Patrick
+          Character2: 
+          CompareType: 100
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Order: 0
+        Show: 0
+        Text: How's it going brah?  Any luck finding painkillers?
+      - Critera:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: Patrick
+          CompareType: 100
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 2
+        Order: 1
+        Show: 0
+        Text: Hey, it's my main man brah!  How's it going man?
+      - Critera:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 5
+        Order: 2
+        Show: 0
+        Text: I'm so drunk brah!
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents: []
+      ID: 0
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 1
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 14c81645-8f18-4d84-b583-d8adbc5e73ea
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 6
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b05396d5-72b1-4724-a575-eca6a630f995
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 34
+        Value2: 
+        WalkToTargetOption: 0
+      Text: How's it going brah?
+    - AlternateTexts: []
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents: []
+      ID: 1
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 614f6b72-58ea-4780-814f-c6b83fa0c1cc
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Frank shmank!  Hic!  He doesn't scare me.
+    - AlternateTexts: []
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1d8a0d8c-d4ca-45c8-bec5-2a238d8f1ed8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 2
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 491b6431-fc0c-49e8-af66-23d2665b879c
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'll keep an eye out.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: cea6be1e-9a7e-4ce3-8628-a301bc54b1e6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9a64d593-5a1e-42d0-86e7-120ec4e6eb39
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2d2996d5-0614-4e57-96bc-777a4c8845bb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 130
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: I've got a splitting headache brah.  I could really use some aspirin.  You
+        don't happen to know where I could find some do you?
+    - AlternateTexts: []
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 94a4cad7-3494-42a0-a15b-dc1fc45b1ce8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Get the Man Some Drugs!
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 3
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c126dcfd-718f-4824-90ae-de2609e2d151
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e4aa1074-8fe9-473a-9129-014dfb968f79
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8a63001f-3ccf-487d-a862-b40f1801240c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Get the Man Some Drugs!
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: c2dc93ee-30e3-4a76-9e7d-e7229fe7c0a0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 130
+        UseConditions: 0
+        Value: 2
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Whoa, you totally came through with the aspirin brah.  Thanks so much.  We're
+        like brah's for life now.  Let me know if you need anything.
+    - AlternateTexts: []
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents: []
+      ID: 4
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7095471c-bb63-4f7d-8092-591ca74c84d0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6eb631ee-40a7-46e2-b561-c137ee4c8d4c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Me and Maddy are cousins.  She'll never admit it though.  She pretends
+        she doesn't know me most of the time.  It's fine though.  I don't particularly
+        like her either, but our parents are close and she gets a lot of shit if she
+        excludes me.  Whatever, I'm just here for the free booze.
+    - AlternateTexts: []
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: Patrick
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 1
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 998b9293-9a84-427a-bffb-2d3bf7835c23
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 12
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 5
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 16a89b78-a98a-47ed-ba29-90f50eb9655d
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I think I'll pass on putting anything that's been down your pants in
+          my mouth.  Thanks though.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3113729b-d92d-474b-99b9-34fbf127811c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Easy brah.  Every time I see Frank, I hide it down the front of my pants!  I
+        was here before Frank got here, and when he showed up and started scooping
+        up all of the booze I threw this baby down my pants.  I'm halfway through
+        it and I'm feeling goooood.  Want a swig?
+    - AlternateTexts: []
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents: []
+      ID: 6
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: c349bdfc-4ef5-418d-b22f-af7d673fef0e
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: At least somebody's impressed...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6c559d3a-c10d-40b8-8246-7e96a13bca62
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: FlashScore
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Whoa bro!  I can see your thing!  It's bigger than my thing.  I need another
+        drink.
+    - AlternateTexts:
+      - Critera:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: DroppedWine
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Order: 0
+        Show: 0
+        Text: Beats me brah!  I was just minding my own business and he came at me.  I
+          found my wine though, so it's all good.
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents: []
+      ID: 7
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Beats me brah!  I was just minding my own business and he came at me.  I
+        lost my wine too, and he is guarding all the rest of the alcohol.  I think
+        I'm sobering up.  It sucks bigtime brah.
+    - AlternateTexts: []
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: Patrick
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 07fc258a-f5a9-4bb3-8467-94d28ed01d44
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: BeatUpPatrick
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 8
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 92846865-273c-469e-bbae-309cab08bb07
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Now you've done it Patrick.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: What the fuck?  You've been hiding booze from me?  I'm gonna beat the
+        shit out of you asshole!
+    - AlternateTexts: []
+      CharacterID: 93841242-9570-4bba-8bb0-9a762f10bc18
+      CloseEvents: []
+      ID: 9
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 51827b77-8175-4d02-9637-b8c1147113b2
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I don't know how I feel about this.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 1
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 216c4557-78ad-4971-9d63-cbb1ba634c9e
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Fuuuck dude, is it raining?  Wait, I'm not outside.  Whoa, that's trippy.  I
+        need another drink.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8d7b497f-4568-48e5-9c9d-17ec27cd6f62
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 7c6a6d68-a46a-4dc1-b586-b112c5b88cbe
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 3
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Let's Lower Some Inhibitions
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 10
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: daafef40-8f61-479b-881f-53229ca86fab
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I'm not sure that was exactly what I was supposed to do...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 5f9f664c-22ae-4471-a2e8-c87c0ad7ad5f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Player
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: cda77938-e4cb-4874-b089-172fa1e9a2b7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 20
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Fuuuuck yeah dude!  I'll take some wine!  Thanks buddy!  You're the best!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 97cacff2-f7bf-4e8a-81ce-78cfeeee1ba2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: LivingRoom
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 11
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 76dd1b13-28dc-40dd-b939-87a005199766
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Sure thing.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ba0bf171-9db0-4087-92f6-2246147a96cb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: No way brah!  Thanks for tipping me off to it!  Frank's got it all on
+        lockdown, and I need to keep my buzz on!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 23d38300-5b8c-4d4a-89c7-3f8d6e9f5480
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 574049de-6301-4d80-86f6-b8432cb225b9
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Phonegate
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 12
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 68e4a98b-6def-44fe-b0a6-227ddde278e8
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Fucking A.  It's always something.  Ok.  I'll see if I can find out
+          who has your phone.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 949e53f0-0e91-44c7-b749-ff6ab7b72cf9
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Totally, brah!  I just.  Uh.  Well I just can't remember where I put it.  My
+        memory is not so great when I've been drinking.  I usually give it to somebody
+        to hold for me when I start getting buzzed.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: fd12e301-7ae7-4714-b840-85b9e6e1b3b6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Brittney
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 13
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 5a32516c-7beb-4c11-b408-59e8bdd13108
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: You're the brah, Patrick.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 0e69342d-29ae-4196-90bc-e9fc36f94e8f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: No worries brah!  I'll go get it from her and then you can hold on to
+        it for me until I'm sober.  It'll definitely be before Tuesday.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2104b7a2-0aa8-4517-bc16-9f6633d10fe2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 14
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 14
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 708de9a0-29ad-4dda-b7ae-f65a6532b1c2
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Brittney
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7f359405-4e6d-46d6-a742-01b9e63f1ff0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Britney!  How's it going brah!  Hey can I get my phone back now?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2a1e1c29-b8dc-46ed-98f0-9b23a82a8e4b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 15
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 15
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 77cd74cc-0c6d-47ac-a4fa-cbdedc13c922
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Brittney
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 968ee662-49e2-4029-92b2-fe7f974e1f0b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Yah, but my main man brah needs it.  I think he needs to call his mom.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: DroppedWine
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: e1ffdc24-9f36-40d1-89aa-640b2f6dc2fe
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: Looks like I need to sober Patrick up.  First I need to get that wine
+          away from him, and then find a way to speed up getting it out of his system...
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: DroppedWine
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: d6e158fc-7a28-436b-97d7-964f38441143
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 1
+        Value: Looks like I need to sober Patrick up.  I already had Frank beat him
+          up and got that wine away from him.  Now I just need to find a way to speed
+          up getting it out of his system...
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 2d35687b-ea30-4552-bddb-4e7c7c491d9f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 700aed5e-9c81-4def-ade7-c7f5536a59ab
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Fuck Tuesday
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9ca4f2ac-bb05-49ee-9a69-e8437fa373de
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 1
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 16
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: db5d13a2-6303-45d6-b1e4-2e24a88a2496
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Is it just me or is everybody around me insane?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 1
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Hey brah!  Sorry, I tried to get my phone back from Brittney but she won't
+        give it to me unless I'm sober.  You'll have to wait till Tuesday.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 17
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: fe212092-e22a-404c-a768-98a336848d32
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Right, what was I thinking?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ba5955c1-34c8-4875-a2e3-4261ae0d65d2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: No thanks brah!  I've got wine!  Besides, if I drink coffee I might sober
+        up.  That would totally suck brah.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 18
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 79dfd088-6ff8-408f-b3c6-5c5fa3be2540
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Yeah we wouldn't want that now, would we?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 975ef5f2-5829-4005-bff0-279e96fb7615
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: No way brah.  It's bad enough I lost my wine.  If I drink that I'll totally
+        sober up.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 19
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 252b8967-6160-437d-bf66-fe4bfbe5984e
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: That was disturbingly easy...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa, why didn't you tell me it was Irish coffee brah!  Hook a brah up!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 20
+        Id: 7941cd7f-ca42-47f7-bb89-b6fbac6f9a2a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 10
+        UseConditions: 0
+        Value: I guess now I just wait...
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6e60b4d8-cf85-4647-90ad-022f12a44599
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: SoberingUp
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 1
+        GameMessageType: 0
+        Id: a1ad51ca-9c91-4009-9b8a-ae84849550f0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: SoberUp
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 20
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 4ca3e043-641c-41b6-8ee1-57c4c5e62a99
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Anytime Patrick!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 1d27516b-83dd-4305-89a1-067fbcf5e533
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Thanks brah!  This will totally help to keep my buzz going!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 1
+        GameMessageType: 0
+        Id: a31c0933-39c4-44bd-828e-e651a9080d07
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: SoberUp
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 21
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: eb8eb9b8-0ea2-4de2-adda-c53c5971564f
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 1
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Oops.  Sorry Patrick.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: bc325279-4ccf-4dde-8f6e-d8ff9eb40f9b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Hey brah, are you sure that was an Irish coffee?  My buzz is totally gone.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 22
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 00da44b1-cbeb-4ba5-9af1-fcbd904da9d5
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Sure, why not?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa, this coffee is super cold brah.  Could you heat it up for me?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a747376f-35c7-43ca-9bdb-e9f2e58f14eb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Brittney
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 68da5309-9e09-4f17-9d9d-333a8bfd006e
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 700aed5e-9c81-4def-ade7-c7f5536a59ab
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Fuck Tuesday
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 23
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: d906e79b-2365-4399-9add-e666f2037f74
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Finally!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 95a48a0c-fd1d-4d28-9f53-2e3bfd687ce3
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Oh yeah sure thing brah!  Let me go grab it from her.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Brittney
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e532c756-170c-4c1e-bc26-b24371ceca97
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 16
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 24
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: b25eccfc-851f-4268-80b7-7efaf1a32b95
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Brittney
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7b9da8d0-b0a7-4230-8f3f-a2d3dd0ee7ff
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Brittney!  Brah!  I'm totally sober!  Can I have my phone back?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 25
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: def0b66b-a79a-45e2-afb8-b3cbfc6617cd
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Totally.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 908e4f14-7cee-4626-8e45-035a2af1ae2a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Sorry brah!  I don't think I know you well enough to trust you with it.  Nothing
+        personal, just a brah's gotta look out for himself, you know?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 26
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: ecfd1225-716a-4446-af30-9587d2e9d8d0
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: What are brahs for?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa!  Thanks brah!  You totally found my wine!  I must have dropped this
+        when Frank hit me.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 049dfb66-1d6d-4260-b293-b3e5ade028ca
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 0
+        Value: Player
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 27
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 11c99c3c-bc3d-451f-85d6-d69a7b1612c9
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: (Continue)
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Brittney
+      StartCriteria: []
+      StartEvents: []
+      Text: Thanks brah!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4163e9d5-644c-4fce-b2c7-b79987003ef5
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Phone3
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 1
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6a0490b0-c2ba-44ea-ae9d-83af82549f2b
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Phone2
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Phone3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 8458e283-5d56-4563-81d4-167bfd31fdd6
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 574049de-6301-4d80-86f6-b8432cb225b9
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 2
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 80
+        UseConditions: 0
+        Value: Phonegate
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 28
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 428be970-527a-4555-bb08-b872fb194355
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: You got it, Patrick.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Hey brah!  I totally got my phone from Brittney.  Here you go.  You can
+        use it now.  Just promise not to give it back to me unless I seem sober, OK?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 29
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: No way brah.  I don't touch the stuff.  It messes with my buzz.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 30
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: a9fc96bc-9a4c-4315-9c23-f0bce2991bbd
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: The shit I do for you Patrick... Fuck ok.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa.  That's a totally awesome idea brah.  If it was two on one, I don't
+        think Frank would stand a chance.  But I can't fight sober.  I'll help you
+        if you help me get my buzz back on.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 31
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: d6bc83ca-ef66-49bd-b283-996b56d1249a
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Of course.  Silly me...
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa, are you giving this to me?  That's a beautiful flask brah, but I
+        can't accept this... I mean it's empty.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9132ab14-3788-48ea-857b-1f3c392eaa11
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Flask
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Frank
+        Character2: Patrick
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 1
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 95c325b6-2588-465c-bab5-23e84621d68c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 10
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 32
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 2fa42d92-1f72-4a0b-bccf-0ce99e0e97aa
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I knew I could count on you Patrick!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 089297f0-2c49-4198-8398-9c080421b72c
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Text: Whoa no way brah!  I'll take that, and I'll totally help you out with
+        Frank.  Just let me know when you need me.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Derek
+        Character2: Frank
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 332654bf-498e-4677-aac5-9c9a72dc5abf
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Frank
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 645f816f-584b-4cba-bcc1-8b44b27e3824
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 33
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 779baef6-a365-49fb-bc1e-4a8528da3dcf
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: Yeah he totally stole your wine!  Go get him buddy!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: You got it brah!  I can't wait to get him back for stealing my wine!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 34
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa brah.  It's not a good idea to have that much to drink unless you're
+        a trained professional like myself...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 35
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa brah!  You have two penises!  Oh wait, I'm just drunk.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 36
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Paaaaaaaarty!
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 37
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: e04c0ea6-9b2f-4188-80bb-62192f4e21e4
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: What.  The.  Fuck?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Totally brah!  A brah is always prepared.  You never know when you might
+        have to get down and dirty, know what I mean?  Oh wait, did you say a condom?  Nah,
+        I don't have any of those brah.  Sorry.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 38
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 0ed2aa04-b209-44ca-a97e-5325fe46734a
+        AlwaysDisplay: 0
+        Next: 39
+        Order: -1
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: It's for Derek to take his shirt off.
+      - Id: 997ae977-fd8f-4d87-b520-022df56acd11
+        AlwaysDisplay: 0
+        Next: 40
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: It's one of those surprise petitions.  We mail you the results and you
+          find out what you supported.
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa, I love petitions!  Wait, what's it for?  You have to be careful
+        what you put your John Hancock on these days...
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 39
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 94f1865e-81d4-4888-9344-d0121fc38fa9
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I guess wouldn't want that now would we?
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Sorry brah.  I mean I heard he had french fry nipples, but I bet he still
+        looks damn good without a shirt.  It'll ruin my chances with the ladies.
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6ec994a0-725d-450a-b8c6-5267539519bd
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Signatures
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Amy
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a795e5d5-387a-4653-b307-d759c844b24a
+        IntimacyOption: 0
+        ItemAction: 3
+        Key: Petition
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: PlaySoundEffect1
+        Value2: 
+        WalkToTargetOption: 0
+      ID: 40
+      Important: 0
+      LookAtListener: 1
+      Responses:
+      - Id: 9aa43264-8f51-4eaa-b202-f1f35a29b668
+        AlwaysDisplay: 0
+        Next: 0
+        Order: 0
+        ResponseCriteria: []
+        ResponseEvents: []
+        ResponseRoutes: []
+        Selected: 0
+        Show: 0
+        ShowResponseCriteria: 0
+        ShowResponseEvents: 0
+        ShowResponseRoutes: 0
+        TestingCriteraOverride: 0
+        Text: I totally get it brah.  Thanks!
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 0
+      ShowGlobalResponses: 0
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: Whoa!  The only thing I love more than petitions are surprises!  My two
+        favorite things!  How could I say no brah?
+    - AlternateTexts: []
+      CharacterID: 
+      CloseEvents: []
+      ID: 41
+      Important: 0
+      LookAtListener: 1
+      Responses: []
+      ShowAcceptedItems: 0
+      ShowAlternateTexts: 0
+      ShowCloseValueAdjustments: 0
+      ShowCritera: 0
+      ShowGlobalGoodByeResponses: 1
+      ShowGlobalResponses: 1
+      Shown: 0
+      ShowResponses: 0
+      ShowStartValueAdjustments: 0
+      SpeakingToCharacterName: Player
+      StartCriteria: []
+      StartEvents: []
+      Text: No way brah!  Tidy Whities for me all the way!
+    GlobalGoodbyeResponses:
+    - Id: aaf6470c-6c4d-4d2a-a487-6800491682f9
+      AlwaysDisplay: 0
+      Next: 0
+      Order: 0
+      ResponseCriteria: []
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 1
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: See you around Patrick.
+    GlobalResponses:
+    - Id: ba7a85ec-7dd5-4ebf-bbfa-facbcb800a9c
+      AlwaysDisplay: 0
+      Next: 1
+      Order: 1
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Frank
+        Character2: Patrick
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      - BoolValue: 1
+        Character: Patrick
+        Character2: Patrick
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: You should watch out for Frank.
+    - Id: 7abeecdb-4093-49c5-b80b-1f26ffa6c9d7
+      AlwaysDisplay: 0
+      Next: 4
+      Order: 1
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Madison
+        Character2: Patrick
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      - BoolValue: 1
+        Character: Patrick
+        Character2: Patrick
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: So how do you know Madison?
+    - Id: afe667f1-6eaf-4817-a2c0-06438118ee6b
+      AlwaysDisplay: 0
+      Next: 5
+      Order: 1
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: Patrick
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: How the hell do you even have a bottle of wine with Frank around?
+    - Id: bbe69817-aa9a-4fd1-ae70-17b934b0de58
+      AlwaysDisplay: 0
+      Next: 7
+      Order: 1
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: Patrick
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 20
+        ItemComparison: 0
+        Key: KnockOutCount
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Man, I saw that Frank gave you a beatdown.  What's up with that?
+    - Id: ed0fd5b3-76d4-4cad-a05d-551894b9e22c
+      AlwaysDisplay: 0
+      Next: 2
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: What can I do to help?
+    - Id: b6f2e33d-cd4d-428e-a595-49197396fce2
+      AlwaysDisplay: 1
+      Next: 11
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey I saw some booze under the sofa in the living room.
+    - Id: d8414893-b492-4b35-b54a-e19594851d94
+      AlwaysDisplay: 0
+      Next: 12
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: About that favor you owe me.  Can I use your cell phone for a minute?
+    - Id: ae91da60-2dc0-4525-97d9-4543f908de70
+      AlwaysDisplay: 1
+      Next: 13
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 13
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 14
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Looks like you left your phone with Brittney, but she won't give it to
+        me.
+    - Id: a6c0de9c-51c1-4f6f-ad2a-5aa5effa9869
+      AlwaysDisplay: 0
+      Next: 19
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 18
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: I guess I'll just give this Irish coffee to somebody else then?
+    - Id: 2e3accf5-ee24-4ee9-9f35-c8056953fcab
+      AlwaysDisplay: 1
+      Next: 23
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 21
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 24
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey since you're sober, do you think you can get your phone back from
+        Brittney now?
+    - Id: cbbd3db2-b3b8-4144-882b-08dc0583740f
+      AlwaysDisplay: 0
+      Next: 25
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 1
+        EquationValue: 0
+        ItemComparison: 0
+        Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 2
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey dude, can I borrow your phone?
+    - Id: 0731278f-b7fc-4b45-82d6-0316635e3825
+      AlwaysDisplay: 0
+      Next: 29
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 63491b66-76b0-4b8e-9b86-1ba62698f1af
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Frank
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey do you know where I can get some pot?
+    - Id: 63e24a9a-2e67-4aab-8346-f5a8912e7e85
+      AlwaysDisplay: 0
+      Next: 30
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 28
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Patrick!  You're just the person to help Derek beat up Frank!
+    - Id: d76e8a32-8745-4733-bd18-f1c6c0071a18
+      AlwaysDisplay: 0
+      Next: 33
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 29
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Ok Derek's ready!  Go fuck Frank up!
+    - Id: 3fec9481-68e2-46a4-9916-a75ce446d71e
+      AlwaysDisplay: 0
+      Next: 37
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: SLevel
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 18
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 30
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      - BoolValue: 1
+        Character: Amy
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 19
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey Patrick, brah, you got a condom I can borrow?
+    - Id: 95cf076f-cd28-48e0-adc4-84c193eee633
+      AlwaysDisplay: 0
+      Next: 38
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 10
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: Petition
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 1
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey Patrick, would you be interested in signing my petition?
+    - Id: 5062e15f-e0c5-459d-9e39-3e41ee423310
+      AlwaysDisplay: 0
+      Next: 41
+      Order: 0
+      ResponseCriteria:
+      - BoolValue: 1
+        Character: Derek
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 45
+      - BoolValue: 1
+        Character: Brittney
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 26
+      ResponseEvents: []
+      ResponseRoutes: []
+      Selected: 0
+      Show: 0
+      ShowResponseCriteria: 0
+      ShowResponseEvents: 0
+      ShowResponseRoutes: 0
+      TestingCriteraOverride: 0
+      Text: Hey Patrick you wouldn't happen to be wearing American flag underwear,
+        would you?
+    HousePartyVersion: 0.8.3
+    LockCharacterSelection: 1
+    LockStoryName: 1
+    Personality:
+      Values:
+      - Type: 0
+        Value: 34
+      - Type: 1
+        Value: 84
+      - Type: 2
+        Value: -62
+      - Type: 3
+        Value: -76
+      - Type: 4
+        Value: -82
+      - Type: 5
+        Value: -100
+      - Type: 6
+        Value: 100
+      - Type: 7
+        Value: -88
+      - Type: 8
+        Value: 67
+      - Type: 9
+        Value: 70
+      - Type: 10
+        Value: -29
+      - Type: 11
+        Value: -85
+      - Type: 12
+        Value: -72
+      - Type: 13
+        Value: -49
+      - Type: 14
+        Value: -50
+      - Type: 15
+        Value: 22
+      - Type: 16
+        Value: 42
+    QuestImageLibrary:
+      Folder: QuestImages
+      Images:
+      - None
+      - Ashley
+      - AshleyClothedEmbarrassed
+      - AshleyHappy
+      - AshleyNakedEmbarrassed
+      - AshleyPose1
+      - Brittney
+      - BrittneySad
+      - BrittneySurprised
+      - Frank
+      - Katherine
+      - KatherineHandsOnHips
+      - KatherineUpset
+      - Madison
+      - MadisonHappy
+      - MadisonSexy
+      - MadisonWorried
+      - Patrick
+      - PatrickDrunk
+      - PatrickSad
+      - PhoneInHand
+      - Rachael
+      - RachaelPensive
+      - RachaelShy
+      - Stephanie
+      - StephaniePose1
+      - StephaniePose2
+      - StephaniePose3
+      - StephaniePose4
+      - StephaniePose5
+      - iPhone
+      - iPhoneKeyPad
+      - Amy
+      - Derek
+      - VickieSexy
+      - Vickie
+      FileCount: 70
+    Quests:
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Patrick's got a splitting headache.  Maybe you can find him some painkillers.
+      Icon: 70
+      ID: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+      Name: Get the Man Some Drugs!
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/PatrickSad
+      QuestProgressImage: QuestImages/PatrickSad
+      QuestStartImage: QuestImages/PatrickSad
+      QuestFailedImage: QuestImages/PatrickSad
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Patrick always leaves his phone with somebody when he's drunk for safe-keeping.  Looks
+        like you'll have to investigate who he may have left it with if you want to
+        get his phone from him.
+      Icon: 60
+      ID: 574049de-6301-4d80-86f6-b8432cb225b9
+      Name: Phonegate
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/PatrickDrunk
+      QuestProgressImage: QuestImages/PatrickDrunk
+      QuestStartImage: QuestImages/PatrickDrunk
+      QuestFailedImage: QuestImages/PatrickDrunk
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    - CompleteAt: 1
+      CurrentValue: 0
+      Details: Patrick won't be sober until Tuesday, but you need his phone tonight.  You'll
+        have to figure out a way to speed up the process.  For starters, you may want
+        to seperate him from that bottle of wine.
+      Icon: 53
+      ID: 700aed5e-9c81-4def-ade7-c7f5536a59ab
+      Name: Fuck Tuesday
+      ObtainOnStart: 0
+      QuestCompleteImage: QuestImages/PatrickDrunk
+      QuestProgressImage: QuestImages/PatrickDrunk
+      QuestStartImage: QuestImages/PatrickDrunk
+      QuestFailedImage: QuestImages/PatrickDrunk
+      SeenByPlayer: 0
+      ShowProgress: 0
+      Status: 0
+    Reactions:
+    - CharacterToReactTo: Patrick
+      Critera:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 33
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Katherine
+        CombatOption: 30
+        Criteria: []
+        Delay: 45
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: cf46b5ae-a951-4ff1-9d97-d501e82681c5
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 15
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 10
+          Key: Merlot
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 48
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e3642a82-341b-447f-99c4-d0aa3e614a42
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 1
+        Value: Merlot
+        Value2: 
+        WalkToTargetOption: 1
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7608fde3-da9f-46e9-b8f9-996210231a50
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: KnockOutCount
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 21
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Patrick
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 1
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 72183ed8-ee61-4630-ba25-d868e0fbaaa1
+        IntimacyOption: 0
+        ItemAction: 1
+        Key: Merlot
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 4
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 1
+        GameMessageType: 0
+        Id: f573ae57-d42e-4b1e-9f82-fe601b5be3c0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 0
+        Value: SoberUp
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 900
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 7f63b73d-c8b3-4665-aedc-a9a2be8144e7
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Phone3
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6b9ff3ce-8b48-43c0-bfbd-f60ea6f16d4e
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 2
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: HotTubSeat1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 63621702-bb09-43b5-b7df-d1185667dfaf
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 2
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: HotTubSeat2
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4433e3b5-1be5-48b0-97e0-d1920cb73bfb
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 2
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: HotTubSeat3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: d98d64b1-f6f8-4691-aa64-0606ebe85e8d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 2
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 110
+        UseConditions: 0
+        Value: HotTubSeat4
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: Player
+        CompareType: 20
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e023f8d0-336f-4dfa-b5dd-027dbc0d37b1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 50
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f75f1593-249c-4551-a3eb-2aa2feb80ff8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 30
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 70
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 60
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Patrick
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e9aec3c9-7184-46dd-91f9-1540548e5ca8
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 6
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 50
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Patrick
+        CombatOption: 0
+        Criteria: []
+        Delay: 2
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f1bf55bd-c550-4b01-b0ba-712e71ab456d
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 9
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 70
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Patrick
+      Critera:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: DroppedWine
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f6a80e5c-86b3-492c-be0c-6e5c9729bfdf
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Merlot
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 68139ec8-d5d6-4fb8-a0c0-6aec4170cf23
+        IntimacyOption: 0
+        ItemAction: 1
+        Key: Merlot
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e9baf1c9-0a4f-4e58-aac0-9d57f8ad33bc
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: DroppedWine
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: OnPatrickAttacked
+      ShowInInspector: 0
+      Type: 20
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Frank
+      Critera:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: DroppedWine
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 15
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 20
+        Key: Merlot
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b6f0d865-1e5c-4558-82eb-4e5d4fd2cdf4
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Merlot
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: OnFrankEntersVision
+      ShowInInspector: 0
+      Type: 11
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Frank
+      Critera:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: DroppedWine
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 0
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 15
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 20
+        Key: Merlot
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 3be3f811-c8e7-44d6-a681-c7ce26cd6628
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Merlot
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: OnFrankExitsVision
+      ShowInInspector: 0
+      Type: 10
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Patrick
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 891d5384-ba7e-4a4f-95ec-e2cdaae0a807
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: KnockOutCount
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 21
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Patrick
+      Critera:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 574049de-6301-4d80-86f6-b8432cb225b9
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 14
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 13
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ff95104c-dabf-4570-8211-246167bde9db
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 14
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 23
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 24
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f7bb8997-b02c-475c-ba95-9df9f85cafa0
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 24
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: Phonegate Brittney Dialogues
+      ShowInInspector: 0
+      Type: 15
+      UpdateIteration: 0
+      Value: Brittney
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Patrick
+      Critera:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: 574049de-6301-4d80-86f6-b8432cb225b9
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Brittney
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 15
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 16
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: e981dc76-9ba2-4cd3-8fbd-39460c1c424a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 16
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: SoberingUp
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 0
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 2
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 21
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 4ef65286-79e6-483b-96b2-ac74b0f37858
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 21
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 27
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 28
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 528d592b-8619-4153-9d93-99aabbe1bd55
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 28
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: Phonegate Player Dialogues
+      ShowInInspector: 0
+      Type: 15
+      UpdateIteration: 0
+      Value: Player
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: SoberingUp
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 0
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 21
+      CurrentIteration: 0.18
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 20
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 0
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 25e3d634-5282-4c0b-899b-686b3d4723c2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 10
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 30
+        UseConditions: 1
+        Value: -1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 0
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: db6aee3c-ca41-414a-a19c-5a31563bce3e
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 100
+        UseConditions: 1
+        Value: Player
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 50
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 10
+          Value: 0
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 1
+        GameMessageType: 0
+        Id: ff935c8f-0549-4604-b448-7920a2ea7617
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 1
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 5
+        UseConditions: 1
+        Value: SoberUp
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: SoberUp
+      ShowInInspector: 0
+      Type: 80
+      UpdateIteration: 10
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Patrick
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 1
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b93d9e0d-ff22-48a2-a471-38f219cf5c64
+        IntimacyOption: 0
+        ItemAction: 1
+        Key: Merlot
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: yo yo yo
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: abf91b19-0ada-4af3-83dc-644580f1932f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: DroppedWine
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 15
+      UpdateIteration: 0
+      Value: Merlot
+      WalkToTargetOption: 1
+    - CharacterToReactTo: Patrick
+      Critera:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 33
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Amy
+        CombatOption: 30
+        Criteria: []
+        Delay: 10
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: a703c701-7df9-4003-b456-7329b00e83c9
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Frank
+        CombatOption: 0
+        Criteria: []
+        Delay: 11
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: ee608495-bed9-455d-b72f-aa62d9a6b32f
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 140
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 21
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Patrick
+      Critera:
+      - BoolValue: 1
+        Character: '#'
+        Character2: '#'
+        CompareType: 900
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: '#'
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: f2c0ee0b-daf7-4c45-8853-63e8d7b17308
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 0
+        Value: Kitchen
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: fa242bdb-1c3c-4d71-8d7a-6c71daed4852
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 0
+        Value: DiningRoom
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 44b2febb-a4db-4243-bdf3-d0ca5506b313
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: Outside
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 9f9a5ee1-2183-4ebc-a2fc-d6e0b6adac47
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 0
+        Value: LivingRoom
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 62e3ca84-61ff-49da-9860-54b2f0c70843
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: Kitchen
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: b67de4b1-1618-41fd-8bbc-4388788bc155
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 0
+        Value: SpareRoom
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 6b505f05-34ae-487a-a90b-d380cdeb4e54
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: SofaRight
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: '#'
+          Character2: '#'
+          CompareType: 160
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: '#'
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: '#'
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 102b86a0-36fe-4a51-a2ce-711db51b44a2
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 210
+        UseConditions: 1
+        Value: LawnChair3
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 1
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 3
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 961f3364-20be-43fa-aeb7-73d8e89bfb0a
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 35
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 51
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    - CharacterToReactTo: Player
+      Critera: []
+      CurrentIteration: 0
+      Enabled: 1
+      Events:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 976a046f-a1e0-46f3-8001-d4e9072491a1
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 36
+        Value2: 
+        WalkToTargetOption: 0
+      Key: 
+      Name: 
+      ShowInInspector: 0
+      Type: 52
+      UpdateIteration: 0
+      Value: 
+      WalkToTargetOption: 0
+    StoryItems:
+    - Critera:
+      - BoolValue: 1
+        Character: Patrick
+        Character2: Patrick
+        CompareType: 100
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: bda26daa-5444-4f5a-b7e4-40e50ae2a7d6
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ItemName: Painkillers
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: Patrick
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 3
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Painkillers
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents: []
+      ShowInEditor: 0
+    - Critera: []
+      ItemName: Chardonnay
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 10
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Chardonnay
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents: []
+      ShowInEditor: 0
+    - Critera:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: CoffeeHot
+        Key2: '#'
+        Order: 1
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: DroppedWine
+        Key2: '#'
+        Order: 2
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      - BoolValue: 1
+        Character: Patrick
+        Character2: '#'
+        CompareType: 40
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: '#'
+        Key2: '#'
+        Order: 3
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 19
+      ItemName: Coffee
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 20
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 120
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: SoberingUp
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 10
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 1
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Coffee
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Coffee
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 0
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Coffee
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: DroppedWine
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 17
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 0
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: CoffeeHot
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 19
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: DroppedWine
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 1
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 18
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria:
+        - BoolValue: 1
+          Character: Player
+          Character2: '#'
+          CompareType: 0
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: CoffeeHot
+          Key2: '#'
+          Order: 0
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 0
+        - BoolValue: 1
+          Character: Patrick
+          Character2: '#'
+          CompareType: 40
+          DialogueStatus: 10
+          DoorOptions: 0
+          EqualsValue: 0
+          EquationValue: 0
+          ItemComparison: 0
+          Key: DroppedWine
+          Key2: '#'
+          Order: 1
+          PlayerInventoryOption: 0
+          PoseOption: 0
+          SocialStatus: 0
+          Value: 19
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 1
+        Value: 22
+        Value2: 
+        WalkToTargetOption: 0
+      ShowInEditor: 0
+    - Critera: []
+      ItemName: Merlot
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 26
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 1
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Player
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 160
+        UseConditions: 0
+        Value: Merlot
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Ashley
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: Merlot
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 1
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 1
+        Key: Merlot
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 190
+        UseConditions: 0
+        Value: 
+        Value2: 
+        WalkToTargetOption: 0
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: DroppedWine
+        LookAtTarget: 0
+        ModificationType: 0
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 0
+        UseConditions: 0
+        Value: 0
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents: []
+      ShowInEditor: 0
+    - Critera:
+      - BoolValue: 1
+        Character: Player
+        Character2: '#'
+        CompareType: 0
+        DialogueStatus: 10
+        DoorOptions: 0
+        EqualsValue: 0
+        EquationValue: 0
+        ItemComparison: 0
+        Key: FilledFlask
+        Key2: '#'
+        Order: 0
+        PlayerInventoryOption: 0
+        PoseOption: 0
+        SocialStatus: 0
+        Value: 1
+      ItemName: Flask
+      OnAcceptEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 32
+        Value2: 
+        WalkToTargetOption: 0
+      OnRefuseEvents:
+      - AddRemoveAction: 0
+        BodyPartValue: 0
+        BooleanValue: 1
+        Character: Patrick
+        Character2: 
+        CombatOption: 0
+        Criteria: []
+        Delay: 0
+        DialogueAction: 0
+        DisplayInEditor: 0
+        Enabled: 1
+        EventTriggerOption: 0
+        GameMessageType: 0
+        Id: 
+        IntimacyOption: 0
+        ItemAction: 0
+        Key: 
+        LookAtTarget: 0
+        ModificationType: 1
+        OnOff: 0
+        OpenClose: 0
+        PlayerOption: 0
+        QuestAction: 0
+        RelationshipType: 0
+        RoamingOption: 0
+        SendEventOption: 0
+        SocialModificationType: 0
+        SortOrder: 0
+        StartDelayTime: 0
+        TraitValue: 0
+        Type: 120
+        UseConditions: 0
+        Value: 31
+        Value2: 
+        WalkToTargetOption: 0
+      ShowInEditor: 0
+    StoryName: Woe's Bash 0.8.8
+    WrittenWithVersion: 0.5.0
