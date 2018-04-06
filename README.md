@@ -11,10 +11,13 @@ I started to play this game on version 0.8.8, so that will be the first version 
 Beta started on 2018/03/30.
 #### Trivia
 Madison Blackmail quest seems to be removed. Even though you did send her nude photos to yourself, you can't talk to her about the photos.  
+Madison and Ashley's prank has been rewritten
 ## Version 0.8.8
 #### Trivia
 Madison Blackmail quest seems to be removed. Even though you did send her nude photos to yourself, you can't talk to her about the photos.  
-## Version 0.8.7
+## Version 0.8.7  
+#### Trivia
+Madison Blackmail quest is there.
 
 This branch includes all the custom stories I found on the Eek! Games forum. I do not own them nor make them.
 
