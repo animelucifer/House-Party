@@ -10,6 +10,9 @@ Btw, censorship is removed.
 2. Date Night With Brittney
 3. A Vickie Vixen Valentine
 
+### Trivia
+Madison Blackmail quest seems to be removed on the update of 2018/04/01. Even though you did send her nude photos to yourself, you can't talk to her about the photos.
+
 0.9.2  
   (Beta 3/30/18)  
   Reworked Lighting  
