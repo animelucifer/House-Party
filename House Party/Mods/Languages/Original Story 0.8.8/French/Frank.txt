@@ -1,0 +1,150 @@
+[General]
+Name|Frank
+
+[Dialogues]
+0|Tout se passe pour le mieux ? Tu restes loin de l'alcool, j'espère ?
+0.1|Comment va ? Attends, tu n'es pas ivre, j'espère ?
+1|Tu es un homme mort, connard !
+2|Parfait. Je suis en mode croisade contre l'ivresse : je ne supporte pas qu'on puisse se soûler pendant une soirée. C'est mon devoir civique de casser la gueule de n'importe qui que je vois avec un verre. Mon action contribue à rendre ce monde meilleur.
+3|Elle est trop craquante. Je donnerais mon testicule gauche juste pour passer une seule nuit avec elle.
+4|J'ai regroupé tout ce que j'ai pu trouver dans ce meuble. Comme ça c'est plus facile à surveiller pour moi. J'attends juste que quelqu'un daigne tenter quelque chose.
+5|Je vais lui casser la gueule !
+6|Hum. N'importe qui aurait pu prendre cette photo. Ca ne prouve rien. En fait, apporte-moi une photo de Katherine les seins à l'air et on en reparlera.
+7|Waouh. Elle est vraiment très belle. Je veux un engagement total si je dois briser un de mes principes. Tu sais quoi ? Si tu me ramène une photo d'elle entièrement nue alors on pourra faire affaire.
+8|Putain de merde ! Je ne pensais pas que tu y arriverais ! Et elle est super craquante. Par contre, désolé mais je ne peux pas te donner d'alcool. Je plaisantais tout à l'heure. Si je fais une exception pour toi, je devrais en faire une pour tout le monde. Je suis sûr que tu me comprends.
+9|Range ça, merde ! C'est quoi ton problème ?
+10|Je t'ai entendu, connard ! Tu es un homme mort !
+11|Hé, connard ! Je t'ai vu avec cette bouteille ! Tu es un homme mort !
+12|C'est quoi ce bordel ? Tu m'as menti tout ce temps ? Je vais te casser la gueule !
+13|Oh non, tu n'as pas osé faire ça. Qu'est-ce qui ne va pas chez toi ? Tu vas prendre super cher !
+14|Nan, je sais bien que je n'ai aucune chance avec elle. Mais... Elle semble t'apprécier. Peut-être que tu pourrais m'aider en fin de compte. Si tu arrives à prendre une photo d'elle avec ses seins à l'air pour moi, alors je regarderai peut-être ailleurs pendant que tu piques une bouteille d'alcool.
+15|Ben merde alors ! Je n'arrive pas à croire que tu ais réussi ! Ok, tu peux prendre une bouteille d'alcool de ton choix parmi celles du bar, mais seulement une. Et accessoirement, je garde cet appareil photo.
+16|C'est quoi ce bordel ? Je ne suis pas intéressé par tes photos artistiques. Prends une photo de Katherine les seins à l'air si tu veux de l'alcool. Je me suis bien fait comprendre ?
+17|Merde alors. J'ai dû la manquer lorsque j'ai rassemblé tout l'alcool. Je suis content que tu partages mes convictions. Je vais te débarrasser de ça !
+17.1|Merde, encore une autre ? Tu es vraiment un atout majeur pour ma cause, et je note ta loyauté envers moi.
+17.2|Whoa ! Où as-tu trouvé ça ? Merci de me l'avoir apporté. Je note ta participation dans ma croisade.
+
+17.3|Merde alors, j'ai dû la manquer. Merci de m'avoir prévenu. J'apprécie vraiment.
+18|Ouais, je pense que c'est acceptable, mais ne dit pas que je n'ai rien fait pour toi.
+19|Ecoute. Je ne peux pas risquer de laisser ce thermos en accès libre s'il y a la moindre chance qu'il contienne de l'alcool. Mais, comme l'odeur de l'alcool me rend malade, je ne peux pas l'inspecter moi-même.
+20|Le prends pas mal, mais je ne te connais pas suffisamment pour ça. Si tu arrives à me prouver que je peux te faire confiance, on en rediscutera.
+21|Tu m'as prouvé que je pouvais te faire confiance. Je suis sûr que tu prendras la bonne décision. Inspecte ce thermos et si aucune odeur d'alcool n'en émane, alors tu pourras le lui rendre.
+22|J'ose espérer que tu ne me racontes pas des bobards.
+23|Tu as fait le bon choix aujourd'hui. Ne l'oublie jamais. Je garde le thermos avec moi, mais tu as gagné ma confiance. N'hésite pas à me demander si tu as besoin de quoi que ce soit.
+24|Tu m'as déjà prouvé ta loyauté et je suis convaincu que tu ne me mentiras pas. De toute façon, si jamais je découvre que tu m'as menti, je t'exploserais la mâchoire pour me faire un collier avec tes dents. Enfin bref, tu peux prendre le thermos.
+25|Nan, désolé. Même si je n'arrive pas toujours à le blairer, j'espère quand même qu'il arrivera à le retrouver.
+25.1|Cette face de cul ? Même si je savais où était son téléphone, je ne te le dirais pas. Je préfèrerais exploser son téléphone en mille morceaux et les jeter dans la rivière.
+26|Mais bien sûr que je peux te dépanner. Attends de gouter ma came. C'est la meilleure du quartier.
+27|Au début j'étais aussi en croisade contre la fumette, mais ce n'étais pas bon pour les affaires : qui veux acheter de la marchandise à quelqu'un qui refuse de la tester ? Bref, maintenant je ne fais la chasse qu'aux poivrots.
+28|Tu as de la chance. Je n'en ai presque plus. C'est 50 balles, non négociable.
+29|C'est un plaisir de faire affaire avec toi. Tous mes produits sont non remboursables. Si tu as une remarque vis-à-vis de la qualité de mes produits, je serais heureux de te mettre en relation avec mon directeur des ressources humaines, mon poing. Maintenant, casse-toi de là avant que l'on s'aperçoive que tu enfreins la loi.
+30|Bon, écoute-moi bien : j'ai été plus qu'indulgent avec toi jusqu'à présent, mais c'est terminé. Désolé, mais je ne peux plus t'accorder la moindre faveur.
+31|Tu veux parler du petit merdeux qui s'est fait chopper avec ma came ? Comment ose-t-il me balancer ? Il ferait mieux de la boucler.
+32|Ecoute, ce n'est pas parce que ton frère est suffisamment idiot pour se faire chopper avec ma came que c'est de ma faute. Faut quand même être sacrément con pour se droguer en plein milieu de l'aprèm dans un Gras-FC !
+33|Ca me fait énormément de peine de devoir te faire ça, mais il faut que je te dessaoule à ma manière : avec mes poings, dans ta gueule.
+34|Je commence sérieusement en avoir plein le dos de tes conneries. Tu ferais mieux de t'éloigner tout de suite...
+35|C'est quoi ton problème ? Je vais avoir des visions d'horreurs pendant des mois à cause de ça !
+36|Ecoute, je sais que je suis un beau gosse. Et je ne pas nier la façon dont tu me tournes autour depuis que tu es arrivé. Mais si c'est ta façon de me draguer, je dois te dire que je préfère une approche plus directe.
+37|Ecoute, si tu ne peux pas être honnête avec toi-même, alors tu ne seras jamais capable d'être honnête avec quelqu'un d'autre. Reviens me voir quand tu seras prêt à admettre tes sentiments pour moi, qu'on puisse enfin en discuter.
+38|Quelle plaie ! Voilà ce qu'on va faire. Nous allons faire une opération d'infiltration. Voici le topo : part devant, je te suivrais dans une minute. Essaye de convaincre tout le monde de venir se confesser s'ils ont de l'alcool sur eux quand je passe les voir. Je m'occuperais personnellement de la suite. Prudence est mère de Sureté. Je ne peux pas décemment laisser de l'alcool dans les mains des personnes présentes ici. Qui sait ce qu'ils pourraient faire...
+39|Je suppose que je t'ai mal jugé. C'était une erreur de bonne foi. Je vois maintenant que j'ai eu tort. Je ne peux pas nier ce que je viens de voir de mes propres yeux. Voici le préservatif que tu voulais. J'en ai toujours une bonne quantité sur moi.
+40|Enfin, on arrive à quelque chose. Ecoute-moi bien. Je ressens la même chose que toi. Mais je suis désolé. Nous ne pouvons pas être ensemble. Ma vie est vraiment trop compliquée. Je veux dire, tu n'as pas la moindre idée du nombre de soirée auquel je dois assister par semaine juste pour m'assurer que des gens ne finissent pas en état d'ébriété dans mon quartier.
+41|Mais je comprends très bien ce que je dois faire maintenant. Ces sentiments que tu éprouves vont commencer à grossir. Ca commence gentiment, mais bientôt, tu ne pourras plus manger ni dormir. Ensuite tu vas commencer à faire des photomontages de nous deux, puis tu planifieras tes journées de manière à ce que nous "tombons" l'un sur l'autre au supermarché, et finalement, tu finiras par rentrer par effraction chez moi pour te masturber dans mes chaussettes. Faites-moi confiance, je suis déjà passé par là.
+42|Dans un monde parfait, nous pourrions être ensemble. Mais ne t'inquiète pas. Suis-moi, je connais un moyen de te débarrasser des sentiments que tu as pour moi.
+43|Je suis heureux de voir que tu comprennes ma situation et pourquoi nous ne pouvons pas être ensemble. Maintenant, détends-toi, je m'occupe de tout. Dès que le mystère est résolu, c'est beaucoup plus simple de se laisser aller.
+44|Faut-il vraiment que je te l'épelle ? Magne-toi, nous n'avons pas toute la nuit !
+45|Pas la peine de me remercier. Si tes pensées pour moi persistent encore après cette nuit, préviens-moi que je puisse organiser une autre session. Mais ne prends pas tes rêves pour une réalité. Je ne fais ça que pour t'aider.
+46|En passant, voici que le préservatif que tu voulais...
+47|Evidemment, j'ai besoin de savoir de quoi il s'agit avant de signer quoi que ce soit...
+48|Eh bien, pourquoi ne pas simplement l'avoir dit dès le début ? Où dois-je signer ?
+49|Pour quelle raison stupide je signerai pour ça ? Va voir un psy, tu es vraiment un cas à part. Barre-toi de ma vue.
+50|C'est quoi ton problème ? Tu viens à peine de me convaincre que tu n'es pas gay, et maintenant tu veux mes sous-vêtements ? Ca ne tourne pas rond chez toi ! Bref, pour répondre à ta question, je n'en porte pas. Mes testicules ont besoins de respirer, elles doivent rester libres.
+51|Je comprends. Tu veux mes sous-vêtements comme trophée pour te rappeler du bon moment qu'on a passé ensemble. Je ne peux pas t'en vouloir, c'était un bon moment. Mais je suis désolé. Je ne peux pas t'aider sur ce coup-là, je ne porte jamais de sous-vêtements. La raison est assez évidente quand tu me regardes bien : J'ai une sacrée paire de couilles et je n'ai jamais pu trouver de sous-vêtements qui m'aille.
+
+[Responses]
+3d86f93a-02ad-49f4-ab33-06fa1c3c7018|Attends, quoi ?
+3ddb7fa2-b00e-4226-bfbe-e09b782e6baf|Je vais chercher le pop-corn.
+78c7d8c0-c81e-4401-a08f-76ea35632db8|Bonne idée, Frank ! Je vais pouvoir lui demander de s'exhiber sans passer pour un pervers !
+9597fc9b-2f43-4876-b08a-45042903710f|Je ne pensais pas qu'un jour je puisse dire ça, mais Frank, tu es trop génial.
+75bc6829-6de6-4713-ba4c-8a3b0ce693ff|Ouais, tu m'as vraiment bien eu, Frank. Haha.
+eecebe42-f7de-431a-acc2-e2567827e905|Quoi ? C'est n'importe quoi ! Va te faire foutre, Frank ! Tu n'es qu'un enfoiré !
+8435d3e2-e4e4-4811-8a4b-43f77a08185d|Rien, Frank. Laisse tomber.
+f960478b-519e-4213-8128-ad717fac2017|Oh merde !
+4d783677-a097-4501-bfb4-d2447c2a5107|Oh merde !
+49b160d8-bcc6-4b05-8321-8e75d7a83a5f|Je vais chercher le pop-corn !
+3b7063f4-48c8-475f-b1cb-47272d235ab7|Je suppose que c'est la suite logique des évènements...
+c29e731a-86d6-4aed-92aa-27eacce7b15a|Ca me semble être une bonne affaire ! J'en suis !
+ca86640e-9409-48a3-b9a2-724f7edc3399|Non, je ne peux pas faire ça à Katherine. Désolé Frank !
+11123dff-1892-4d3d-9a1e-744c2c51caaf|Ca me va.
+28a4d67a-5333-4eee-af87-c87fc1193cdf|Bon, d'accord.
+4213fb01-773d-4983-9200-01d3c18e74ba|Je fais juste ma part du boulot, Frank.
+39a27f59-a511-4cbe-8740-27c85f3c99da|C'est noté, Frank.
+9d3ee08e-5589-4479-b76c-23a14b423523|Je pourrais le vérifier pour toi.
+df197117-608c-45b9-a639-478053078998|Impossible de réfuter une telle logique.
+5a602e78-7a57-4ec9-baed-36f1ac3086da|Je ferai de mon mieux, Frank !
+ba29f39a-8f70-497b-a972-800ad905bd7f|Ca me semble correct.
+2ff490c2-6649-4311-995c-452785df22ca|Il empeste l'alcool. Elle a essayé de boire dans ton dos, et tu as fait le bon choix.
+ae31fae9-99ba-446d-9acd-d1c28b7a0ee3|Rien à signaler, c'est juste rempli d'eau. Elle doit avoir un problème médical vraiment rare appelé "Soif".
+085c6b15-4899-42cd-acd9-1f408514aa87|Merci Frank.
+6732f202-1c81-483c-b788-5680ddea8d2f|*Ouf* Merci Frank !
+bcf84144-9c35-4ee2-944c-e19f6f05a993|Attends, tu ne veux pas qu'on boive, mais fumer un joint ne te pose pas de problème ?
+b81f40a7-4393-4875-9766-2286796fd9bf|Tu ne cesseras jamais de m'impressionner, Frank.  Ok, combien ?
+ab2935c7-58c2-4119-b111-77ed7bc6836a|Compris. Merci, Frank.
+62783069-a2e8-4c04-8759-bf691b042a65|Mouais. Merci, Frank ! C'est toujours un plaisir de faire affaire avec toi !
+5f55bcd3-3858-4018-ab9b-be47e73c631a|(Continuer)
+755f844f-2e1f-4ecd-bca2-b8242e57f569|Et merde...
+7a5d5b49-e851-4bf0-9f01-3644f50c9f51|Ne fait pas genre que tu n'aimes pas ça, Frank.
+fc4e065a-a523-403a-9b7f-c25f6eedffa0|Désolé, Frank !
+0b916d57-6b64-4be3-9146-103811261292|Quoi ? Non ! Je ne te déclare pas ma flamme ! J'ai juste besoin d'un préservatif pour quelqu'un d'autre.
+dab56fba-9942-4aff-b63a-ab567a190d38|Euh. Ok, Frank...
+dc370b1e-e6c9-42e3-8a13-2b3becddf294|C'est un plan génial, Frank ! C'est parti !
+147316e2-3250-4ed8-b61a-b801d01a58a7|Tu sais quoi ? Laisse tomber. Je pense que ce n'était qu'une fausse alarme.
+45152ffa-554b-4717-900e-4435438aa82a|Merci, Frank !
+e8746744-3996-45a6-ae48-0f725af42f53|Euh... Tu ne crois pas que nous y allons un peu trop vite ?
+98e310df-49cf-419d-8e4d-37779a45be26|Je... quoi... attends, qu'est-ce que tu veux dire par "je suis déjà passé par là" ?
+0e83b39a-853e-4943-aaa6-aea5c864f690|Je vais rentrer chez moi et pleurer sur mon triste sort. A plus tard, Frank.
+718f34f2-0a9e-4c3f-be54-2f88a3bdac8b|Tu es timbré, Frank, mais je suis curieux de voir la suite...
+676383af-2f7b-4168-8fc5-e2ec20b52aa7|Je ne sais pas si ça doit m'effrayer ou m'exciter...
+ea331f6b-beb6-4a55-871f-5029dbe70d96|Désolé, Frank !
+9c06257a-dcd2-49c1-a45f-db3907ade9db|C'est noté.
+b9ce6352-3f3e-4955-8c7a-ed0159f72db5|Merci, Frank !
+3fc8e4b2-c12f-4b66-bad7-9d6363099188|C'est pour le rétablissement de la prohibition.
+a904e3f9-2f4c-428e-b94b-5423110b9bbb|C'est pour obliger Derek à enlever sa chemise.
+e8bb735c-b3a7-4b8a-ba16-5b68a2aafd99|Trop facile...
+b6685a7c-d216-4342-a246-d5429a21ae74|Ok, d'accord. Pfff.
+90fa09ba-6fcb-4b6e-bdd6-ac0007f9809f|Que penses-tu de Katherine ?
+a7a4f8ad-d484-44ba-91bd-4c36cdbfb1f3|Patrick a une bouteille de vin ! Il la cache dans son pantalon dès qu'il te voit !
+a7542179-11c3-4245-8ae3-b4ae1fac052c|Je suis complètement bourré ! J'en suis au moins à mon douzième shoot !
+e0f40b1a-31bf-4dc8-97cf-297889373f9f|Donc tu vas juste rester assis là et surveiller tout l'alcool, hein ?
+6afe76c2-f03f-4e1f-b631-8a0e3523593b|Patrick pense que tu n'es qu'un connard qui adore l'odeur de ses propres pets !
+15ddcff3-1a33-4df8-b017-e59ac31bdbad|Au fait, j'ai un peu discuté avec Katherine. Veux-tu que je plaide en ta faveur ?
+99a357f0-e495-4b15-b94f-61a9aaadc59f|Au fait, cette bouteille de Vodka est complètement vide. Ca te dérange si je la prends ?
+16c34eb6-5b3d-4bb6-8237-a4d7f6d2f124|Je suis complètement sobre !
+9397718e-4b3f-4d64-9e1f-ad8c5f0c6dbf|Sérieux, Frank ? Tu voles les filles maintenant ? Là, tu dépasses vraiment les bornes !
+7c65dbef-97e8-459c-b626-667e3192d1e2|Bref, que dirais-tu de me laisser inspecter ce thermos pour toi ? Je te promets que je serai un juge impartial.
+ca227aec-3513-4423-9927-46fffd7f1b52|Bon, j'ai bien inspecté ce thermos...
+07623680-5d70-45b1-9211-ec10b906adfd|Par hasard, tu ne saurais pas où se trouve le téléphone de Patrick ?
+189560c6-3a29-4b8b-9b1d-7acd453479b1|Au fait, Frank, euh... Tu..*glups*.. n'aurais pas un joint... sous la main ?
+13e836d8-66eb-4898-8334-c5eae65f2c30|Ah, Frank ! J'aurais vraiment besoin d'un remontant, c'est pour une urgence !
+87968c82-83eb-4573-9548-a6aa3614dfac|Par hasard, tu ne saurais pas ce qui est arrivé au petit frère de Derek ?
+3021d9ab-f80a-43f6-be02-587b01fde7c1|Ah, Frank, j'ai besoin d'un préservatif. Tu n'en aurais pas en rab par hasard ?
+59ceb32c-65e5-42fb-9c5e-3685a18d95e8|Frank, j'ai entendu quelqu'un dire qu'il avait de l'alcool ! Que faisons-nous ?
+48626a50-46c5-4d16-9f99-ba47eeaa672e|Alors, est-ce que tu penses toujours que je suis gay, Frank ?
+bc28d299-8424-4839-9046-aa8aec4adb81|Ok, Frank. Tu as raison. J'ai des sentiments pour toi.
+984e04ae-a4db-441e-90c0-dcd745ba0516|Je n'arrive pas à te sortir de ma tête, Frank...
+e1fd8b72-bc7c-47ae-976c-e201e6e7c2ec|Ah, Frank. Est-ce que tu peux signer ma pétition ?
+491f5154-0dbd-4594-9894-04e5b9b0e5dc|Ah, Frank. Quel type de sous-vêtements portes-tu ?
+90e6bff8-b4cf-42b8-abde-57dde946fe0c|Je vais boire du jus d'orange. A plus tard, Frank.
+
+[Quests]
+605e33ed-12b8-471a-b88c-38f4b2f3ebec|Regarde-moi cette photo !
+605e33ed-12b8-471a-b88c-38f4b2f3ebecDescription|Frank veut une photo HD de Katherine avec les seins à l'air. L'appareil photo de votre téléphone ne suffira pas pour ce coup-là. Vous devez trouver un véritable appareil photo et convaincre Katherine de poser pour vous.
+274482de-2e8a-4afd-a55d-c0fdbecc5734|Franchement, je ne te fais pas confiance
+274482de-2e8a-4afd-a55d-c0fdbecc5734Description|Frank ne vous fait pas confiance, et ce n'est pas une bonne nouvelle. Il doit bien y avoir un moyen pour que vous puissiez gagner sa confiance...
+
+[Events]
+d7e53a80-dc71-42cf-93b1-b511cc5f4872|Hum. J'ai acquis la confiance inébranlable de Frank, mais je n'ai pas pu récupérer le thermos de Rachael... J'aurais peut-être dû mentir à Frank...
+d9489f6e-bb4a-415f-8b8d-9524a6793d84|Merde alors ! Je n'ai pas un rond sur moi. Il va falloir que je trouve un moyen de gagner 50 balles.
+1b0bc3ef-8150-4706-b24d-73a9b4a8b8ff|C'était vraiment bizarre... Mais il ne m'a pas dit s'il avait un préservatif ou non. Hum... Où a bien pu passer Derek ? J'ai besoin de lui en parler...
+1ab938cc-2064-45c2-b95f-13056e4528b1|Bon, j'ai une bonne minute avant que Frank ne revienne et me trouve là...
+73d5b4d8-0c65-48d3-b108-fa1ad3c90990|Je ne pense pas que Frank puisse me voir, mais c'est un enfoiré sournois. Je préfère ne pas m'y risquer.

@@ -1,0 +1,235 @@
+[General]
+Name|Amy
+
+[Dialogues]
+0|Re bonsoir.
+0.1|Oh, salut. Je suis Amy.
+0.2|Ce feu de camp est tellement agréable !
+0.3|Salut, toi. C'est sympa de te retrouver par ici...
+1|C'est vraiment très mature...
+2|Putain, merde alors. Pincez-moi, je rêve. Est-ce que c'est réellement arrivé ? C'est tellement dégueulasse. Berk.
+3|Merci. Tout le plaisir est pour moi !
+4|Je pense que je viens de perdre l'envie de vivre...
+5|Désolé. Ce n'est pas ma tasse de thé.
+6|Oh mon dieu, Je les adore ! Je les ai vu en concert la semaine dernière et ils étaient encore meilleurs que la semaine d'avant ! Es-tu également un fan ?
+7|C'est Thirty Seconds to Mars, espèce d'inculte.  Brendon Urie chante pour Panic.  Pff, je déteste quand on me raconte des conneries juste pour essayer de me sauter. Va voir ailleurs si j'y suis.
+8|Mouais, chacun le sien, ok ? Tant que tu ne les déteste pas, je ne vois pas pourquoi nous ne pourrions pas être amis.
+9|Désolé, mais sans moi sur ce coup-là...
+10|Tu sais quoi ?  Son petit frère vient d'être arrêté pour trafic de drogues ! C'est même passer aux infos. Pauvre Derek, il a dû payer sa caution et gérer toute cette situation. Le pire, c'est qu'il a pratiquement élevé son frère. Derek ne se sent vraiment pas bien avec tout ça.
+11|Whoa ! Je pense que tu devrais t'allonger un peu...
+12|Whoa Whoa Whoa. Désolé. Je ne voulais pas vous déranger. Je vais y aller maintenant....
+13|C'est quoi ton problème ? Tu vas vraiment faire ça ici ?
+14|Oh. Oui, j'étais perdue dans mes pensées. En fait, j'essaie de rejoindre une sororité depuis que j'ai emménagé dans cette ville. Comme initiation, elles me font faire une chasse au trésor, qui finit demain. Et comme j'ai encore pas mal d'éléments à trouver, je me demandais si je ne ferais pas mieux de m'éclipser de cette soirée afin de me remettre en chasse... Beaucoup d'éléments de cette liste sont... Comment dire... Gênant pour ainsi dire, et en plus, je ne connais pas grand monde ici.
+15|Oh waouh. Alors ok. Je vais rester un peu plus ici et on verra bien ce que nous pouvons accomplir. Merci !
+16|Voyons voir... Le premier élément qui me manque, c'est... Oh mon dieu, une carte de crédit expirée, et ça ne peut pas être la mienne... Tu comprends maintenant pourquoi je n'ose pas demander ça à des personnes que je viens tout juste de rencontrer ? Et c'est juste le moins gênant des éléments que je dois trouver !
+17|Oh waouh, c'est tellement sympa de la part de Madison de me donner sa vielle carte de crédit ! Je suis tellement contente que les personnes présentes ici soient vraiment aussi cool !
+18|Ok... alors l'élément suivant, c'est... un préservatif que je dois demander à un inconnu. Si c'est trop embarrassant pour toi, dis-le-moi, je comprendrais. Je pense que je mourrais si je devais faire ça moi-même.
+19|Oh waouh ! Merci ! Je ne veux même pas savoir comment tu en as obtenu un !
+20|Hum... laisse-moi réfléchir... Ah oui, je n'ai pas encore cet élément là... J'ai besoin de convaincre mon meilleur ami de sexe masculin d'enlever sa chemise et de me la donner... Et donc dans notre situation, il me faudrait la chemise de Derek. Comme il est vraiment timide, je doute que tu puisses y arriver...
+21|C'est une bonne trouvaille ! Tu risques effectivement d'arriver à tes fins ! Bien sûr, je vais signer tout de suite !
+22|Oh mon dieu, je n'arrive pas à croire que tu y sois arrivé ! C'est tellement impressionnant ! Et pour ne pas mentir, c'est assez plaisant.
+23|Laisse-moi réfléchir... Ok, j'ai trouvé. Ce coup-ci ne sera pas facile. J'ai besoin d'une culotte. Ca ne peut pas être la mienne, et elle doit avoir été portée avant qu'on me la donne. Bonne chance...
+24|Oh mon dieu, je n'arrive pas à croire que tu ais réellement réussi à m'en dégoter une. Tu commences limite à me faire peur... Au fait, qui portait cette culotte ? Non, en fait, je ne préfère pas savoir. Je suis en passe de finir cette chasse au trésor, et c'est tout ce qui compte. Je dois absolument garder mes idées claires !
+25|Désolé, mais l'histoire s'arrête là pour le moment. La suite arrive bientôt !
+26|Hum. Voyons-voir ce qu'il me reste à ramener... Merde, je ne sais pas lequel choisir... le peu de tâches qui me reste à faire sont de plus en plus perverses. Je veux vraiment entrer dans cette sororité, mais je ne suis pas sûr que ça en vaille la peine. Qu'en penses-tu ?
+27|Tu sais quoi ? Tu as entièrement raison. C'est un peu idiot d'essayer si fort de s'intégrer à un groupe, maintenant que j'y pense... Ce n'est pas vraiment mon style. Je suis contente que nous ayons eu cette discussion. Je suis vraiment ravie de t'avoir rencontré.
+28|Tu as raison. Continuons. Sortir un peu de ma zone de confort pourrait m'être bénéfique plus tard. Et pour être complètement honnête, certaines de ces choses m'excitent un peu...
+29|Hum. Les prochaines choses dont j'ai besoin sont des photos que je dois prendre avec mon téléphone. Pour commencer, il me faut la photo de quelqu'un portant le drapeau américain, d'une manière ou d'une autre...
+30|Waouh, trop fort ! C'est parfait. Je vais aller y jeter un oeil et essayer de la prendre en photo !
+31|Whoa. Tu m'as dit que tu étais prêt à faire n'importe quoi pour m'aider, mais je ne pensais pas qu'il fallait le prendre au pied de la lettre ! Merde, moi qui pensais qu'on s'entendait bien tous les deux... Eh bien, amusez-vous bien tous les deux !
+32|En fait, ayant déménagé récemment dans cette ville, je ne connais pas grand monde et j'espère bien trouver de nouveaux amis. Mais pour le moment, j'aimerais juste profiter du feu de camp. Ca me rappelle la maison de mes parents à Rhodes Island. Quand la nuit était fraîche, nous allumions un feu dans le jardin et buvions un chocolat chaud. Que de bons souvenirs. Enfin bref, veux-tu te joindre à moi ?
+33|Je n'aurais pas dit mieux. Il y a quelque chose dans les flammes qui m'a toujours apaisé. Je suis peut-être une pyromane refoulée ! *Rigole* Je suppose que j'apprécie juste les choses basiques. Et toi, qu'est-ce que tu fais pour te détendre ?
+34|Oh. C'est, euh... Intéressant...
+35|Ecoute, je comprends que tu essayes de m'impressionner, mais ce n'est pas la peine d'en faire autant. Je veux juste en savoir plus à ton sujet.
+36|Oh que de compliments ! Tu n'essayerais pas de me draguer, dès fois ?
+37|Eh bien, C'est gentil. Je suis heureuse de t'avoir rencontré. J'avais peur de ne pas pouvoir me faire de nouvel ami ce soir. C'était tellement plus simple avant que je ne déménage... C'est peut-être moi, mais tout semble si différent ici.
+38|Euh, Je viens de Rhodes Island, pas de Long Island. Est-ce que tu m'écoutes quand je parle ou est-ce que tu attends juste le bon moment pour me rouler un patin ?
+39|Ok, c'était peut-être une mauvaise idée. C'était sympa de t'avoir rencontré. Je vais juste aller voir ailleurs si j'y suis.
+40|Tu as probablement raison. Je ne vois pas en quoi ça serait différent ici. Je suis sûr qu'il y a des rencontres intéressantes à faire partout où on va. Il faut juste faire le premier pas.
+41|Euh, je ne le sens pas trop. Je pense que je vais passer mon tour. Désolé !
+42|Tu sais quoi ? Ce n'est pas dans mon habitude de trainer avec un gars que je viens tout juste de rencontrer. Mais pour moi, jusqu'à maintenant, cette soirée a été vraiment amusante et différente. Je veux dire qu'en plus de tout ce que tu as fait pour m'aider avec ma chasse au trésor, c'était génial, et qu'en prime, je peux me détendre et avoir une conversation avec toi sans que tu penses avec ta bite toutes les cinq minutes. C'est un énorme plus !
+43|Je n'ai jamais fait cela avant, mais je suppose que c'est ma dernière chance d'agir comme une fille de sororité. *Rigole* Suis-moi.
+44|Erf.  Pitié, ne mêle pas mes parents à la discussion. Tu risquerais de casser l'ambiance... Bref, arrêtons de discuter de ça avant que je ne change d'avis...
+45|Regarde-moi ça. Et avec le sens de l'humour en prime ! Considère-moi officiellement comme impressionnée !
+46|Oh je rêve ! Tu as trouvé du chocolat chaud ? Merci d'essayer de me faire sentir chez moi. J'apprécie vraiment ton geste ! Tu t'es vraiment surpassé !
+47|Je pense que c'est une excellente idée ! Que dois-je faire maintenant ?
+48|Je pense que nous devrions probablement commencer par faire quelque chose concernant les autres personnes ici présentes...
+49|Bon... Je suppose que c'est ton jour de chance...
+50|Euh... Ne le prends pas mal, je t'apprécie beaucoup et je ne suis pas contre un peu de folie, mais là, c'est un peu trop pour moi... Et si on faisait quelque chose d'autre à la place ?
+51|Oh... elle est énorme ! Mmm... Oh ! Est-ce que je viens de dire ça à voix haute ?
+52|Qu'est-ce qui t'arrive ? Je suis un peu occupée là...
+53|Désolé, mais j'ai l'impression que tu es plus concentré sur d'autres choses que de m'aider. Je vais me débrouiller toute seule pour la suite. Merci quand même.
+54|Mrph ermph emperermp rahngerurmpgh !
+55|Ok. Voici de quoi je parlais quand je disais que ça devenait un peu plus osé. J'ai besoin d'une photo de moi-même portant des sous-vêtements "Goodbye Kitty". Je ne sais même pas où je peux trouver de tels sous-vêtements. Préviens-moi si tu as une idée.
+56|Oh mon dieu, tu pètes le feu ce soir ! Même s'ils ont l'air un peu petit, je ne pense pas que j'en trouve à ma taille... Je vais aller les essayer et prendre un selfie avec.
+57|Je vois que tu as décidé de t'incruster... Ne t'inquiète pas, je comprends. Après tout ce que tu as fait pour moi, je suppose que tu mérites bien un petit show.
+58|Ok. Pour continuer cette folle aventure, j'aurais besoin d'une photo de moi prenant un bain de minuit avec au moins deux autres personnes... Hum... Je suppose que je peux le faire, mais j'ai besoin que deux autres personnes à se joigne à moi.... Je suppose que tu es partant ?
+59|Garde tes vêtements pour le moment. Voyons-voir qui d'autre pourrait se joindre à nous.
+60|Hors de question ! Je ne vais pas me mettre à poil en première. J'ai vraiment besoin de cette photo, mais je ne suis pas suffisamment courageuse pour donner l'exemple. Convaincs Brittney de se déshabiller et j'en ferais autant.
+61|Ok, ça me va. Pour être honnête, c'est même un peu excitant. Allons-y !
+62|Oh ! Euh... Vérité !
+63|Je choisis Action. Surprends-moi !
+64|Ok, je vais juste fermer les yeux et le faire. C'est parti !
+65|Je n'arrive pas à croire ce que je suis sur le point de faire...
+66|Ah, oui ! J'étais complètement perdue dans mes pensées que j'avais complètement oublié !
+67|Oh ! Quelle question ! Honnêtement, recevoir des baisers sur mon cou me fait énormément d'effets. En plus, je ne pense pas l'avoir déjà dit à quelqu'un...
+68|En fait, non. Mais il y a bien une première fois pour tout, non ?
+69|C'est simple : j'obligerais tout le monde à se déshabiller entièrement, comme ça, je pourrais finir facilement ma chasse au trésor !
+70|Honnêtement, au début, j'étais un peu effrayée que tu veuille m'aider avec ma chasse au trésor. Mais en fait, il s'avère que tu es un type sympa, et je suis sûre qu'on va terminer cette chasse au trésor en un rien de temps !
+71|Pour être honnête, je dirais Brittney. Ses seins sont tellement impressionnant cachés sous son haut que je me demande à quoi ils pourraient bien ressembler une fois à l'air libre !
+72|Pourquoi ne choisirais-tu pas Brittney ce coup-ci ? J'ai l'impression que tu t'acharnes contre moi !
+73|Merde ! Tu as entièrement raison. J'étais complètement perdue dans mes pensées que j'avais complètement oublié. Je vais prendre une photo !
+74|Eh bien, je me suis bien amusée, mais je commence à être mal à l'aise dans cette tenue. Je vais retourner à l'intérieur. Mais il faut absolument qu'on remette ça un jour...
+75|Oh ! Désolé, j'étais... Euh... perdue dans mes pensées. Bref, me voici...
+76|Merde alors ! Ton plan a fonctionné ? Pas croyable ! Qu'attendons-nous pour y aller ?
+77|Désolé. Tout ça, c'est nouveau pour moi. Je n'ai jamais été aussi... ouverte, pour ainsi dire. J'ai eu l'impression de reprendre conscience tout d'un coup. Et en même temps, j'ai ressenti des sensations que je n'avais jamais ressentis auparavant. Une sensation étrange... Comme si cette situation m’excitait. Ca m'a perturbée.
+78|Je suis sérieuse. Tu sais quoi ? Laisse tomber. J'ai besoin de régler ça par moi-même, mais ce n'est ni le lieu, ni le moment...
+79|C'est bien ça le problème : je pense que j'ai apprécié cette expérience. Je veux dire... je ne peux pas nier les sensations que j'ai ressentis. C'est juste difficile d'aller contre ma conscience qui me dit que je suis en train de faire une connerie, pour une raison quelconque...
+80|Je ne sais pas. Je pense que j'ai besoin d'y réfléchir un peu plus. En tout cas, merci pour ton aide ce soir. Par contre, je pense que nous devrions tout simplement nous arrêter là pour l'instant.
+81|Je... Je crois que tu as raison. J'ai vraiment besoin d'écouter mes sentiments et de ne pas avoir peur de qui je suis ! Merci pour cette discussion. Ce soir, j'ai découvert de nouvelles choses à mon propos que j'ignorais, mais j'y réfléchirais plus-tard. Pour l'instant, je vais faire quelque chose que je n'ai jamais fait avant et qui me mettra un peu plus à l'aise. Après tout, nous sommes bien entre amis, non ?
+82|Tu sais quoi ? Tu as raison ! De plus, si j'étais un mec, je n'hésiterais pas une minute avant d'enlever mon t-shirt... Pff, c'est tellement injuste ! Je pense que je vais simplement me détendre et m'amuser un peu, mais je ne veux pas aller trop loin. Je ne vois pas de raison valable à ce que je garde mon haut, et toi ? Merci pour cette discussion !
+83|Hum, on ne pourrait pas aller dans un endroit à l'abri des regards ?
+
+[Responses]
+a48ad37a-7b84-49e9-95f9-d535a5d1aa17|Casseuse d'ambiance.
+1af4882e-8fd9-4748-ad66-9ff25daf073d|Pardon ?
+b9b895f6-67f4-4c60-9f46-de54cfa4d835|Merde ! D'habitude ça fonctionne...
+593f9580-9491-480c-813d-40aea8823b82|Pour être honnête, Ce n'est pas mal, mais c'est loin d'être mon groupe préféré.
+ae6a4392-4750-406b-9d5f-4309904288aa|Oui, j'adore leur chanteur principal ! Jared Leto est vraiment le meilleur !
+df4160c4-354d-4ebe-8f1f-2202b252a501|Merde, je suis grillé...
+bd5c0908-eca9-43cb-b93e-2ba326b1a159|*Soupir*
+4133056a-0f3e-4a42-9630-9651727e413a|Ouais.
+6bade183-c342-4ab4-ae16-fbb25d649ec3|Sans moi. Je déteste les chasses au trésor. Bonne chance.
+7743dfbd-f41d-4d75-8f6e-53e39c0c0342|Je pourrais te filer un coup de main. Je suis très doué pour trouver tout et n'importe quoi !
+828a1556-f4b3-4880-b325-4c97b4afaeaf|Pas de problème !
+b22532d1-55a2-418b-b9d7-df52eb08a682|Je m'en charge !
+42ab3106-b66b-415f-809e-e5b54bc3d4a8|Ouais, c'est vraiment elle la meilleure !
+e971534b-7c1c-4e29-8428-334f02e9f7d7|Compte sur moi !
+335eabc2-2337-484e-b41e-ac5647b037df|Oui, il vaudrait mieux que tu n'en saches pas plus...
+92942ba1-76a6-4ecb-9d44-4c63dff3af9f|Je trouverai bien un moyen !
+152e09d5-4d83-40e4-a968-74b73e83a5bb|Parfois je me surprends moi-même !
+33e774f1-d83a-4d0b-b3e1-52ef07fbbc9b|Je fais ce que je peux.
+72f9c2e4-eee7-449f-93a9-3cc233c2200d|As-tu oublié à qui tu t'adresses ?
+5bd4d13d-047c-4588-b262-2f93fd635252|Laisse-toi séduire par le côté obscur, jeune fille !
+447361e4-6781-464a-b344-a84812f5e83f|Merci beaucoup pour tout ce que vous faites !
+4283e8b3-d0b3-4bb0-993b-359616a0ae5c|Garde ta dignité et laisse tomber cette sororité. Tu le regretteras un jour si tu cèdes à tous leurs caprices !
+d68684af-90e7-469f-9fc3-6ab58dc9d8c0|Rejoindre une sororité peut ouvrir pas mal de portes pour toi. Je ferais ce qu'ils demandent. C'est juste un bizutage inoffensif, non ?
+2050adfb-d94f-40f4-b1e5-15540b4ecfa8|Je comprends parfaitement !
+93b65666-113b-47bf-bf66-691a466bc4e0|Bien dit !
+3154e95c-84b3-4aba-b866-6353359d3a1c|Je vais voir ce que je peux faire.
+e5057258-d57c-440b-a92c-a3146046e87e|Et merde.
+d3b752b2-eeb1-4f03-bd21-946c1e0e388d|Désolé, je refuse de côtoyer les gens de Rhodes Island. C'est fini entre nous.
+29f311ca-ac8d-4e1d-aa7a-9ba27bbac485|Bien sûr, avec plaisir ! Je serais ravi de te tenir compagnie.
+b82550f0-d25c-4f47-a0bd-e243643247b5|J'écoute Panic at the Disco !
+d5d322f2-986d-494d-bf32-7c2678b1a8d1|En général, je vais au stand de tir et je décharger quelques chargeurs.
+325c537b-7f0d-4071-89bd-b451938f2dca|J'essaye de rencontrer des gens intéressants comme toi.
+46ba8be4-7e2b-4567-86e8-bafd1c52b66b|En général, je remplis mon jacuzzi de gelée de fraise avant d'y faire trempette.
+58826663-e91f-44ba-9766-ab276d2a2610|Parfois, je fais chanter des femmes afin qu'elles se déshabillent lors de soirée comme celle-ci !
+f9545e42-a0d6-4d34-9c88-107e9cd33dd3|Je veux juste faire plus ample connaissance.
+8d695ac0-3e08-46ef-a111-b8d7872894c4|Peut-on vraiment m'en vouloir ? Tu es tellement canon.
+a21bf7a0-81ca-484c-8cb3-37696c49ccfe|Long Island doit vraiment être un endroit charmant.  J'adorerais y faire un tour un jour.
+fa586ca4-f2b7-4b36-8f56-c286811e087f|Ca ne dépends pas de l'endroit où tu es, mais plutôt qui tu es.
+705239eb-22b7-4d83-81c1-cdec9caedb54|En parlant de ça...  Que dirais-tu de passer à l'acte ?
+edcc1915-0521-4a79-b5e7-eb3e56fecc8a|Je suis désolé. J'ai un petit problème d'audition depuis un stupide accident avec une chaise pliante.
+4fe55812-2d16-463a-a88e-de6434665838|Ouais, c'est plutôt toutes les six minutes dans mon cas.
+4585cc77-a83f-4c60-9878-f10e5d019886|Alors quand est-ce que je peux rencontrer tes parents ?
+28eee6a2-b5bf-442e-8c10-d8790af1a414|Tout le plaisir de notre rencontre est pour moi !
+1fc5cc4f-33e3-4e33-9dab-15e9a3daee28|Ok !
+a9e3b323-8bd2-489a-b5f6-2536779d3e22|Oups !
+7e0096bb-129e-4279-9c48-50085000f9f6|C'est ma signature.
+4aab29a3-eea0-4c9a-b268-fbf1b74faf4b|De rien.
+cd1ba5fc-e107-44db-b35e-863d754de644|Pourrais-tu te lever, s'il vous plaît ?
+08737fa9-8b45-48cb-ac8c-29b16328328d|Puis-je jeter un oeil sur tes seins ?
+8c7f0a0f-8ff9-4e72-a0dd-92dd4793ac71|Remet ton haut.
+c2e3fb5a-f46f-496e-8e45-53d4fbca5a39|Pourrais-tu enlever ton pantalon ?
+ba5df538-3a59-4b1f-a461-226d05708584|Cela peut sembler contre-intuitif, mais j'aimerais que tu remettes ton pantalon.
+89722919-95fc-4915-b412-6cc6764390dd|Pourrais-je voir ce que tu caches sous ta culotte ?
+b34de681-4fdc-47a8-9f77-c417dc3964d3|Remet ta culotte. Elle est vraiment superbe !
+7dfb4b80-7995-486c-ac1b-1a7f388ba940|Ca doit bien faire une bonne minute depuis que la dernière personne m'a sucé...
+e6da15c8-e756-475b-8b9f-6ca0b947b388|Que dirais-tu si je te faisais un petit cunni ?
+eff22684-44b0-46ab-905f-f275adff549b|Je n'en peux plus, Amy. J'ai besoin de te faire l'amour.
+2d2a0712-b518-4e2a-ae82-7570e86ea5ee|En fait, laisse tomber. Tu ne pourrais pas le supporter.
+41b03b48-9ee2-46fb-afc6-cf9445532c5a|C'est pas faux. Je m'en occupe !
+9928aac8-fefa-48a2-8c3c-a9c0010649ca|Certainement !
+40331136-0200-4210-ac38-c24c6261323a|Je comprends...
+40c9c675-4b56-4e68-a44b-f7e5602efecc|Merci.
+382b1ce5-cc83-4eb8-b29c-7f102a8d6da1|Suce-moi pendant que je te broute le minou !
+c404c250-0c86-4947-9c44-f36173f50474|Chevauche-moi !
+d33a39b5-b9ee-48a5-aa56-d93458e5cb59|Allonge-toi sur le dos
+08fbcf41-adff-407e-a491-3a0488cadfb7|Mets-toi à quatre pattes !
+18a8841e-27d0-4c1a-b064-5814e88bab85|Et merde !
+e8b2e8b1-c661-4c61-88bb-a4441fa267e2|Ah, oui. Désolé, j'avais oublié que tu avais la bouche pleine...
+94e0f695-9cd3-4c76-8715-87a5086b08b4|Je vais voir ce que je peux faire.
+8a0cfa96-2839-4b74-9f2d-37560d3fa8c9|Parfait !
+bce2aff1-e4eb-4f46-b754-dd7684a1ce63|Cool ! Et en plus, elle n'est même pas furieuse !
+71a3ac12-cd42-4276-a727-3f271d13bc46|Oh que oui ! Je peux me mettre à poil ici et maintenant si tel est ton souhait.
+bde5ceaa-423c-487c-bc1e-8cdf0d3d12e4|Désolé, mais sans moi. Tu dépasses les bornes.
+10bd409c-a1c4-4d27-ad9b-b95bfae26201|Compte sur moi !
+920a76f0-8c99-42b7-a479-af5feb8e7071|Suis-moi quand on y sera !
+ee0cc4e8-3fe1-4598-94a9-f7bbd754b8b9|Où est-ce que tu préfères te faire embrasser ?
+916cbbb6-b045-44d2-94fc-19e5641c8a54|As-tu déjà embrassé une autre femme ?
+feb2c6a0-8f46-46a5-9cb3-a16f657e4d50|Si tu devais établir une règle que nous devrions tous suivre, tu choisirais quoi ?
+02123f59-ff3f-4bad-a25e-5c6395b6f385|Quelle a été ta première impression à mon sujet ?
+68bbccb8-36b9-4e3c-990e-3592171db5f2|Parmi les personnes présentes à cette soirée, qui aimerais-tu voir entièrement nue ?
+8448e0a6-8e1c-465a-a04a-0885505a8034|En fait, laisse tomber. J'ai changé d'avis.
+daad6ea3-78a3-491a-9272-fdaefab6efbf|Je te défie d'enlever ton haut !
+6ba07402-19cb-4fa2-8571-14c56594e78c|Je te défie d'enlever ta culotte !
+635f51a4-2460-4ae8-89aa-345e920025b7|Attends. J'ai changé d'avis...
+2f5261b7-c023-4f10-adce-3cd51c7f3a72|Trop cool !
+d1cc5a89-7dcd-407f-b5ff-8ab11e985dc1|J'ai hâte !
+bcbf0b35-a907-48ea-908b-78532a59c385|Que ferais-tu sans moi ?
+965c6709-7d02-4f3e-b5d8-98c6f607e5be|C'est bon à savoir.
+dbd23c61-60a8-40f6-a715-291d428425a7|Et peut-être même plus tôt que tu ne le crois !
+e27e6c4f-6e68-47ef-9c43-b5d87e157eba|Bonne réponse...
+6f4b51d4-d596-47ba-92ad-4c8a1ee2f7bb|Ravi d'avoir pu t'aider !
+b740c085-4f2b-4e4e-9ede-c3be4461b102|Je Valide !
+fe77eaee-3489-4fc3-b50f-607b587e073f|C'est pas faux.
+b2674040-2f6b-479c-a49b-2184c082c6c4|J'adore quand j'ai raison...
+53ab76f6-3278-4a34-9d73-ddbab127aa53|Je te suis !
+809d84eb-9a06-4d27-a97d-c2dc5cbb973f|Enfin, depuis le temps que j'attendais ça...
+f899c15e-514f-46b2-8ba1-c0086f1b3fe6|Après toi...
+9dba38fc-4e85-4666-89f5-a5f2e8acaded|J'ai consulté mon pénis, et nous sommes tous deux d'accord : ton costume d'Eve te va très bien.
+cb31f6cd-d3e8-4893-a638-5ef42adbec47|C'est juste de la nudité. Ce n'est pas bien grave. Ne te laisse pas aveugler par ton manque d'assurance !
+45c1bd26-6af5-4b0e-aece-3ca2d1739b32|Jouons à pierre - papier - ciseaux. Le perdant doit se déshabiller intégralement !
+4bfc6230-280e-409c-be0a-4384d803f7d5|Eh bien, si ça t'a excité, c'est qu'en fait tu as apprécié ?
+6fe37da4-c848-4517-af1d-5c6f0fe37f67|Merde. J'ai tout fait foirer.
+569a4974-d67b-42a9-aeb3-7b8c6f71e2d5|N'écoute pas ta conscience ! Tu n'as aucune raison d'avoir honte de toi-même !
+adcd7b93-40a4-406e-9de3-9c31aa1e9427|Et si c'était un mal pour un bien ? C'est la vie, après tout. Tu dois assumer tes propres choix.
+b135e34b-4ca7-49c6-91d6-aea4450eea01|Bien sûr !
+c2116e92-f671-4ebd-a68c-649e06af29b6|Je te soutiens à 1000% !
+43b8ca83-c0a2-4013-8060-cd8ab2e959fe|A ton service !
+d7290916-9f14-45ce-bff4-ffee395cc20d|Ah, oui. A quoi pouvais-je bien penser ?
+41d0203e-a237-4851-92aa-2466de457492|Bonsoir, Amy. Ravi de faire ta connaissance !
+898b8cb0-9027-46ea-8bab-112704ad7cbe|J'ai perdu mon numéro de téléphone. Est-ce que je peux avoir le tien ?
+fb881678-9d85-4f63-a6ec-8585c25515ef|Euh... Tu ne sais pas où je pourrais trouver un joint ?
+0ecaf771-1177-46a6-9440-29fa1cd03082|Cette musique me rappelle Panic at the Disco...
+c8cbd89d-6406-433e-8182-b323cb1c9e24|Par hasard, tu ne saurais pas pourquoi Derek se sent aussi mal dans sa peau en ce moment ?
+a8b638db-f9d5-4072-8189-2bf9d933e04b|Tu as l'air bien pensive. Qu'est-ce qui te taraude l'esprit ?
+a1f703a1-6636-4744-a3e8-dc8cd0597f79|Permets-moi de t'aider à rayer des éléments de ta liste.
+b7649b73-2d6f-447b-bc91-36f0e1b298de|Voilà. Signe cette pétition pour que Derek soit obligé d'enlever sa chemise. Il ne pourra pas refuser si tout le monde signe !
+ae420ed9-fbf8-4a86-89b4-d13fcc3d639e|Tu en as de la chance ! Brittney est dans le jacuzzi et sa culotte est à l'effigie du drapeau américain !
+918136bb-ab62-434b-a114-a586d1bf645f|Que comptes-tu faire maintenant que tu as décidé de rejoindre une sororité ?
+61b547bb-2b97-4d5c-8398-de93de425396|C'est tellement relaxant !
+7099b449-46c9-408a-9494-537e1dfc17ff|Et si nous allions dans un endroit un peu plus intime ?
+145440fb-07e5-4f19-9f1e-adc38fcc4976|Et si on s'amusait un peu entre nous ?
+67fc40a8-e41c-4522-b4f9-bff7dc5f492c|Brittney prendra un bain de minuit dans le jacuzzi uniquement si tu lui montres l'exemple.
+93df72e3-f835-4571-bc3f-6c6b6d51ee96|Allons dans le jacuzzi. J'ai un plan.
+9fcdc7ab-2487-4424-b4da-4f9fdbb70c08|Amy, Action ou Vérité ?
+fb3a5f3a-802d-4a9f-bb7b-1cafa79710a5|Tu ne crois pas que nous devrions prendre une photo souvenir de ce moment précieux ?
+4f6a3bf6-f0eb-4302-be6b-15b890652b60|Ah, nous attendions plus que toi !
+097e9f68-7bbd-4cdd-a1b0-34036cee808f|C'est une parfaite occasion pour prendre cette photo !
+985c4d40-88a1-41e1-9475-3b6a20e43e3e|Allons dans le jacuzzi ! Pour l'opération photo, si tu vois ce que je veux dire...
+3eb4c058-930e-481d-a168-9da2bfdb5445|Pourquoi t'es-tu enfuie du jacuzzi comme ça ? Nous commencions tout juste à passer un bon moment !
+117acf1f-4708-40fa-b411-5dc4643f9f7d|A plus tard, Amy
+
+[Quests]
+29b1b343-be3e-497f-bdda-48fba914c9d5|Chasse Au Trésor
+29b1b343-be3e-497f-bdda-48fba914c9d5Description|Amy a besoin de votre aide pour trouver certains éléments de la chasse au trésor à laquelle elle participe.
+461f5585-c0ac-4f59-b8ba-7af9e9600f90|A la poursuite d'Amy
+461f5585-c0ac-4f59-b8ba-7af9e9600f90Description|Vous avez convaincu Amy de laisser tomber sa chasse au trésor et vous avez gagné sa confiance et son affection. Jusqu'où pouvez-vous la pousser ? Réussirez-vous à passer un moment privilégié avec elle ?
+
+[Events]
+14d53bc9-2831-438f-a655-89e212f87663|C'est cool de la part d'Amy de se confier à moi. Je suis sûr que certaines des informations relatives à son passé pourront m'être utiles...
+dbb274bf-982b-4bc1-bbb4-90c5b28d7e2c|Hum... Je suppose que j'aurais dû me débrouiller pour qu'elle soit un peu plus intéressée part moi avant de lui demander quelque chose comme ça...
+dee41fa3-25b5-455e-9abb-699410487dc4|Hum... J'aurais peut-être dû la jouer plus fine... Elle semble vraiment confuse à la suite de cette expérience...
+6de01d27-7854-489b-bbd4-f013180db15d|Hum. Je me demande si je n'aurais pas pu réussir à lui faire enlever plus que son haut... Si seulement il existait une machine a remonté dans le temps pour que j'essaye une autre piste...

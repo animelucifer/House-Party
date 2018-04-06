@@ -1,0 +1,127 @@
+[General]
+Name|Brittney
+
+[Dialogues]
+0|Re-bonjour. Comment ça va ?
+0.1|Je suis un peu occupé en ce moment.
+0.2|Oh, salut. Je ne crois pas que nous nous soyons déjà rencontrés. Je m'appelle Brittney.
+1|Ouais, je sais. Eh bien, en fait... C'est un peu embarrassant. Je viens d'acheter ce nouveau haut, et comme ma poitrine est assez... enfin, tu vois ce que je veux dire. Bref, ça me gêne vraiment et je n'arrive pas à me convaincre de sortir de cette pièce.
+2|Oh. Merci. Ca me remonte un peu le moral.
+3|Épargne-moi ces railleries.
+4|Je sais, je sais. Je n'arrive juste pas à me convaincre moi-même. Si seulement je pouvais être sûre que je ne serais pas au centre de l'attention, je pourrais me persuader de sortir.
+5|Sans blague ! Comment as-tu réussi à faire ça ? En fait, ça n'a pas d'importance. Non seulement, plus personne ne fera attention à ma tenue, mais en plus, c'est tellement excitant. Si tu veux bien m'excuser, je vais aller danser !
+6|C'est quoi ce bordel ? Pourquoi ferais-tu ça ? Éloigne-toi de moi, pervers !
+7|Ce ne sont pas tes putains d'oignons, ok ?
+8|Je ne pense pas que de te promener la bite à l'air puisse résoudre mon problème, mais j'apprécie quand même l'effort.
+9|Ew, range ta bite, espèce de gros pervers !
+10|Oh mon dieu. Qu'est-ce que tu viens de faire ? C'est quoi ton problème ? Pourquoi as-tu fait ça ?
+11|Je n'ai pas d'extincteur, mais est-ce que je peux quand même t'incendier ?
+12|Ah, tu veux parler du jeune attardé qui se promène ? Il m'a laissé son téléphone pour éviter qu'il ne le perde. Il est beaucoup plus intelligent que les gens ne veulent bien le croire.
+13|Eh bien, n'est-ce pas pratique de connaître ses faiblesses ? De toute façon, je ne peux pas te donner son téléphone sans sa permission. Tu lui diras qu'il doit venir me le réclamer lui-même. Dans ce cas, je serai ravie de le lui rendre.
+14|Attends trente secondes Patrick. Tu m'as clairement dit que je ne dois pas te rendre ton téléphone tant que tu n'es pas sobre. Et je n'ai pas l'impression que ce soit le cas.
+15|Je suis désolé, mais je suis responsable de ce téléphone. Tu me l'as confié, et je ne te le rendrai que lorsque tu seras sobre, comme convenu.
+16|Bien, j'ai l'impression que tu vas déjà beaucoup mieux, même si ce n'est pas facile de juger en raison de ton handicap. Comme tu ne sembles plus être en état d'ébriété, je peux te le rendre maintenant.
+17|Hum... Non, désolé. Et tu ferais mieux d'aller voir un docteur.
+18|Erf. Eloignes-toi de moi et ressaisis-toi.
+19|Ew, c'est dégoûtant. Trouve un autre endroit pour faire ça !
+20|Oh ! Je suis désolé ! Je ne savais pas que vous deux vous... Je suis vraiment désolé !
+21|Eh bien, je ne signerai pas ta pétition sans savoir de quoi il s'agit ! Bref, quelle est son but ?
+22|Hum, je pense que je ne signerais pas. Merci quand même de m'avoir demandé !
+23|Bien sûr que je vais signer ! Non pas que je suis à l'aise avec ce genre de chose quand je dois le faire moi-même, mais j'aime regarder !
+24|Je passe vraiment un bon moment ici à regarder cette jeune femme danser, mais je pourrais être persuadée de sortir pour faire trempette si les circonstances changent...
+25|Oh mon dieu ! Quelle audace de poser une telle question à une dame ! Je suis désolé, mais je ne suis pas prête pour discuter de telles choses avec toi. Nous nous connaissons à peine !
+26|Oh comme c'est divin. Je peux regarder Stephanie danser tout en profitant du jacuzzi. Merci d'avoir mis ça en place pour moi !
+27|C'est un jacuzzi... C'est fait pour.
+28|Oh, elle est tout simplement adorable, surtout son t-shirt bourdon. Je mentirais si je disais que je n'étais pas curieuse de voir ce qu'elle cache en dessous... Mais garde ça pour toi, ce sera juste être notre petit secret. *Rigole timidement*
+29|Vraiment ? En supposant que je sois intéressée, que dois-je faire ?
+30|Ah, cette ruse est plus vielle que Mathusalem... Je suis désolé, mais je ne vais pas tomber dans ton piège. Quoique, si jamais une telle ruse fonctionne... Disons simplement que si tu arrives à convaincre Amy de prendre un bain de minuit, alors j'en ferais autant.
+31|Oh, comme c'est amusant. C'est mon tour... Je choisis : Vérité !
+32|Toute cette discussion me met dans tous mes états... alors, Action !
+33|Bon, d'accord. Mais seulement parce que ce jeu est m'excite tellement !
+34|Ok... Je suppose que c'est acceptable vu que l'eau me cachera encore un peu...
+35|Je dois l'admettre, ce jeu idiot est un peu plus émoustillant que je ne le pensais. Mais j'ai réussi à garder mon sang-froid...
+36|Hum... Eh bien, J'avais une voisine en face de chez moi, qui avait l'habitude de laisser ses rideaux ouverts quand elle se changeait. Je me suis toujours demandé si elle pouvait me voir ou non. J'ai passé quelques nuits à me poser cette question. Malheureusement, je n'ai jamais eu la chance de lui dire ce que je ressentais, mais j'ai passé plusieurs nuits intéressantes en la regardant depuis ma fenêtre...
+37|Eh bien, je dois l'avouer, il y a une rude concurrence ici ce soir, mais si je dois choisir qu'une seule personne, alors je choisirais celle qui est assise juste en face de moi !
+38|Je parlais d'elle...
+39|C'était une vidéo de cet homme étrange qui joue à des jeux vidéo. Piou-Dit-Pi ou un truc du style. En tout cas, je peux dire qu'il est vraiment bizarre. Ce garçon ne doit pas avoir toute sa tête... Mais bon, ça reste intéressant comme divertissement.
+40|Non... Mais ça ne veut pas dire que je ne le veux pas...
+41|Tu me choisis beaucoup trop à mon goût. Pourquoi tu ne choisirais pas Amy pour changer un peu ? J'adore quand c'est à son tour de répondre !
+42|Mazette. Je pense que je serais encore plus en sueur si je n'étais pas assise dans ce jacuzzi...
+43|Attends une minute... C'est de ça qu'il s'agit ? Vous êtes juste en train de me dévêtir, juste pour gagner une stupide chasse au trésor ? Moi qui pensais que nous nous entendions de mieux en mieux... Je ne veux plus jouer avec vous.
+44|Mazette ! Tu sais vraiment comment faire rougir une femme !
+45|Mazette ! Toute cette situation devient très intéressante, si j'ose dire...
+46|Je vais rester un peu plus longtemps ici sans mes vêtements. C'est tellement bon ! Ne m'attendez pas... Et merci beaucoup pour tout, je ne me suis pas autant amusée depuis des années !
+47|Mazette. D'habitude, ça ne m'intéresse pas, si tu vois ce que je veux dire. Mais je dois quand même avouer, c'est impressionnant...
+
+[Responses]
+841f6558-4eff-49d2-b5a4-d11f99a90a72|Tu plaisantes, j'espère ? Ce haut te va à ravir !
+e02737a4-2c27-412b-b57f-82e13ac126e1|Je n'ai même pas remarqué tes seins !
+0c633631-bdf4-4a85-a29e-5cbc17a5c7df|Je t'en prie !
+d1829129-23d1-4866-8fdc-b0c2f86e6de8|Désolé !
+cfdcf195-7859-4887-8f93-f19cab26775b|Ravi d'avoir pu te rendre service !
+2fe1e5f5-d787-4a80-b872-8c127a255064|Ca en valait vraiment la peine...
+fce9df00-fe26-4bd4-b746-4455a90b74fd|Sujet sensible, je suppose.
+9b1936e3-8d58-4818-9b40-de9af3062bbe|Je suppose que tu as raison.
+be13e605-ffe4-490a-abb3-c2740a062a8b|Oh pardon. J'ai une démangeaison de la fermeture éclair.
+d89cd3fb-40e9-487b-b9cd-da83279fb7ac|Désolé de ne pas être désolé ?
+cfd18a61-2f1a-4d1e-bf91-226e45eec841|Euh... Il n'est pas attardé, Il est juste ivre.
+ea1ddb27-e1ce-42a2-bce4-9274fc89896c|*Soupir* Ok.
+d6ecbaf8-7c2c-486a-9261-bf65a4f0a776|(Continuer)
+b6e74f0f-dea0-4691-aa9a-4642be88ae9f|(Continuer)
+5ef8c532-0a7c-4f9c-af13-52a5037b5f39|(Continuer)
+8c545fc2-308e-47fd-9302-c8a62ad0fe73|C'est une campagne pour libérer les tétons.
+1400ae32-813c-4924-95a7-b9da5f42b5d4|C'est pour obliger Derek à enlever sa chemise.
+a02c2b3b-f662-41a9-b075-a7b12ff8ff6e|Ah merde. Elle ne doit rien ressentir vis-à-vis de Derek.
+070f95d9-9480-4dc6-9be4-e16383a5df82|C'est bon à savoir, Brittney. Merci !
+5309b876-c2ff-443b-a4d7-5f3aaadbf1e3|C'est bon à savoir, Brittney.
+9ec91afc-a03a-44a0-b493-42efb81e527e|Profite en bien !
+bf119d09-2497-404d-beff-61700078965d|Je suppose que tu as raison...
+a5110754-445f-4f75-acf2-a72585b124ea|Si tu te déshabilles, elle en fera autant.
+e0b51f82-7f34-42b2-9159-fc0bae5ce303|Raconte-nous un béguin secret que tu as eu dans le passé.
+3f78c5b3-ed33-4355-9623-917b19e8a31c|Parmi nous, qui trouves-tu le ou la plus attirante ?
+c13fdd32-3c52-4404-826d-4dfbfc41de26|Quel est la dernière vidéo Youtube que tu as regardée ?
+b7087280-4935-4a53-9ed7-ec73fc78810f|As-tu déjà embrassé une autre femme ?
+867f6cc1-efed-4469-9005-bb4559408eac|Es-tu excitée en ce moment ?
+71b47af0-1963-42e3-abf1-f7c6467d53d9|En fait, laisse tomber. J'ai changé d'avis.
+e0e943f1-3c59-4fe8-b073-c57f2ffb95fc|Je te défie d'enlever ton haut.
+bed86b73-4c4d-44df-8cc1-b973c6e50025|Je te défie d'enlever ta culotte.
+8eecca3a-4ff0-451a-aa51-af738aba6ebc|Attends. J'ai changé d'avis...
+9be452f7-1914-4d20-bed3-395674ed415d|Mission réussie !
+f62f7dc1-22fd-4317-963e-e19e08964796|On ne voit rien !
+62efd38d-33fc-4513-91b0-80150644fe1c|C'est bon à savoir.
+6434050a-d506-4319-ba76-4f7b719fd279|Quelle histoire !
+ecf3f757-d583-477b-bbed-12eef6b73810|Ah. Merci, Brittney ! C'est tellement gentil !
+f09bae56-3b48-49e4-a983-786d1d8d267d|Ah... Ok...
+038522bf-db22-4721-ad20-1dd1e3558737|Je n'ai jamais entendu parler de lui...
+555574fe-1659-4006-9470-ab5a7b5fdee8|C'est bon à savoir !
+56a35e21-cfc4-4dab-8bbd-3a3e04a338da|C'est pas faux.
+4e7484d5-fcdb-4713-9116-99f1ea5a160f|(Ca fonctionne !)
+06b6341c-3efe-4b9d-92fd-d59cb447e880|Au final ce n'était pas une aussi bonne réponse... Merde...
+579384e4-8f4b-4b51-8009-39894706bd7d|Oh.
+d7691a01-1f90-4400-8097-e95a82ec3442|Tout le plaisir est pour moi...
+5bfac807-4551-4d6d-9f7e-bf963117e504|Nous avons créé un monstre... Dans le bon sens du terme, bien sûr...
+70b64b62-1d08-4662-807b-a2827f4f6339|Je sais. Je m'entraine beaucoup...
+0f27c52a-f581-4a6c-bb92-58cc0c65d95c|Est-ce que tout va bien ? Il y a une soirée qui bat son plein, tu sais.
+23cdd589-f786-4e8f-b8d7-0888ff9a56d5|Ben ça alors. Tu es encore toute seule dans ton coin.
+16fef40f-fd38-4cf0-b726-b8430e9ff2c1|J'ai demandé à Stephanie de danser seins nus en bas !
+208120ce-ec0d-4df4-ade6-68d712ae7e67|Je n'ai pas de carte de bibliothèque, mais est-ce que je peux quand même t'examiner ?
+066f7373-6fc7-4dda-985c-905cadb39ee4|Au fait, Patrick cherche son téléphone. Tu ne l'aurais pas vu par hasard ?
+bf3055b0-3eb1-49ff-9567-fc9d0cffa39e|Tu n'aurais pas de la marijuana sur toi, par hasard ? Mon glaucome fait encore des siennes.
+233dd631-58ff-482c-a6b4-871581c29a4b|Ah ! Est-ce que tu peux signer ma pétition ?
+fe3e181f-a4cf-43d0-9535-611dd0d981e7|Voudrais-tu te joindre à moi dans le jacuzzi ?
+2bf4ae44-6f1f-4252-8d5a-463e940fb460|Quel type de sous-vêtements portes-tu ?
+c827ef40-bf52-4398-8be8-27cd48ec6584|Alors que dirais-tu si je te proposais d'aller nous détendre dans le jacuzzi ?
+dac650ba-05d3-4b3d-9ee3-1105a17cbfd3|J'ai l'impression que tu as bien chaud dans ce jacuzzi. Tu devrais peut-être enlever quelque chose...
+42d61b06-841f-40c6-af25-fd7a48d03036|Que penses-tu d'Amy ?
+f8e1bfea-e671-488c-af8d-bacfef62c931|Je parie que tu peux réussir à convaincre Amy de se baigner entièrement nue dans ce jacuzzi.
+45ce56bf-071a-44c6-9169-c2ab1a98566e|Brittney, Action ou Vérité ?
+2f3970d3-c869-4d66-89e8-f6a8fa7ca470|Ciao beauté !
+
+[Quests]
+6335d3b9-3e9e-4169-847d-d352d849fabd|Distraction mammaire
+6335d3b9-3e9e-4169-847d-d352d849fabdDescription|Brittney veut qu'une diversion soit en place afin d'être sûre que les gens ne fassent pas attention à ses seins lorsqu'elle sortira de la pièce.
+
+[Events]
+85377dca-b924-4293-93b4-d99b84921127|Hum... Il va falloir que je réussisse à la faire sortir de là d'une façon ou d'une autre. Mais comment ?
+d50f31c6-6885-45c2-908c-974d3725cc7b|Si je lui pose les bonnes questions, alors peut-être qu'elle sera suffisamment excitée pour choisir Action...
+de68db00-00d7-4fc8-b061-3798318379a2|Ca fonctionne ! Brittney est de plus en plus excitée !

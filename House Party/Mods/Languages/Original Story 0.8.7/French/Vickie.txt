@@ -1,0 +1,129 @@
+[General]
+Name|Vickie
+
+[Dialogues]
+0|Salut. Comment ça va ?
+0.1|J'ai l'impression que tu as bu un coup pour te détendre. C'est un bon début ! Mais n'en fait pas trop quand même...
+1|Bah. Rien d'impressionnant. J'en ai déjà vu de plus grosse lors de tournage.
+2|Ne me menace pas de prendre mon pied.
+3|Hé ! Au moins préviens-moi ! Je n'ai pas eu le temps d'ouvrir la bouche...
+4|Tu es bien conscient que des répliques d'approches comme celles-là ne fonctionnent que dans les films et jeux vidéo, n'est-ce pas ?
+5|Oh, elle l'a fait, n'est-ce pas ? Rachael est encore étrange des fois, mais si tu l'avais connue au moment où j'ai fait sa connaissance... Bref, disons juste que j'ai le truc pour amener les filles sages comme Rachael à baiser leur garde pour prendre un peu de plaisir.
+6|Est-ce vrai ? J'ai l'impression que tu m'offre ton aide. Crois-moi, je peux transformer cette soirée en orgie une fois que j'ai mis ma magie à l'oeuvre, mais j'ai besoin que le contexte s'y prête. Que dirais tu de m'aider à mettre l'ambiance et on verra ce que je peux faire ?
+7|Que de mauvaises choses, j'espère...
+8|Attention, soldat. Tout d'abord, les filles doivent se sentir à l'aise et t'apprécier un minimum. Donc évite de faire le pitre. Drague-les autant que tu peux jusqu'à ce qu'elles t'aiment bien. Préviens-moi dès que tu es prêt à passer à l'étape suivante avec l'une d'elle. Mais ne perd pas ton temps avec celles que tu as déjà offensées.
+9|Parfait ! Qui passe à la casserole en première ?
+10|Désolé, mais l'histoire s'arrête là pour le moment. Mais juste pour le moment !
+11|Oh, comme c'est chou. Tu es un peu timide, n'est-ce pas ? Aucun problème. Je peux t'aider à améliorer ta confiance en toi avant que tu te lances.
+12|Ok. Fait comme si j'étais une de ces filles-là. Montre-moi ce dont tu es capable.
+12.1|Ok. Essaye encore...
+13|S'il te plait... Ne redis jamais ça... A personne. Sérieusement.
+14|Sérieusement ? Nous sommes à une putain de soirée. Tu n'es pas le bistrot du coin. Putain, tu as beaucoup de choses à apprendre... Tu as vraiment bien fait de me demander de l'aide. Oublie toutes tes phrases de drague. D'ailleurs est-ce que t'en as déjà vu une fonctionner ?
+15|Ok. Ce n'est pas une phrase de drague. C'est déjà mieux. Mais on reste dans le niveau médiocre des romans interactifs mal traduis. Et si tu me disais un compliment pour voir ?
+16|Waouh, ça c'était un superbe compliment. Il y a encore de l'espoir ! Voyons voir ce nouveau côté de toi en l'action. Certaines rumeurs de cette soirée me dissent qu'Ashley est énervé contre toi. Je ne suis pas sûr de ce que tu lui as fait, mais voyons voir si tu peux revenir dans ses bonnes grâces. Ensuite on s'attaquera à la partie intéressante de ta formation.
+17|Eh bien, il est préférable que tu t'intéresses plus à celle avec qui tu parles et surtout, ne fait pas de commentaires sur leurs seins quand tu commences à peine à les draguer. Et pour répondre à ta question, oui.
+18|En fait, je n'ai jamais touché à ces trucs-là, je ne suis pas un stéréotype ambulant, connard.
+19|Bon travail, soldat ! Ton ami Derek à parier 5 balles que tu ne tiendrais pas. Contrairement à moi, je ne pense pas qu'il ne croit pas en toi. On va lui montrer ce que tu vaux. Pourquoi ne me rejoindrais-tu pas dans le jacuzzi pour que nous puissions continuer cette conversation plus confortablement... Et avec moins de fringues ? 
+20|Ah, ces trucs-là ? Tu pourras remercier Rachael pour ça. Nos défis deviennent un peu déjantés parfois.
+21|Enlève ton short. C'est un jacuzzi, on n'est pas à la piscine municipale ou à la plage.
+22|Ok soldat. Avant de continuer, tu dois comprendre deux ou trois trucs. S'il y a bien une chose que je ne supporte pas, c'est bien les gars qui jouissent trop vite. Et j'ai l'impression que tu es sur le point de craquer depuis la seconde où tu as posé tes yeux sur moi... Et si je te faisais passer un test pour voir ton niveau ?
+23|Whoa. Bon, je ne vais pas te mentir, c'était un peu pathétique. Tu as duré quoi ? 5 secondes ? On va avoir pas mal de pain sur la planche...
+24|On ne peut pas dire que je manque d'expérience dans le domaine, vu que mon record est en moins de 3.6 secondes... Bref, ça te donne une idée de ton niveau. Si tu veux jouer dans la même cour que moi, il va falloir que tu sois vraiment plus endurant.
+25|Avec Beaucoup de pratique ? Je n'ai pas la science infuse, mais ce qui est sût, c'est que tu es trop nerveux quand tu es près de moi. Essaye d'abord de te calmer. Quand tu seras prêt, reviens me voir que je vérifie si tu as fait des progrès.
+26|Tu es encore un peu trop nerveux. N'hésite pas à revenir vers moi pour qu'on fasse un nouvel essai une fois que tu te seras suffisamment détendu. Je compte rester là toute la nuit.
+27|Attends, tu ne serais pas complètement saoul ? Comment veux-tu faire quelque chose dans un état pareil ? Reviens me voir quand tu auras dessaoulé un peu !
+28|Pas mal ! Il y a encore un peu d'espoir pour ton cas ! Je n'ai pas pu voir ce qui s'est passé à l'intérieur, mais j'ai cru comprendre que tu as cassé la gueule au type baraqué chauve tout seul comme un grand. Est-ce vrai ?
+29|J'ai l'impression que tu es un dur à cuire. Bref, ravie d'avoir pu t'aider. Je vais me joindre aux autres invités maintenant. Assure-toi d'utiliser à bon escient ce que je t'ai enseigné !
+30|Oh ! Et en plus il reste humble. Tu commences à te comporter comme il faut. Je pense que tu vas adorer la prochaine partie de ton en trainement ! Mais malheureusement, j'ai besoin que tu m'accordes un énorme service...
+31|Est-ce que tu peux m'enlever ma culote ?
+32|Courage, tu peux le faire ! Essaye de penser aux testicules poilus de ton grand père.
+33|Tu as vraiment besoin d'une autre invitation pour ça ?
+34|Je suis content qu'on l'ait fait. Tu es vraiment plus amusant que ce que je croyais. Oh et dis à Derek qu'il me doit 5 balles...
+34.1|J'adore les clients fidèles...
+35| Tu crois vraiment que je vais refuser une telle offre ?
+36|Préviens-moi si tu as besoin d'aide pour ça...
+37|Bordel de merde, ça c'est ce que j'appelle une soirée ! Ca ne vous dérange pas si je reste et que je vous regarde ?
+38|Tu ferais mieux de me faire jouir d'abord.
+39|Allo, y a quelqu'un là-dedans ? Bien-sûr que je vais signer !
+40|Une pétition ? Je m'ennuie tellement que ça pourrait me distraire... C'est pour quelle cause ?
+
+[Responses]
+f3f652b1-c07a-42e8-815e-a22e5fa5a492|Je suppose que je n'aurais pas dû jouir sur le sol. Ni le sofa. Et encore moins sur Frank...
+dc731e64-02aa-4b9f-851a-6dee550323f2|Merde alors ! Elle aime ça !
+7946245b-b5ae-4fea-b1e8-c65928df78aa|Je pense que je t'aime.
+4ee8aeb3-e40c-4c3b-bb9d-c6c3e27f2096|Est-ce que je t'ai déjà dit que je t'aime ?
+ea61a91b-2947-42a9-8ee8-04f678f74d3b|Compris !
+f683c2fb-6125-46f6-b185-9de3eb1a335e|J'adorerais découvrir le côté sauvage de Madison !
+89fb1f1a-0cb3-46e0-9da3-46c8afba4341|J'ai enfin réussi à ce que Katherine m'apprécie !
+8ace8235-7d6c-4299-9253-cdc97bcf619c|Ashley est si suave. Corrompons-la !
+addc31f5-2077-4a35-a459-27394e31a2e6|Je suis sûr que Brittney ne serait pas contre s'amuser un peu !
+bcb94b52-83f2-49c5-b105-b17f302d7d48|Stephanie est déjà assez sauvage. Voyons-voir ce dont elle est capable !
+b75e76cf-8e02-447b-8a70-3ab38532cb0a|Voyons-voir ce qu'on peut tirer de Rachael !
+c8059e6f-8f59-48b0-bccb-91999430f949|Amy semble intéressée par moi.
+214606d8-a2a5-45ef-88dc-78eeb29cfe28|Est-ce que je peux... M'exercer avec toi... pour commencer ?  Tu comprends... pour la science.
+2843076f-681a-46de-b226-37f94888a5dc|Personne ne m'aime...
+39912747-9757-4b8a-b460-7c592dce839f|Arf, salopard de développeurs !
+34a040b9-0659-498b-9358-deca95355944|Trop cool !
+08e508b2-9de7-4c33-a6cc-749ebbdca3c5|Salut beauté... Tu veux faire du sport de chambre ?
+1c7d7ec0-81ce-46c7-a626-8dddcd220dd8|Bref, tu viens ici souvent ?
+8c25d999-2138-4a0e-91ad-f873a90c5b09|All of your base are belong to us ?
+e54c37ae-105b-4809-97fa-ab21bee2ddb9|Tu sais, tu as un superbe sourire.
+f5be0830-8b42-469c-8b59-1d2f21032606|Attends, ne serait-ce pas le contour des piercings de tes tétons que je vois sous ton haut ?
+fdfa1081-1378-458c-858f-9f368e7b7740|Noté.
+f7333b5e-4f10-49da-8cdb-ca3ebb86db53|En y réfléchissant un peu... en fait jamais.
+b69ca2ed-a9e8-4416-8912-073f37fec76c|Génial ! Je gagne un point de charisme !
+02cef8ac-0e68-44c8-90bd-f1de734359e7|Je m'en occupe !
+5c11a4b7-a8ae-4e8b-accb-22850a2b21ef|Je devrais probablement écrire ça quelque part... Attends... Est-ce que tu viens vraiment d'accepter ?
+a46b7471-7c59-4334-b473-f11cde55c910|Ouvre la route !
+691efae0-2f2c-4871-a215-8635136206d4|Ah, oui. Désolé !
+d0c2186a-3958-4357-9979-b344510e701a|Je me soumets à tes tests... pour la science.
+afa7ec39-5c71-499c-bf81-272be518d039|Et puis quoi encore ? Je ne suis pas un rat de laboratoire.
+4f9baf44-3d58-460b-9c27-193bc16be687|Ce n'est pas juste ! Tu as vraiment des doigts de fée !
+6801bb2c-754d-44fd-8e8d-d131efb2090a|Comment veux-tu que je m'y prenne ?
+c0ca1e65-8518-4efb-aa12-7701eed945a1|Promis, je reviens vers toi dès que possible.
+bef9741d-3a42-48ac-8b90-a1419f829f9f|Ok !
+4ca58643-7bcf-4cb0-aaf5-923863dca412|Farpaitement...
+09b6ad77-7b90-4232-8e66-68c7e95f59ce|Je l'ai fait ! Il ne m'arrive pas à la cheville ! Pour être honnête, c'était vraiment un match facile...
+f9dcb10f-8d3f-487f-ba25-dabaaac39cf3|En fait, j'aurais besoin d'un coup de main. Je n'arrive pas à m'en débarrasser tout seul.
+e12f049f-858b-4ba8-a1da-df630dd3f737|Oui, m'dame !
+4fba0ef4-24a9-46e6-a173-1e16722f099b|Et merde, encore une autre quête...
+df5589ff-8fb6-4cbe-9308-6e071e88447b|Ah... Bon, ok alors...
+470e6ba7-bebf-46d2-bc6b-4be4ab86d2e8|Euh... Merci ?
+4965667c-9296-415c-b961-31e0e242c437|Je pense que je vais mettre ce qui descend !
+f8d0c156-a737-4edd-b071-42d9c22ef1a1|Oh que oui !
+18d9bc59-bc61-4349-838a-3b9c6f8c9dcd|Trop cool !
+5024085d-5de6-4399-8f05-3d3fc67c625c|Comptes sur moi !
+97c5d750-e860-4dac-a0b0-cb915fe59d84|Vas-y...
+3ec6e5a3-8fb6-4ed7-b909-cc59095420af|Oui, m'dame !
+be91fbb7-f94c-4886-b310-c2caccb93e8b|C'est bien ce que je pensais.
+13fea5d2-2a6d-4234-8468-3e22e69ca5bf|C'est pour forcer Derek à enlever sa chemise.
+0d8b4a1b-7a67-4f45-8932-5166cd42ec8d|C'est pour, euh... Forcer Derek à enlever sa chemise.
+8bb44c4b-5361-4c35-9792-1540a9b1f525|Est-ce que tu crois au coup de foudre au premier regard ou dois-je repasser à côté de toi ?
+379a4b32-f7c7-4970-b617-ec4172ad9e71|Rachael m'a dit qu'on ne s'ennuyait jamais avec toi !
+26551750-49bf-468a-87f2-a424849dd668|Il y a pleins de "chic filles" ici qui devraient baisser leurs gardes.
+573c111e-fda9-4efb-8c42-4448eca29416|Tu dois être Vickie Vixen ! J'ai beaucoup entendu parler de toi !
+e83212ab-fffb-46d8-984e-9ad06e6ad992|Ok, Je suis prêt ! Je me suis fait quelques amies !
+f9b1b308-5282-45b6-bcec-073ef0444470|J'ai besoin de plus d'en trainement. Et si on se faisait un jeu de rôle ?
+ac562599-212f-490d-921a-e1c9df52465e|Vickie ! Je suis sûr que tu sais où je peux trouver un joint, tu peux me le dire ?
+9a3ea872-5d7f-4904-b34e-7432166b6d9e|J'ai réussi ! Ashley m'a dit que nous sommes quittes !
+f6c13f02-57f9-4afd-ae4d-e13f87138279|Waouh ! C'était vraiment le contour des piercings de tes tétons qu'on voyait à travers ton haut !
+f4668e9b-bb86-445f-a967-5db5c3d08c70|Je suis prêt pour la prochaine étape de mon en trainement !
+111971a3-e255-46d2-bf8c-c0d0e4954b93|Ok, je suis prêt pour la prochaine étape de mon en trainement !
+fc04276e-9593-4fa5-86ba-24c469bc3695|Vas-y, teste-moi à nouveau...
+13d7fb0a-8292-4ad9-bc8d-2bce6d48812f|Hé, euh... Prêt pour un autre round ?
+4aaeb968-2c52-42a3-975f-02aa6232aca7|Ah Vickie. Est-ce que tu pourrais signer ma pétition ?
+3d05898a-0400-42a8-b6ea-badf0c116bd5|A plus, Vickie.
+
+[Quests]
+b4dbe1c3-ae82-430c-bb1f-dd811bba8886|Chics filles qui tournent mal
+b4dbe1c3-ae82-430c-bb1f-dd811bba8886Description|Vickie semble maitriser l'art de transformer une soirée banale en nuit de débauche dont fantasme la plupart des hommes. Vous devriez probablement suivre ses instructions...
+3ab5d448-c062-400f-9f48-d3dad8e3b131|Entrainement
+3ab5d448-c062-400f-9f48-d3dad8e3b131Description|Vickie vous propose d'améliorer vos compétences sexuelles. Ne passez pas à côté d'une telle opportunité !
+
+[Events]
+d943cd81-0d63-4290-927b-2e054986836f|Merde, Vickie a raison. Je suis comme un gamin dans un magasin de jouet quand je suis près d'elle. Il faut que je me calme et que je devienne plus endurant si je veux la voir à l'oeuvre. Je devrais peut-être demander conseil à Derek. Mais avant je devrais remettre mes vêtements.
+d84fdcba-efa2-40a9-a671-233cffc827bf|Je crois que j'ai peut-être un peu trop exagérer sur la picole...
+c44adc86-e079-4bc5-9532-d62abbb74c7f|Hum... Je me demande si je n'aurais pas mieux fait de lui dire la vérité... J'ai l'impression que je ne l'intéresse plus autant qu'avant...
+1cd3c70f-c52f-4e6b-907d-1b08ea6c9126|Merde, je n'arrive pas encore à me retenir suffisamment longtemps. Il va me falloir plus de pratique et encore un verre ou deux si je veux impressionner Vickie...
+755a4868-ca5e-4e5b-ac92-44e4ba166fe4|Putain, c'est exactement ça. Je devrais peut-être demander à Vickie de me tester une nouvelle fois
+a40b474c-9f07-46fb-be50-7a93d38ddf86|J'espère que ça va m'aider à me calmer un peu...

@@ -1,0 +1,126 @@
+[General]
+Name|Derek
+
+[Dialogues]
+0|Hé, comment ça va, mon pote ?
+0.1|Ah, enfin, tu es arrivé ! Par contre, j'ai oublié de te dire que mes amis sont un peu... comment dire, excentrique ? Mais ils sont cool quand même. Fais comme chez toi, mais n'oublie pas de te présenter aux autres avant.
+1|J'éviterais Frank si j'étais toi. Il en faut peu pour qu'il pète un câble. Mais si tu tiens vraiment à être dans ses bonnes grâces, essaye de le convaincre que tu es de son côté.
+2|As-tu vérifié dans le frigo ? D'après moi, c'est l'endroit le plus probable où tu puisses en trouver.
+3|Whoa désolé, mon pote. Je préfère ne pas être mêlé à vos manigances. Si Madison apprend que j'ai joué ne serait-ce que le plus petit rôle, elle me tuerait. Tu ferais mieux de lui rendre. Si tu commences par hacker des portables, tu vas ensuite vendre de la drogue, cambrioler des banques et bruler des orphelinats... C'est un terrain glissant.
+4|Merde, c'est quoi ton problème ? Je t'ai invité à la soirée d'une de mes potes et tu fouilles dans ses affaires ? J'espère au moins que tu as une bonne raison...
+5|Je ne te crois pas. Tu vas te démerder tout seul sur ce coup-là.
+6|Eh bien, pourquoi ne pas l'avoir dit plus tôt ? Il doit probablement être dans son coffre-fort. Je sais que Madison écrit son code d'accès parce qu'elle le change sans arrêt. A ta place, je commencerais par chercher des indices dans sa chambre.
+7|Ah ouais ?  Kat et toi ? Je n'arrive pas à croire que quelqu'un a réussi à percer son coeur de pierre. Bien joué, mon pote !  Bref, elle est toujours collée à son téléphone. Si tu arrives à trouver un moyen de pourrir sa réception, elle ira probablement à un autre endroit pour mieux capter.
+8|Calme-toi, mon pote. Il y a un robinet dans la cuisine. Je suis sûr que tu peux trouver une bouteille vide à remplir...
+9|Mais c'est quoi ton problème ? Merde ! Ce sont également mes amis ! Respecte-les ! Néanmoins, sympa la coupe...
+10|Grandis un peu, mon pote. Ce n'est même pas drôle ! Merde, j'espère que j'ai un change dans la voiture...
+11|Tout l'alcool que j'ai vu ici est gardé par Frank. Tu vas devoir négocier directement avec lui.
+12|Hum. As-tu essayé de lui offrir un cadeau ? Les femmes adorent recevoir un cadeau inattendu.
+13|En fait, je sais qu'Ashley aime bien fumer un joint de temps en temps. Je suppose que c'est le meilleur moyen pour redevenir quitte avec elle.
+14|Mon pote, on vient tout juste d'avoir cette discussion. Tu crois vraiment que je ne t'aurais pas prévenu si j'en avais ?
+15|Hé, relax max ! Tout le monde sait qu'Ashley déteste la couleur rouge ! A ta place, j'éviterais de faire ça, surtout si c'est pour revenir dans ses bonnes grâces. Néanmoins, lui donner une fleur reste une bonne idée... Dommage qu'elle ne soit pas d'une autre couleur. 
+16|Je crois que les parents de Stephanie sont super riches. Donc si quelqu'un à 50 balles ici, c'est probablement elle. Tu devrais peut-être aller lui parler et voir si elle a besoin de quoi que ce soit...
+17|C'est quoi ton problème ? Je t'ai déjà dit que je ne veux pas en parler avec toi. Et je ne veux rien savoir non plus !
+18|Tu fais chier. Bon écoute-moi bien, je ne vais pas me répéter. Lorsque j'ai un peu bu, j'ai l'impression d'être un peu plus endurant pour ce genre de sport... Tu devrais peut-être essayer de boire un coup et voir si ça fonctionne pour toi. Mais évite de te déchirer complètement, sinon ça ne servira à rien.
+19|Hé, calme-toi ! Je sais que Frank n'est qu'un vulgaire connard, mais il ne faut pas tout résoudre par la violence. Je suis sûr que tu peux résoudre ça pacifiquement. Il faudrait une très bonne raison pour que je déclenche une bagarre.
+20|En fait, je trouve ça amusant. Il en faut beaucoup plus pour me faire sortir de mes gonds, et Frank n'a pas encore atteint cette limite.
+21|Amy, c'est la meilleure. J'ai eu quelques classes avec elle le semestre dernier. Elle est raide dingue du groupe Panic at the Disco. Elle devient folle dès qu'on lui en parle.
+22|Merci d'être venu, mon pote. J'apprécie vraiment que tu sois là. Ca n'a pas été une semaine facile pour moi. J'avais hâte de te revoir.
+23|Pas la peine d'en parler maintenant. Détends-toi un peu et profite de cette soirée.
+24|Je me disais bien que tu l'apprendrais tôt ou tard. J'aurais mieux fait de te le dire moi-même. Cependant, j'apprécie ton inquiétude. Si je trouve le type qui lui a vendu cette merde... Il va prendre super cher.
+25|C'est quoi ce délire ? Ca n'a aucun sens. Il est clean comme pas deux ! Je pense que je devrais en discuter avec lui...
+26|Frank. C'est quoi ton problème ? C'est toi le dealeur qui a vendu cette merde à mon petit frère ?
+27|Mais vas te faire foutre, Frank ! Je suis trop énervé pour considérer que mon frère doit être responsable de ses actions. Je vais te péter la gueule, connard !
+28|Désolé mon pote. Je sais que tu adorerais que je botte le cul de Frank. Moi aussi, mais il est vraiment très balèze. Peut-être qu'avec un peu d'aide...
+29|Ah, bonne nouvelle ! Dis-lui que je suis prêt quand il l'est ! Frank va sacrément dérouiller !
+30|Whoa, tout va bien ? Tu n'as pas l'air dans ton assiette. Tu devrais peut-être t'allonger un peu le temps de dessaouler, sinon je vais devoir appeler une ambulance.
+31|T'es sérieux ? Je ne t'ai pas invité pour que tu fasses ce genre de connerie ! Arrête tout de suite ton char, Ben Hur !
+32|Bordel de merde ! Je vais vous laisser tous les deux. Putain, il va falloir que tu m'expliques comment tu arrives à te faire cette coupe... Ca fait des années que j'essaye sans y arriver.
+33|Oh que non. C'est quoi ton problème ? Je t'ai invité à cette soirée et toi, tu en profites pour voler des affaires à la proprio ? Je pensais que nous étions amis, mais là, tu ne me laisse pas le choix...
+34|Désolé mon pote. Je n'en ai pas sur moi. Tu devrais peut-être demander à Frank ou à Patrick.
+35|Je dirais plus bi que gay. Il a eu un faible pour Katherine depuis aussi longtemps que je me souvienne. Mais vu la façon dont il regarde ton cul... Pourquoi ne demandes-tu ça ?
+36|J'ai l'impression que Frank est complètement confus à propos de la situation actuelle. Sauf si, bien sûr, tu serais réellement intéressé par Frank...
+37|C'est quoi ton problème ? Amy est l'une de mes meilleurs amis. Comment oses-tu lui manquer autant de respect ?  Je vais te péter la gueule !
+38|Bien dans ce cas, il me semble que tu devrais être honnête vis-à-vis de tes sentiments.
+39|Je comprends le problème. C'est vraiment une situation atypique. Bref, il faut que tu éclaircisses ce malentendu avec Frank. Il pense que tu es gay, alors il faut que tu trouves un moyen de le convaincre que tu ne l'es pas.
+40|C'est quoi ce bordel ? Pourquoi ferais-je ça ? En plus, tu sais bien que je suis complexé par mes tétons. Je ne pense pas que quelqu'un ici veuille les voir.
+41|Une pétition ? Pour que j'enlève ma chemise ? Ok, tu as toute mon attention. Montre-moi cette pétition, et peut-être que nous pourrons en parler.
+42|Désolé mon pote, mais il manque encore des signatures. J'ai l'impression que certaines personnes se sentiraient mal à l'aise si j'enlevais ma chemise. Reviens me voir si tu obtiens plus de signatures.
+43|Waouh. Il y a vraiment autant de gens que ça qui veulent me voir sans chemise ? Eh bien, si c'est ce que tout le monde veut, je n'ai pas d'autres choix !
+44|Merci pour l'info, mon pote ! Je suis toujours disponible pour Amy. Je vais aller la voir.
+45|Hum... Eh bien, je ne vois personne ici qui porte quelque chose à l'effigie du drapeau américain, mais les gens portent parfois des choses intéressantes sous leurs vêtements, si tu vois ce que je veux dire. Reste à voir si tu as de la chance et qu'un patriote se cache parmi nous.
+46|Pourquoi à chaque fois que je te donne un conseil, tu me poses une question idiote comme si je n'étais pas celui qui vient de te donner cette idée ? Non, je n'ai pas de sous-vêtements à l'effigie du drapeau américain. Si c'était le cas, je te l'aurais déjà dit !
+
+[Responses]
+887b652b-aeac-4b20-b932-8eac37838a55|Je compte écrire ses mémoires et j'ai besoin des infos qu'il contient.
+ed35f8ab-e6a8-4933-a802-c76203e421dc|Euh. Des nibards ?
+79dd10a9-5303-4bcd-9684-2666cdb5cff2|Ouais, tu as raison. J'y suis allé un peu trop fort...
+97ea63cb-c772-46e4-92ab-41861242297e|Désolé, Derek.
+222b5e91-26aa-4e5a-a8fb-f3f2c25daf8c|Oups.
+cf31225c-1382-417f-8b83-e751bfdcd6b8|Allez, Derek, soit sympa ! C'est important. C'est pour... la science.
+1e5ae99f-2b3e-4644-9ac0-be2f46a445e1|Merci Derek !
+a7c59077-5b87-4a22-a1e9-f0c5ce784fcf|Il dit que tu n'es qu'un connard qui adore l'odeur de ses propres pets !
+6a813128-1dd3-4e3a-9408-cc2eed47c1c0|"Pas encore" étant le mot adéquat...
+9abdf597-bbc8-4b87-98c7-3ad8078c6f04|Ca marche.
+b76d7bb2-575f-4cf0-be47-4cba9b26f041|Je vais juste te laisser y aller.
+8a3b789d-3683-418f-bd00-d0b51e635cfe|(Continuer)
+a3b12584-569e-4349-9fde-d0f9cd930ef6|J'adore quand un plan se déroule sans accroc !
+fb5805d9-6b4c-4111-9922-881ba786dee6|Hum, je vais voir ce que je peux faire...
+10521b61-71e4-4601-a4df-8a146dd051c4|Ca marche !
+36270179-c817-4b4f-bd3b-e9fe9c6e0226|Et merde...
+c9fa0c66-e7c9-4c21-a89e-b0a5dfdd0753|Je lui ai demandé un préservatif et il a cru que j'étais venu pour lui...
+6b402528-a74b-4528-96f5-aa2aabbce9ad|Et puis quoi encore ? J'essaye juste de conclure avec Amy.
+6adf0bc1-d0d4-4aa0-9b9a-8cac5b5cbc06|Pour être honnête, pourquoi pas. Que dois-je faire maintenant ?
+5d93c94c-dd4c-4cc4-942f-227b002746b5|Moi et Frank ? Soit sérieux, Derek... Qu'as-tu bien pu fumer pour avoir de telles idées ?
+a32beeed-3cf2-42e9-a6f8-ea6f5b0ee277|Ah merde...
+1a05d27f-45b7-4927-9bae-f1a3756c0705|Je n'y avais même pas pensé jusqu'à ce que nous en parlions. Merci, Derek !
+683edb4b-b254-45bc-9f3f-a923ba7cde3a|Merci pour les conseils, Derek.
+693f9011-2a96-4476-8d2e-8b063e41a6ef|Bien au contraire ! J'ai même vu une pétition circulée à ce sujet !
+3c66e6a6-d4df-46aa-8046-37b6c9a4c961|Ah, tu as surement raison. Je vais laisser tomber.
+24b01fdd-428c-4610-b3df-377c4c136191|Ne bouge pas, je reviens.
+c00808a8-6d12-4f4a-a62f-992c38ba358f|Comme tu veux, Derek. Mais pas la peine de piquer une crise comme un gamin pour ça.
+21bc42a9-3947-4c55-b177-5975d76a8cdb|Enfin !
+14f09f55-88c1-48df-b206-759c3523f846|Pas de problème.
+1d8376ee-dd1f-4c39-8e9d-cf0c35e5c769|Je ne trouve pas de crème fouettée pour Stephanie.
+ebdcc664-6a87-442e-9b6c-6740659ab858|Frank ne me fait pas confiance.
+571784a0-1cb7-4890-971b-766361c359ea|Je veux voir le contenu du téléphone de Madison, mais je n'arrive pas à trouver son code pin.
+223028a9-f208-4d9f-823e-3670c4182084|Je recherche le journal intime de Madison. Tu n'aurais pas une idée où elle peut l'avoir caché ?
+35e9374d-3e02-4a54-a7a3-4cda19a0ff08|J'ai besoin d'amener Katherine dans un endroit un peu plus intime.
+79f4dcec-9b11-4c24-8b95-514264c3704f|Il me faut absolument une bouteille d'eau !
+5d17cdf1-2445-45f5-9ff0-ae88df3e14bd|Katherine veut que je lui ramène à boire.
+ffd68c65-6650-409a-b813-a569faf0ec1c|Je dois revenir dans les bonnes grâces d'Ashley. Une idée ?
+7f021507-4338-455b-a683-dce37c9146f9|Ashley m'a presque pardonné, tu n'aurais pas une petite piste que je puisse utiliser pour qu'elle me pardonne définitivement ?
+ed607f87-c21c-40fc-bf0c-b1e4add7bdb1|Mon pote, j'aurais besoin d'un joint. Tu n'en aurais pas ramené, par hasard ?
+72fba02c-1e4a-4723-aee3-96e7ed37eaad|J'ai trouvé une fleur rouge. Je compte l'offrir à Ashley !
+c3f896af-62cf-4d1b-8ab5-8b090eae099c|Tu tombes bien ! Par hasard, tu ne saurais pas comment je pourrais gagner facilement 50 balles ?
+7d99c085-3f83-445b-9f92-9b384b44228c|J'ai besoin d'un conseil pour augmenter mon endurance afin que je ne jouisse pas trop vite.
+16327fb1-6206-4ba0-ae58-c9559ac49f4e|J'en ai ras la casquette. Tu ne pourrais pas casser la gueule de Frank pour moi ?
+9b60604e-aa9e-4b2e-8057-d4668d8403a2|Au fait, tu connais bien Amy ? Elle a l'ai fort sympathique.
+a9090f43-bd05-4e01-8806-134fa0db885f|Merci de m'avoir invité à cette soirée !
+60edfaf4-35e2-4f64-b315-6b82479dd8b7|Dure semaine, hein ? Tout va bien ?
+80a8be91-bc8d-400c-b958-eae02eba9e3f|J'ai appris ce qui est arrivé à ton frère...
+f471cf09-6e02-4ee2-acae-037aa36dbb0f|C'est Frank qui a vendu cette merde à ton frère !
+411330a7-e760-4f4e-9fc7-18de0925033f|Patrick va t'aider à botter le cul de Frank !
+f3f40228-7dd0-41d5-a5c4-67b733f77cbf|Ah ! Par hasard, tu n'aurais pas un préservatif sur toi à me donner ?
+38a1c0e4-aa4e-4806-a721-37ddc1277345|Ah, Derek. Est-ce que Frank est gay ?
+39cc7b68-c107-4eaf-8005-1fdaa3fcdd3f|Est-ce que tu pourrais me donner ta chemise ? C'est pour quelque chose de vraiment important.
+b4df4a07-3a60-4119-86e2-386938760b1a|Ah. Amy m'a dit qu'elle te cherchait...
+ba7255bf-34b5-4654-bf20-ee14e58fe3d0|J'ai besoin d'une photo de quelqu'un portant quelque chose à l'effigie du drapeau américain.
+33aa3791-8d88-4fe1-b2b3-2093cc25df51|Ah, Derek. Par hasard, tu ne porterais pas des sous-vêtements à l'effigie du drapeau américain ?
+601186f1-55f1-479d-a2a6-955705abce76|A plus, Derek.
+
+[Quests]
+b5a37b7f-1e3c-4277-9c5d-4179ee359c8d|Parler à Derek
+b5a37b7f-1e3c-4277-9c5d-4179ee359c8dDescription|Derek est la seule personne que vous connaissez ici. Il vaudrait mieux que vous alliez le voir avant de passer pour un tape l'incruste.
+64850a80-d809-4d4d-8bdb-6aeeb857c6c1|Enervons Derek !
+64850a80-d809-4d4d-8bdb-6aeeb857c6c1Description|Derek est un gars costaud. Si vous arrivez à le remonter contre Frank, vous pourrez certainement vous débarrasser de lui...
+
+[Events]
+9d61cb5c-d035-47fe-9146-161728735b21|Whoa, ça pourrait être ma chance ! Je me demande à qui je pourrais acheter de l'herbe...
+35d0fa9e-0dc5-475f-8105-d6c72083d550|Ce n'est probablement pas une mauvaise idée. J'ai juste besoin de trouver un truc à boire. Malheureusement, j'ai déjà donné toutes les bouteilles que j'ai trouvées soit à Frank, soit à Stephanie... Et toutes celles qui restent sont dans le meuble à côté de Frank... Et merde.
+324a6b64-aa9c-4554-a05d-b6136f729330|Hum. Que puis-je faire pour que Derek en veuille à mort à Frank ?
+41b25074-a096-415c-be23-446e1003a0a2|Hum. Quelqu'un doit bien savoir ce qui est arrivé à Derek. Je devrais peut-être me renseigner...
+4145ac72-e168-48bb-b35d-4e83618f2484|Je suis bien trop excité pour aider Derek. Il faut que je trouve une idée. Peut-être que je peux convaincre quelqu'un d'autre d'aider Derek ?
+72b44ad6-499c-49c0-9604-ced881f7910b|Génial. Et comment vais-je m'y prendre pour faire comprendre à Frank que je ne suis pas gay ?
+c6af151d-a1fb-4601-adab-8c8ad8c375f7|Dans quelle merde je me suis encore fourré ? Et comment vais-je m'en sortir ?
+7ed02c41-77c2-4331-987b-1b3086c40a63|Merde, ça ne s'est pas passé comme prévu... Bon, et maintenant ?
