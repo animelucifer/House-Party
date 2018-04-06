@@ -5,13 +5,13 @@ Switch to the branch that you intend to play with, then copy the whole House Par
 
 Btw, censorship is removed.
 
-I started to play this game on version 0.8.8, so that will be the first version to be included.
+This branch includes all the custom stories I found on the Eek! Games forum. I do not own them nor make them.
 
-## Version 0.8.8
-### Stories included
-1. Original Story
-2. Date Night With Brittney
-3. A Vickie Vixen Valentine
+## Official Stories Included
+1. Original Story (0.8.8)
+2. Date Night With Brittney (0.8.8)
+3. A Vickie Vixen Valentine (0.8.8)
 
-### Trivia
-  Madison Blackmail quest seems to be removed. Even though you did send her nude photos to yourself, you can't talk to her about the photos.
+## Custom Stories Included
+1. [Sluttier Party](http://forum.eekllc.com/viewtopic.php?f=8&t=107) (0.8.8) Completed
+2. []
