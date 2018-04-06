@@ -11,4 +11,4 @@ Btw, censorship is removed.
 3. A Vickie Vixen Valentine
 
 ### Trivia
-  Madison Blackmail quest seems to be removed. Even though you did send her nude photos to yourself, you can't talk to her about the photos.
+  Madison Blackmail quest seems to be removed on the update of 2018/04/01. Even though you did send her nude photos to yourself, you can't talk to her about the photos.
