@@ -10,21 +10,21 @@ Btw, censorship is removed.
 2. Date Night With Brittney
 3. A Vickie Vixen Valentine
 
-0.9.2
+0.9.2  
   (Beta 3/30/18)  
   Reworked Lighting  
   Reworked Occlusion  
-  Combined meshes on most of the NPCS to increase performance
-  Added LOD levels to all NPCs to increase performance
-  Bug fixes and refinement of Ashley’s new story content
-  Tweaked Anti-Aliasing
-  Tweaked Color Grading
-  Tweaked Eye Adaptation
-  Gave Patrick AWESOME new dance moves
-  Moved graphical options to their own menu available on the main menu and in-game
-  Fixed an issue with the debug log not working correctly
-  Console: Lowered case sensitivity requirements for most commands and command options
-  Console: Each command now has specific example text available
-  Console: Multiple commands now have the ability to ‘list’ or ‘get’ info from the game
-  Console: Required order of input for commands and their options is generally less strict
-  Console: Added All functionality back in for BodyPart, Clothing, LookAt, Personality, Walkto, and Warpto commands
+  Combined meshes on most of the NPCS to increase performance  
+  Added LOD levels to all NPCs to increase performance  
+  Bug fixes and refinement of Ashley’s new story content  
+  Tweaked Anti-Aliasing  
+  Tweaked Color Grading  
+  Tweaked Eye Adaptation  
+  Gave Patrick AWESOME new dance moves  
+  Moved graphical options to their own menu available on the main menu and in-game  
+  Fixed an issue with the debug log not working correctly  
+  Console: Lowered case sensitivity requirements for most commands and command options  
+  Console: Each command now has specific example text available  
+  Console: Multiple commands now have the ability to ‘list’ or ‘get’ info from the game  
+  Console: Required order of input for commands and their options is generally less strict  
+  Console: Added All functionality back in for BodyPart, Clothing, LookAt, Personality, Walkto, and Warpto commands  
